@@ -10,17 +10,19 @@ const CACHE_FILE = path.join(__dirname, 'cached_prices.json');
 
 // ⚙️ Настройка отправки почты
 const transporter = nodemailer.createTransport({
-  service: 'gmail', // или mail.yandex.ru и т.п.
+  host: 'smtp.yandex.ru',
+  port: 465,
+  secure: true, // SSL
   auth: {
-    user: 'your.email@gmail.com',
-    pass: 'your-app-password' // ⚠️ не обычный пароль! см. ниже
+    user: process.env.EMAIL_USER, // farid@gfcc.ru
+    pass: process.env.EMAIL_PASS  // пароль приложения от Яндекс.Почты
   }
 });
 
 const notifyError = async (subject, message) => {
   await transporter.sendMail({
-    from: '"Auto FTP Sync" <your.email@gmail.com>',
-    to: 'farid@example.com', // <-- замени на свою почту
+    from: `"Auto FTP Sync" <${process.env.EMAIL_USER}>`,
+    to: process.env.EMAIL_TO,
     subject,
     text: message
   });
