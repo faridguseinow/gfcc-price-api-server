@@ -44,7 +44,7 @@
   </Settings>
   <Actions Context="Author">
     <Exec>
-      <Command>C:\Users\farid\Desktop\САЙТЫ И КОДЫ\price-api-server\auto-push.bat</Command>
+      <Command>C:\Users\farid\Desktop\price-api-server\auto-push.bat</Command>
     </Exec>
   </Actions>
 </Task>
