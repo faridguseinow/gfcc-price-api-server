@@ -109,3 +109,13 @@ warning: in the working copy of 'log.txt', LF will be replaced by CRLF the next 
 ^C🔄 Подключение к FTP...
 📥 Скачивание XML...
 ✅ Прайс обновлён. Сохранено: 5728 позиций
+warning: in the working copy of 'cached_prices.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'farid_gold.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'log.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'update-price.js', LF will be replaced by CRLF the next time Git touches it
+[main 68577c6] ╨Р╨▓╤В╨╛╨╛╨▒╨╜╨╛╨▓╨╗╨╡╨╜╨╕╨╡ ╨┐╤А╨░╨╣╤Б-╨╗╨╕╤Б╤В╨░
+ 4 files changed, 19 insertions(+), 6 deletions(-)
+ create mode 100644 .gitignore
+🔄 Подключение к FTP...
+📥 Скачивание XML...
+✅ Прайс обновлён. Сохранено: 5728 позиций
