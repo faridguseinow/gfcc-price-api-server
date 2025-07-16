@@ -36,3 +36,68 @@
 ^C🔄 Подключение к FTP...
 📥 Скачивание XML...
 ✅ Прайс обновлён. Сохранено: 5728 позиций
+warning: in the working copy of 'cached_prices.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'farid_gold.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'node_modules/.package-lock.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'package-lock.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'package.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'log.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'node_modules/nodemailer/.gitattributes', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'node_modules/nodemailer/CHANGELOG.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'node_modules/nodemailer/CODE_OF_CONDUCT.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'node_modules/nodemailer/LICENSE', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'node_modules/nodemailer/README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'node_modules/nodemailer/lib/well-known/services.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'node_modules/nodemailer/package.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'update-price.js', LF will be replaced by CRLF the next time Git touches it
+[main ef959dd] ╨Р╨▓╤В╨╛╨╛╨▒╨╜╨╛╨▓╨╗╨╡╨╜╨╕╨╡ ╨┐╤А╨░╨╣╤Б-╨╗╨╕╤Б╤В╨░
+ 53 files changed, 15115 insertions(+), 55 deletions(-)
+ create mode 100644 .env
+ create mode 100644 log.txt
+ create mode 100644 node_modules/nodemailer/.gitattributes
+ create mode 100644 node_modules/nodemailer/.ncurc.js
+ create mode 100644 node_modules/nodemailer/.prettierrc.js
+ create mode 100644 node_modules/nodemailer/CHANGELOG.md
+ create mode 100644 node_modules/nodemailer/CODE_OF_CONDUCT.md
+ create mode 100644 node_modules/nodemailer/LICENSE
+ create mode 100644 node_modules/nodemailer/README.md
+ create mode 100644 node_modules/nodemailer/SECURITY.txt
+ create mode 100644 node_modules/nodemailer/lib/addressparser/index.js
+ create mode 100644 node_modules/nodemailer/lib/base64/index.js
+ create mode 100644 node_modules/nodemailer/lib/dkim/index.js
+ create mode 100644 node_modules/nodemailer/lib/dkim/message-parser.js
+ create mode 100644 node_modules/nodemailer/lib/dkim/relaxed-body.js
+ create mode 100644 node_modules/nodemailer/lib/dkim/sign.js
+ create mode 100644 node_modules/nodemailer/lib/fetch/cookies.js
+ create mode 100644 node_modules/nodemailer/lib/fetch/index.js
+ create mode 100644 node_modules/nodemailer/lib/json-transport/index.js
+ create mode 100644 node_modules/nodemailer/lib/mail-composer/index.js
+ create mode 100644 node_modules/nodemailer/lib/mailer/index.js
+ create mode 100644 node_modules/nodemailer/lib/mailer/mail-message.js
+ create mode 100644 node_modules/nodemailer/lib/mime-funcs/index.js
+ create mode 100644 node_modules/nodemailer/lib/mime-funcs/mime-types.js
+ create mode 100644 node_modules/nodemailer/lib/mime-node/index.js
+ create mode 100644 node_modules/nodemailer/lib/mime-node/last-newline.js
+ create mode 100644 node_modules/nodemailer/lib/mime-node/le-unix.js
+ create mode 100644 node_modules/nodemailer/lib/mime-node/le-windows.js
+ create mode 100644 node_modules/nodemailer/lib/nodemailer.js
+ create mode 100644 node_modules/nodemailer/lib/punycode/index.js
+ create mode 100644 node_modules/nodemailer/lib/qp/index.js
+ create mode 100644 node_modules/nodemailer/lib/sendmail-transport/index.js
+ create mode 100644 node_modules/nodemailer/lib/ses-transport/index.js
+ create mode 100644 node_modules/nodemailer/lib/shared/index.js
+ create mode 100644 node_modules/nodemailer/lib/smtp-connection/data-stream.js
+ create mode 100644 node_modules/nodemailer/lib/smtp-connection/http-proxy-client.js
+ create mode 100644 node_modules/nodemailer/lib/smtp-connection/index.js
+ create mode 100644 node_modules/nodemailer/lib/smtp-pool/index.js
+ create mode 100644 node_modules/nodemailer/lib/smtp-pool/pool-resource.js
+ create mode 100644 node_modules/nodemailer/lib/smtp-transport/index.js
+ create mode 100644 node_modules/nodemailer/lib/stream-transport/index.js
+ create mode 100644 node_modules/nodemailer/lib/well-known/index.js
+ create mode 100644 node_modules/nodemailer/lib/well-known/services.json
+ create mode 100644 node_modules/nodemailer/lib/xoauth2/index.js
+ create mode 100644 node_modules/nodemailer/package.json
+ create mode 100644 update-price.js
+^C🔄 Подключение к FTP...
+📥 Скачивание XML...
+✅ Прайс обновлён. Сохранено: 5728 позиций
