@@ -6675,9 +6675,9 @@
     "id": "УТ000043043",
     "category": "..,ПИОНЫ",
     "name": "МЭРИ Е.НИКОЛЗ ПИОНЫ",
-    "wholesalePrice": 146.28,
-    "extraPrice": 153.59,
-    "retailPrice": 182.85
+    "wholesalePrice": 148.67,
+    "extraPrice": 156.1,
+    "retailPrice": 185.83
   },
   {
     "id": "УТ000043147",
@@ -6691,9 +6691,9 @@
     "id": "УТ000050275",
     "category": "..,ПИОНЫ",
     "name": "КОЛОНЕЛ ОУЭН КАЗЕНС ПИОНЫ",
-    "wholesalePrice": 207.5,
-    "extraPrice": 217.87,
-    "retailPrice": 259.37
+    "wholesalePrice": 186.83,
+    "extraPrice": 196.17,
+    "retailPrice": 233.53
   },
   {
     "id": "УТ000050413",
@@ -6715,9 +6715,9 @@
     "id": "УТ000050536",
     "category": "..,ПИОНЫ",
     "name": "ГЛОРИ АЛЛИЛУЙЯ ПИОНЫ",
-    "wholesalePrice": 155.03,
-    "extraPrice": 162.78,
-    "retailPrice": 193.78
+    "wholesalePrice": 154.23,
+    "extraPrice": 161.94,
+    "retailPrice": 192.79
   },
   {
     "id": "УТ000050568",
@@ -6731,9 +6731,9 @@
     "id": "УТ000051129",
     "category": "..,ПИОНЫ",
     "name": "ПИНК ДАЙМОНД ПИОНЫ ",
-    "wholesalePrice": 175.7,
-    "extraPrice": 184.48,
-    "retailPrice": 219.62
+    "wholesalePrice": 160.59,
+    "extraPrice": 168.62,
+    "retailPrice": 200.74
   },
   {
     "id": "УТ000051130",
@@ -6803,9 +6803,9 @@
     "id": "УТ000010449",
     "category": "..,ПИОНЫ",
     "name": "ДИННЭР ПЛЕЙТ ПИОНЫ",
-    "wholesalePrice": 175.7,
-    "extraPrice": 184.48,
-    "retailPrice": 219.62
+    "wholesalePrice": 160.59,
+    "extraPrice": 168.62,
+    "retailPrice": 200.74
   },
   {
     "id": "УТ000010450",
@@ -6851,9 +6851,9 @@
     "id": "УТ000010482",
     "category": "..,ПИОНЫ",
     "name": "ПИНК ГИАНТ ПИОНЫ ",
-    "wholesalePrice": 175.7,
-    "extraPrice": 184.48,
-    "retailPrice": 219.62
+    "wholesalePrice": 160.59,
+    "extraPrice": 168.62,
+    "retailPrice": 200.74
   },
   {
     "id": "УТ000010490",
@@ -6883,9 +6883,9 @@
     "id": "УТ000010496",
     "category": "..,ПИОНЫ",
     "name": "САРА БЕРНАРД ПИОНЫ",
-    "wholesalePrice": 135.15,
-    "extraPrice": 141.91,
-    "retailPrice": 168.94
+    "wholesalePrice": 147.08,
+    "extraPrice": 154.43,
+    "retailPrice": 183.84
   },
   {
     "id": "УТ000010511",
@@ -17824,14 +17824,6 @@
     "retailPrice": 661.84
   },
   {
-    "id": "УТ000014618",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "ФИКУС ЭЛАСТИКА МИКС 38/190  СМ",
-    "wholesalePrice": 22663.07,
-    "extraPrice": 23796.22,
-    "retailPrice": 28328.83
-  },
-  {
     "id": "УТ000014621",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
     "name": "ФИЛЕДЕНДРОН  6 СМ ПИНК БИКИНИ (КОРОБКА 12 ШТУК)",
@@ -21024,6 +21016,14 @@
     "retailPrice": 2086.88
   },
   {
+    "id": "УТ000009571",
+    "category": ".УПАКОВКА",
+    "name": "ОАЗИС СЕРДЦЕ 38*40*4,5 СМ (ПАЧКА-2 ШТ)",
+    "wholesalePrice": 1987.5,
+    "extraPrice": 2086.88,
+    "retailPrice": 2484.38
+  },
+  {
     "id": "УТ000009572",
     "category": ".УПАКОВКА",
     "name": "ОАЗИС СЕРДЦЕ 50*50*5 СМ (ПАЧКА-2 ШТ)",
@@ -21102,6 +21102,22 @@
     "wholesalePrice": 877.68,
     "extraPrice": 921.56,
     "retailPrice": 1097.1
+  },
+  {
+    "id": "УТ000009587",
+    "category": ".УПАКОВКА",
+    "name": "ОАЗИС ШАР 16 СМ 2 ШТ",
+    "wholesalePrice": 484.95,
+    "extraPrice": 509.2,
+    "retailPrice": 606.19
+  },
+  {
+    "id": "УТ000009588",
+    "category": ".УПАКОВКА",
+    "name": "ОАЗИС ШАР 20 СМ ШТ",
+    "wholesalePrice": 609.77,
+    "extraPrice": 640.25,
+    "retailPrice": 762.21
   },
   {
     "id": "УТ000009589",
@@ -26838,14 +26854,6 @@
     "wholesalePrice": 124.34,
     "extraPrice": 130.55,
     "retailPrice": 155.42
-  },
-  {
-    "id": "УТ000030677",
-    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
-    "name": "ШАЙЕН 60 см РОЗА Кен/Куст. (RLR)",
-    "wholesalePrice": 147.55,
-    "extraPrice": 154.93,
-    "retailPrice": 184.44
   },
   {
     "id": "УТ000031725",
