@@ -184,14 +184,6 @@
     "retailPrice": 97.62
   },
   {
-    "id": "УТ000046853",
-    "category": "..,РОЗА ,МЕСТНАЯ",
-    "name": "МИКС ОДНОГ.  70 см АРТ РОССЕ",
-    "wholesalePrice": 88.11,
-    "extraPrice": 92.52,
-    "retailPrice": 110.14
-  },
-  {
     "id": "УТ000046854",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "МИКС ОДНОГ.  80 см АРТ РОССЕ",
@@ -10080,14 +10072,6 @@
     "retailPrice": 112.61
   },
   {
-    "id": "УТ000028873",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ИГУАЗУ-   50см",
-    "wholesalePrice": 61.5,
-    "extraPrice": 64.58,
-    "retailPrice": 76.88
-  },
-  {
     "id": "УТ000028874",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ИГУАЗУ-   60см",
@@ -10230,14 +10214,6 @@
     "wholesalePrice": 73.29,
     "extraPrice": 76.96,
     "retailPrice": 91.61
-  },
-  {
-    "id": "УТ000028929",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "МАНДАЛА 50 см",
-    "wholesalePrice": 89.65,
-    "extraPrice": 94.13,
-    "retailPrice": 112.07
   },
   {
     "id": "УТ000028930",
@@ -11984,14 +11960,6 @@
     "retailPrice": 118.44
   },
   {
-    "id": "УТ000033271",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ВЕГГИЕ 50см",
-    "wholesalePrice": 111.16,
-    "extraPrice": 116.72,
-    "retailPrice": 138.96
-  },
-  {
     "id": "УТ000033272",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ВЕГГИЕ 60см",
@@ -13054,14 +13022,6 @@
     "wholesalePrice": 107.26,
     "extraPrice": 112.62,
     "retailPrice": 134.08
-  },
-  {
-    "id": "УТ000039949",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "МЕДЖИК ТАЙМ-60см  (АННИ,KING,TU,ROYAL,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН,)",
-    "wholesalePrice": 89.37,
-    "extraPrice": 93.83,
-    "retailPrice": 111.71
   },
   {
     "id": "УТ000039950",
@@ -15958,6 +15918,14 @@
     "wholesalePrice": 843.5,
     "extraPrice": 885.67,
     "retailPrice": 1054.37
+  },
+  {
+    "id": "УТ000015714",
+    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
+    "name": "ДЕНДРОБИУМ КАСКАТ 12 СМ",
+    "wholesalePrice": 1617.83,
+    "extraPrice": 1698.72,
+    "retailPrice": 2022.28
   },
   {
     "id": "УТ000015718",
@@ -23672,6 +23640,14 @@
     "retailPrice": 156.02
   },
   {
+    "id": "УТ000042423",
+    "category": "ВАЗЫ И КЕРАМИКА",
+    "name": "ПЛАСТИК ГОРШОК КВАДРО 25 СМ",
+    "wholesalePrice": 500.85,
+    "extraPrice": 525.89,
+    "retailPrice": 626.06
+  },
+  {
     "id": "УТ000042722",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 1316",
@@ -27368,6 +27344,14 @@
     "retailPrice": 266.03
   },
   {
+    "id": "УТ000005296",
+    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
+    "name": "ДЖУЛЬЕТТА ЦЕРИС 50 см РОЗА Кен/Куст.  (RLR)",
+    "wholesalePrice": 156.54,
+    "extraPrice": 164.36,
+    "retailPrice": 195.67
+  },
+  {
     "id": "УТ000005297",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "ДЖУЛЬЕТТА ЦЕРИС 60 см РОЗА Кен/Куст.  (RLR)",
@@ -27518,14 +27502,6 @@
     "wholesalePrice": 151.21,
     "extraPrice": 158.77,
     "retailPrice": 189.01
-  },
-  {
-    "id": "УТ000005494",
-    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
-    "name": "ОРАНЖ СТАР 60 см РОЗА Кен/Куст. (RLR)",
-    "wholesalePrice": 147.55,
-    "extraPrice": 154.93,
-    "retailPrice": 184.44
   },
   {
     "id": "УТ000005519",
