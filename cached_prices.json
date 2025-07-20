@@ -13560,14 +13560,6 @@
     "retailPrice": 125.54
   },
   {
-    "id": "УТ000040108",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ЭКСПЛОРЕР-  110см (АННИ,KING,TU,ROYAL,,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН,)",
-    "wholesalePrice": 139.92,
-    "extraPrice": 146.92,
-    "retailPrice": 174.9
-  },
-  {
     "id": "УТ000040145",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ХЭРМОСА-60см(АННИ,KING,TU,ROYAL,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН,)",
@@ -27678,6 +27670,14 @@
     "wholesalePrice": 148.56,
     "extraPrice": 155.99,
     "retailPrice": 185.7
+  },
+  {
+    "id": "УТ000041771",
+    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
+    "name": "ФАЕ ВОРКС 60 см РОЗА Кен/Куст. (EVER FLORA)",
+    "wholesalePrice": 64.08,
+    "extraPrice": 67.28,
+    "retailPrice": 80.1
   },
   {
     "id": "УТ000041801",
@@ -42672,6 +42672,14 @@
     "retailPrice": 92.85
   },
   {
+    "id": "УТ000044174",
+    "category": "..РОЗА КЕНИЯ",
+    "name": "МАДАМ РЕД 50 см РОЗА Кения (SUBATI)",
+    "wholesalePrice": 58.9,
+    "extraPrice": 61.84,
+    "retailPrice": 73.62
+  },
+  {
     "id": "УТ000045461",
     "category": "..РОЗА КЕНИЯ",
     "name": "МОУНТ РОЯЛ 50 см РОЗА Кения (RLR)",
@@ -43006,6 +43014,14 @@
     "wholesalePrice": 44.39,
     "extraPrice": 46.61,
     "retailPrice": 55.49
+  },
+  {
+    "id": "УТ000008694",
+    "category": "..РОЗА КЕНИЯ",
+    "name": "АФИНА 60 см РОЗА Кения (SUBATI)",
+    "wholesalePrice": 56.35,
+    "extraPrice": 59.17,
+    "retailPrice": 70.43
   },
   {
     "id": "УТ000008716",
