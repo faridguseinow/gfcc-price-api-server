@@ -16984,14 +16984,6 @@
     "retailPrice": 677.45
   },
   {
-    "id": "УТ000005110",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "ЗАМИО ПАЛЬМА 27/110 СМ",
-    "wholesalePrice": 8721.57,
-    "extraPrice": 9157.65,
-    "retailPrice": 10901.96
-  },
-  {
     "id": "УТ000005787",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
     "name": "КАКТУС  5 СМ  (КОРОБКА 20 ШТУК)",
@@ -19102,6 +19094,14 @@
     "wholesalePrice": 133.9,
     "extraPrice": 140.59,
     "retailPrice": 167.37
+  },
+  {
+    "id": "УТ000034372",
+    "category": ".УПАКОВКА",
+    "name": "ОАЗИС БУЛАВКИ БРИЛЛИАНТ 5 ММ (ПАЧКА-100 ШТ)",
+    "wholesalePrice": 422.41,
+    "extraPrice": 443.53,
+    "retailPrice": 528.01
   },
   {
     "id": "УТ000034678",
@@ -46563,17 +46563,17 @@
     "id": "УТ000030044",
     "category": "..ХРИЗАНТЕМА",
     "name": "САНТИНИ ROSSI PINK",
-    "wholesalePrice": 60.57,
-    "extraPrice": 63.6,
-    "retailPrice": 75.72
+    "wholesalePrice": 55.79,
+    "extraPrice": 58.58,
+    "retailPrice": 69.74
   },
   {
     "id": "УТ000030045",
     "category": "..ХРИЗАНТЕМА",
     "name": "САНТИНИ ROSSI WHITE",
-    "wholesalePrice": 67.75,
-    "extraPrice": 71.13,
-    "retailPrice": 84.68
+    "wholesalePrice": 63.76,
+    "extraPrice": 66.95,
+    "retailPrice": 79.7
   },
   {
     "id": "УТ000032358",
@@ -46595,17 +46595,17 @@
     "id": "УТ000033002",
     "category": "..ХРИЗАНТЕМА",
     "name": "САНТИНИ ROSSI CREAM",
-    "wholesalePrice": 63.76,
-    "extraPrice": 66.95,
-    "retailPrice": 79.7
+    "wholesalePrice": 61.37,
+    "extraPrice": 64.44,
+    "retailPrice": 76.71
   },
   {
     "id": "УТ000033133",
     "category": "..ХРИЗАНТЕМА",
     "name": "САНТИНИ КРАШЕНЫЙ",
-    "wholesalePrice": 50.21,
-    "extraPrice": 52.72,
-    "retailPrice": 62.76
+    "wholesalePrice": 45.43,
+    "extraPrice": 47.7,
+    "retailPrice": 56.79
   },
   {
     "id": "УТ000033423",
@@ -46627,9 +46627,9 @@
     "id": "УТ000033568",
     "category": "..ХРИЗАНТЕМА",
     "name": "САНТИНИ ROSSI SUNNY",
-    "wholesalePrice": 64.5,
-    "extraPrice": 67.73,
-    "retailPrice": 80.63
+    "wholesalePrice": 61.37,
+    "extraPrice": 64.44,
+    "retailPrice": 76.71
   },
   {
     "id": "УТ000034210",
@@ -46683,17 +46683,17 @@
     "id": "УТ000036157",
     "category": "..ХРИЗАНТЕМА",
     "name": "БЭБИ",
-    "wholesalePrice": 75.68,
-    "extraPrice": 79.46,
-    "retailPrice": 94.59
+    "wholesalePrice": 91.66,
+    "extraPrice": 96.24,
+    "retailPrice": 114.57
   },
   {
     "id": "УТ000036163",
     "category": "..ХРИЗАНТЕМА",
     "name": "НЬЮТОН",
-    "wholesalePrice": 116.56,
-    "extraPrice": 122.39,
-    "retailPrice": 145.7
+    "wholesalePrice": 119.55,
+    "extraPrice": 125.53,
+    "retailPrice": 149.44
   },
   {
     "id": "УТ000036165",
@@ -46715,9 +46715,9 @@
     "id": "УТ000039086",
     "category": "..ХРИЗАНТЕМА",
     "name": "СЕРЕНИТИ ПУРПЛ",
-    "wholesalePrice": 75.68,
-    "extraPrice": 79.46,
-    "retailPrice": 94.59
+    "wholesalePrice": 91.66,
+    "extraPrice": 96.24,
+    "retailPrice": 114.57
   },
   {
     "id": "УТ000039104",
@@ -46875,9 +46875,9 @@
     "id": "УТ000049752",
     "category": "..ХРИЗАНТЕМА",
     "name": "АЛТАЙ LINFLOWERS",
-    "wholesalePrice": 102.02,
-    "extraPrice": 107.12,
-    "retailPrice": 127.52
+    "wholesalePrice": 105.2,
+    "extraPrice": 110.46,
+    "retailPrice": 131.51
   },
   {
     "id": "УТ000049753",
@@ -46907,9 +46907,9 @@
     "id": "УТ000050177",
     "category": "..ХРИЗАНТЕМА",
     "name": "ФАБИАННА ПУРПУЛ",
-    "wholesalePrice": 91.66,
-    "extraPrice": 96.24,
-    "retailPrice": 114.57
+    "wholesalePrice": 99.63,
+    "extraPrice": 104.61,
+    "retailPrice": 124.53
   },
   {
     "id": "УТ000050277",
@@ -46963,17 +46963,17 @@
     "id": "УТ000051047",
     "category": "..ХРИЗАНТЕМА",
     "name": "САНТИНИ PIZARRO",
-    "wholesalePrice": 45.43,
-    "extraPrice": 47.7,
-    "retailPrice": 56.79
+    "wholesalePrice": 47.82,
+    "extraPrice": 50.21,
+    "retailPrice": 59.78
   },
   {
     "id": "УТ000051048",
     "category": "..ХРИЗАНТЕМА",
     "name": "САНТИНИ MAD LINDI WHITE",
-    "wholesalePrice": 40.41,
-    "extraPrice": 42.43,
-    "retailPrice": 50.51
+    "wholesalePrice": 39.05,
+    "extraPrice": 41.01,
+    "retailPrice": 48.82
   },
   {
     "id": "УТ000022408",
@@ -47115,9 +47115,9 @@
     "id": "УТ000014874",
     "category": "..ХРИЗАНТЕМА",
     "name": "ОПТИМИСТ РОЗОВЫЙ",
-    "wholesalePrice": 75.68,
-    "extraPrice": 79.46,
-    "retailPrice": 94.59
+    "wholesalePrice": 99.63,
+    "extraPrice": 104.61,
+    "retailPrice": 124.53
   },
   {
     "id": "УТ000014888",
