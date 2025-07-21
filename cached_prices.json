@@ -13176,14 +13176,6 @@
     "retailPrice": 164.92
   },
   {
-    "id": "УТ000039901",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ЛИМОНАД-60см (АННИ,KING,TU,ROYAL,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН,)",
-    "wholesalePrice": 76.24,
-    "extraPrice": 80.05,
-    "retailPrice": 95.3
-  },
-  {
     "id": "УТ000039902",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ЛИМОНАД-70см(АННИ,KING,TU,ROYAL,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН,)",
@@ -15808,14 +15800,6 @@
     "retailPrice": 8567.75
   },
   {
-    "id": "УТ000044455",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "МОНСТЕРА 12 СМ",
-    "wholesalePrice": 637.6,
-    "extraPrice": 669.48,
-    "retailPrice": 797
-  },
-  {
     "id": "УТ000044480",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
     "name": "ОЛИВКОВОЕ  ДЕРЕВО 21/100 СМ",
@@ -16086,6 +16070,14 @@
     "wholesalePrice": 251.85,
     "extraPrice": 264.44,
     "retailPrice": 314.82
+  },
+  {
+    "id": "УТ000046987",
+    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
+    "name": "МОНСТЕРА 12 СМ ВАРИЕГАТА",
+    "wholesalePrice": 1000.24,
+    "extraPrice": 1050.25,
+    "retailPrice": 1250.29
   },
   {
     "id": "УТ000047026",
@@ -43536,6 +43528,14 @@
     "retailPrice": 94.64
   },
   {
+    "id": "УТ000032261",
+    "category": "..,РАЗНОЕ",
+    "name": "ОКСИПЕТАЛУМ РОЗОВЫЙ",
+    "wholesalePrice": 75.72,
+    "extraPrice": 79.5,
+    "retailPrice": 94.64
+  },
+  {
     "id": "УТ000032376",
     "category": "..,РАЗНОЕ",
     "name": "ПЕРЬЯ",
@@ -45174,6 +45174,14 @@
     "wholesalePrice": 120.19,
     "extraPrice": 126.2,
     "retailPrice": 150.23
+  },
+  {
+    "id": "УТ000010224",
+    "category": "..,РАЗНОЕ",
+    "name": "ДАХЛИА КАФЕ",
+    "wholesalePrice": 142.09,
+    "extraPrice": 149.19,
+    "retailPrice": 177.61
   },
   {
     "id": "УТ000010241",
