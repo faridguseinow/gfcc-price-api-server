@@ -10896,14 +10896,6 @@
     "retailPrice": 189.42
   },
   {
-    "id": "УТ000029364",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "НЕНА (ТЕССА)-50 см ",
-    "wholesalePrice": 72.82,
-    "extraPrice": 76.46,
-    "retailPrice": 91.02
-  },
-  {
     "id": "УТ000029413",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ХОТ СПОТ (ТЕССА)-70 см",
@@ -12336,14 +12328,6 @@
     "retailPrice": 151.57
   },
   {
-    "id": "УТ000037144",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "РЕД ПАНТЕРА (ТЕССА) 80см",
-    "wholesalePrice": 135.07,
-    "extraPrice": 141.83,
-    "retailPrice": 168.84
-  },
-  {
     "id": "УТ000037328",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ВАЙТ/ПИНК ОХАРА (РОЗАПРИМА)- 40см",
@@ -12358,6 +12342,14 @@
     "wholesalePrice": 135.48,
     "extraPrice": 142.25,
     "retailPrice": 169.35
+  },
+  {
+    "id": "УТ000037330",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "ВАЙТ/ПИНК ОХАРА (РОЗАПРИМА)- 60см",
+    "wholesalePrice": 148.57,
+    "extraPrice": 155.99,
+    "retailPrice": 185.71
   },
   {
     "id": "УТ000037331",
@@ -18166,14 +18158,6 @@
     "wholesalePrice": 2034.58,
     "extraPrice": 2136.3,
     "retailPrice": 2543.22
-  },
-  {
-    "id": "УТ000015163",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "ЦИТРУС ЛИМОН 15 СМ",
-    "wholesalePrice": 1592,
-    "extraPrice": 1671.6,
-    "retailPrice": 1990
   },
   {
     "id": "УТ000015207",
@@ -44219,17 +44203,17 @@
     "id": "УТ000038711",
     "category": "..,РАЗНОЕ",
     "name": "КАЛЛА  ЧЕРНАЯ 50 СМ",
-    "wholesalePrice": 83.58,
-    "extraPrice": 87.76,
-    "retailPrice": 104.48
+    "wholesalePrice": 87.56,
+    "extraPrice": 91.94,
+    "retailPrice": 109.45
   },
   {
     "id": "УТ000038712",
     "category": "..,РАЗНОЕ",
     "name": "КАЛЛА  ЧЕРНАЯ 60 СМ",
-    "wholesalePrice": 111.44,
-    "extraPrice": 117.01,
-    "retailPrice": 139.3
+    "wholesalePrice": 93.93,
+    "extraPrice": 98.62,
+    "retailPrice": 117.41
   },
   {
     "id": "УТ000038713",
