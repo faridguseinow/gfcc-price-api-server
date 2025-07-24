@@ -12200,14 +12200,6 @@
     "retailPrice": 127.52
   },
   {
-    "id": "УТ000032800",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ПРИНСЕСС  КРАУН- 70 см (СТАР+КОРАЗОН+МАТИЗ+ЭКО РОЗ+SOFI+BELLA ROSA+ЧАРМИНГ)",
-    "wholesalePrice": 120.02,
-    "extraPrice": 126.02,
-    "retailPrice": 150.03
-  },
-  {
     "id": "УТ000032801",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ПРИНСЕСС  КРАУН- 80 см  (СТАР+КОРАЗОН+МАТИЗ+ЭКО РОЗ+SOFI+BELLA ROSA+ЧАРМИНГ)",
@@ -14318,6 +14310,14 @@
     "wholesalePrice": 139.51,
     "extraPrice": 146.48,
     "retailPrice": 174.38
+  },
+  {
+    "id": "УТ000048458",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "Фатима -  70см",
+    "wholesalePrice": 155.37,
+    "extraPrice": 163.14,
+    "retailPrice": 194.21
   },
   {
     "id": "УТ000050290",
@@ -46952,14 +46952,6 @@
     "retailPrice": 109.45
   },
   {
-    "id": "УТ000027901",
-    "category": "..ХРИЗАНТЕМА",
-    "name": ".ХРИЗ. ДЕКО ЭТРУСКО ПИНК",
-    "wholesalePrice": 87.56,
-    "extraPrice": 91.94,
-    "retailPrice": 109.45
-  },
-  {
     "id": "УТ000029455",
     "category": "..ХРИЗАНТЕМА",
     "name": "БОЛТЕ",
@@ -47710,13 +47702,5 @@
     "wholesalePrice": 75.58,
     "extraPrice": 79.36,
     "retailPrice": 94.48
-  },
-  {
-    "id": "УТ000022641",
-    "category": "..ХРИЗАНТЕМА",
-    "name": ".ХРИЗ. ДЕКО ВИЕНА ПИНК",
-    "wholesalePrice": 68.97,
-    "extraPrice": 72.41,
-    "retailPrice": 86.21
   }
 ]
