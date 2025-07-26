@@ -2879,3 +2879,12 @@ fatal: unable to access 'https://github.com/faridguseinow/gfcc-price-api-server.
 🔄 Подключение к FTP...
 ❌ Ошибка при обновлении прайса:
 connect EHOSTUNREACH 192.168.7.108:21 (control socket)
+warning: in the working copy of 'log.txt', LF will be replaced by CRLF the next time Git touches it
+[main 7ab3228] ╨Р╨▓╤В╨╛╨╛╨▒╨╜╨╛╨▓╨╗╨╡╨╜╨╕╨╡ ╨┐╤А╨░╨╣╤Б-╨╗╨╕╤Б╤В╨░
+ 1 file changed, 9 insertions(+)
+fatal: unable to access 'https://github.com/faridguseinow/gfcc-price-api-server.git/': Could not resolve host: github.com
+26.07.2025 18:36:29,98 
+Обновление завершено. 
+🔄 Подключение к FTP...
+❌ Ошибка при обновлении прайса:
+connect EHOSTUNREACH 192.168.7.108:21 (control socket)
