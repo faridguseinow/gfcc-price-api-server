@@ -28024,14 +28024,6 @@
     "retailPrice": 186.3
   },
   {
-    "id": "УТ000020942",
-    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
-    "name": "АЛЕХИН 50 см РОЗА Кен/Куст. (RLR)",
-    "wholesalePrice": 121.98,
-    "extraPrice": 128.07,
-    "retailPrice": 152.47
-  },
-  {
     "id": "УТ000023311",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "ФЕЛЛИНИ 60 см РОЗА Кен/Куст. (RLR)",
@@ -28398,6 +28390,14 @@
     "wholesalePrice": 160.6,
     "extraPrice": 168.63,
     "retailPrice": 200.75
+  },
+  {
+    "id": "УТ000051229",
+    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
+    "name": "МЭНСФИЛД ПАРК ПИНК 60 см РОЗА Кен/Куст. (RLR)",
+    "wholesalePrice": 180.68,
+    "extraPrice": 189.71,
+    "retailPrice": 225.84
   },
   {
     "id": "УТ000051236",
@@ -28888,6 +28888,14 @@
     "retailPrice": 182.98
   },
   {
+    "id": "УТ000005615",
+    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
+    "name": "САЛИНЕРО 60 см РОЗА Кен/Куст. (RLR)",
+    "wholesalePrice": 149.04,
+    "extraPrice": 156.49,
+    "retailPrice": 186.3
+  },
+  {
     "id": "УТ000005619",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "САЛИНЕРО 70 см РОЗА Кен/Куст. (RLR)",
@@ -28976,14 +28984,6 @@
     "retailPrice": 104.29
   },
   {
-    "id": "УТ000005722",
-    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
-    "name": "ФАЕВОРКС 50 см РОЗА Кен/Куст. (RLR)",
-    "wholesalePrice": 125.59,
-    "extraPrice": 131.87,
-    "retailPrice": 156.99
-  },
-  {
     "id": "УТ000005729",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "ФАЕВОРКС 60 см РОЗА Кен/Куст. (GOLDEN)",
@@ -28992,20 +28992,20 @@
     "retailPrice": 126.87
   },
   {
+    "id": "УТ000005731",
+    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
+    "name": "ФАЕВОРКС 60 см РОЗА Кен/Куст. (RLR)",
+    "wholesalePrice": 152.73,
+    "extraPrice": 160.37,
+    "retailPrice": 190.91
+  },
+  {
     "id": "УТ000005740",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "ФАЕВОРКС 70 см РОЗА Кен/Куст. (RLR)",
     "wholesalePrice": 168.07,
     "extraPrice": 176.47,
     "retailPrice": 210.08
-  },
-  {
-    "id": "УТ000005747",
-    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
-    "name": "ФАЕВОРКС 90 см РОЗА Кен/Куст. (RLR)",
-    "wholesalePrice": 205.09,
-    "extraPrice": 215.34,
-    "retailPrice": 256.36
   },
   {
     "id": "УТ000005778",
@@ -34238,14 +34238,6 @@
     "wholesalePrice": 377.41,
     "extraPrice": 396.28,
     "retailPrice": 471.76
-  },
-  {
-    "id": "УТ000050034",
-    "category": "КОРЗИНА",
-    "name": "Корзина - N055403",
-    "wholesalePrice": 855.2,
-    "extraPrice": 897.95,
-    "retailPrice": 1068.99
   },
   {
     "id": "УТ000050035",
@@ -43366,6 +43358,14 @@
     "wholesalePrice": 49.87,
     "extraPrice": 52.36,
     "retailPrice": 62.33
+  },
+  {
+    "id": "УТ000040963",
+    "category": "..РОЗА КЕНИЯ",
+    "name": "МАДАМ РЕД 50 см РОЗА Кения (BARAKA)",
+    "wholesalePrice": 43.84,
+    "extraPrice": 46.04,
+    "retailPrice": 54.8
   },
   {
     "id": "УТ000042957",
