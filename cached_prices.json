@@ -24,14 +24,6 @@
     "retailPrice": 308.05
   },
   {
-    "id": "УТ000032740",
-    "category": "..,РОЗА ,МЕСТНАЯ",
-    "name": "МЕНИ/МИСС ОДНОГОЛОВАЯ  60 см ",
-    "wholesalePrice": 86.25,
-    "extraPrice": 90.56,
-    "retailPrice": 107.81
-  },
-  {
     "id": "УТ000032956",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ПОДМОСКВА ОДНО  70 см на воде ",
@@ -40,60 +32,12 @@
     "retailPrice": 110.48
   },
   {
-    "id": "УТ000033841",
-    "category": "..,РОЗА ,МЕСТНАЯ",
-    "name": "МЕНИ/МИСС ОДНОГОЛОВАЯ  50 см",
-    "wholesalePrice": 75,
-    "extraPrice": 78.75,
-    "retailPrice": 93.75
-  },
-  {
     "id": "УТ000034885",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЛИНИЯ РОЗА ОДНОГОЛОВАЯ.. 70 СМ",
     "wholesalePrice": 93.58,
     "extraPrice": 98.26,
     "retailPrice": 116.97
-  },
-  {
-    "id": "УТ000035682",
-    "category": "..,РОЗА ,МЕСТНАЯ",
-    "name": "МЕНИ/МИСС ОДНОГОЛОВАЯ  70 см ",
-    "wholesalePrice": 97.49,
-    "extraPrice": 102.37,
-    "retailPrice": 121.87
-  },
-  {
-    "id": "УТ000035751",
-    "category": "..,РОЗА ,МЕСТНАЯ",
-    "name": "МЕНИ/МИСС ОДНОГОЛОВАЯ  80 см ",
-    "wholesalePrice": 104.39,
-    "extraPrice": 109.61,
-    "retailPrice": 130.49
-  },
-  {
-    "id": "УТ000036176",
-    "category": "..,РОЗА ,МЕСТНАЯ",
-    "name": "МЕНИ/МИСС КУСТОВАЯ  90 см",
-    "wholesalePrice": 178.75,
-    "extraPrice": 187.69,
-    "retailPrice": 223.44
-  },
-  {
-    "id": "УТ000036177",
-    "category": "..,РОЗА ,МЕСТНАЯ",
-    "name": "МЕНИ/МИСС КУСТОВАЯ  70 см ",
-    "wholesalePrice": 175,
-    "extraPrice": 183.75,
-    "retailPrice": 218.75
-  },
-  {
-    "id": "УТ000036250",
-    "category": "..,РОЗА ,МЕСТНАЯ",
-    "name": "МЕНИ/МИСС ОДНОГОЛОВАЯ  90 см",
-    "wholesalePrice": 104.39,
-    "extraPrice": 109.61,
-    "retailPrice": 130.49
   },
   {
     "id": "УТ000039232",
@@ -144,22 +88,6 @@
     "retailPrice": 207.09
   },
   {
-    "id": "УТ000040556",
-    "category": "..,РОЗА ,МЕСТНАЯ",
-    "name": "МЕНИ/МИСС КУСТОВАЯ  50 см ",
-    "wholesalePrice": 138.74,
-    "extraPrice": 145.68,
-    "retailPrice": 173.43
-  },
-  {
-    "id": "УТ000040557",
-    "category": "..,РОЗА ,МЕСТНАЯ",
-    "name": "МЕНИ/МИСС КУСТОВАЯ  60 см",
-    "wholesalePrice": 171.24,
-    "extraPrice": 179.8,
-    "retailPrice": 214.05
-  },
-  {
     "id": "УТ000040758",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЧЕХОВСКИЙ САД КУСТОВАЯ  70 см",
@@ -174,14 +102,6 @@
     "wholesalePrice": 93.23,
     "extraPrice": 97.89,
     "retailPrice": 116.53
-  },
-  {
-    "id": "УТ000041287",
-    "category": "..,РОЗА ,МЕСТНАЯ",
-    "name": "МЕНИ/МИСС КУСТОВАЯ  80 см",
-    "wholesalePrice": 178.75,
-    "extraPrice": 187.69,
-    "retailPrice": 223.44
   },
   {
     "id": "УТ000046109",
@@ -208,84 +128,44 @@
     "retailPrice": 111.45
   },
   {
-    "id": "УТ000046638",
-    "category": "..,РОЗА ,МЕСТНАЯ",
-    "name": "РОЗА КРАСНОДАР ОДНОГ. 80 см",
-    "wholesalePrice": 110.66,
-    "extraPrice": 116.2,
-    "retailPrice": 138.33
-  },
-  {
     "id": "УТ000046851",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "МИКС ОДНОГ.  50 см АРТ РОССЕ",
-    "wholesalePrice": 70.46,
-    "extraPrice": 73.98,
-    "retailPrice": 88.07
+    "wholesalePrice": 51.99,
+    "extraPrice": 54.59,
+    "retailPrice": 64.98
   },
   {
     "id": "УТ000046852",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "МИКС ОДНОГ.  60 см АРТ РОССЕ",
-    "wholesalePrice": 82.02,
-    "extraPrice": 86.12,
-    "retailPrice": 102.53
+    "wholesalePrice": 67.58,
+    "extraPrice": 70.96,
+    "retailPrice": 84.48
+  },
+  {
+    "id": "УТ000046853",
+    "category": "..,РОЗА ,МЕСТНАЯ",
+    "name": "МИКС ОДНОГ.  70 см АРТ РОССЕ",
+    "wholesalePrice": 72.79,
+    "extraPrice": 76.43,
+    "retailPrice": 90.98
   },
   {
     "id": "УТ000046854",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "МИКС ОДНОГ.  80 см АРТ РОССЕ",
-    "wholesalePrice": 105.16,
-    "extraPrice": 110.42,
-    "retailPrice": 131.45
+    "wholesalePrice": 77.99,
+    "extraPrice": 81.89,
+    "retailPrice": 97.49
   },
   {
     "id": "УТ000046855",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "МИКС ОДНОГ.  90 см АРТ РОССЕ",
-    "wholesalePrice": 122.12,
-    "extraPrice": 128.22,
-    "retailPrice": 152.65
-  },
-  {
-    "id": "УТ000046913",
-    "category": "..,РОЗА ,МЕСТНАЯ",
-    "name": "МИКС КУСТ 50 см АРТ РОССЕ",
-    "wholesalePrice": 129.35,
-    "extraPrice": 135.82,
-    "retailPrice": 161.69
-  },
-  {
-    "id": "УТ000046914",
-    "category": "..,РОЗА ,МЕСТНАЯ",
-    "name": "МИКС КУСТ 60 см АРТ РОССЕ",
-    "wholesalePrice": 140.91,
-    "extraPrice": 147.96,
-    "retailPrice": 176.14
-  },
-  {
-    "id": "УТ000047050",
-    "category": "..,РОЗА ,МЕСТНАЯ",
-    "name": "МИКС КУСТ 70 см АРТ РОССЕ",
-    "wholesalePrice": 164.05,
-    "extraPrice": 172.26,
-    "retailPrice": 205.07
-  },
-  {
-    "id": "УТ000047152",
-    "category": "..,РОЗА ,МЕСТНАЯ",
-    "name": "МИКС КУСТ 80 см АРТ РОССЕ",
-    "wholesalePrice": 174.57,
-    "extraPrice": 183.29,
-    "retailPrice": 218.21
-  },
-  {
-    "id": "УТ000047153",
-    "category": "..,РОЗА ,МЕСТНАЯ",
-    "name": "МИКС КУСТ 90 см АРТ РОССЕ",
-    "wholesalePrice": 186.14,
-    "extraPrice": 195.45,
-    "retailPrice": 232.67
+    "wholesalePrice": 83.18,
+    "extraPrice": 87.34,
+    "retailPrice": 103.98
   },
   {
     "id": "УТ000047274",
@@ -326,14 +206,6 @@
     "wholesalePrice": 132.06,
     "extraPrice": 138.66,
     "retailPrice": 165.07
-  },
-  {
-    "id": "УТ000010833",
-    "category": "..,РОЗА ,МЕСТНАЯ",
-    "name": "ЛИНИЯ РОЗА ОДНОГОЛОВАЯ..80 СМ",
-    "wholesalePrice": 109.18,
-    "extraPrice": 114.64,
-    "retailPrice": 136.47
   },
   {
     "id": "УТ000014022",
@@ -2179,14 +2051,6 @@
     "id": "УТ000050820",
     "category": "СИЛИКОНОВЫЕ ЦВЕТЫ",
     "name": "YSH-038",
-    "wholesalePrice": 1734.01,
-    "extraPrice": 1820.71,
-    "retailPrice": 2167.51
-  },
-  {
-    "id": "УТ000050821",
-    "category": "СИЛИКОНОВЫЕ ЦВЕТЫ",
-    "name": "YSH-039",
     "wholesalePrice": 1734.01,
     "extraPrice": 1820.71,
     "retailPrice": 2167.51
@@ -43662,14 +43526,6 @@
     "wholesalePrice": 17.87,
     "extraPrice": 18.76,
     "retailPrice": 22.34
-  },
-  {
-    "id": "УТ000008510",
-    "category": "..РОЗА КЕНИЯ",
-    "name": "БРАНАН 40 см РОЗА Кения (BRANAN)",
-    "wholesalePrice": 21.46,
-    "extraPrice": 22.53,
-    "retailPrice": 26.82
   },
   {
     "id": "УТ000008513",
