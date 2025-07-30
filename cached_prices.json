@@ -2008,14 +2008,6 @@
     "retailPrice": 4717.82
   },
   {
-    "id": "УТ000050806",
-    "category": "СИЛИКОНОВЫЕ ЦВЕТЫ",
-    "name": "YSH-024",
-    "wholesalePrice": 2549.19,
-    "extraPrice": 2676.65,
-    "retailPrice": 3186.49
-  },
-  {
     "id": "УТ000050809",
     "category": "СИЛИКОНОВЫЕ ЦВЕТЫ",
     "name": "YSH-027",
@@ -3435,14 +3427,6 @@
     "id": "УТ000051288",
     "category": "СИЛИКОНОВЫЕ ЦВЕТЫ",
     "name": "YHB-010",
-    "wholesalePrice": 12185.18,
-    "extraPrice": 12794.44,
-    "retailPrice": 15231.48
-  },
-  {
-    "id": "УТ000051289",
-    "category": "СИЛИКОНОВЫЕ ЦВЕТЫ",
-    "name": "YHB-011",
     "wholesalePrice": 12185.18,
     "extraPrice": 12794.44,
     "retailPrice": 15231.48
@@ -10608,14 +10592,6 @@
     "retailPrice": 117.07
   },
   {
-    "id": "УТ000029112",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "САЛМА 80 см",
-    "wholesalePrice": 104.81,
-    "extraPrice": 110.05,
-    "retailPrice": 131.01
-  },
-  {
     "id": "УТ000029115",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ВЕНДЕЛЛА-   40см",
@@ -11334,14 +11310,6 @@
     "wholesalePrice": 109.02,
     "extraPrice": 114.47,
     "retailPrice": 136.27
-  },
-  {
-    "id": "УТ000029737",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ПАЛОМА- 70 см (СТАР+КОРАЗОН+МАТИЗ+ЭКО РОЗ+SOFI+BELLA ROSA+ЧАРМИНГ)",
-    "wholesalePrice": 125.79,
-    "extraPrice": 132.08,
-    "retailPrice": 157.24
   },
   {
     "id": "УТ000029742",
@@ -14510,6 +14478,14 @@
     "wholesalePrice": 72.99,
     "extraPrice": 76.64,
     "retailPrice": 91.23
+  },
+  {
+    "id": "УТ000015263",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "ФРИДОМ -  80см",
+    "wholesalePrice": 85.59,
+    "extraPrice": 89.87,
+    "retailPrice": 106.98
   },
   {
     "id": "УТ000015285",
@@ -27704,14 +27680,6 @@
     "retailPrice": 193.72
   },
   {
-    "id": "УТ000033812",
-    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
-    "name": "САНСЕРА 70 см РОЗА Кен/Куст. (RLR)",
-    "wholesalePrice": 171.01,
-    "extraPrice": 179.56,
-    "retailPrice": 213.76
-  },
-  {
     "id": "УТ000025717",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "ВЕНДИ 60 см РОЗА Кен/Куст. (RLR)",
@@ -40672,6 +40640,14 @@
     "retailPrice": 146.13
   },
   {
+    "id": "УТ000022181",
+    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
+    "name": "ТАНЯ VOORN-ROSES 70 см куст на воде",
+    "wholesalePrice": 217.1,
+    "extraPrice": 227.96,
+    "retailPrice": 271.38
+  },
+  {
     "id": "УТ000024382",
     "category": "МЯГКАЯ ИГРУШКА",
     "name": "Мягкая игрушка № OT3004/22",
@@ -43758,6 +43734,14 @@
     "wholesalePrice": 80.74,
     "extraPrice": 84.78,
     "retailPrice": 100.93
+  },
+  {
+    "id": "УТ000009151",
+    "category": "..РОЗА КЕНИЯ",
+    "name": "РОДОС 50 см РОЗА Кения (SUBATI)",
+    "wholesalePrice": 76.07,
+    "extraPrice": 79.87,
+    "retailPrice": 95.09
   },
   {
     "id": "УТ000009153",
