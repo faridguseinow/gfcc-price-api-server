@@ -9416,14 +9416,6 @@
     "retailPrice": 138.67
   },
   {
-    "id": "УТ000021402",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ПЛАЙЯ БЛАНКА -  80 см",
-    "wholesalePrice": 126.08,
-    "extraPrice": 132.38,
-    "retailPrice": 157.6
-  },
-  {
     "id": "УТ000027752",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ПИНК ФЛОЙД (РОЯЛ) 50см ",
@@ -9670,6 +9662,14 @@
     "wholesalePrice": 104.4,
     "extraPrice": 109.62,
     "retailPrice": 130.5
+  },
+  {
+    "id": "УТ000028780",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "КАРУСЕЛЬ-   60см",
+    "wholesalePrice": 75.94,
+    "extraPrice": 79.74,
+    "retailPrice": 94.93
   },
   {
     "id": "УТ000028781",
@@ -18766,14 +18766,6 @@
     "wholesalePrice": 224.95,
     "extraPrice": 236.2,
     "retailPrice": 281.19
-  },
-  {
-    "id": "УТ000014713",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "ХЕДЕРА  9 СМ",
-    "wholesalePrice": 99.8,
-    "extraPrice": 104.79,
-    "retailPrice": 124.75
   },
   {
     "id": "УТ000014714",
@@ -29288,6 +29280,14 @@
     "retailPrice": 197.85
   },
   {
+    "id": "УТ000005217",
+    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
+    "name": "БАНДАЛЕРО 50 см РОЗА Кен/Куст. (RLR)",
+    "wholesalePrice": 124.25,
+    "extraPrice": 130.47,
+    "retailPrice": 155.32
+  },
+  {
     "id": "УТ000005220",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "БАНДАЛЕРО 60 см РОЗА Кен/Куст. (RLR)",
@@ -29867,6 +29867,14 @@
     "id": "УТ000018149",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "ПИОНОВИДНАЯ 40 см РОЗА Кен/Куст. (SUBATI)",
+    "wholesalePrice": 87.61,
+    "extraPrice": 91.99,
+    "retailPrice": 109.51
+  },
+  {
+    "id": "УТ000018160",
+    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
+    "name": "БОМБАСТИК 40 см РОЗА Кен/Куст. (SUBATI)",
     "wholesalePrice": 87.61,
     "extraPrice": 91.99,
     "retailPrice": 109.51
