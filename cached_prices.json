@@ -14528,6 +14528,38 @@
     "retailPrice": 104.58
   },
   {
+    "id": "УТ000051181",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "ТИП ТОП -  50см (АННИ,KING,TU,ROYAL,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН,)",
+    "wholesalePrice": 103.38,
+    "extraPrice": 108.55,
+    "retailPrice": 129.22
+  },
+  {
+    "id": "УТ000051182",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "ТИП ТОП -  60см (АННИ,KING,TU,ROYAL,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН,)",
+    "wholesalePrice": 109.08,
+    "extraPrice": 114.53,
+    "retailPrice": 136.35
+  },
+  {
+    "id": "УТ000051422",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "ТИП ТОП -  50см (СТАР,КОРОЗОН,МАТИЗ,ЭКО РОЗ,БЕЛЛА РОЗА,ЧАРМИНГ,СОФИ,ДАВИНЧИ)",
+    "wholesalePrice": 109.08,
+    "extraPrice": 114.53,
+    "retailPrice": 136.35
+  },
+  {
+    "id": "УТ000051424",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "ТИП ТОП -  60см (СТАР,КОРОЗОН,МАТИЗ,ЭКО РОЗ,БЕЛЛА РОЗА,ЧАРМИНГ,СОФИ,ДАВИНЧИ)",
+    "wholesalePrice": 116.4,
+    "extraPrice": 122.22,
+    "retailPrice": 145.5
+  },
+  {
     "id": "УТ000024233",
     "category": "..РОЗА ЭКВАДОР",
     "name": "КЭНДЛЛАЙТ (ТЕССА)- 60см",
@@ -15118,14 +15150,6 @@
     "wholesalePrice": 142.74,
     "extraPrice": 149.88,
     "retailPrice": 178.43
-  },
-  {
-    "id": "УТ000026192",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ПЛАЙЯ БЛАНКА (ТЕССА)-60 см",
-    "wholesalePrice": 117.17,
-    "extraPrice": 123.03,
-    "retailPrice": 146.46
   },
   {
     "id": "УТ000026637",
@@ -48075,25 +48099,25 @@
     "id": "УТ000029455",
     "category": "..ХРИЗАНТЕМА",
     "name": "БОЛТЕ",
-    "wholesalePrice": 70.88,
-    "extraPrice": 74.43,
-    "retailPrice": 88.6
+    "wholesalePrice": 65.21,
+    "extraPrice": 68.47,
+    "retailPrice": 81.51
   },
   {
     "id": "УТ000030044",
     "category": "..ХРИЗАНТЕМА",
     "name": "САНТИНИ ROSSI PINK",
-    "wholesalePrice": 40.7,
-    "extraPrice": 42.74,
-    "retailPrice": 50.88
+    "wholesalePrice": 45.58,
+    "extraPrice": 47.86,
+    "retailPrice": 56.98
   },
   {
     "id": "УТ000030045",
     "category": "..ХРИЗАНТЕМА",
     "name": "САНТИНИ ROSSI WHITE",
-    "wholesalePrice": 37.44,
-    "extraPrice": 39.32,
-    "retailPrice": 46.81
+    "wholesalePrice": 48.84,
+    "extraPrice": 51.28,
+    "retailPrice": 61.05
   },
   {
     "id": "УТ000032358",
@@ -48115,9 +48139,9 @@
     "id": "УТ000033002",
     "category": "..ХРИЗАНТЕМА",
     "name": "САНТИНИ ROSSI CREAM",
-    "wholesalePrice": 52.91,
-    "extraPrice": 55.56,
-    "retailPrice": 66.14
+    "wholesalePrice": 50.47,
+    "extraPrice": 52.99,
+    "retailPrice": 63.09
   },
   {
     "id": "УТ000033132",
@@ -48131,9 +48155,9 @@
     "id": "УТ000033133",
     "category": "..ХРИЗАНТЕМА",
     "name": "САНТИНИ КРАШЕНЫЙ",
-    "wholesalePrice": 37.44,
-    "extraPrice": 39.32,
-    "retailPrice": 46.81
+    "wholesalePrice": 43.14,
+    "extraPrice": 45.3,
+    "retailPrice": 53.93
   },
   {
     "id": "УТ000033423",
@@ -48155,9 +48179,9 @@
     "id": "УТ000033568",
     "category": "..ХРИЗАНТЕМА",
     "name": "САНТИНИ ROSSI SUNNY",
-    "wholesalePrice": 53.87,
-    "extraPrice": 56.56,
-    "retailPrice": 67.34
+    "wholesalePrice": 42.33,
+    "extraPrice": 44.44,
+    "retailPrice": 52.91
   },
   {
     "id": "УТ000034210",
@@ -48171,65 +48195,65 @@
     "id": "УТ000034801",
     "category": "..ХРИЗАНТЕМА",
     "name": "ВАНИЛЛА",
-    "wholesalePrice": 70.87,
-    "extraPrice": 74.41,
-    "retailPrice": 88.58
+    "wholesalePrice": 65.2,
+    "extraPrice": 68.46,
+    "retailPrice": 81.5
   },
   {
     "id": "УТ000035255",
     "category": "..ХРИЗАНТЕМА",
     "name": "СЕРЕНИТИ СВИТ",
-    "wholesalePrice": 85.84,
-    "extraPrice": 90.13,
-    "retailPrice": 107.3
+    "wholesalePrice": 65.21,
+    "extraPrice": 68.47,
+    "retailPrice": 81.51
   },
   {
     "id": "УТ000035667",
     "category": "..ХРИЗАНТЕМА",
     "name": "БАЛТИКА BEYOND",
-    "wholesalePrice": 77.33,
-    "extraPrice": 81.2,
-    "retailPrice": 96.66
+    "wholesalePrice": 78.96,
+    "extraPrice": 82.91,
+    "retailPrice": 98.7
   },
   {
     "id": "УТ000035736",
     "category": "..ХРИЗАНТЕМА",
     "name": "САНТИНИ SUN UP",
-    "wholesalePrice": 59.42,
-    "extraPrice": 62.39,
-    "retailPrice": 74.28
+    "wholesalePrice": 52.1,
+    "extraPrice": 54.7,
+    "retailPrice": 65.12
   },
   {
     "id": "УТ000036100",
     "category": "..ХРИЗАНТЕМА",
     "name": "СТРЕСА",
-    "wholesalePrice": 70.87,
-    "extraPrice": 74.41,
-    "retailPrice": 88.58
+    "wholesalePrice": 65.2,
+    "extraPrice": 68.46,
+    "retailPrice": 81.5
   },
   {
     "id": "УТ000036157",
     "category": "..ХРИЗАНТЕМА",
     "name": "БЭБИ",
-    "wholesalePrice": 70.88,
-    "extraPrice": 74.43,
-    "retailPrice": 88.6
+    "wholesalePrice": 65.21,
+    "extraPrice": 68.47,
+    "retailPrice": 81.51
   },
   {
     "id": "УТ000036163",
     "category": "..ХРИЗАНТЕМА",
     "name": "НЬЮТОН",
-    "wholesalePrice": 97.68,
-    "extraPrice": 102.56,
-    "retailPrice": 122.1
+    "wholesalePrice": 91.98,
+    "extraPrice": 96.58,
+    "retailPrice": 114.98
   },
   {
     "id": "УТ000036165",
     "category": "..ХРИЗАНТЕМА",
     "name": "КОМАНДИР",
-    "wholesalePrice": 70.88,
-    "extraPrice": 74.43,
-    "retailPrice": 88.6
+    "wholesalePrice": 65.21,
+    "extraPrice": 68.47,
+    "retailPrice": 81.51
   },
   {
     "id": "УТ000037077",
@@ -48243,33 +48267,33 @@
     "id": "УТ000037941",
     "category": "..ХРИЗАНТЕМА",
     "name": "АЛТАЙ ЖЕЛТЫЙ",
-    "wholesalePrice": 70.88,
-    "extraPrice": 74.43,
-    "retailPrice": 88.6
+    "wholesalePrice": 65.21,
+    "extraPrice": 68.47,
+    "retailPrice": 81.51
   },
   {
     "id": "УТ000039086",
     "category": "..ХРИЗАНТЕМА",
     "name": "СЕРЕНИТИ ПУРПЛ",
-    "wholesalePrice": 85.84,
-    "extraPrice": 90.13,
-    "retailPrice": 107.3
+    "wholesalePrice": 65.21,
+    "extraPrice": 68.47,
+    "retailPrice": 81.51
   },
   {
     "id": "УТ000039359",
     "category": "..ХРИЗАНТЕМА",
     "name": "БАЛЛЕР ПИНК",
-    "wholesalePrice": 70.88,
-    "extraPrice": 74.43,
-    "retailPrice": 88.6
+    "wholesalePrice": 65.21,
+    "extraPrice": 68.47,
+    "retailPrice": 81.51
   },
   {
     "id": "УТ000039564",
     "category": "..ХРИЗАНТЕМА",
     "name": "ФАБИАННА",
-    "wholesalePrice": 110.49,
-    "extraPrice": 116.02,
-    "retailPrice": 138.12
+    "wholesalePrice": 98.49,
+    "extraPrice": 103.42,
+    "retailPrice": 123.12
   },
   {
     "id": "УТ000040760",
@@ -48291,57 +48315,57 @@
     "id": "УТ000042609",
     "category": "..ХРИЗАНТЕМА",
     "name": "ПАСТЕЛА КРЕМ",
-    "wholesalePrice": 70.88,
-    "extraPrice": 74.43,
-    "retailPrice": 88.6
+    "wholesalePrice": 65.21,
+    "extraPrice": 68.47,
+    "retailPrice": 81.51
   },
   {
     "id": "УТ000042959",
     "category": "..ХРИЗАНТЕМА",
     "name": "ПАСТЕЛА ЖЕЛТАЯ",
-    "wholesalePrice": 70.88,
-    "extraPrice": 74.43,
-    "retailPrice": 88.6
+    "wholesalePrice": 65.21,
+    "extraPrice": 68.47,
+    "retailPrice": 81.51
   },
   {
     "id": "УТ000043737",
     "category": "..ХРИЗАНТЕМА",
     "name": "ДЕЙДРИМ",
-    "wholesalePrice": 70.87,
-    "extraPrice": 74.41,
-    "retailPrice": 88.58
+    "wholesalePrice": 65.2,
+    "extraPrice": 68.46,
+    "retailPrice": 81.5
   },
   {
     "id": "УТ000043758",
     "category": "..ХРИЗАНТЕМА",
     "name": "РЕСК",
-    "wholesalePrice": 70.88,
-    "extraPrice": 74.43,
-    "retailPrice": 88.6
+    "wholesalePrice": 65.21,
+    "extraPrice": 68.47,
+    "retailPrice": 81.51
   },
   {
     "id": "УТ000044018",
     "category": "..ХРИЗАНТЕМА",
     "name": "БОНУС",
-    "wholesalePrice": 70.88,
-    "extraPrice": 74.43,
-    "retailPrice": 88.6
+    "wholesalePrice": 65.21,
+    "extraPrice": 68.47,
+    "retailPrice": 81.51
   },
   {
     "id": "УТ000044906",
     "category": "..ХРИЗАНТЕМА",
     "name": "КАЙА",
-    "wholesalePrice": 70.88,
-    "extraPrice": 74.43,
-    "retailPrice": 88.6
+    "wholesalePrice": 65.21,
+    "extraPrice": 68.47,
+    "retailPrice": 81.51
   },
   {
     "id": "УТ000045052",
     "category": "..ХРИЗАНТЕМА",
     "name": "ЛЕТС ГО ПИНК",
-    "wholesalePrice": 85.84,
-    "extraPrice": 90.13,
-    "retailPrice": 107.3
+    "wholesalePrice": 84.66,
+    "extraPrice": 88.89,
+    "retailPrice": 105.82
   },
   {
     "id": "УТ000045194",
@@ -48355,65 +48379,65 @@
     "id": "УТ000047292",
     "category": "..ХРИЗАНТЕМА",
     "name": "КОМАНДИР РОЗОВЫЙ",
-    "wholesalePrice": 70.88,
-    "extraPrice": 74.43,
-    "retailPrice": 88.6
+    "wholesalePrice": 65.21,
+    "extraPrice": 68.47,
+    "retailPrice": 81.51
   },
   {
     "id": "УТ000047249",
     "category": "..ХРИЗАНТЕМА",
     "name": "КАЗИНО",
-    "wholesalePrice": 70.88,
-    "extraPrice": 74.43,
-    "retailPrice": 88.6
+    "wholesalePrice": 65.21,
+    "extraPrice": 68.47,
+    "retailPrice": 81.51
   },
   {
     "id": "УТ000048383",
     "category": "..ХРИЗАНТЕМА",
     "name": "ПРАШЕС",
-    "wholesalePrice": 70.88,
-    "extraPrice": 74.43,
-    "retailPrice": 88.6
+    "wholesalePrice": 65.21,
+    "extraPrice": 68.47,
+    "retailPrice": 81.51
   },
   {
     "id": "УТ000049712",
     "category": "..ХРИЗАНТЕМА",
     "name": "РУБИ СТАР",
-    "wholesalePrice": 70.88,
-    "extraPrice": 74.43,
-    "retailPrice": 88.6
+    "wholesalePrice": 65.21,
+    "extraPrice": 68.47,
+    "retailPrice": 81.51
   },
   {
     "id": "УТ000049713",
     "category": "..ХРИЗАНТЕМА",
     "name": "САНТИНИ COUNTRY",
-    "wholesalePrice": 39.25,
-    "extraPrice": 41.21,
-    "retailPrice": 49.06
+    "wholesalePrice": 43.96,
+    "extraPrice": 46.15,
+    "retailPrice": 54.95
   },
   {
     "id": "УТ000049751",
     "category": "..ХРИЗАНТЕМА",
     "name": "БАЛТИКА LINFLOWERS",
-    "wholesalePrice": 70.88,
-    "extraPrice": 74.43,
-    "retailPrice": 88.6
+    "wholesalePrice": 65.21,
+    "extraPrice": 68.47,
+    "retailPrice": 81.51
   },
   {
     "id": "УТ000049752",
     "category": "..ХРИЗАНТЕМА",
     "name": "АЛТАЙ LINFLOWERS",
-    "wholesalePrice": 102.6,
-    "extraPrice": 107.73,
-    "retailPrice": 128.25
+    "wholesalePrice": 88.73,
+    "extraPrice": 93.16,
+    "retailPrice": 110.91
   },
   {
     "id": "УТ000049753",
     "category": "..ХРИЗАНТЕМА",
     "name": "ЧИК LINFLOWERS",
-    "wholesalePrice": 70.88,
-    "extraPrice": 74.43,
-    "retailPrice": 88.6
+    "wholesalePrice": 65.21,
+    "extraPrice": 68.47,
+    "retailPrice": 81.51
   },
   {
     "id": "УТ000049758",
@@ -48435,9 +48459,9 @@
     "id": "УТ000050177",
     "category": "..ХРИЗАНТЕМА",
     "name": "ФАБИАННА ПУРПУЛ",
-    "wholesalePrice": 99.31,
-    "extraPrice": 104.27,
-    "retailPrice": 124.14
+    "wholesalePrice": 91.36,
+    "extraPrice": 95.93,
+    "retailPrice": 114.2
   },
   {
     "id": "УТ000050277",
@@ -48451,9 +48475,9 @@
     "id": "УТ000050295",
     "category": "..ХРИЗАНТЕМА",
     "name": "СТРЕСА ПУРПУЛ",
-    "wholesalePrice": 88.73,
-    "extraPrice": 93.16,
-    "retailPrice": 110.91
+    "wholesalePrice": 65.21,
+    "extraPrice": 68.47,
+    "retailPrice": 81.51
   },
   {
     "id": "УТ000050371",
@@ -48467,25 +48491,25 @@
     "id": "УТ000050452",
     "category": "..ХРИЗАНТЕМА",
     "name": "ФОНТИНА",
-    "wholesalePrice": 70.88,
-    "extraPrice": 74.43,
-    "retailPrice": 88.6
+    "wholesalePrice": 65.21,
+    "extraPrice": 68.47,
+    "retailPrice": 81.51
   },
   {
     "id": "УТ000051046",
     "category": "..ХРИЗАНТЕМА",
     "name": "САНТИНИ BAYKAL",
-    "wholesalePrice": 30.12,
-    "extraPrice": 31.62,
-    "retailPrice": 37.65
+    "wholesalePrice": 29.3,
+    "extraPrice": 30.77,
+    "retailPrice": 36.63
   },
   {
     "id": "УТ000051047",
     "category": "..ХРИЗАНТЕМА",
     "name": "САНТИНИ PIZARRO",
-    "wholesalePrice": 33.37,
-    "extraPrice": 35.04,
-    "retailPrice": 41.72
+    "wholesalePrice": 30.7,
+    "extraPrice": 32.24,
+    "retailPrice": 38.38
   },
   {
     "id": "УТ000051048",
@@ -48499,209 +48523,209 @@
     "id": "УТ000022408",
     "category": "..ХРИЗАНТЕМА",
     "name": "КАЛИМБА",
-    "wholesalePrice": 90.35,
-    "extraPrice": 94.87,
-    "retailPrice": 112.94
+    "wholesalePrice": 83.13,
+    "extraPrice": 87.28,
+    "retailPrice": 103.91
   },
   {
     "id": "УТ000025531",
     "category": "..ХРИЗАНТЕМА",
     "name": "ПАСТЕЛА ПИНК",
-    "wholesalePrice": 70.88,
-    "extraPrice": 74.43,
-    "retailPrice": 88.6
+    "wholesalePrice": 65.21,
+    "extraPrice": 68.47,
+    "retailPrice": 81.51
   },
   {
     "id": "УТ000014770",
     "category": "..ХРИЗАНТЕМА",
     "name": "БАКАРДИ ЖЕЛТЫЙ",
-    "wholesalePrice": 70.88,
-    "extraPrice": 74.43,
-    "retailPrice": 88.6
+    "wholesalePrice": 65.21,
+    "extraPrice": 68.47,
+    "retailPrice": 81.51
   },
   {
     "id": "УТ000014771",
     "category": "..ХРИЗАНТЕМА",
     "name": "БАКАРДИ КРАШЕНЫЙ",
-    "wholesalePrice": 81.4,
-    "extraPrice": 85.47,
-    "retailPrice": 101.75
+    "wholesalePrice": 74.89,
+    "extraPrice": 78.63,
+    "retailPrice": 93.61
   },
   {
     "id": "УТ000014773",
     "category": "..ХРИЗАНТЕМА",
     "name": "БАКАРДИ РОЗОВЫЙ",
-    "wholesalePrice": 70.88,
-    "extraPrice": 74.43,
-    "retailPrice": 88.6
+    "wholesalePrice": 65.21,
+    "extraPrice": 68.47,
+    "retailPrice": 81.51
   },
   {
     "id": "УТ000014774",
     "category": "..ХРИЗАНТЕМА",
     "name": "БАЛТИКА",
-    "wholesalePrice": 70.88,
-    "extraPrice": 74.43,
-    "retailPrice": 88.6
+    "wholesalePrice": 65.21,
+    "extraPrice": 68.47,
+    "retailPrice": 81.51
   },
   {
     "id": "УТ000014775",
     "category": "..ХРИЗАНТЕМА",
     "name": "БАЛТИКА ЖЕЛТАЯ",
-    "wholesalePrice": 70.88,
-    "extraPrice": 74.43,
-    "retailPrice": 88.6
+    "wholesalePrice": 77.33,
+    "extraPrice": 81.2,
+    "retailPrice": 96.66
   },
   {
     "id": "УТ000014776",
     "category": "..ХРИЗАНТЕМА",
     "name": "БАЛТИКА КРАШЕНАЯ",
-    "wholesalePrice": 81.4,
-    "extraPrice": 85.47,
-    "retailPrice": 101.75
+    "wholesalePrice": 77.33,
+    "extraPrice": 81.2,
+    "retailPrice": 96.66
   },
   {
     "id": "УТ000014777",
     "category": "..ХРИЗАНТЕМА",
     "name": "БАЛТИКА КРЕМ",
-    "wholesalePrice": 70.88,
-    "extraPrice": 74.43,
-    "retailPrice": 88.6
+    "wholesalePrice": 65.21,
+    "extraPrice": 68.47,
+    "retailPrice": 81.51
   },
   {
     "id": "УТ000014779",
     "category": "..ХРИЗАНТЕМА",
     "name": "БАЛТИКА РОЗОВАЯ",
-    "wholesalePrice": 70.88,
-    "extraPrice": 74.43,
-    "retailPrice": 88.6
+    "wholesalePrice": 65.21,
+    "extraPrice": 68.47,
+    "retailPrice": 81.51
   },
   {
     "id": "УТ000014793",
     "category": "..ХРИЗАНТЕМА",
     "name": "ГАЙДАР",
-    "wholesalePrice": 70.88,
-    "extraPrice": 74.43,
-    "retailPrice": 88.6
+    "wholesalePrice": 65.21,
+    "extraPrice": 68.47,
+    "retailPrice": 81.51
   },
   {
     "id": "УТ000014811",
     "category": "..ХРИЗАНТЕМА",
     "name": "ЕВРО БЕЛЫЙ",
-    "wholesalePrice": 70.88,
-    "extraPrice": 74.43,
-    "retailPrice": 88.6
+    "wholesalePrice": 65.21,
+    "extraPrice": 68.47,
+    "retailPrice": 81.51
   },
   {
     "id": "УТ000014812",
     "category": "..ХРИЗАНТЕМА",
     "name": "ЕВРО ЖЕЛТЫЙ",
-    "wholesalePrice": 70.88,
-    "extraPrice": 74.43,
-    "retailPrice": 88.6
+    "wholesalePrice": 65.21,
+    "extraPrice": 68.47,
+    "retailPrice": 81.51
   },
   {
     "id": "УТ000014834",
     "category": "..ХРИЗАНТЕМА",
     "name": "КАТИНКА",
-    "wholesalePrice": 70.88,
-    "extraPrice": 74.43,
-    "retailPrice": 88.6
+    "wholesalePrice": 65.21,
+    "extraPrice": 68.47,
+    "retailPrice": 81.51
   },
   {
     "id": "УТ000014837",
     "category": "..ХРИЗАНТЕМА",
     "name": "КОД ГРИН",
-    "wholesalePrice": 70.88,
-    "extraPrice": 74.43,
-    "retailPrice": 88.6
+    "wholesalePrice": 65.21,
+    "extraPrice": 68.47,
+    "retailPrice": 81.51
   },
   {
     "id": "УТ000014842",
     "category": "..ХРИЗАНТЕМА",
     "name": "КОРОНА",
-    "wholesalePrice": 70.88,
-    "extraPrice": 74.43,
-    "retailPrice": 88.6
+    "wholesalePrice": 65.21,
+    "extraPrice": 68.47,
+    "retailPrice": 81.51
   },
   {
     "id": "УТ000014844",
     "category": "..ХРИЗАНТЕМА",
     "name": "ЧИК",
-    "wholesalePrice": 70.88,
-    "extraPrice": 74.43,
-    "retailPrice": 88.6
+    "wholesalePrice": 65.21,
+    "extraPrice": 68.47,
+    "retailPrice": 81.51
   },
   {
     "id": "УТ000014846",
     "category": "..ХРИЗАНТЕМА",
     "name": "ЛИМОНЧЕЛЛО",
-    "wholesalePrice": 104.19,
-    "extraPrice": 109.4,
-    "retailPrice": 130.24
+    "wholesalePrice": 89.54,
+    "extraPrice": 94.02,
+    "retailPrice": 111.93
   },
   {
     "id": "УТ000014874",
     "category": "..ХРИЗАНТЕМА",
     "name": "ОПТИМИСТ РОЗОВЫЙ",
-    "wholesalePrice": 87.91,
-    "extraPrice": 92.31,
-    "retailPrice": 109.89
+    "wholesalePrice": 84.66,
+    "extraPrice": 88.89,
+    "retailPrice": 105.82
   },
   {
     "id": "УТ000014888",
     "category": "..ХРИЗАНТЕМА",
     "name": "РАДОСТЬ",
-    "wholesalePrice": 70.88,
-    "extraPrice": 74.43,
-    "retailPrice": 88.6
+    "wholesalePrice": 65.21,
+    "extraPrice": 68.47,
+    "retailPrice": 81.51
   },
   {
     "id": "УТ000014891",
     "category": "..ХРИЗАНТЕМА",
     "name": "РАДОСТЬ КРЕМ",
-    "wholesalePrice": 70.88,
-    "extraPrice": 74.43,
-    "retailPrice": 88.6
+    "wholesalePrice": 65.21,
+    "extraPrice": 68.47,
+    "retailPrice": 81.51
   },
   {
     "id": "УТ000014905",
     "category": "..ХРИЗАНТЕМА",
     "name": "РИХАНА",
-    "wholesalePrice": 70.88,
-    "extraPrice": 74.43,
-    "retailPrice": 88.6
+    "wholesalePrice": 65.21,
+    "extraPrice": 68.47,
+    "retailPrice": 81.51
   },
   {
     "id": "УТ000014917",
     "category": "..ХРИЗАНТЕМА",
     "name": "САНТИНИ МИКС",
-    "wholesalePrice": 36.63,
-    "extraPrice": 38.46,
-    "retailPrice": 45.79
+    "wholesalePrice": 39.07,
+    "extraPrice": 41.03,
+    "retailPrice": 48.84
   },
   {
     "id": "УТ000014923",
     "category": "..ХРИЗАНТЕМА",
     "name": "СЕРЕНИТИ",
-    "wholesalePrice": 70.88,
-    "extraPrice": 74.43,
-    "retailPrice": 88.6
+    "wholesalePrice": 65.21,
+    "extraPrice": 68.47,
+    "retailPrice": 81.51
   },
   {
     "id": "УТ000014933",
     "category": "..ХРИЗАНТЕМА",
     "name": "СТАЛЛИОН БЕЛЫЙ",
-    "wholesalePrice": 81.4,
-    "extraPrice": 85.47,
-    "retailPrice": 101.75
+    "wholesalePrice": 105.82,
+    "extraPrice": 111.11,
+    "retailPrice": 132.28
   },
   {
     "id": "УТ000014937",
     "category": "..ХРИЗАНТЕМА",
     "name": "СТЕЛЛИНИ",
-    "wholesalePrice": 70.88,
-    "extraPrice": 74.43,
-    "retailPrice": 88.6
+    "wholesalePrice": 65.21,
+    "extraPrice": 68.47,
+    "retailPrice": 81.51
   },
   {
     "id": "УТ000014966",
@@ -48795,25 +48819,25 @@
     "id": "УТ000018702",
     "category": "..ХРИЗАНТЕМА",
     "name": "ЭББИ",
-    "wholesalePrice": 70.88,
-    "extraPrice": 74.43,
-    "retailPrice": 88.6
+    "wholesalePrice": 65.21,
+    "extraPrice": 68.47,
+    "retailPrice": 81.51
   },
   {
     "id": "УТ000018715",
     "category": "..ХРИЗАНТЕМА",
     "name": "АЛТАЙ",
-    "wholesalePrice": 85.47,
-    "extraPrice": 89.74,
-    "retailPrice": 106.84
+    "wholesalePrice": 74.07,
+    "extraPrice": 77.78,
+    "retailPrice": 92.59
   },
   {
     "id": "УТ000016789",
     "category": "..ХРИЗАНТЕМА",
     "name": "ПУРПЛ СТАР",
-    "wholesalePrice": 70.88,
-    "extraPrice": 74.43,
-    "retailPrice": 88.6
+    "wholesalePrice": 65.21,
+    "extraPrice": 68.47,
+    "retailPrice": 81.51
   },
   {
     "id": "УТ000017622",
@@ -48835,9 +48859,9 @@
     "id": "УТ000020915",
     "category": "..ХРИЗАНТЕМА",
     "name": "ЧИК КРЕМ",
-    "wholesalePrice": 70.87,
-    "extraPrice": 74.41,
-    "retailPrice": 88.58
+    "wholesalePrice": 65.2,
+    "extraPrice": 68.46,
+    "retailPrice": 81.5
   },
   {
     "id": "УТ000022641",
