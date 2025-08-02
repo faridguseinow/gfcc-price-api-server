@@ -12168,14 +12168,6 @@
     "retailPrice": 119.46
   },
   {
-    "id": "УТ000032794",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ПРИНСЕСС  КРАУН -  70 см ",
-    "wholesalePrice": 112.76,
-    "extraPrice": 118.39,
-    "retailPrice": 140.94
-  },
-  {
     "id": "УТ000032799",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ПРИНСЕСС  КРАУН- 60 см (СТАР+КОРАЗОН+МАТИЗ+ЭКО РОЗ+SOFI+BELLA ROSA+ЧАРМИНГ)",
@@ -38552,30 +38544,6 @@
     "retailPrice": 117.01
   },
   {
-    "id": "УТ000047139",
-    "category": "..,ЛИЛИЯ",
-    "name": "ЛИЛИЯ ЛА КОРТОНА",
-    "wholesalePrice": 93.61,
-    "extraPrice": 98.29,
-    "retailPrice": 117.01
-  },
-  {
-    "id": "УТ000047140",
-    "category": "..,ЛИЛИЯ",
-    "name": "ЛИЛИЯ ЛА КОРЛЕОНЕ",
-    "wholesalePrice": 93.61,
-    "extraPrice": 98.29,
-    "retailPrice": 117.01
-  },
-  {
-    "id": "УТ000047444",
-    "category": "..,ЛИЛИЯ",
-    "name": "ЛИЛИЯ ОТ ТАЧСТОН",
-    "wholesalePrice": 217.34,
-    "extraPrice": 228.2,
-    "retailPrice": 271.67
-  },
-  {
     "id": "УТ000047563",
     "category": "..,ЛИЛИЯ",
     "name": "ЛИЛИЯ ОР СКОРПИОН",
@@ -40318,6 +40286,14 @@
     "wholesalePrice": 89.54,
     "extraPrice": 94.02,
     "retailPrice": 111.93
+  },
+  {
+    "id": "УТ000011450",
+    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
+    "name": "БАНДАЛЕРО 60 см куст на воде",
+    "wholesalePrice": 119.25,
+    "extraPrice": 125.21,
+    "retailPrice": 149.06
   },
   {
     "id": "УТ000011451",
@@ -45952,6 +45928,14 @@
     "retailPrice": 75.3
   },
   {
+    "id": "УТ000045082",
+    "category": "..,РАЗНОЕ",
+    "name": "ГЕРБЕРА ДАЙМОНД ПАСТИНИ",
+    "wholesalePrice": 91.17,
+    "extraPrice": 95.73,
+    "retailPrice": 113.96
+  },
+  {
     "id": "УТ000045445",
     "category": "..,РАЗНОЕ",
     "name": "ЛЕЙКО ОРАНЖ",
@@ -45990,22 +45974,6 @@
     "wholesalePrice": 84.66,
     "extraPrice": 88.89,
     "retailPrice": 105.82
-  },
-  {
-    "id": "УТ000046140",
-    "category": "..,РАЗНОЕ",
-    "name": "ИРИС  ПРОФ БЛАУ",
-    "wholesalePrice": 31.75,
-    "extraPrice": 33.33,
-    "retailPrice": 39.68
-  },
-  {
-    "id": "УТ000046141",
-    "category": "..,РАЗНОЕ",
-    "name": "ИРИС  ХОНГ КОНГ",
-    "wholesalePrice": 31.75,
-    "extraPrice": 33.33,
-    "retailPrice": 39.68
   },
   {
     "id": "УТ000046143",
@@ -46110,14 +46078,6 @@
     "wholesalePrice": 398.86,
     "extraPrice": 418.8,
     "retailPrice": 498.58
-  },
-  {
-    "id": "УТ000051072",
-    "category": "..,РАЗНОЕ",
-    "name": "ИРИС ВАЛЕНТИН",
-    "wholesalePrice": 31.75,
-    "extraPrice": 33.33,
-    "retailPrice": 39.68
   },
   {
     "id": "УТ000016024",
@@ -46491,9 +46451,9 @@
     "id": "УТ000010223",
     "category": "..,РАЗНОЕ",
     "name": "ДАХЛИА",
-    "wholesalePrice": 122.1,
-    "extraPrice": 128.21,
-    "retailPrice": 152.63
+    "wholesalePrice": 142.45,
+    "extraPrice": 149.57,
+    "retailPrice": 178.06
   },
   {
     "id": "УТ000010241",
@@ -48086,6 +48046,14 @@
     "wholesalePrice": 102.56,
     "extraPrice": 107.69,
     "retailPrice": 128.21
+  },
+  {
+    "id": "УТ000027901",
+    "category": "..ХРИЗАНТЕМА",
+    "name": ".ХРИЗ. ДЕКО ЭТРУСКО ПИНК",
+    "wholesalePrice": 81.4,
+    "extraPrice": 85.47,
+    "retailPrice": 101.75
   },
   {
     "id": "УТ000027905",
