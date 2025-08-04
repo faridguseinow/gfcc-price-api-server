@@ -13232,14 +13232,6 @@
     "retailPrice": 157.97
   },
   {
-    "id": "УТ000039680",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "БЛЮЗ - 70см (АННИ,KING,TU,ROYAL,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН)",
-    "wholesalePrice": 114.16,
-    "extraPrice": 119.87,
-    "retailPrice": 142.7
-  },
-  {
     "id": "УТ000039697",
     "category": "..РОЗА ЭКВАДОР",
     "name": "БУЛЕВАРД-  60см (АННИ,KING,TU,ROYAL,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН)",
@@ -13904,6 +13896,14 @@
     "retailPrice": 154.23
   },
   {
+    "id": "УТ000040102",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "ЭКСПЛОРЕР-  80см (АННИ,KING,TU,ROYAL,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН,)",
+    "wholesalePrice": 110.86,
+    "extraPrice": 116.4,
+    "retailPrice": 138.57
+  },
+  {
     "id": "УТ000040103",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ЭКСПЛОРЕР-  70см (АННИ,KING,TU,ROYAL,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН,)",
@@ -13950,6 +13950,14 @@
     "wholesalePrice": 114.95,
     "extraPrice": 120.7,
     "retailPrice": 143.69
+  },
+  {
+    "id": "УТ000040093",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "ПАЛОМА-  80см (АННИ,KING,TU,ROYAL,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН,)",
+    "wholesalePrice": 113.19,
+    "extraPrice": 118.85,
+    "retailPrice": 141.48
   },
   {
     "id": "УТ000040119",
@@ -16502,14 +16510,6 @@
     "wholesalePrice": 8946.67,
     "extraPrice": 9394.01,
     "retailPrice": 11183.34
-  },
-  {
-    "id": "УТ000045965",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "БОНСАЙ ПОДОКАРПУС 20 СМ",
-    "wholesalePrice": 3163.2,
-    "extraPrice": 3321.36,
-    "retailPrice": 3954.01
   },
   {
     "id": "УТ000046001",
@@ -26168,14 +26168,6 @@
     "retailPrice": 258.45
   },
   {
-    "id": "УТ000050356",
-    "category": "ВАЗЫ И КЕРАМИКА",
-    "name": "ВАЗА № 1711",
-    "wholesalePrice": 590.15,
-    "extraPrice": 619.66,
-    "retailPrice": 737.69
-  },
-  {
     "id": "УТ000050384",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ПЛАСТИК ГОРШОК КВАДРО 11 СМ",
@@ -27483,9 +27475,9 @@
     "id": "УТ000042236",
     "category": "ОТКРЫТКИ",
     "name": "КОНВЕРТ ДЛЯ ДЕНЕГ ПАЧКА 10 ШТ",
-    "wholesalePrice": 105.82,
-    "extraPrice": 111.11,
-    "retailPrice": 132.28
+    "wholesalePrice": 105.01,
+    "extraPrice": 110.26,
+    "retailPrice": 131.26
   },
   {
     "id": "УТ000046492",
@@ -27494,6 +27486,14 @@
     "wholesalePrice": 162.8,
     "extraPrice": 170.94,
     "retailPrice": 203.5
+  },
+  {
+    "id": "УТ000047286",
+    "category": "ОТКРЫТКИ",
+    "name": "КОНВЕРТ БАРХАТНЫЙ АРТ БК",
+    "wholesalePrice": 46.4,
+    "extraPrice": 48.72,
+    "retailPrice": 58
   },
   {
     "id": "УТ000009634",
