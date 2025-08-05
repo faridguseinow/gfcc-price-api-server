@@ -24,14 +24,6 @@
     "retailPrice": 316.71
   },
   {
-    "id": "УТ000032956",
-    "category": "..,РОЗА ,МЕСТНАЯ",
-    "name": "ПОДМОСКВА ОДНО  70 см на воде ",
-    "wholesalePrice": 85.95,
-    "extraPrice": 90.25,
-    "retailPrice": 107.44
-  },
-  {
     "id": "УТ000039232",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЧЕХОВСКИЙ САД ОДНОГ.  50 см",
@@ -86,30 +78,6 @@
     "wholesalePrice": 90.66,
     "extraPrice": 95.19,
     "retailPrice": 113.32
-  },
-  {
-    "id": "УТ000046109",
-    "category": "..,РОЗА ,МЕСТНАЯ",
-    "name": "РОЗА КРАСНОДАР ОДНОГ. 50 см",
-    "wholesalePrice": 57.12,
-    "extraPrice": 59.98,
-    "retailPrice": 71.41
-  },
-  {
-    "id": "УТ000046110",
-    "category": "..,РОЗА ,МЕСТНАЯ",
-    "name": "РОЗА КРАСНОДАР ОДНОГ. 60 см",
-    "wholesalePrice": 71.4,
-    "extraPrice": 74.97,
-    "retailPrice": 89.25
-  },
-  {
-    "id": "УТ000046637",
-    "category": "..,РОЗА ,МЕСТНАЯ",
-    "name": "РОЗА КРАСНОДАР ОДНОГ. 70 см",
-    "wholesalePrice": 86.71,
-    "extraPrice": 91.04,
-    "retailPrice": 108.38
   },
   {
     "id": "УТ000046851",
@@ -190,14 +158,6 @@
     "wholesalePrice": 119.71,
     "extraPrice": 125.69,
     "retailPrice": 149.63
-  },
-  {
-    "id": "УТ000047274",
-    "category": "..,РОЗА ,МЕСТНАЯ",
-    "name": "ПОДМОСКВА КУСТ  70 см на воде",
-    "wholesalePrice": 171.9,
-    "extraPrice": 180.5,
-    "retailPrice": 214.88
   },
   {
     "id": "УТ000007422",
@@ -40328,6 +40288,14 @@
     "retailPrice": 253.75
   },
   {
+    "id": "УТ000051241",
+    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
+    "name": "БЭБИ ПИНК ЙО-ЙО  60 см куст на воде",
+    "wholesalePrice": 113.68,
+    "extraPrice": 119.36,
+    "retailPrice": 142.1
+  },
+  {
     "id": "УТ000051242",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "БЭБИ ПИНК ЙО-ЙО  70 см куст на воде",
@@ -41094,6 +41062,14 @@
     "wholesalePrice": 148.84,
     "extraPrice": 156.28,
     "retailPrice": 186.05
+  },
+  {
+    "id": "УТ000011723",
+    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
+    "name": "САНСЕРРА 50 см куст на воде",
+    "wholesalePrice": 82.74,
+    "extraPrice": 86.88,
+    "retailPrice": 103.43
   },
   {
     "id": "УТ000011724",
@@ -43734,14 +43710,6 @@
     "wholesalePrice": 34.83,
     "extraPrice": 36.58,
     "retailPrice": 43.54
-  },
-  {
-    "id": "УТ000037149",
-    "category": "..РОЗА КЕНИЯ",
-    "name": "ДЖУМИЛИЯ 50 см РОЗА Кения (EVER FLORA)",
-    "wholesalePrice": 42.63,
-    "extraPrice": 44.76,
-    "retailPrice": 53.29
   },
   {
     "id": "УТ000037247",
@@ -46526,6 +46494,14 @@
     "wholesalePrice": 60.9,
     "extraPrice": 63.95,
     "retailPrice": 76.13
+  },
+  {
+    "id": "УТ000010145",
+    "category": "..,РАЗНОЕ",
+    "name": "БУВАРДИЯ",
+    "wholesalePrice": 105.56,
+    "extraPrice": 110.84,
+    "retailPrice": 131.95
   },
   {
     "id": "УТ000010151",
