@@ -10672,6 +10672,14 @@
     "retailPrice": 79.95
   },
   {
+    "id": "УТ000029110",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "САЛМА 60 см",
+    "wholesalePrice": 76.61,
+    "extraPrice": 80.44,
+    "retailPrice": 95.76
+  },
+  {
     "id": "УТ000029111",
     "category": "..РОЗА ЭКВАДОР",
     "name": "САЛМА 70 см",
@@ -12112,14 +12120,6 @@
     "retailPrice": 115.28
   },
   {
-    "id": "УТ000030373",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ОПАЛА- 70см (СТАР+КОРАЗОН+МАТИЗ+ЭКО РОЗ+SOFI+BELLA ROSA+ЧАРМИНГ)  ",
-    "wholesalePrice": 118.07,
-    "extraPrice": 123.98,
-    "retailPrice": 147.59
-  },
-  {
     "id": "УТ000030446",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ФУЛ МОНТИ -  50см ",
@@ -12270,6 +12270,14 @@
     "wholesalePrice": 98.06,
     "extraPrice": 102.96,
     "retailPrice": 122.57
+  },
+  {
+    "id": "УТ000032792",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "ПРИНСЕСС  КРАУН -  50 см ",
+    "wholesalePrice": 84.72,
+    "extraPrice": 88.96,
+    "retailPrice": 105.9
   },
   {
     "id": "УТ000032793",
@@ -18952,14 +18960,6 @@
     "retailPrice": 1733.06
   },
   {
-    "id": "УТ000014348",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "МОНСТЕРА ГРЕЙД 15 СМ (ВАРИЕГАТА)",
-    "wholesalePrice": 2459.99,
-    "extraPrice": 2582.99,
-    "retailPrice": 3074.98
-  },
-  {
     "id": "УТ000014354",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
     "name": "ФАТСИЯ 17 СМ",
@@ -19046,14 +19046,6 @@
     "wholesalePrice": 1740.99,
     "extraPrice": 1828.04,
     "retailPrice": 2176.24
-  },
-  {
-    "id": "УТ000014533",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "ФИКУС КИНКИ 12 СМ",
-    "wholesalePrice": 303.92,
-    "extraPrice": 319.12,
-    "retailPrice": 379.91
   },
   {
     "id": "УТ000014537",
@@ -19438,14 +19430,6 @@
     "wholesalePrice": 2249.2,
     "extraPrice": 2361.66,
     "retailPrice": 2811.5
-  },
-  {
-    "id": "УТ000015226",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "ШЕФФЛЕРА КОМПАКТА 35/130 СМ",
-    "wholesalePrice": 13648.8,
-    "extraPrice": 14331.24,
-    "retailPrice": 17061
   },
   {
     "id": "УТ000015232",
@@ -20406,14 +20390,6 @@
     "wholesalePrice": 345.59,
     "extraPrice": 362.87,
     "retailPrice": 431.99
-  },
-  {
-    "id": "УТ000034820",
-    "category": ".УПАКОВКА",
-    "name": "ПАКЕТ № 042 ПАЧКА 10 ШТ",
-    "wholesalePrice": 343.14,
-    "extraPrice": 360.3,
-    "retailPrice": 428.93
   },
   {
     "id": "УТ000034823",
@@ -24528,14 +24504,6 @@
     "retailPrice": 589.26
   },
   {
-    "id": "УТ000033073",
-    "category": "ВАЗЫ И КЕРАМИКА",
-    "name": "ВАЗА № 1497",
-    "wholesalePrice": 326.8,
-    "extraPrice": 343.14,
-    "retailPrice": 408.5
-  },
-  {
     "id": "УТ000033077",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 1622",
@@ -24598,14 +24566,6 @@
     "wholesalePrice": 1812.92,
     "extraPrice": 1903.57,
     "retailPrice": 2266.15
-  },
-  {
-    "id": "УТ000033100",
-    "category": "ВАЗЫ И КЕРАМИКА",
-    "name": "ВАЗА № 2885",
-    "wholesalePrice": 653.6,
-    "extraPrice": 686.28,
-    "retailPrice": 817
   },
   {
     "id": "УТ000033103",
@@ -26872,14 +26832,6 @@
     "retailPrice": 870.11
   },
   {
-    "id": "УТ000003108",
-    "category": "ВАЗЫ И КЕРАМИКА",
-    "name": "ВАЗА № 1611",
-    "wholesalePrice": 1225.5,
-    "extraPrice": 1286.78,
-    "retailPrice": 1531.88
-  },
-  {
     "id": "УТ000003111",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 1617",
@@ -26990,14 +26942,6 @@
     "wholesalePrice": 359.48,
     "extraPrice": 377.45,
     "retailPrice": 449.35
-  },
-  {
-    "id": "УТ000003157",
-    "category": "ВАЗЫ И КЕРАМИКА",
-    "name": "ВАЗА № 1756",
-    "wholesalePrice": 408.5,
-    "extraPrice": 428.93,
-    "retailPrice": 510.63
   },
   {
     "id": "УТ000003162",
@@ -27974,14 +27918,6 @@
     "wholesalePrice": 40.83,
     "extraPrice": 42.88,
     "retailPrice": 51.04
-  },
-  {
-    "id": "УТ000003902",
-    "category": "..,ГВОЗДИКА",
-    "name": "ГВОЗДИКА КОЛУМБИЯ FLOREGENE",
-    "wholesalePrice": 52.17,
-    "extraPrice": 54.77,
-    "retailPrice": 65.21
   },
   {
     "id": "УТ000003904",
@@ -39464,14 +39400,6 @@
     "retailPrice": 224.68
   },
   {
-    "id": "УТ000032832",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "ГАЛЕТТО VOORN-ROSES 60 см куст на воде",
-    "wholesalePrice": 165.85,
-    "extraPrice": 174.14,
-    "retailPrice": 207.31
-  },
-  {
     "id": "УТ000032848",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "СПИК БЛОССОМ 60 см куст на воде",
@@ -39675,6 +39603,14 @@
     "id": "УТ000036876",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "ПИНК ПРОМАЙС  60 см куст на воде",
+    "wholesalePrice": 147.06,
+    "extraPrice": 154.41,
+    "retailPrice": 183.83
+  },
+  {
+    "id": "УТ000036906",
+    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
+    "name": "САММЕРРОУЗ КРЕМ (FLORA-OLA) 70 см куст на воде",
     "wholesalePrice": 147.06,
     "extraPrice": 154.41,
     "retailPrice": 183.83
@@ -40310,6 +40246,14 @@
     "wholesalePrice": 148.37,
     "extraPrice": 155.79,
     "retailPrice": 185.46
+  },
+  {
+    "id": "УТ000046725",
+    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
+    "name": "НАДИА ДУРАН ( VOORN-ROSES ) 60 см куст на воде",
+    "wholesalePrice": 138.89,
+    "extraPrice": 145.83,
+    "retailPrice": 173.61
   },
   {
     "id": "УТ000046726",
@@ -42528,14 +42472,6 @@
     "retailPrice": 1378.69
   },
   {
-    "id": "УТ000041369",
-    "category": "МЯГКАЯ ИГРУШКА",
-    "name": "Мягкая игрушка ФЛОРИСТИЧЕСКАЯ (1*24)",
-    "wholesalePrice": 1736.13,
-    "extraPrice": 1822.93,
-    "retailPrice": 2170.16
-  },
-  {
     "id": "УТ000041487",
     "category": "МЯГКАЯ ИГРУШКА",
     "name": "Мягкая игрушка № OS001-199/15",
@@ -43048,14 +42984,6 @@
     "retailPrice": 1713.66
   },
   {
-    "id": "УТ000050663",
-    "category": "МЯГКАЯ ИГРУШКА",
-    "name": "Мягкая игрушка № OT5022/40A",
-    "wholesalePrice": 980.4,
-    "extraPrice": 1029.42,
-    "retailPrice": 1225.5
-  },
-  {
     "id": "УТ000015767",
     "category": "МЯГКАЯ ИГРУШКА",
     "name": "Мягкая игрушка № AT 365058",
@@ -43080,28 +43008,12 @@
     "retailPrice": 2033.31
   },
   {
-    "id": "УТ000007580",
-    "category": "МЯГКАЯ ИГРУШКА",
-    "name": "Мягкая игрушка № 1310270",
-    "wholesalePrice": 510.63,
-    "extraPrice": 536.16,
-    "retailPrice": 638.28
-  },
-  {
     "id": "УТ000007581",
     "category": "МЯГКАЯ ИГРУШКА",
     "name": "Мягкая игрушка № 1322949",
     "wholesalePrice": 898.7,
     "extraPrice": 943.64,
     "retailPrice": 1123.38
-  },
-  {
-    "id": "УТ000007582",
-    "category": "МЯГКАЯ ИГРУШКА",
-    "name": "Мягкая игрушка № 1400851",
-    "wholesalePrice": 653.6,
-    "extraPrice": 686.28,
-    "retailPrice": 817
   },
   {
     "id": "УТ000007648",
@@ -43382,14 +43294,6 @@
     "wholesalePrice": 735.3,
     "extraPrice": 772.07,
     "retailPrice": 919.13
-  },
-  {
-    "id": "УТ000008060",
-    "category": "МЯГКАЯ ИГРУШКА",
-    "name": "Мягкая игрушка № MC2595/15AB",
-    "wholesalePrice": 588.24,
-    "extraPrice": 617.65,
-    "retailPrice": 735.3
   },
   {
     "id": "УТ000008092",
@@ -44262,14 +44166,6 @@
     "wholesalePrice": 33.25,
     "extraPrice": 34.91,
     "retailPrice": 41.56
-  },
-  {
-    "id": "УТ000045595",
-    "category": "..РОЗА КЕНИЯ",
-    "name": "АФИНА 40 см РОЗА Кения (BARAKA)",
-    "wholesalePrice": 35.87,
-    "extraPrice": 37.66,
-    "retailPrice": 44.83
   },
   {
     "id": "УТ000045783",
