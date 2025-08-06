@@ -40,14 +40,6 @@
     "retailPrice": 119.18
   },
   {
-    "id": "УТ000036176",
-    "category": "..,РОЗА ,МЕСТНАЯ",
-    "name": "МЕНИ/МИСС КУСТОВАЯ  90 см",
-    "wholesalePrice": 198.73,
-    "extraPrice": 208.66,
-    "retailPrice": 248.41
-  },
-  {
     "id": "УТ000036177",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "МЕНИ/МИСС КУСТОВАЯ  70 см ",
@@ -104,14 +96,6 @@
     "retailPrice": 203.87
   },
   {
-    "id": "УТ000040557",
-    "category": "..,РОЗА ,МЕСТНАЯ",
-    "name": "МЕНИ/МИСС КУСТОВАЯ  60 см",
-    "wholesalePrice": 173.13,
-    "extraPrice": 181.79,
-    "retailPrice": 216.41
-  },
-  {
     "id": "УТ000040758",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЧЕХОВСКИЙ САД КУСТОВАЯ  70 см",
@@ -126,14 +110,6 @@
     "wholesalePrice": 91.22,
     "extraPrice": 95.78,
     "retailPrice": 114.02
-  },
-  {
-    "id": "УТ000041287",
-    "category": "..,РОЗА ,МЕСТНАЯ",
-    "name": "МЕНИ/МИСС КУСТОВАЯ  80 см",
-    "wholesalePrice": 190.3,
-    "extraPrice": 199.81,
-    "retailPrice": 237.87
   },
   {
     "id": "УТ000046851",
@@ -6568,12 +6544,12 @@
     "retailPrice": 554.75
   },
   {
-    "id": "УТ000046101",
+    "id": "УТ000046100",
     "category": " ..ЦВЕТЫ КИТАЙ",
-    "name": "ЛИМОНИУМ КИТАЙ ПАЧКА  ",
-    "wholesalePrice": 1012.57,
-    "extraPrice": 1063.2,
-    "retailPrice": 1265.72
+    "name": "ГИПСОФИЛА КРАШ КИТАЙ ПАЧКА",
+    "wholesalePrice": 1234.69,
+    "extraPrice": 1296.43,
+    "retailPrice": 1543.36
   },
   {
     "id": "УТ000046104",
@@ -6622,14 +6598,6 @@
     "wholesalePrice": 575.45,
     "extraPrice": 604.23,
     "retailPrice": 719.32
-  },
-  {
-    "id": "УТ000048158",
-    "category": " ..ЦВЕТЫ КИТАЙ",
-    "name": "АЛЬСТРОМЕРИЯ КИТАЙ ПАЧКА",
-    "wholesalePrice": 702.2,
-    "extraPrice": 737.31,
-    "retailPrice": 877.75
   },
   {
     "id": "УТ000048760",
@@ -9488,6 +9456,14 @@
     "retailPrice": 105.6
   },
   {
+    "id": "УТ000028733",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "АТОМИК -  70см",
+    "wholesalePrice": 101.73,
+    "extraPrice": 106.82,
+    "retailPrice": 127.17
+  },
+  {
     "id": "УТ000028739",
     "category": "..РОЗА ЭКВАДОР",
     "name": "АЛЬТАМИРА -  60см",
@@ -9558,6 +9534,14 @@
     "wholesalePrice": 63.96,
     "extraPrice": 67.16,
     "retailPrice": 79.95
+  },
+  {
+    "id": "УТ000028760",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "БРАЙТОН-   60см",
+    "wholesalePrice": 76.61,
+    "extraPrice": 80.44,
+    "retailPrice": 95.76
   },
   {
     "id": "УТ000028761",
@@ -10318,14 +10302,6 @@
     "wholesalePrice": 110.55,
     "extraPrice": 116.08,
     "retailPrice": 138.19
-  },
-  {
-    "id": "УТ000028979",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "НОВИА -  40см ",
-    "wholesalePrice": 57.53,
-    "extraPrice": 60.41,
-    "retailPrice": 71.92
   },
   {
     "id": "УТ000028980",
@@ -12088,14 +12064,6 @@
     "retailPrice": 127.75
   },
   {
-    "id": "УТ000030455",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ФУЛ МОНТИ- 70см (СТАР+КОРАЗОН+МАТИЗ+ЭКО РОЗ+SOFI+BELLA ROSA+ЧАРМИНГ)",
-    "wholesalePrice": 120.74,
-    "extraPrice": 126.77,
-    "retailPrice": 150.92
-  },
-  {
     "id": "УТ000030460",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ФУЛ МОНТИ (ТЕССА)-60см ",
@@ -12126,14 +12094,6 @@
     "wholesalePrice": 87.47,
     "extraPrice": 91.84,
     "retailPrice": 109.34
-  },
-  {
-    "id": "УТ000031294",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "СВАН  60см (СТАР+КОРАЗОН+МАТИЗ+ЭКО РОЗ)",
-    "wholesalePrice": 103.15,
-    "extraPrice": 108.31,
-    "retailPrice": 128.94
   },
   {
     "id": "УТ000031295",
@@ -12568,14 +12528,6 @@
     "retailPrice": 155.83
   },
   {
-    "id": "УТ000037138",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "РЕД ПАНТЕРА- 80 см (СТАР+КОРАЗОН+МАТИЗ+ЭКО РОЗ+SOFI+BELLA ROSA+ЧАРМИНГ)",
-    "wholesalePrice": 139.82,
-    "extraPrice": 146.81,
-    "retailPrice": 174.78
-  },
-  {
     "id": "УТ000037143",
     "category": "..РОЗА ЭКВАДОР",
     "name": "РЕД ПАНТЕРА (ТЕССА) 70см",
@@ -12672,14 +12624,6 @@
     "retailPrice": 136.44
   },
   {
-    "id": "УТ000037578",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "НИНА (РОЗАПРИМА)-70см ",
-    "wholesalePrice": 93.08,
-    "extraPrice": 97.73,
-    "retailPrice": 116.35
-  },
-  {
     "id": "УТ000037619",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ПИНК МОНДИАЛЬ (РОЗАПРИМА)-60см ",
@@ -12734,6 +12678,14 @@
     "wholesalePrice": 104.22,
     "extraPrice": 109.44,
     "retailPrice": 130.28
+  },
+  {
+    "id": "УТ000037771",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "ФРИДОМ (РОЗАПРИМА)- 70см",
+    "wholesalePrice": 80.75,
+    "extraPrice": 84.79,
+    "retailPrice": 100.94
   },
   {
     "id": "УТ000037807",
@@ -12886,14 +12838,6 @@
     "wholesalePrice": 104.77,
     "extraPrice": 110.01,
     "retailPrice": 130.97
-  },
-  {
-    "id": "УТ000039421",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "КРЕМ КАРПЕДИЕМ 50 (СТАР+КОРАЗОН+МАТИЗ+ЭКО РОЗ+SOFI+BELLA ROSA+ЧАРМИНГ)",
-    "wholesalePrice": 110.25,
-    "extraPrice": 115.77,
-    "retailPrice": 137.82
   },
   {
     "id": "УТ000039430",
@@ -13374,14 +13318,6 @@
     "wholesalePrice": 120.25,
     "extraPrice": 126.26,
     "retailPrice": 150.31
-  },
-  {
-    "id": "УТ000039831",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "КАХАЛА-  80см (АННИ,KING,TU,ROYAL,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН)",
-    "wholesalePrice": 136.46,
-    "extraPrice": 143.28,
-    "retailPrice": 170.57
   },
   {
     "id": "УТ000039836",
@@ -14566,6 +14502,54 @@
     "wholesalePrice": 147.53,
     "extraPrice": 154.9,
     "retailPrice": 184.41
+  },
+  {
+    "id": "УТ000049428",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "Фатима -  60см  (TECCA)",
+    "wholesalePrice": 127.35,
+    "extraPrice": 133.72,
+    "retailPrice": 159.19
+  },
+  {
+    "id": "УТ000049429",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "Фатима -  70см  (TECCA)",
+    "wholesalePrice": 147.17,
+    "extraPrice": 154.53,
+    "retailPrice": 183.97
+  },
+  {
+    "id": "УТ000049430",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "Фатима -  40см  (СТАР,КОРОЗОН,МАТИЗ,ЭКО РОЗ,БЕЛЛА РОЗА,ЧАРМИНГ,СОФИ,ДАВИНЧИ)",
+    "wholesalePrice": 99.61,
+    "extraPrice": 104.59,
+    "retailPrice": 124.51
+  },
+  {
+    "id": "УТ000049431",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "Фатима -  50см  (СТАР,КОРОЗОН,МАТИЗ,ЭКО РОЗ,БЕЛЛА РОЗА,ЧАРМИНГ,СОФИ,ДАВИНЧИ)",
+    "wholesalePrice": 111.62,
+    "extraPrice": 117.2,
+    "retailPrice": 139.52
+  },
+  {
+    "id": "УТ000049432",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "Фатима -  60см  (СТАР,КОРОЗОН,МАТИЗ,ЭКО РОЗ,БЕЛЛА РОЗА,ЧАРМИНГ,СОФИ,ДАВИНЧИ)",
+    "wholesalePrice": 125.85,
+    "extraPrice": 132.14,
+    "retailPrice": 157.31
+  },
+  {
+    "id": "УТ000049433",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "Фатима -  70см  (СТАР,КОРОЗОН,МАТИЗ,ЭКО РОЗ,БЕЛЛА РОЗА,ЧАРМИНГ,СОФИ,ДАВИНЧИ)",
+    "wholesalePrice": 142.95,
+    "extraPrice": 150.1,
+    "retailPrice": 178.69
   },
   {
     "id": "УТ000050289",
@@ -16574,14 +16558,6 @@
     "wholesalePrice": 964.06,
     "extraPrice": 1012.26,
     "retailPrice": 1205.08
-  },
-  {
-    "id": "УТ000046508",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "АНТУРИУМ ЛИВИУМ  9 СМ",
-    "wholesalePrice": 507.36,
-    "extraPrice": 532.72,
-    "retailPrice": 634.2
   },
   {
     "id": "УТ000046509",
@@ -18766,14 +18742,6 @@
     "wholesalePrice": 1033.51,
     "extraPrice": 1085.18,
     "retailPrice": 1291.88
-  },
-  {
-    "id": "УТ000014306",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "АНТУРИУМ ЭКСКЛЮЗИВНИЙ МИКС 12 СМ",
-    "wholesalePrice": 960.79,
-    "extraPrice": 1008.83,
-    "retailPrice": 1200.99
   },
   {
     "id": "УТ000014310",
@@ -21432,14 +21400,6 @@
     "retailPrice": 2348.88
   },
   {
-    "id": "УТ000047518",
-    "category": ".УПАКОВКА",
-    "name": "КОРОБКА № 5008 НАБОР",
-    "wholesalePrice": 539.22,
-    "extraPrice": 566.18,
-    "retailPrice": 674.03
-  },
-  {
     "id": "УТ000047523",
     "category": ".УПАКОВКА",
     "name": "КОРОБКА № 1013 НАБОР",
@@ -22856,14 +22816,6 @@
     "retailPrice": 153.19
   },
   {
-    "id": "УТ000019114",
-    "category": ".УПАКОВКА",
-    "name": "КОРОБКА № 169",
-    "wholesalePrice": 176.47,
-    "extraPrice": 185.3,
-    "retailPrice": 220.59
-  },
-  {
     "id": "УТ000019115",
     "category": ".УПАКОВКА",
     "name": "КОРОБКА № 170",
@@ -23136,22 +23088,6 @@
     "retailPrice": 162.38
   },
   {
-    "id": "УТ000027405",
-    "category": "ВАЗЫ И КЕРАМИКА",
-    "name": "ПЛАСТИК ГОРШОК ЛАУРА 17 СМ",
-    "wholesalePrice": 163.4,
-    "extraPrice": 171.57,
-    "retailPrice": 204.25
-  },
-  {
-    "id": "УТ000027406",
-    "category": "ВАЗЫ И КЕРАМИКА",
-    "name": "ПЛАСТИК ГОРШОК ЛАУРА 20 СМ",
-    "wholesalePrice": 245.1,
-    "extraPrice": 257.36,
-    "retailPrice": 306.38
-  },
-  {
     "id": "УТ000028096",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ПЛАСТИК ГОРШОК № 201",
@@ -23182,14 +23118,6 @@
     "wholesalePrice": 173.2,
     "extraPrice": 181.86,
     "retailPrice": 216.51
-  },
-  {
-    "id": "УТ000028100",
-    "category": "ВАЗЫ И КЕРАМИКА",
-    "name": "ПЛАСТИК ГОРШОК № 205",
-    "wholesalePrice": 330.07,
-    "extraPrice": 346.57,
-    "retailPrice": 412.59
   },
   {
     "id": "УТ000028101",
@@ -24600,14 +24528,6 @@
     "retailPrice": 1849.48
   },
   {
-    "id": "УТ000034090",
-    "category": "ВАЗЫ И КЕРАМИКА",
-    "name": "ПЛАСТИК ГОРШОК № 874",
-    "wholesalePrice": 643.8,
-    "extraPrice": 675.99,
-    "retailPrice": 804.75
-  },
-  {
     "id": "УТ000034091",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ПЛАСТИК ГОРШОК № 875",
@@ -25398,14 +25318,6 @@
     "wholesalePrice": 1479.59,
     "extraPrice": 1553.57,
     "retailPrice": 1849.48
-  },
-  {
-    "id": "УТ000043707",
-    "category": "ВАЗЫ И КЕРАМИКА",
-    "name": "ПЛАСТИК ГОРШОК № 906",
-    "wholesalePrice": 302.29,
-    "extraPrice": 317.4,
-    "retailPrice": 377.86
   },
   {
     "id": "УТ000043828",
@@ -26488,22 +26400,6 @@
     "retailPrice": 795.55
   },
   {
-    "id": "УТ000051418",
-    "category": "ВАЗЫ И КЕРАМИКА",
-    "name": "ПЛАСТИК ГОРШОК № 361",
-    "wholesalePrice": 539.22,
-    "extraPrice": 566.18,
-    "retailPrice": 674.03
-  },
-  {
-    "id": "УТ000051421",
-    "category": "ВАЗЫ И КЕРАМИКА",
-    "name": "ПЛАСТИК ГОРШОК № 517",
-    "wholesalePrice": 235.3,
-    "extraPrice": 247.06,
-    "retailPrice": 294.12
-  },
-  {
     "id": "УТ000023737",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 1786",
@@ -26846,6 +26742,14 @@
     "wholesalePrice": 199.35,
     "extraPrice": 209.32,
     "retailPrice": 249.19
+  },
+  {
+    "id": "УТ000003163",
+    "category": "ВАЗЫ И КЕРАМИКА",
+    "name": "ВАЗА № 1771",
+    "wholesalePrice": 245.1,
+    "extraPrice": 257.36,
+    "retailPrice": 306.38
   },
   {
     "id": "УТ000003164",
@@ -27672,14 +27576,6 @@
     "retailPrice": 131.74
   },
   {
-    "id": "УТ000045118",
-    "category": "ОТКРЫТКИ",
-    "name": "КОНВЕРТ С РИСУНКОМ",
-    "wholesalePrice": 75.16,
-    "extraPrice": 78.92,
-    "retailPrice": 93.96
-  },
-  {
     "id": "УТ000046492",
     "category": "ОТКРЫТКИ",
     "name": "НАБОР ПРИЩЕПОК 100 ШТ",
@@ -28078,14 +27974,6 @@
     "wholesalePrice": 88.24,
     "extraPrice": 92.65,
     "retailPrice": 110.3
-  },
-  {
-    "id": "УТ000004984",
-    "category": "..,ЗЕЛЕНЬ",
-    "name": "ГИПСОФИЛА  АВРОРА КРАШ",
-    "wholesalePrice": 93.96,
-    "extraPrice": 98.65,
-    "retailPrice": 117.44
   },
   {
     "id": "УТ000004989",
@@ -39160,14 +39048,6 @@
     "retailPrice": 142.98
   },
   {
-    "id": "УТ000031415",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "РОСАНЕЛЛА  60 см куст на воде",
-    "wholesalePrice": 124.76,
-    "extraPrice": 130.99,
-    "retailPrice": 155.94
-  },
-  {
     "id": "УТ000031521",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "РОСАНЕЛЛА  50 см куст на воде",
@@ -45144,14 +45024,6 @@
     "retailPrice": 86.03
   },
   {
-    "id": "УТ000032664",
-    "category": "..,РАЗНОЕ",
-    "name": "ДАХЛИА МИНИ",
-    "wholesalePrice": 142.98,
-    "extraPrice": 150.12,
-    "retailPrice": 178.72
-  },
-  {
     "id": "УТ000032893",
     "category": "..,РАЗНОЕ",
     "name": "ТАНАЦЕТУМ КРАСНОДАР ",
@@ -46390,14 +46262,6 @@
     "wholesalePrice": 212.42,
     "extraPrice": 223.04,
     "retailPrice": 265.53
-  },
-  {
-    "id": "УТ000048248",
-    "category": "..,РАЗНОЕ",
-    "name": "АЛЬСТРОМЕРИЯ КЕНИЯ 60 см",
-    "wholesalePrice": 35.95,
-    "extraPrice": 37.75,
-    "retailPrice": 44.94
   },
   {
     "id": "УТ000048899",
@@ -47894,14 +47758,6 @@
     "wholesalePrice": 147.8,
     "extraPrice": 155.19,
     "retailPrice": 184.74
-  },
-  {
-    "id": "УТ000047261",
-    "category": "..,РОЗА ,НА ВОДЕ",
-    "name": "ПРИСЦИЛЛА 40 см одног на воде",
-    "wholesalePrice": 137.91,
-    "extraPrice": 144.81,
-    "retailPrice": 172.39
   },
   {
     "id": "УТ000047266",
