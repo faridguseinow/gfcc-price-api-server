@@ -6520,14 +6520,6 @@
     "retailPrice": 1547.14
   },
   {
-    "id": "УТ000046104",
-    "category": " ..ЦВЕТЫ КИТАЙ",
-    "name": "ЭВКАЛИПТ ПОПУЛУС КИТАЙ",
-    "wholesalePrice": 576.86,
-    "extraPrice": 605.71,
-    "retailPrice": 721.08
-  },
-  {
     "id": "УТ000046418",
     "category": " ..ЦВЕТЫ КИТАЙ",
     "name": "ГВОЗДИКА ЗЕЛЕНАЯ КИТАЙ ПАЧКА",
@@ -6542,6 +6534,14 @@
     "wholesalePrice": 387.42,
     "extraPrice": 406.79,
     "retailPrice": 484.27
+  },
+  {
+    "id": "УТ000047627",
+    "category": " ..ЦВЕТЫ КИТАЙ",
+    "name": "ЭВКАЛИПТ ЦИНЕРЕЯ КИТАЙ",
+    "wholesalePrice": 1079.81,
+    "extraPrice": 1133.8,
+    "retailPrice": 1349.76
   },
   {
     "id": "УТ000048760",
@@ -15592,14 +15592,6 @@
     "retailPrice": 135.56
   },
   {
-    "id": "УТ000017758",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "НЕНА (ТЕССА)-60 см ",
-    "wholesalePrice": 90.95,
-    "extraPrice": 95.5,
-    "retailPrice": 113.69
-  },
-  {
     "id": "УТ000018109",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ФРУТЕТТО (ТЕССА)- 70см",
@@ -17448,14 +17440,6 @@
     "retailPrice": 12285
   },
   {
-    "id": "УТ000024952",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "ФИКУС ГИНСЕНГ 14 СМ",
-    "wholesalePrice": 1282.55,
-    "extraPrice": 1346.68,
-    "retailPrice": 1603.19
-  },
-  {
     "id": "УТ000025261",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
     "name": "ТИЛЛАНДСИЯ ( Hangbol frame ) 13 СМ",
@@ -17942,14 +17926,6 @@
     "wholesalePrice": 280.92,
     "extraPrice": 294.96,
     "retailPrice": 351.15
-  },
-  {
-    "id": "УТ000004559",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "ГЮНУРА 12 СМ",
-    "wholesalePrice": 413.6,
-    "extraPrice": 434.27,
-    "retailPrice": 516.99
   },
   {
     "id": "УТ000004584",
@@ -19230,6 +19206,14 @@
     "wholesalePrice": 1745.26,
     "extraPrice": 1832.52,
     "retailPrice": 2181.57
+  },
+  {
+    "id": "УТ000014533",
+    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
+    "name": "ФИКУС КИНКИ 12 СМ",
+    "wholesalePrice": 304.67,
+    "extraPrice": 319.9,
+    "retailPrice": 380.84
   },
   {
     "id": "УТ000014537",
@@ -27952,12 +27936,12 @@
     "retailPrice": 38.4
   },
   {
-    "id": "УТ000050172",
+    "id": "УТ000046097",
     "category": "..,ГВОЗДИКА",
-    "name": "ГВОЗДИКА КИТАЙ  СОРТОВАЯ",
-    "wholesalePrice": 28.67,
-    "extraPrice": 30.1,
-    "retailPrice": 35.83
+    "name": "ГВОЗДИКА КИТАЙ",
+    "wholesalePrice": 24.57,
+    "extraPrice": 25.8,
+    "retailPrice": 30.71
   },
   {
     "id": "УТ000003893",
