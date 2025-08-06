@@ -10792,14 +10792,6 @@
     "retailPrice": 93.12
   },
   {
-    "id": "УТ000029264",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "КВИН КРАУН (ТЕССА)- 60см",
-    "wholesalePrice": 106.24,
-    "extraPrice": 111.55,
-    "retailPrice": 132.8
-  },
-  {
     "id": "УТ000029265",
     "category": "..РОЗА ЭКВАДОР",
     "name": "КВИН КРАУН (ТЕССА)- 70см",
@@ -11390,6 +11382,14 @@
     "wholesalePrice": 93.64,
     "extraPrice": 98.32,
     "retailPrice": 117.05
+  },
+  {
+    "id": "УТ000029748",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "ПИНК МОНДИАЛЬ- 60см(СТАР+КОРАЗОН+МАТИЗ+ЭКО РОЗ+SOFI+BELLA ROSA+ЧАРМИНГ)",
+    "wholesalePrice": 104.82,
+    "extraPrice": 110.07,
+    "retailPrice": 131.03
   },
   {
     "id": "УТ000029749",
@@ -13558,14 +13558,6 @@
     "wholesalePrice": 139.69,
     "extraPrice": 146.67,
     "retailPrice": 174.61
-  },
-  {
-    "id": "УТ000039897",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "КЭНДЛЛАЙТ-  80см (АННИ,KING,TU,ROYAL,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН,)",
-    "wholesalePrice": 158.75,
-    "extraPrice": 166.68,
-    "retailPrice": 198.43
   },
   {
     "id": "УТ000039900",
@@ -16787,9 +16779,9 @@
     "id": "УТ000046022",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
     "name": "ФИКУС ШРИВЕРИАНА  6 СМ (КОРОБКА 12 ШТУК)",
-    "wholesalePrice": 282.56,
-    "extraPrice": 296.68,
-    "retailPrice": 353.19
+    "wholesalePrice": 3390.66,
+    "extraPrice": 3560.19,
+    "retailPrice": 4238.33
   },
   {
     "id": "УТ000046038",
@@ -17438,6 +17430,14 @@
     "wholesalePrice": 9828,
     "extraPrice": 10319.4,
     "retailPrice": 12285
+  },
+  {
+    "id": "УТ000024952",
+    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
+    "name": "ФИКУС ГИНСЕНГ 14 СМ",
+    "wholesalePrice": 1282.55,
+    "extraPrice": 1346.68,
+    "retailPrice": 1603.19
   },
   {
     "id": "УТ000025261",
@@ -18547,9 +18547,9 @@
     "id": "УТ000008445",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
     "name": "НЕФРОЛЕПИС 27/80 СМ",
-    "wholesalePrice": 4461.09,
-    "extraPrice": 4684.15,
-    "retailPrice": 5576.37
+    "wholesalePrice": 4000,
+    "extraPrice": 4200,
+    "retailPrice": 5000
   },
   {
     "id": "УТ000008466",
@@ -19131,9 +19131,9 @@
     "id": "УТ000014435",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
     "name": "ФИКУС ЭЛАСТИКА 6 СМ (КОРОБКА 12 ШТУК)\t",
-    "wholesalePrice": 188.37,
-    "extraPrice": 197.79,
-    "retailPrice": 235.46
+    "wholesalePrice": 2260.44,
+    "extraPrice": 2373.46,
+    "retailPrice": 2825.55
   },
   {
     "id": "УТ000014453",
@@ -27944,6 +27944,14 @@
     "retailPrice": 30.71
   },
   {
+    "id": "УТ000050172",
+    "category": "..,ГВОЗДИКА",
+    "name": "ГВОЗДИКА КИТАЙ  СОРТОВАЯ",
+    "wholesalePrice": 28.67,
+    "extraPrice": 30.1,
+    "retailPrice": 35.83
+  },
+  {
     "id": "УТ000003893",
     "category": "..,ГВОЗДИКА",
     "name": " ГВОЗДИКА ЭКВАДОР",
@@ -28163,9 +28171,9 @@
     "id": "УТ000025471",
     "category": "..,ЗЕЛЕНЬ",
     "name": "ЗЕЛЕНЬ КРАСНОДАР",
-    "wholesalePrice": 560.2,
-    "extraPrice": 588.21,
-    "retailPrice": 700.25
+    "wholesalePrice": 24.57,
+    "extraPrice": 25.8,
+    "retailPrice": 30.71
   },
   {
     "id": "УТ000004951",
@@ -29806,14 +29814,6 @@
     "wholesalePrice": 171.42,
     "extraPrice": 179.99,
     "retailPrice": 214.27
-  },
-  {
-    "id": "УТ000019066",
-    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
-    "name": "ФЛАВИА 50 см РОЗА Кен/Куст. (RLR)",
-    "wholesalePrice": 124.41,
-    "extraPrice": 130.63,
-    "retailPrice": 155.51
   },
   {
     "id": "УТ000019078",
@@ -44379,14 +44379,6 @@
     "id": "УТ000024727",
     "category": "..РОЗА КЕНИЯ",
     "name": "КРИСТА 50 см РОЗА Кения (RLR)",
-    "wholesalePrice": 79.2,
-    "extraPrice": 83.16,
-    "retailPrice": 99
-  },
-  {
-    "id": "УТ000024895",
-    "category": "..РОЗА КЕНИЯ",
-    "name": "ВЕРОНИКА 50 см РОЗА Кения (RLR)",
     "wholesalePrice": 79.2,
     "extraPrice": 83.16,
     "retailPrice": 99
