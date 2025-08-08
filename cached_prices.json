@@ -9816,6 +9816,14 @@
     "retailPrice": 94.94
   },
   {
+    "id": "УТ000028847",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "ХАЙ МЭДЖИК-   70см",
+    "wholesalePrice": 91.76,
+    "extraPrice": 96.34,
+    "retailPrice": 114.7
+  },
+  {
     "id": "УТ000028853",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ХАЙ ЕЛЛОУ-   60см",
@@ -10118,14 +10126,6 @@
     "wholesalePrice": 96.47,
     "extraPrice": 101.29,
     "retailPrice": 120.59
-  },
-  {
-    "id": "УТ000028969",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "НАУТИКА 80 см",
-    "wholesalePrice": 108.35,
-    "extraPrice": 113.76,
-    "retailPrice": 135.43
   },
   {
     "id": "УТ000028973",
@@ -13110,14 +13110,6 @@
     "wholesalePrice": 125.75,
     "extraPrice": 132.04,
     "retailPrice": 157.19
-  },
-  {
-    "id": "УТ000039680",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "БЛЮЗ - 70см (АННИ,KING,TU,ROYAL,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН)",
-    "wholesalePrice": 113.6,
-    "extraPrice": 119.28,
-    "retailPrice": 142
   },
   {
     "id": "УТ000039697",
@@ -17750,14 +17742,6 @@
     "wholesalePrice": 277.83,
     "extraPrice": 291.72,
     "retailPrice": 347.29
-  },
-  {
-    "id": "УТ000004584",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "ДЕНДРОБИУМ 12 СМ",
-    "wholesalePrice": 758.16,
-    "extraPrice": 796.07,
-    "retailPrice": 947.7
   },
   {
     "id": "УТ000004593",
@@ -26184,14 +26168,6 @@
     "retailPrice": 149.85
   },
   {
-    "id": "УТ000047534",
-    "category": "ВАЗЫ И КЕРАМИКА",
-    "name": "ПЛАСТИК ГОРШОК № 217",
-    "wholesalePrice": 147.42,
-    "extraPrice": 154.79,
-    "retailPrice": 184.28
-  },
-  {
     "id": "УТ000047536",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ПЛАСТИК ГОРШОК № 914",
@@ -28750,14 +28726,6 @@
     "wholesalePrice": 53.87,
     "extraPrice": 56.56,
     "retailPrice": 67.33
-  },
-  {
-    "id": "УТ000041915",
-    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
-    "name": "ДЖЕЗАБЕЛЬ 70 см РОЗА Кен/Куст. (RLR)",
-    "wholesalePrice": 165.89,
-    "extraPrice": 174.18,
-    "retailPrice": 207.36
   },
   {
     "id": "УТ000043586",
@@ -39192,6 +39160,14 @@
     "retailPrice": 172.13
   },
   {
+    "id": "УТ000037879",
+    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
+    "name": "СВИТ ДЖУЛИА 70 см куст на воде",
+    "wholesalePrice": 119.48,
+    "extraPrice": 125.45,
+    "retailPrice": 149.34
+  },
+  {
     "id": "УТ000038191",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "СИЛВА ПИНК   (SUPER-HOLLAND)  50 см куст на воде",
@@ -42808,14 +42784,6 @@
     "retailPrice": 83.53
   },
   {
-    "id": "УТ000009154",
-    "category": "..РОЗА КЕНИЯ",
-    "name": "РОДОС 60 см РОЗА Кения (RLR)",
-    "wholesalePrice": 88.37,
-    "extraPrice": 92.79,
-    "retailPrice": 110.46
-  },
-  {
     "id": "УТ000009155",
     "category": "..РОЗА КЕНИЯ",
     "name": "РОДОС 60 см РОЗА Кения (SUBATI)",
@@ -43696,6 +43664,14 @@
     "retailPrice": 182.25
   },
   {
+    "id": "УТ000038628",
+    "category": "..,РАЗНОЕ",
+    "name": "ДЕЛЬФИНИУМ БЕЛЫЙ 60 см",
+    "wholesalePrice": 137.7,
+    "extraPrice": 144.59,
+    "retailPrice": 172.13
+  },
+  {
     "id": "УТ000038630",
     "category": "..,РАЗНОЕ",
     "name": "ДЕЛЬФИНИУМ ГОЛУБОЙ  80 см",
@@ -43726,6 +43702,14 @@
     "wholesalePrice": 190.35,
     "extraPrice": 199.87,
     "retailPrice": 237.94
+  },
+  {
+    "id": "УТ000038637",
+    "category": "..,РАЗНОЕ",
+    "name": "ДЕЛЬФИНИУМ ЛАВАНДОВЫЙ  80 см",
+    "wholesalePrice": 157.95,
+    "extraPrice": 165.85,
+    "retailPrice": 197.44
   },
   {
     "id": "УТ000038638",
@@ -43902,22 +43886,6 @@
     "wholesalePrice": 340.2,
     "extraPrice": 357.21,
     "retailPrice": 425.25
-  },
-  {
-    "id": "УТ000038668",
-    "category": "..,РАЗНОЕ",
-    "name": "ГОРТЕНЗИЯ 60 СМ ГОЛУБАЯ",
-    "wholesalePrice": 243,
-    "extraPrice": 255.15,
-    "retailPrice": 303.75
-  },
-  {
-    "id": "УТ000038669",
-    "category": "..,РАЗНОЕ",
-    "name": "ГОРТЕНЗИЯ 60 СМ ЗЕЛЕНАЯ",
-    "wholesalePrice": 348.3,
-    "extraPrice": 365.72,
-    "retailPrice": 435.38
   },
   {
     "id": "УТ000038674",
@@ -44286,6 +44254,14 @@
     "wholesalePrice": 83.43,
     "extraPrice": 87.6,
     "retailPrice": 104.29
+  },
+  {
+    "id": "УТ000038758",
+    "category": "..,РАЗНОЕ",
+    "name": "РАНУНКУЛЮС БАТТЕР",
+    "wholesalePrice": 129.6,
+    "extraPrice": 136.08,
+    "retailPrice": 162
   },
   {
     "id": "УТ000038760",
@@ -45323,9 +45299,9 @@
     "id": "УТ000010528",
     "category": "..,РАЗНОЕ",
     "name": "ПОДСОЛНУХ КРАСНОДАР",
-    "wholesalePrice": 115.83,
-    "extraPrice": 121.62,
-    "retailPrice": 144.79
+    "wholesalePrice": 101.25,
+    "extraPrice": 106.31,
+    "retailPrice": 126.56
   },
   {
     "id": "УТ000010535",
@@ -45366,6 +45342,14 @@
     "wholesalePrice": 113.4,
     "extraPrice": 119.07,
     "retailPrice": 141.75
+  },
+  {
+    "id": "УТ000010555",
+    "category": "..,РАЗНОЕ",
+    "name": "РУБДЕСКИЯ",
+    "wholesalePrice": 76.95,
+    "extraPrice": 80.8,
+    "retailPrice": 96.19
   },
   {
     "id": "УТ000010556",
