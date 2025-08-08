@@ -8760,14 +8760,6 @@
     "retailPrice": 83.47
   },
   {
-    "id": "УТ000013743",
-    "category": "ГРУНТ И УДОБРЕНИЯ ",
-    "name": "ДЕКОР ЛИСТ 1 Л ( СУБСТРАТ )",
-    "wholesalePrice": 39.21,
-    "extraPrice": 41.17,
-    "retailPrice": 49.02
-  },
-  {
     "id": "УТ000013745",
     "category": "ГРУНТ И УДОБРЕНИЯ ",
     "name": "КАКТУС 0,5 Л ( СУБСТРАТ )",
@@ -13318,14 +13310,6 @@
     "wholesalePrice": 79.84,
     "extraPrice": 83.83,
     "retailPrice": 99.8
-  },
-  {
-    "id": "УТ000039824",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "КАРУСЕЛЬ-  70см (АННИ,KING,TU,ROYAL,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН)",
-    "wholesalePrice": 96.2,
-    "extraPrice": 101.01,
-    "retailPrice": 120.24
   },
   {
     "id": "УТ000039825",
@@ -27424,14 +27408,6 @@
     "retailPrice": 345.26
   },
   {
-    "id": "УТ000003334",
-    "category": "ВАЗЫ И КЕРАМИКА",
-    "name": "ВАЗА № 2621",
-    "wholesalePrice": 291.6,
-    "extraPrice": 306.18,
-    "retailPrice": 364.5
-  },
-  {
     "id": "УТ000003337",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 2751",
@@ -28790,6 +28766,14 @@
     "wholesalePrice": 186.87,
     "extraPrice": 196.21,
     "retailPrice": 233.58
+  },
+  {
+    "id": "УТ000045751",
+    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
+    "name": "ЖЕССИ 70 см РОЗА Кен/Куст. (RLR)",
+    "wholesalePrice": 165.89,
+    "extraPrice": 174.18,
+    "retailPrice": 207.36
   },
   {
     "id": "УТ000046694",
@@ -39728,14 +39712,6 @@
     "retailPrice": 783.68
   },
   {
-    "id": "УТ000027633",
-    "category": "МЯГКАЯ ИГРУШКА",
-    "name": "Мягкая игрушка № AT 365272",
-    "wholesalePrice": 934.74,
-    "extraPrice": 981.48,
-    "retailPrice": 1168.43
-  },
-  {
     "id": "УТ000027636",
     "category": "МЯГКАЯ ИГРУШКА",
     "name": "Мягкая игрушка № AT 365281",
@@ -40984,12 +40960,12 @@
     "retailPrice": 1049.96
   },
   {
-    "id": "УТ000015821",
+    "id": "УТ000015794",
     "category": "МЯГКАЯ ИГРУШКА",
-    "name": "Мягкая игрушка № AT 365250",
-    "wholesalePrice": 1612.71,
-    "extraPrice": 1693.35,
-    "retailPrice": 2015.89
+    "name": "Мягкая игрушка № AT 365180",
+    "wholesalePrice": 636.66,
+    "extraPrice": 668.49,
+    "retailPrice": 795.83
   },
   {
     "id": "УТ000007581",
@@ -41478,14 +41454,6 @@
     "wholesalePrice": 944.46,
     "extraPrice": 991.68,
     "retailPrice": 1180.58
-  },
-  {
-    "id": "УТ000017521",
-    "category": "МЯГКАЯ ИГРУШКА",
-    "name": "Мягкая игрушка № AT 365161",
-    "wholesalePrice": 1937.52,
-    "extraPrice": 2034.4,
-    "retailPrice": 2421.9
   },
   {
     "id": "УТ000017813",
@@ -42008,20 +41976,28 @@
     "retailPrice": 52.04
   },
   {
-    "id": "УТ000039397",
-    "category": "..РОЗА КЕНИЯ",
-    "name": "ИНФЮЗИД ПИНК 50 см РОЗА Кения (EVER FLORA)",
-    "wholesalePrice": 39.12,
-    "extraPrice": 41.08,
-    "retailPrice": 48.9
-  },
-  {
     "id": "УТ000039400",
     "category": "..РОЗА КЕНИЯ",
     "name": "ЭКСПЛОРЕР 50 см РОЗА Кения (EVER FLORA)",
     "wholesalePrice": 39.12,
     "extraPrice": 41.08,
     "retailPrice": 48.9
+  },
+  {
+    "id": "УТ000040482",
+    "category": "..РОЗА КЕНИЯ",
+    "name": "ЭВЕР РЕД 50 см РОЗА Кения (EVER FLORA)",
+    "wholesalePrice": 39.12,
+    "extraPrice": 41.08,
+    "retailPrice": 48.9
+  },
+  {
+    "id": "УТ000040685",
+    "category": "..РОЗА КЕНИЯ",
+    "name": "ПИНК РОДОС 50 см РОЗА Кения (EVER FLORA)",
+    "wholesalePrice": 42.53,
+    "extraPrice": 44.65,
+    "retailPrice": 53.16
   },
   {
     "id": "УТ000040855",
@@ -42038,6 +42014,14 @@
     "wholesalePrice": 53.87,
     "extraPrice": 56.56,
     "retailPrice": 67.33
+  },
+  {
+    "id": "УТ000040859",
+    "category": "..РОЗА КЕНИЯ",
+    "name": "ЭВЕР РЕД 60 см РОЗА Кения (BARAKA)",
+    "wholesalePrice": 63.34,
+    "extraPrice": 66.51,
+    "retailPrice": 79.18
   },
   {
     "id": "УТ000040861",
@@ -42062,6 +42046,14 @@
     "wholesalePrice": 44.23,
     "extraPrice": 46.44,
     "retailPrice": 55.28
+  },
+  {
+    "id": "УТ000042957",
+    "category": "..РОЗА КЕНИЯ",
+    "name": "СОФИ ЛОРЕН 50 см РОЗА Кения (EVER FLORA)",
+    "wholesalePrice": 39.12,
+    "extraPrice": 41.08,
+    "retailPrice": 48.9
   },
   {
     "id": "УТ000043061",
@@ -42259,14 +42251,6 @@
     "id": "УТ000051216",
     "category": "..РОЗА КЕНИЯ",
     "name": "ДАУН ТАУН  50 см РОЗА Кения (KREDIBLE)",
-    "wholesalePrice": 42.53,
-    "extraPrice": 44.65,
-    "retailPrice": 53.16
-  },
-  {
-    "id": "УТ000051217",
-    "category": "..РОЗА КЕНИЯ",
-    "name": "РЕВАЙВЛ  50 см РОЗА Кения (KREDIBLE)",
     "wholesalePrice": 42.53,
     "extraPrice": 44.65,
     "retailPrice": 53.16
@@ -42582,14 +42566,6 @@
     "wholesalePrice": 57.27,
     "extraPrice": 60.13,
     "retailPrice": 71.58
-  },
-  {
-    "id": "УТ000008718",
-    "category": "..РОЗА КЕНИЯ",
-    "name": "БЕЛЛА РОЗА  60 см РОЗА Кения (RLR)",
-    "wholesalePrice": 88.37,
-    "extraPrice": 92.79,
-    "retailPrice": 110.46
   },
   {
     "id": "УТ000008731",
