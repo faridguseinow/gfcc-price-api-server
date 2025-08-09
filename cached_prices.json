@@ -17192,14 +17192,6 @@
     "retailPrice": 1570.21
   },
   {
-    "id": "УТ000015703",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "АСПАРАГУС 12 СМ",
-    "wholesalePrice": 439.29,
-    "extraPrice": 461.26,
-    "retailPrice": 549.12
-  },
-  {
     "id": "УТ000015712",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
     "name": "ГУЗМАНИЯ МИКС 13 СМ",
@@ -23362,7 +23354,7 @@
   {
     "id": "УТ000027391",
     "category": "ВАЗЫ И КЕРАМИКА",
-    "name": "ПЛАСТИК ГОРШОК ЛАУРА 11 СМ",
+    "name": "ПЛАСТИК ГОРШОК ЛАУРА 11 СМ ПАЧКА 16 ШТ",
     "wholesalePrice": 716.18,
     "extraPrice": 751.99,
     "retailPrice": 895.23
@@ -28744,14 +28736,6 @@
     "retailPrice": 212.44
   },
   {
-    "id": "УТ000027039",
-    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
-    "name": "МЭНСФИЛД ПАРК 50 см РОЗА Кен/Куст. (MZURRIE)",
-    "wholesalePrice": 125.21,
-    "extraPrice": 131.47,
-    "retailPrice": 156.51
-  },
-  {
     "id": "УТ000027419",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "МЭНСФИЛД ПАРК 60 см РОЗА Кен/Куст. (MZURRIE)",
@@ -29406,14 +29390,6 @@
     "wholesalePrice": 157.12,
     "extraPrice": 164.98,
     "retailPrice": 196.4
-  },
-  {
-    "id": "УТ000005217",
-    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
-    "name": "БАНДАЛЕРО 50 см РОЗА Кен/Куст. (RLR)",
-    "wholesalePrice": 123.34,
-    "extraPrice": 129.51,
-    "retailPrice": 154.18
   },
   {
     "id": "УТ000005220",
@@ -36272,14 +36248,6 @@
     "retailPrice": 446.6
   },
   {
-    "id": "УТ000006519",
-    "category": "КОРЗИНА",
-    "name": "Корзина Травяная - 13895",
-    "wholesalePrice": 375.14,
-    "extraPrice": 393.9,
-    "retailPrice": 468.93
-  },
-  {
     "id": "УТ000006520",
     "category": "КОРЗИНА",
     "name": "Корзина Травяная - 13914",
@@ -39552,14 +39520,6 @@
     "retailPrice": 153.77
   },
   {
-    "id": "УТ000047113",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "БАКАЛАВЫР VIP ROSES  60 см куст на воде",
-    "wholesalePrice": 271.94,
-    "extraPrice": 285.54,
-    "retailPrice": 339.92
-  },
-  {
     "id": "УТ000047114",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "БАКАЛАВЫР VIP ROSES  50 см куст на воде",
@@ -39638,6 +39598,14 @@
     "wholesalePrice": 114.41,
     "extraPrice": 120.13,
     "retailPrice": 143.01
+  },
+  {
+    "id": "УТ000025522",
+    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
+    "name": "ДЖУЛЬЕТТА  60 см куст на воде",
+    "wholesalePrice": 146.16,
+    "extraPrice": 153.47,
+    "retailPrice": 182.7
   },
   {
     "id": "УТ000025534",
@@ -45592,6 +45560,14 @@
     "retailPrice": 172.55
   },
   {
+    "id": "УТ000011358",
+    "category": "..,РОЗА ,НА ВОДЕ",
+    "name": "КАНТРИ 70 см одног на воде",
+    "wholesalePrice": 115.42,
+    "extraPrice": 121.19,
+    "retailPrice": 144.27
+  },
+  {
     "id": "УТ000012305",
     "category": "..,РОЗА ,НА ВОДЕ",
     "name": "РОМАНТИК ВУВУЗЕЛЛА  60 см одног на воде",
@@ -45694,14 +45670,6 @@
     "wholesalePrice": 67.56,
     "extraPrice": 70.94,
     "retailPrice": 84.45
-  },
-  {
-    "id": "УТ000026588",
-    "category": "..ХРИЗАНТЕМА",
-    "name": ".ХРИЗ. ДЕКО РОКСО",
-    "wholesalePrice": 103.94,
-    "extraPrice": 109.13,
-    "retailPrice": 129.92
   },
   {
     "id": "УТ000027900",
@@ -45912,14 +45880,6 @@
     "retailPrice": 105.56
   },
   {
-    "id": "УТ000038187",
-    "category": "..ХРИЗАНТЕМА",
-    "name": ".ХРИЗ. ДЕКО ХОРИНБОЛЛ",
-    "wholesalePrice": 70.35,
-    "extraPrice": 73.87,
-    "retailPrice": 87.94
-  },
-  {
     "id": "УТ000039086",
     "category": "..ХРИЗАНТЕМА",
     "name": "СЕРЕНИТИ ПУРПЛ",
@@ -46038,22 +45998,6 @@
     "wholesalePrice": 65.81,
     "extraPrice": 69.1,
     "retailPrice": 82.27
-  },
-  {
-    "id": "УТ000047401",
-    "category": "..ХРИЗАНТЕМА",
-    "name": ".ХРИЗ. ДЕКО АНТОНОВ КРАШ CERISE",
-    "wholesalePrice": 80.1,
-    "extraPrice": 84.11,
-    "retailPrice": 100.13
-  },
-  {
-    "id": "УТ000047412",
-    "category": "..ХРИЗАНТЕМА",
-    "name": ".ХРИЗ. ДЕКО АНТОНОВ КРАШ SKY BLUE",
-    "wholesalePrice": 80.1,
-    "extraPrice": 84.11,
-    "retailPrice": 100.13
   },
   {
     "id": "УТ000048383",
@@ -46366,14 +46310,6 @@
     "wholesalePrice": 81.2,
     "extraPrice": 85.26,
     "retailPrice": 101.5
-  },
-  {
-    "id": "УТ000014933",
-    "category": "..ХРИЗАНТЕМА",
-    "name": "СТАЛЛИОН БЕЛЫЙ",
-    "wholesalePrice": 110.43,
-    "extraPrice": 115.95,
-    "retailPrice": 138.04
   },
   {
     "id": "УТ000014937",
