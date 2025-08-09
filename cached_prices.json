@@ -19,9 +19,9 @@
     "id": "УТ000034885",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЛИНИЯ РОЗА ОДНОГОЛОВАЯ.. 70 СМ",
-    "wholesalePrice": 82.24,
-    "extraPrice": 86.36,
-    "retailPrice": 102.8
+    "wholesalePrice": 100.12,
+    "extraPrice": 105.12,
+    "retailPrice": 125.15
   },
   {
     "id": "УТ000039232",
@@ -144,12 +144,44 @@
     "retailPrice": 149.45
   },
   {
+    "id": "УТ000007422",
+    "category": "..,РОЗА ,МЕСТНАЯ",
+    "name": "ЛИНИЯ РОЗА ОДНОГОЛОВАЯ.. 50 СМ",
+    "wholesalePrice": 69.08,
+    "extraPrice": 72.54,
+    "retailPrice": 86.35
+  },
+  {
     "id": "УТ000007425",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЛИНИЯ РОЗА ОДНОГОЛОВАЯ.. 60 СМ",
-    "wholesalePrice": 69.74,
-    "extraPrice": 73.22,
-    "retailPrice": 87.17
+    "wholesalePrice": 82.1,
+    "extraPrice": 86.2,
+    "retailPrice": 102.62
+  },
+  {
+    "id": "УТ000007427",
+    "category": "..,РОЗА ,МЕСТНАЯ",
+    "name": "ЛИНИЯ РОЗА КУСТОВАЯ. 70 СМ",
+    "wholesalePrice": 185.22,
+    "extraPrice": 194.49,
+    "retailPrice": 231.53
+  },
+  {
+    "id": "УТ000010355",
+    "category": "..,РОЗА ,МЕСТНАЯ",
+    "name": "ЛИНИЯ РОЗА КУСТОВАЯ. 50 СМ",
+    "wholesalePrice": 135.16,
+    "extraPrice": 141.92,
+    "retailPrice": 168.95
+  },
+  {
+    "id": "УТ000014022",
+    "category": "..,РОЗА ,МЕСТНАЯ",
+    "name": "ЛИНИЯ РОЗА КУСТОВАЯ. 60 СМ",
+    "wholesalePrice": 165.2,
+    "extraPrice": 173.46,
+    "retailPrice": 206.5
   },
   {
     "id": "УТ000033205",
@@ -8688,14 +8720,6 @@
     "retailPrice": 478.49
   },
   {
-    "id": "УТ000004918",
-    "category": "ГРУНТ И УДОБРЕНИЯ ",
-    "name": "ДРЕНАЖ ФАРТ (ПАЧКА 10 ШТ)",
-    "wholesalePrice": 709.26,
-    "extraPrice": 744.72,
-    "retailPrice": 886.58
-  },
-  {
     "id": "УТ000005964",
     "category": "ГРУНТ И УДОБРЕНИЯ ",
     "name": "КАРБАМИД 1 КГ (МОЧЕВИНА . JOY)",
@@ -12126,14 +12150,6 @@
     "wholesalePrice": 119.18,
     "extraPrice": 125.14,
     "retailPrice": 148.98
-  },
-  {
-    "id": "УТ000033272",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ВЕГГИЕ 60см",
-    "wholesalePrice": 139.55,
-    "extraPrice": 146.53,
-    "retailPrice": 174.44
   },
   {
     "id": "УТ000033275",
@@ -20536,14 +20552,6 @@
     "retailPrice": 628.53
   },
   {
-    "id": "УТ000023299",
-    "category": ".УПАКОВКА",
-    "name": "ЯЩИК № 055",
-    "wholesalePrice": 196.26,
-    "extraPrice": 206.08,
-    "retailPrice": 245.33
-  },
-  {
     "id": "УТ000023300",
     "category": ".УПАКОВКА",
     "name": "ЯЩИК № 057",
@@ -28464,14 +28472,6 @@
     "retailPrice": 40.55
   },
   {
-    "id": "УТ000005044",
-    "category": "..,ЗЕЛЕНЬ",
-    "name": "РУСКУС ИТАЛИЯ 100 см",
-    "wholesalePrice": 346.86,
-    "extraPrice": 364.21,
-    "retailPrice": 433.58
-  },
-  {
     "id": "УТ000005048",
     "category": "..,ЗЕЛЕНЬ",
     "name": "САЛАЛ ЭКСТРА",
@@ -29422,6 +29422,14 @@
     "wholesalePrice": 108.67,
     "extraPrice": 114.11,
     "retailPrice": 135.84
+  },
+  {
+    "id": "УТ000005245",
+    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
+    "name": "БОМБАСТИК 60 см РОЗА Кен/Куст. (SUBATI)",
+    "wholesalePrice": 126.03,
+    "extraPrice": 132.33,
+    "retailPrice": 157.54
   },
   {
     "id": "УТ000005246",
