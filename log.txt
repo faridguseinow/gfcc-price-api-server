@@ -7835,3 +7835,18 @@ fatal: could not read Username for 'https://github.com': No such file or directo
 🔄 Подключение к FTP...
 📥 Скачивание XML...
 ✅ Прайс обновлён. Сохранено: 5898 позиций
+warning: in the working copy of 'cached_prices.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'farid_gold.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'log.txt', LF will be replaced by CRLF the next time Git touches it
+[main 5ee1482] ╨Р╨▓╤В╨╛╨╛╨▒╨╜╨╛╨▓╨╗╨╡╨╜╨╕╨╡ ╨┐╤А╨░╨╣╤Б-╨╗╨╕╤Б╤В╨░
+ 3 files changed, 43 insertions(+), 1 deletion(-)
+fatal: Unable to persist credentials with the 'wincredman' credential store.
+See https://aka.ms/gcm/credstores for more information.
+bash: line 1: /dev/tty: No such device or address
+error: failed to execute prompt script (exit code 1)
+fatal: could not read Username for 'https://github.com': No such file or directory
+10.08.2025 11:00:02,79 
+Обновление завершено. 
+🔄 Подключение к FTP...
+📥 Скачивание XML...
+✅ Прайс обновлён. Сохранено: 5899 позиций
