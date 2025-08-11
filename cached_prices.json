@@ -9848,14 +9848,6 @@
     "retailPrice": 93.51
   },
   {
-    "id": "УТ000028847",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ХАЙ МЭДЖИК-   70см",
-    "wholesalePrice": 90.38,
-    "extraPrice": 94.9,
-    "retailPrice": 112.97
-  },
-  {
     "id": "УТ000028853",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ХАЙ ЕЛЛОУ-   60см",
@@ -15046,6 +15038,14 @@
     "wholesalePrice": 158.05,
     "extraPrice": 165.95,
     "retailPrice": 197.56
+  },
+  {
+    "id": "УТ000024978",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "КАНТРИ БЛЮЗ (ТЕССА)- 50см",
+    "wholesalePrice": 118.58,
+    "extraPrice": 124.51,
+    "retailPrice": 148.23
   },
   {
     "id": "УТ000025248",
@@ -39952,14 +39952,6 @@
     "retailPrice": 101.45
   },
   {
-    "id": "УТ000040818",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "ФАНСИ 60 см куст на воде",
-    "wholesalePrice": 118.18,
-    "extraPrice": 124.09,
-    "retailPrice": 147.72
-  },
-  {
     "id": "УТ000041187",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "АРИЯ 70 см куст на воде",
@@ -43008,6 +43000,14 @@
     "retailPrice": 42.32
   },
   {
+    "id": "УТ000047371",
+    "category": "..РОЗА КЕНИЯ",
+    "name": "АФИНА 50 см РОЗА Кения (MT ELGON)",
+    "wholesalePrice": 40.74,
+    "extraPrice": 42.78,
+    "retailPrice": 50.93
+  },
+  {
     "id": "УТ000047691",
     "category": "..РОЗА КЕНИЯ",
     "name": "МАДАМ РЕД 40 см РОЗА Кения (PJDAVE)",
@@ -44670,6 +44670,14 @@
     "wholesalePrice": 59.13,
     "extraPrice": 62.09,
     "retailPrice": 73.91
+  },
+  {
+    "id": "УТ000038676",
+    "category": "..,РАЗНОЕ",
+    "name": "ГИПЕРИКУМ 70 СМ БЕЛЫЙ",
+    "wholesalePrice": 68.85,
+    "extraPrice": 72.29,
+    "retailPrice": 86.06
   },
   {
     "id": "УТ000038680",
