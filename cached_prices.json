@@ -10856,14 +10856,6 @@
     "retailPrice": 131.93
   },
   {
-    "id": "УТ000029497",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "БЕЛЫЙ ШОКОЛАД- 70см (СТАР,КОРОЗОН,МАТИЗ,ЭКО РОЗ,БЕЛЛА РОЗА,ЧАРМИНГ,СОФИ,ДАВИНЧИ)",
-    "wholesalePrice": 113.75,
-    "extraPrice": 119.44,
-    "retailPrice": 142.19
-  },
-  {
     "id": "УТ000029498",
     "category": "..РОЗА ЭКВАДОР",
     "name": "БЕЛЫЙ ШОКОЛАД- 80см (СТАР,КОРОЗОН,МАТИЗ,ЭКО РОЗ,БЕЛЛА РОЗА,ЧАРМИНГ,СОФИ,ДАВИНЧИ)",
@@ -14464,14 +14456,6 @@
     "retailPrice": 128.22
   },
   {
-    "id": "УТ000040455",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ПИНК МОНДИАЛЬ-  60см  (АННИ,KING,TU,ROYAL,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН,)",
-    "wholesalePrice": 92.06,
-    "extraPrice": 96.67,
-    "retailPrice": 115.08
-  },
-  {
     "id": "УТ000040456",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ПИНК МОНДИАЛЬ-  70см( (АННИ,KING,TU,ROYAL,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН,)",
@@ -15064,14 +15048,6 @@
     "retailPrice": 147.68
   },
   {
-    "id": "УТ000025248",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ФРИДОМ (САЧА)- 60см",
-    "wholesalePrice": 89.21,
-    "extraPrice": 93.67,
-    "retailPrice": 111.52
-  },
-  {
     "id": "УТ000025249",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ФРИДОМ (САЧА)- 70см",
@@ -15520,14 +15496,6 @@
     "retailPrice": 127.53
   },
   {
-    "id": "УТ000017440",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ЛОЛА (ТЕССА)-60 см ",
-    "wholesalePrice": 104.68,
-    "extraPrice": 109.92,
-    "retailPrice": 130.86
-  },
-  {
     "id": "УТ000017442",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ЛОЛА (ТЕССА)-70 см ",
@@ -15582,14 +15550,6 @@
     "wholesalePrice": 122.69,
     "extraPrice": 128.82,
     "retailPrice": 153.36
-  },
-  {
-    "id": "УТ000017457",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "МОНДИАЛЬ (ТЕССА)- 90 см ",
-    "wholesalePrice": 135.36,
-    "extraPrice": 142.13,
-    "retailPrice": 169.2
   },
   {
     "id": "УТ000017458",
@@ -16291,9 +16251,9 @@
     "id": "УТ000031603",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
     "name": "ФИКУС ЭЛАСТИКА МИКС 27/110 СМ",
-    "wholesalePrice": 4064.86,
-    "extraPrice": 4268.1,
-    "retailPrice": 5081.07
+    "wholesalePrice": 5326.2,
+    "extraPrice": 5592.51,
+    "retailPrice": 6657.75
   },
   {
     "id": "УТ000031606",
@@ -17387,9 +17347,9 @@
     "id": "УТ000051468",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
     "name": "ФИКУС ЭЛАСТИКА МИКС 27/80  СМ",
-    "wholesalePrice": 4444.96,
-    "extraPrice": 4667.2,
-    "retailPrice": 5556.2
+    "wholesalePrice": 3631.5,
+    "extraPrice": 3813.08,
+    "retailPrice": 4539.38
   },
   {
     "id": "УТ000051453",
@@ -19075,9 +19035,9 @@
     "id": "УТ000013702",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
     "name": "СПАТИФИЛЛИУМ 24/120 СМ",
-    "wholesalePrice": 7423.59,
-    "extraPrice": 7794.77,
-    "retailPrice": 9279.49
+    "wholesalePrice": 4656.39,
+    "extraPrice": 4889.21,
+    "retailPrice": 5820.49
   },
   {
     "id": "УТ000013703",
@@ -39960,14 +39920,6 @@
     "retailPrice": 141.23
   },
   {
-    "id": "УТ000040817",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "ФАНСИ 50 см куст на воде",
-    "wholesalePrice": 80.86,
-    "extraPrice": 84.9,
-    "retailPrice": 101.08
-  },
-  {
     "id": "УТ000041187",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "АРИЯ 70 см куст на воде",
@@ -45283,9 +45235,9 @@
     "id": "УТ000050574",
     "category": "..,РАЗНОЕ",
     "name": "ПСИЛЛОСТАХ",
-    "wholesalePrice": 161.4,
-    "extraPrice": 169.47,
-    "retailPrice": 201.75
+    "wholesalePrice": 130.32,
+    "extraPrice": 136.84,
+    "retailPrice": 162.9
   },
   {
     "id": "УТ000050607",
@@ -46779,6 +46731,14 @@
     "id": "УТ000047401",
     "category": "..ХРИЗАНТЕМА",
     "name": ".ХРИЗ. ДЕКО АНТОНОВ КРАШ CERISE",
+    "wholesalePrice": 92.81,
+    "extraPrice": 97.45,
+    "retailPrice": 116.01
+  },
+  {
+    "id": "УТ000047410",
+    "category": "..ХРИЗАНТЕМА",
+    "name": ".ХРИЗ. ДЕКО АНТОНОВ КРАШ MILKA",
     "wholesalePrice": 92.81,
     "extraPrice": 97.45,
     "retailPrice": 116.01
