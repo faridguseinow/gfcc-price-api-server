@@ -19,17 +19,17 @@
     "id": "УТ000032102",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЛИНИЯ РОЗА КУСТОВАЯ. 80 СМ",
-    "wholesalePrice": 204.99,
-    "extraPrice": 215.24,
-    "retailPrice": 256.24
+    "wholesalePrice": 255,
+    "extraPrice": 267.75,
+    "retailPrice": 318.75
   },
   {
     "id": "УТ000034885",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЛИНИЯ РОЗА ОДНОГОЛОВАЯ.. 70 СМ",
-    "wholesalePrice": 99.99,
-    "extraPrice": 104.99,
-    "retailPrice": 124.99
+    "wholesalePrice": 101,
+    "extraPrice": 106.05,
+    "retailPrice": 126.25
   },
   {
     "id": "УТ000039231",
@@ -179,49 +179,49 @@
     "id": "УТ000007422",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЛИНИЯ РОЗА ОДНОГОЛОВАЯ.. 50 СМ",
-    "wholesalePrice": 58.5,
-    "extraPrice": 61.42,
-    "retailPrice": 73.12
+    "wholesalePrice": 76.2,
+    "extraPrice": 80.01,
+    "retailPrice": 95.25
   },
   {
     "id": "УТ000007425",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЛИНИЯ РОЗА ОДНОГОЛОВАЯ.. 60 СМ",
-    "wholesalePrice": 64.99,
-    "extraPrice": 68.24,
-    "retailPrice": 81.24
+    "wholesalePrice": 90,
+    "extraPrice": 94.5,
+    "retailPrice": 112.5
   },
   {
     "id": "УТ000007427",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЛИНИЯ РОЗА КУСТОВАЯ. 70 СМ",
-    "wholesalePrice": 185,
-    "extraPrice": 194.25,
-    "retailPrice": 231.24
+    "wholesalePrice": 209.99,
+    "extraPrice": 220.49,
+    "retailPrice": 262.49
   },
   {
     "id": "УТ000010355",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЛИНИЯ РОЗА КУСТОВАЯ. 50 СМ",
-    "wholesalePrice": 117,
-    "extraPrice": 122.85,
-    "retailPrice": 146.25
+    "wholesalePrice": 139.99,
+    "extraPrice": 146.99,
+    "retailPrice": 174.99
   },
   {
     "id": "УТ000010833",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЛИНИЯ РОЗА ОДНОГОЛОВАЯ..80 СМ",
-    "wholesalePrice": 105.91,
-    "extraPrice": 111.2,
-    "retailPrice": 132.38
+    "wholesalePrice": 130,
+    "extraPrice": 136.5,
+    "retailPrice": 162.5
   },
   {
     "id": "УТ000014022",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЛИНИЯ РОЗА КУСТОВАЯ. 60 СМ",
-    "wholesalePrice": 122.5,
-    "extraPrice": 128.62,
-    "retailPrice": 153.12
+    "wholesalePrice": 165,
+    "extraPrice": 173.25,
+    "retailPrice": 206.25
   },
   {
     "id": "УТ000033205",
@@ -14302,6 +14302,14 @@
     "wholesalePrice": 90.08,
     "extraPrice": 94.58,
     "retailPrice": 112.6
+  },
+  {
+    "id": "УТ000040435",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "ПЛАЙЯ БЛАНКА-  60см(АННИ,KING,TU,ROYAL,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН,)",
+    "wholesalePrice": 99.74,
+    "extraPrice": 104.72,
+    "retailPrice": 124.67
   },
   {
     "id": "УТ000040436",
@@ -29336,28 +29344,12 @@
     "retailPrice": 161.55
   },
   {
-    "id": "УТ000005566",
-    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
-    "name": "ПУШКИН 60 см РОЗА Кен/Куст. (RLR)",
-    "wholesalePrice": 157.91,
-    "extraPrice": 165.8,
-    "retailPrice": 197.39
-  },
-  {
     "id": "УТ000005597",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "ЗАДИК 50 см РОЗА Кен/Куст. (RLR)",
     "wholesalePrice": 123.45,
     "extraPrice": 129.62,
     "retailPrice": 154.32
-  },
-  {
-    "id": "УТ000005599",
-    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
-    "name": "ЗАДИК 60 см РОЗА Кен/Куст. (RLR)",
-    "wholesalePrice": 155.11,
-    "extraPrice": 162.86,
-    "retailPrice": 193.88
   },
   {
     "id": "УТ000005601",
@@ -29550,6 +29542,14 @@
     "wholesalePrice": 196.29,
     "extraPrice": 206.1,
     "retailPrice": 245.36
+  },
+  {
+    "id": "УТ000019078",
+    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
+    "name": "ФЛАВИА 60 см РОЗА Кен/Куст. (RLR)",
+    "wholesalePrice": 157.91,
+    "extraPrice": 165.8,
+    "retailPrice": 197.39
   },
   {
     "id": "УТ000019079",
@@ -45470,6 +45470,14 @@
     "wholesalePrice": 55.08,
     "extraPrice": 57.83,
     "retailPrice": 68.85
+  },
+  {
+    "id": "УТ000010606",
+    "category": "..,РАЗНОЕ",
+    "name": "ТАНАЦЕТУМ",
+    "wholesalePrice": 50.22,
+    "extraPrice": 52.73,
+    "retailPrice": 62.78
   },
   {
     "id": "УТ000010614",
