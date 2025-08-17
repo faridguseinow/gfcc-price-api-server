@@ -1,4 +1,4 @@
-<PriceList date="17.08.2025 16:26:44">
+<PriceList date="17.08.2025 16:56:45">
 	<GroupsOfGoods>
 		<Group ID="ÓÒ000028416" Name="ÑÓÕÈÅ ÐÎÇÛ" ParentID="" ParentName=""/>
 		<Group ID="ÓÒ000032724" Name="..,ÐÎÇÀ ,ÌÅÑÒÍÀß" ParentID="" ParentName=""/>
@@ -5680,6 +5680,10 @@ S:29x20 H9/13 HH27 B24x15&quot;
 M:D28 H13 HH35 B24
 S:D24 H11 HH30 B20&quot;
 " Price="1138,05" PriceRetail="1422,56" PriceExt="1194,95" ParentID="ÓÒ000002217" ParentName="ÊÎÐÇÈÍÀ"/>
+		<Item ID="ÓÒ000041811" Name="Êîðçèíà - 8884203" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="&quot;L:35x26 H15 HH38 B32x22
+M:32x22 H14 HH33 B28x18
+S:28x18 H11 HH28 B24x14&quot;
+" Price="1092,69" PriceRetail="1365,86" PriceExt="1147,32" ParentID="ÓÒ000002217" ParentName="ÊÎÐÇÈÍÀ"/>
 		<Item ID="ÓÒ000041812" Name="Êîðçèíà - 8884303" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="&quot;L:31x21 H15 HH40 B36x17
 M:27x16 H13 HH35 B22x13
 S:22x12 H11 HH30 B18x10&quot;
@@ -7320,6 +7324,7 @@ S:33x26xH17xHH38xB26x18" Price="912,87" PriceRetail="1141,09" PriceExt="958,51" 
 		<Item ID="ÓÒ000034487" Name="Ìÿãêàÿ èãðóøêà ¹ OT6004/15" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="456,03" PriceRetail="570,04" PriceExt="478,83" ParentID="ÓÒ000002220" ParentName="ÌßÃÊÀß ÈÃÐÓØÊÀ"/>
 		<Item ID="ÓÒ000034509" Name="Ìÿãêàÿ èãðóøêà ¹ OT3014/35" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="1018,17" PriceRetail="1272,71" PriceExt="1069,08" ParentID="ÓÒ000002220" ParentName="ÌßÃÊÀß ÈÃÐÓØÊÀ"/>
 		<Item ID="ÓÒ000034710" Name="Ìÿãêàÿ èãðóøêà ¹ OT40-50/8" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="405,00" PriceRetail="506,25" PriceExt="425,25" ParentID="ÓÒ000002220" ParentName="ÌßÃÊÀß ÈÃÐÓØÊÀ"/>
+		<Item ID="ÓÒ000034711" Name="Ìÿãêàÿ èãðóøêà ¹ OT40-48/8" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="522,45" PriceRetail="653,06" PriceExt="548,57" ParentID="ÓÒ000002220" ParentName="ÌßÃÊÀß ÈÃÐÓØÊÀ"/>
 		<Item ID="ÓÒ000034912" Name="Ìÿãêàÿ èãðóøêà ¹ MC2381/20" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="864,27" PriceRetail="1080,34" PriceExt="907,48" ParentID="ÓÒ000002220" ParentName="ÌßÃÊÀß ÈÃÐÓØÊÀ"/>
 		<Item ID="ÓÒ000023485" Name="Ìÿãêàÿ èãðóøêà ¹ MA1992/17" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="620,46" PriceRetail="775,58" PriceExt="651,48" ParentID="ÓÒ000002220" ParentName="ÌßÃÊÀß ÈÃÐÓØÊÀ"/>
 		<Item ID="ÓÒ000023486" Name="Ìÿãêàÿ èãðóøêà ¹ MA1992/25" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="921,78" PriceRetail="1152,23" PriceExt="967,87" ParentID="ÓÒ000002220" ParentName="ÌßÃÊÀß ÈÃÐÓØÊÀ"/>
@@ -8014,7 +8019,6 @@ S:33x26xH17xHH38xB26x18" Price="912,87" PriceRetail="1141,09" PriceExt="958,51" 
 		<Item ID="ÓÒ000018511" Name="ÈÊÑÈß" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="52,65" PriceRetail="65,81" PriceExt="55,28" ParentID="ÓÒ000002222" ParentName="..,ÐÀÇÍÎÅ"/>
 		<Item ID="ÓÒ000020643" Name="ÀÍÒÓÐÈÓÌ ÏÐÅÂÈß  *12" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="180,63" PriceRetail="225,79" PriceExt="189,66" ParentID="ÓÒ000002222" ParentName="..,ÐÀÇÍÎÅ"/>
 		<Item ID="ÓÒ000020770" Name="ÑÅÄÓÌ ÊÐÀÑÍÎÄÀÐ ÏÀ×ÊÀ" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="421,20" PriceRetail="526,50" PriceExt="442,26" ParentID="ÓÒ000002222" ParentName="..,ÐÀÇÍÎÅ"/>
-		<Item ID="ÓÒ000036875" Name="ÏÐÈÑÖÈËËÀ 70 ñì îäíîã íà âîäå" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="141,18" PriceRetail="176,48" PriceExt="148,24" ParentID="ÓÒ000002223" ParentName="..,ÐÎÇÀ ,ÍÀ ÂÎÄÅ"/>
 		<Item ID="ÓÒ000045970" Name="ÌÀÉÔÈËÄ  60 ñì îäíîã íà âîäå" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="194,40" PriceRetail="243,00" PriceExt="204,12" ParentID="ÓÒ000002223" ParentName="..,ÐÎÇÀ ,ÍÀ ÂÎÄÅ"/>
 		<Item ID="ÓÒ000046628" Name="ÁÀÊÀËÀÂÐ VIP-ROSES 70 ñì îäíîã íà âîäå" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="246,95" PriceRetail="308,69" PriceExt="259,30" ParentID="ÓÒ000002223" ParentName="..,ÐÎÇÀ ,ÍÀ ÂÎÄÅ"/>
 		<Item ID="ÓÒ000012305" Name="ÐÎÌÀÍÒÈÊ ÂÓÂÓÇÅËËÀ  60 ñì îäíîã íà âîäå" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="189,95" PriceRetail="237,43" PriceExt="199,44" ParentID="ÓÒ000002223" ParentName="..,ÐÎÇÀ ,ÍÀ ÂÎÄÅ"/>
