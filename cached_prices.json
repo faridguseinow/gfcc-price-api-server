@@ -6488,12 +6488,52 @@
     "retailPrice": 1254.87
   },
   {
+    "id": "УТ000046104",
+    "category": " ..ЦВЕТЫ КИТАЙ",
+    "name": "ЭВКАЛИПТ ПОПУЛУС КИТАЙ",
+    "wholesalePrice": 570.52,
+    "extraPrice": 599.05,
+    "retailPrice": 713.15
+  },
+  {
+    "id": "УТ000046105",
+    "category": " ..ЦВЕТЫ КИТАЙ",
+    "name": "ЛИЗИАНТУС КИТАЙ ПАЧКА",
+    "wholesalePrice": 824.19,
+    "extraPrice": 865.4,
+    "retailPrice": 1030.24
+  },
+  {
+    "id": "УТ000046417",
+    "category": " ..ЦВЕТЫ КИТАЙ",
+    "name": "ЛИЛИЯ КИТАЙ ПАЧКА",
+    "wholesalePrice": 1254.13,
+    "extraPrice": 1316.84,
+    "retailPrice": 1567.66
+  },
+  {
     "id": "УТ000046418",
     "category": " ..ЦВЕТЫ КИТАЙ",
     "name": "ГВОЗДИКА ЗЕЛЕНАЯ КИТАЙ ПАЧКА",
     "wholesalePrice": 487.81,
     "extraPrice": 512.21,
     "retailPrice": 609.77
+  },
+  {
+    "id": "УТ000046419",
+    "category": " ..ЦВЕТЫ КИТАЙ",
+    "name": "СТАТИЦА  КИТАЙ  ПАЧКА",
+    "wholesalePrice": 863.23,
+    "extraPrice": 906.39,
+    "retailPrice": 1079.03
+  },
+  {
+    "id": "УТ000046420",
+    "category": " ..ЦВЕТЫ КИТАЙ",
+    "name": "ГОРТЕНЗИЯ КИТАЙ ПАЧКА",
+    "wholesalePrice": 352.61,
+    "extraPrice": 370.24,
+    "retailPrice": 440.76
   },
   {
     "id": "УТ000047269",
@@ -6512,12 +6552,28 @@
     "retailPrice": 1174.79
   },
   {
+    "id": "УТ000047628",
+    "category": " ..ЦВЕТЫ КИТАЙ",
+    "name": "ЭВКАЛИПТ ПАРВИФОЛИЯ КИТАЙ",
+    "wholesalePrice": 570.52,
+    "extraPrice": 599.05,
+    "retailPrice": 713.15
+  },
+  {
     "id": "УТ000048760",
     "category": " ..ЦВЕТЫ КИТАЙ",
     "name": "РУСКУС КИТАЙ ПАЧКА",
     "wholesalePrice": 353.02,
     "extraPrice": 370.67,
     "retailPrice": 441.28
+  },
+  {
+    "id": "УТ000051295",
+    "category": " ..ЦВЕТЫ КИТАЙ",
+    "name": "ГИПСОФИЛА КИТАЙ ПАЧКА",
+    "wholesalePrice": 1037.34,
+    "extraPrice": 1089.21,
+    "retailPrice": 1296.68
   },
   {
     "id": "УТ000036080",
@@ -17104,14 +17160,6 @@
     "retailPrice": 3756.38
   },
   {
-    "id": "УТ000051510",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "КРАССУЛА ( BUDHAS ) 6 СМ ( ЗА ШТУК )",
-    "wholesalePrice": 323.19,
-    "extraPrice": 339.35,
-    "retailPrice": 403.99
-  },
-  {
     "id": "УТ000051511",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
     "name": "КРАССУЛА ( КАРITELLA ) 6 СМ (ЗА ШТУК)",
@@ -17470,14 +17518,6 @@
     "wholesalePrice": 518.4,
     "extraPrice": 544.32,
     "retailPrice": 648
-  },
-  {
-    "id": "УТ000002696",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "АЛОКАЗИЯ ДРАКОН 12/25 СМ",
-    "wholesalePrice": 729,
-    "extraPrice": 765.45,
-    "retailPrice": 911.25
   },
   {
     "id": "УТ000002700",
@@ -27627,9 +27667,9 @@
     "id": "УТ000046097",
     "category": "..,ГВОЗДИКА",
     "name": "ГВОЗДИКА КИТАЙ",
-    "wholesalePrice": 25.64,
-    "extraPrice": 26.92,
-    "retailPrice": 32.05
+    "wholesalePrice": 23.3,
+    "extraPrice": 24.47,
+    "retailPrice": 29.13
   },
   {
     "id": "УТ000050172",
