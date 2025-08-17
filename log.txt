@@ -9482,3 +9482,15 @@ fatal: could not read Username for 'https://github.com': No such file or directo
 🔄 Подключение к FTP...
 📥 Скачивание XML...
 ✅ Прайс обновлён. Сохранено: 5886 позиций
+warning: in the working copy of 'cached_prices.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'farid_gold.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'log.txt', LF will be replaced by CRLF the next time Git touches it
+[main a4edc90] ╨Р╨▓╤В╨╛╨╛╨▒╨╜╨╛╨▓╨╗╨╡╨╜╨╕╨╡ ╨┐╤А╨░╨╣╤Б-╨╗╨╕╤Б╤В╨░
+ 3 files changed, 25 insertions(+), 1 deletion(-)
+To https://github.com/faridguseinow/gfcc-price-api-server.git
+   83a0327..a4edc90  main -> main
+17.08.2025 10:49:33,30 
+Обновление завершено. 
+🔄 Подключение к FTP...
+📥 Скачивание XML...
+✅ Прайс обновлён. Сохранено: 5885 позиций
