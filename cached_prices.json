@@ -18864,14 +18864,6 @@
     "retailPrice": 1968.86
   },
   {
-    "id": "УТ000015167",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "ЦИТРУС ЛИМОН 19/65 СМ",
-    "wholesalePrice": 3088.32,
-    "extraPrice": 3242.73,
-    "retailPrice": 3860.4
-  },
-  {
     "id": "УТ000015207",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
     "name": "ШЕФФЛЕРА КОМПАКТА НОРА 12/40 СМ",
@@ -29150,6 +29142,14 @@
     "wholesalePrice": 162.63,
     "extraPrice": 170.76,
     "retailPrice": 203.29
+  },
+  {
+    "id": "УТ000005493",
+    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
+    "name": "ОРАНЖ СТАР 50 см РОЗА Кен/Куст. (RLR)",
+    "wholesalePrice": 129.88,
+    "extraPrice": 136.38,
+    "retailPrice": 162.35
   },
   {
     "id": "УТ000005494",
@@ -42550,6 +42550,14 @@
     "wholesalePrice": 92.42,
     "extraPrice": 97.04,
     "retailPrice": 115.53
+  },
+  {
+    "id": "УТ000045462",
+    "category": "..РОЗА КЕНИЯ",
+    "name": "МОУНТ РОЯЛ 60 см РОЗА Кения (RLR)",
+    "wholesalePrice": 102.86,
+    "extraPrice": 108,
+    "retailPrice": 128.57
   },
   {
     "id": "УТ000045463",
