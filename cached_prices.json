@@ -9440,14 +9440,6 @@
     "retailPrice": 103.25
   },
   {
-    "id": "УТ000028733",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "АТОМИК -  70см",
-    "wholesalePrice": 99.47,
-    "extraPrice": 104.44,
-    "retailPrice": 124.34
-  },
-  {
     "id": "УТ000028739",
     "category": "..РОЗА ЭКВАДОР",
     "name": "АЛЬТАМИРА -  60см",
@@ -16304,14 +16296,6 @@
     "retailPrice": 9341.71
   },
   {
-    "id": "УТ000031600",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "ДРАЦЕНА ЦИНТО 24/110 СМ",
-    "wholesalePrice": 6873.23,
-    "extraPrice": 7216.89,
-    "retailPrice": 8591.53
-  },
-  {
     "id": "УТ000031606",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
     "name": "ФИКУС ЭЛАСТИКА МИКС 40/180 СМ (3 PP)",
@@ -16638,14 +16622,6 @@
     "wholesalePrice": 326.02,
     "extraPrice": 342.32,
     "retailPrice": 407.53
-  },
-  {
-    "id": "УТ000044319",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "ПАХИРА 30/170 СМ",
-    "wholesalePrice": 6893.5,
-    "extraPrice": 7238.18,
-    "retailPrice": 8616.88
   },
   {
     "id": "УТ000044480",
@@ -16976,14 +16952,6 @@
     "retailPrice": 8827.74
   },
   {
-    "id": "УТ000051453",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "ФИКУС ЛИРАТА 27/150 СМ",
-    "wholesalePrice": 11879.53,
-    "extraPrice": 12473.5,
-    "retailPrice": 14849.41
-  },
-  {
     "id": "УТ000051471",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
     "name": "СУККУЛЕНТЫ КРАШЕНАЯ 8 СМ",
@@ -17000,6 +16968,14 @@
     "retailPrice": 3309.89
   },
   {
+    "id": "УТ000051474",
+    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
+    "name": "ПАХИПОДИУМ ЛАМЕРИ  6 СМ",
+    "wholesalePrice": 213.29,
+    "extraPrice": 223.96,
+    "retailPrice": 266.62
+  },
+  {
     "id": "УТ000051475",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
     "name": "ПОРТУЛАКАРИЯ 6 СМ ",
@@ -17014,14 +16990,6 @@
     "wholesalePrice": 2481.66,
     "extraPrice": 2605.74,
     "retailPrice": 3102.08
-  },
-  {
-    "id": "УТ000051479",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "ДРАЦЕНА ГОЛДЕН КОСТ 17/55 СМ",
-    "wholesalePrice": 1254.62,
-    "extraPrice": 1317.35,
-    "retailPrice": 1568.27
   },
   {
     "id": "УТ000051505",
@@ -17822,14 +17790,6 @@
     "wholesalePrice": 459.84,
     "extraPrice": 482.83,
     "retailPrice": 574.8
-  },
-  {
-    "id": "УТ000004877",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "ДРАЦЕНА МИКС 15/70 СМ",
-    "wholesalePrice": 985.37,
-    "extraPrice": 1034.63,
-    "retailPrice": 1231.71
   },
   {
     "id": "УТ000004878",
@@ -19086,6 +19046,14 @@
     "wholesalePrice": 671.51,
     "extraPrice": 705.08,
     "retailPrice": 839.39
+  },
+  {
+    "id": "УТ000015457",
+    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
+    "name": "ЮККА 24/145 СМ",
+    "wholesalePrice": 5028.2,
+    "extraPrice": 5279.61,
+    "retailPrice": 6285.25
   },
   {
     "id": "УТ000015461",
@@ -27563,9 +27531,9 @@
     "id": "УТ000032349",
     "category": "..,ЗЕЛЕНЬ",
     "name": "РУСКУС КРАСНОДАР  МИНИ",
-    "wholesalePrice": 141.11,
-    "extraPrice": 148.17,
-    "retailPrice": 176.39
+    "wholesalePrice": 146.79,
+    "extraPrice": 154.13,
+    "retailPrice": 183.49
   },
   {
     "id": "УТ000034838",
@@ -34723,14 +34691,6 @@
     "id": "УТ000049660",
     "category": "КОРЗИНА",
     "name": "Корзина - N075404",
-    "wholesalePrice": 1129.72,
-    "extraPrice": 1186.21,
-    "retailPrice": 1412.15
-  },
-  {
-    "id": "УТ000049661",
-    "category": "КОРЗИНА",
-    "name": "Корзина - N075304",
     "wholesalePrice": 1129.72,
     "extraPrice": 1186.21,
     "retailPrice": 1412.15
@@ -44211,9 +44171,17 @@
     "id": "УТ000028029",
     "category": "..,РАЗНОЕ",
     "name": "АНТИР  КРАСНОДАР",
-    "wholesalePrice": 89.21,
-    "extraPrice": 93.67,
-    "retailPrice": 111.51
+    "wholesalePrice": 85.16,
+    "extraPrice": 89.41,
+    "retailPrice": 106.44
+  },
+  {
+    "id": "УТ000028493",
+    "category": "..,РАЗНОЕ",
+    "name": "АСТЕР КРАСНОДАР",
+    "wholesalePrice": 567.7,
+    "extraPrice": 596.09,
+    "retailPrice": 709.63
   },
   {
     "id": "УТ000030333",
@@ -46083,9 +46051,9 @@
     "id": "УТ000010348",
     "category": "..,РАЗНОЕ",
     "name": "ЛИЗИАНТУС   КРАСНОДАР  ",
-    "wholesalePrice": 113.54,
-    "extraPrice": 119.22,
-    "retailPrice": 141.93
+    "wholesalePrice": 126.52,
+    "extraPrice": 132.84,
+    "retailPrice": 158.15
   },
   {
     "id": "УТ000010373",
