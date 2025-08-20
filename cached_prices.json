@@ -9080,14 +9080,6 @@
     "retailPrice": 20.22
   },
   {
-    "id": "УТ000014228",
-    "category": "ГРУНТ И УДОБРЕНИЯ ",
-    "name": "КОРНЕСИЛ 500 МЛ",
-    "wholesalePrice": 140.13,
-    "extraPrice": 147.14,
-    "retailPrice": 175.16
-  },
-  {
     "id": "УТ000014237",
     "category": "ГРУНТ И УДОБРЕНИЯ ",
     "name": "РАДУГА 250 МЛ",
@@ -12702,14 +12694,6 @@
     "wholesalePrice": 95.76,
     "extraPrice": 100.55,
     "retailPrice": 119.7
-  },
-  {
-    "id": "УТ000032772",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ОПАЛА -  80см ",
-    "wholesalePrice": 107.41,
-    "extraPrice": 112.78,
-    "retailPrice": 134.27
   },
   {
     "id": "УТ000032792",
@@ -18942,14 +18926,6 @@
     "wholesalePrice": 1418.31,
     "extraPrice": 1489.23,
     "retailPrice": 1772.89
-  },
-  {
-    "id": "УТ000009695",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "ПАХИПОДИУМ ЛАМЕРИ 12 СМ",
-    "wholesalePrice": 299.7,
-    "extraPrice": 314.69,
-    "retailPrice": 374.63
   },
   {
     "id": "УТ000009700",
@@ -47912,14 +47888,6 @@
     "retailPrice": 92.2
   },
   {
-    "id": "УТ000025448",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "ТРЕСОР  ТЮЛЬПАН  энкл.",
-    "wholesalePrice": 83.19,
-    "extraPrice": 87.35,
-    "retailPrice": 103.98
-  },
-  {
     "id": "УТ000013898",
     "category": "..ТЮЛЬПАНЫ",
     "name": "АД РЕМ  ТЮЛЬПАН энкл.",
@@ -48296,9 +48264,25 @@
     "retailPrice": 105.67
   },
   {
+    "id": "УТ000047344",
+    "category": "..ХРИЗАНТЕМА",
+    "name": ".ХРИЗ. ДЕКО АНТОНОВ КРАШ PINK",
+    "wholesalePrice": 113.4,
+    "extraPrice": 119.07,
+    "retailPrice": 141.75
+  },
+  {
     "id": "УТ000047398",
     "category": "..ХРИЗАНТЕМА",
     "name": ".ХРИЗ. ДЕКО АНТОНОВ КРАШ BLUE",
+    "wholesalePrice": 113.4,
+    "extraPrice": 119.07,
+    "retailPrice": 141.75
+  },
+  {
+    "id": "УТ000047400",
+    "category": "..ХРИЗАНТЕМА",
+    "name": ".ХРИЗ. ДЕКО АНТОНОВ КРАШ BUBBLEGUM",
     "wholesalePrice": 113.4,
     "extraPrice": 119.07,
     "retailPrice": 141.75
@@ -48315,6 +48299,14 @@
     "id": "УТ000047410",
     "category": "..ХРИЗАНТЕМА",
     "name": ".ХРИЗ. ДЕКО АНТОНОВ КРАШ MILKA",
+    "wholesalePrice": 113.4,
+    "extraPrice": 119.07,
+    "retailPrice": 141.75
+  },
+  {
+    "id": "УТ000047412",
+    "category": "..ХРИЗАНТЕМА",
+    "name": ".ХРИЗ. ДЕКО АНТОНОВ КРАШ SKY BLUE",
     "wholesalePrice": 113.4,
     "extraPrice": 119.07,
     "retailPrice": 141.75
