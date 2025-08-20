@@ -14160,14 +14160,6 @@
     "retailPrice": 83.05
   },
   {
-    "id": "УТ000039901",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ЛИМОНАД-  60см (АННИ,KING,TU,ROYAL,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН,)",
-    "wholesalePrice": 78.64,
-    "extraPrice": 82.58,
-    "retailPrice": 98.3
-  },
-  {
     "id": "УТ000039902",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ЛИМОНАД-  70см(АННИ,KING,TU,ROYAL,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН,)",
@@ -14262,6 +14254,14 @@
     "wholesalePrice": 129.93,
     "extraPrice": 136.43,
     "retailPrice": 162.42
+  },
+  {
+    "id": "УТ000039939",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "МАНДАРИН ЭКСПРЕШН-  80см (АННИ,KING,TU,ROYAL,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН,)",
+    "wholesalePrice": 145.38,
+    "extraPrice": 152.65,
+    "retailPrice": 181.72
   },
   {
     "id": "УТ000039949",
@@ -29142,6 +29142,14 @@
     "wholesalePrice": 178.08,
     "extraPrice": 186.98,
     "retailPrice": 222.6
+  },
+  {
+    "id": "УТ000035082",
+    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
+    "name": "АЛЕХИН 40 см РОЗА Кен/Куст. (RLR)",
+    "wholesalePrice": 93.77,
+    "extraPrice": 98.45,
+    "retailPrice": 117.21
   },
   {
     "id": "УТ000035136",
