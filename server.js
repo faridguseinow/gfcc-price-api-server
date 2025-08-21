@@ -5,6 +5,8 @@ const xml2js = require('xml2js');
 const cron = require('node-cron');
 const fs = require('fs');
 const path = require('path');
+const mongoose = require('mongoose');
+require('dotenv').config();
 
 const app = express();
 const PORT = process.env.PORT || 3001;
@@ -12,13 +14,32 @@ const PORT = process.env.PORT || 3001;
 const LOCAL_XML_FILE = path.join(__dirname, 'farid_gold.xml');
 const CACHE_FILE = path.join(__dirname, 'cached_prices.json');
 
-// CORS
-app.use((req, res, next) => {
-  res.setHeader('Access-Control-Allow-Origin', '*');
-  next();
-});
+// =======================
+// 📌 Подключение к MongoDB
+// =======================
+mongoose.connect(process.env.MONGO_URI, {
+  useNewUrlParser: true,
+  useUnifiedTopology: true
+}).then(() => console.log("✅ Подключено к MongoDB Atlas"))
+  .catch(err => console.error("❌ Ошибка подключения MongoDB:", err.message));
 
-// Функция получения и парсинга XML
+// =======================
+// 📌 Схема товаров
+// =======================
+const ProductSchema = new mongoose.Schema({
+  id: { type: String, unique: true },
+  category: String,
+  name: String,
+  wholesalePrice: Number,
+  extraPrice: Number,
+  retailPrice: Number,
+  updatedAt: { type: Date, default: Date.now }
+});
+const Product = mongoose.model("Product", ProductSchema);
+
+// =======================
+// 📌 Функция получения и парсинга XML
+// =======================
 async function fetchAndCacheXML() {
   const client = new ftp.Client();
   client.ftp.verbose = false;
@@ -27,7 +48,7 @@ async function fetchAndCacheXML() {
     console.log('🔄 Подключение к FTP...');
 
     await client.access({
-      host: "192.168.7.108", // ⚠️ Только для локальной разработки!
+      host: "192.168.7.108", // ⚠️ локальный FTP
       port: 21,
       user: "farid_gold",
       password: "FaridGold2025#",
@@ -54,8 +75,20 @@ async function fetchAndCacheXML() {
       retailPrice: parseFloat(item.$.PriceRetail.replace(",", ".")) || 0
     }));
 
+    // 📌 Сохраняем JSON локально (как бэкап)
     fs.writeFileSync(CACHE_FILE, JSON.stringify(normalized, null, 2), 'utf8');
-    console.log(`✅ Прайс обновлён. Сохранено: ${normalized.length} позиций`);
+    console.log(`✅ Прайс сохранён локально: ${normalized.length} позиций`);
+
+    // 📌 Обновляем MongoDB (upsert)
+    for (const product of normalized) {
+      await Product.updateOne(
+        { id: product.id },
+        { $set: { ...product, updatedAt: new Date() } },
+        { upsert: true }
+      );
+    }
+
+    console.log("✅ Прайс обновлён в MongoDB");
 
   } catch (err) {
     console.error("❌ Ошибка при обновлении прайса:", err.message);
@@ -64,22 +97,38 @@ async function fetchAndCacheXML() {
   }
 }
 
-// Обновлять каждый час
+// =======================
+// 📌 Cron — обновлять каждый час
+// =======================
 cron.schedule('0 * * * *', fetchAndCacheXML);
 
-// Первичный запуск при старте сервера
+// Первый запуск при старте
 fetchAndCacheXML();
 
-// API — получить цены
-app.get('/api/prices', (req, res) => {
-  if (fs.existsSync(CACHE_FILE)) {
-    res.sendFile(CACHE_FILE);
-  } else {
-    res.status(503).json({ error: '⏳ Прайс ещё не готов' });
+// =======================
+// 📌 API — получить цены
+// =======================
+app.get('/api/prices', async (req, res) => {
+  try {
+    const products = await Product.find();
+    if (products.length > 0) {
+      return res.json(products);
+    }
+  } catch (err) {
+    console.error("❌ Ошибка чтения из MongoDB:", err.message);
   }
+
+  // ⚠️ fallback — берём локальный JSON
+  if (fs.existsSync(CACHE_FILE)) {
+    return res.sendFile(CACHE_FILE);
+  }
+
+  res.status(503).json({ error: '⏳ Прайс ещё не готов' });
 });
 
-// Запуск сервера
+// =======================
+// 📌 Запуск сервера
+// =======================
 app.listen(PORT, () => {
-  console.log(`🚀 Сервер API работает: http://localhost:${PORT}/api/prices`);
+  console.log(`🚀 API работает: http://localhost:${PORT}/api/prices`);
 });
