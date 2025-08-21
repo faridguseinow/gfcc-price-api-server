@@ -19,12 +19,16 @@ const transporter = nodemailer.createTransport({
 });
 
 const notifyError = async (subject, message) => {
-  await transporter.sendMail({
-    from: "Auto FTP Sync" <${process.env.EMAIL_USER}>,
-    to: process.env.EMAIL_TO,
-    subject,
-    text: message
-  });
+  try {
+    await transporter.sendMail({
+      from: `"Auto FTP Sync" <${process.env.EMAIL_USER}>`,
+      to: process.env.EMAIL_TO,
+      subject,
+      text: message
+    });
+  } catch (err) {
+    console.error("❌ Ошибка при отправке email:", err.message);
+  }
 };
 
 async function fetchAndCacheXML() {

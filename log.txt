@@ -12417,3 +12417,15 @@ To https://github.com/faridguseinow/gfcc-price-api-server.git
 ❌ Ошибка при обновлении прайса:
 The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
 ❌ Ошибка при отправке email: Missing credentials for "PLAIN"
+warning: in the working copy of 'log.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'server.js', LF will be replaced by CRLF the next time Git touches it
+[main 90902a0] ╨Р╨▓╤В╨╛╨╛╨▒╨╜╨╛╨▓╨╗╨╡╨╜╨╕╨╡ ╨┐╤А╨░╨╣╤Б-╨╗╨╕╤Б╤В╨░
+ 2 files changed, 39 insertions(+), 92 deletions(-)
+To https://github.com/faridguseinow/gfcc-price-api-server.git
+   03369c6..90902a0  main -> main
+22.08.2025  1:00:03,70 
+Обновление завершено. 
+🔄 Подключение к MongoDB...
+❌ Ошибка при обновлении прайса:
+The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+❌ Ошибка при отправке email: Missing credentials for "PLAIN"
