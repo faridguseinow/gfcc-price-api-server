@@ -17408,14 +17408,6 @@
     "retailPrice": 2000.81
   },
   {
-    "id": "УТ000046038",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "ФИЛЕБОДИУМ 12 СМ",
-    "wholesalePrice": 395.11,
-    "extraPrice": 414.87,
-    "retailPrice": 493.89
-  },
-  {
     "id": "УТ000046178",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
     "name": "САНСЕВИЕРИЯ СТАР 12 СМ",
@@ -17446,14 +17438,6 @@
     "wholesalePrice": 2218.77,
     "extraPrice": 2329.71,
     "retailPrice": 2773.46
-  },
-  {
-    "id": "УТ000046462",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "КРОТОН МИКС  6 СМ (1* 12 ШТУК)",
-    "wholesalePrice": 1555.4,
-    "extraPrice": 1633.17,
-    "retailPrice": 1944.25
   },
   {
     "id": "УТ000046505",
@@ -18480,14 +18464,6 @@
     "retailPrice": 572.67
   },
   {
-    "id": "УТ000004878",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "ДРАЦЕНА МИКС 17 СМ",
-    "wholesalePrice": 1050.4,
-    "extraPrice": 1102.92,
-    "retailPrice": 1313
-  },
-  {
     "id": "УТ000004914",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
     "name": "ДРАЦЕНА ЦИНТО 24/140 СМ",
@@ -18606,14 +18582,6 @@
     "wholesalePrice": 1024.54,
     "extraPrice": 1075.77,
     "retailPrice": 1280.68
-  },
-  {
-    "id": "УТ000005858",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "КАЛАТЕЯ КРОКАТА 14 СМ",
-    "wholesalePrice": 812.85,
-    "extraPrice": 853.49,
-    "retailPrice": 1016.06
   },
   {
     "id": "УТ000005859",
@@ -18800,14 +18768,6 @@
     "retailPrice": 752.45
   },
   {
-    "id": "УТ000007530",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "МОНСТЕРА 17 СМ",
-    "wholesalePrice": 1152.21,
-    "extraPrice": 1209.82,
-    "retailPrice": 1440.26
-  },
-  {
     "id": "УТ000007540",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
     "name": "МОНСТЕРА МИНИМА 12 СМ",
@@ -18854,14 +18814,6 @@
     "wholesalePrice": 3882.44,
     "extraPrice": 4076.56,
     "retailPrice": 4853.05
-  },
-  {
-    "id": "УТ000008466",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "НОЛИНА 12 СМ",
-    "wholesalePrice": 679.53,
-    "extraPrice": 713.5,
-    "retailPrice": 849.41
   },
   {
     "id": "УТ000009603",
@@ -18990,6 +18942,14 @@
     "wholesalePrice": 590.65,
     "extraPrice": 620.18,
     "retailPrice": 738.31
+  },
+  {
+    "id": "УТ000010561",
+    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
+    "name": "СЕНЕКИО 6 СМ (КОРОБКА 12 ШТУК)",
+    "wholesalePrice": 1960.21,
+    "extraPrice": 2058.22,
+    "retailPrice": 2450.26
   },
   {
     "id": "УТ000010665",
@@ -40120,14 +40080,6 @@
     "retailPrice": 191.9
   },
   {
-    "id": "УТ000036323",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "АРИЯ 60 см куст на воде",
-    "wholesalePrice": 96.96,
-    "extraPrice": 101.81,
-    "retailPrice": 121.2
-  },
-  {
     "id": "УТ000036324",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "ГУД МУД 60 см куст на воде",
@@ -47832,36 +47784,12 @@
     "retailPrice": 103.73
   },
   {
-    "id": "УТ000028443",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "КРАУН  ДИНАСТИЙ  ТЮЛЬПАН энкл.",
-    "wholesalePrice": 73.58,
-    "extraPrice": 77.26,
-    "retailPrice": 91.97
-  },
-  {
     "id": "УТ000035163",
     "category": "..ТЮЛЬПАНЫ",
     "name": "ФРОНТЛАЙН  ТЮЛЬПАН энкл.",
     "wholesalePrice": 73.58,
     "extraPrice": 77.26,
     "retailPrice": 91.97
-  },
-  {
-    "id": "УТ000035342",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "САИГОН ДУБЛ  дубл.",
-    "wholesalePrice": 82.98,
-    "extraPrice": 87.13,
-    "retailPrice": 103.73
-  },
-  {
-    "id": "УТ000035343",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "ВАЛДИВИА  ТЮЛЬПАН дубл.",
-    "wholesalePrice": 82.98,
-    "extraPrice": 87.13,
-    "retailPrice": 103.73
   },
   {
     "id": "УТ000035369",
@@ -47888,25 +47816,9 @@
     "retailPrice": 103.73
   },
   {
-    "id": "УТ000044316",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "ХОНЕЙМУН  ТЮЛЬПАН  энкл.",
-    "wholesalePrice": 73.58,
-    "extraPrice": 77.26,
-    "retailPrice": 91.97
-  },
-  {
     "id": "УТ000045664",
     "category": "..ТЮЛЬПАНЫ",
     "name": "ПУРПЛ ВАЛЛЕЙ  ТЮЛЬПАН энкл.",
-    "wholesalePrice": 73.58,
-    "extraPrice": 77.26,
-    "retailPrice": 91.97
-  },
-  {
-    "id": "УТ000045691",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "РЕД СТОУН ТЮЛЬПАН энкл.",
     "wholesalePrice": 73.58,
     "extraPrice": 77.26,
     "retailPrice": 91.97
@@ -47944,33 +47856,9 @@
     "retailPrice": 91.97
   },
   {
-    "id": "УТ000013925",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "ВАЙТ ЛИБЕРСТА  ТЮЛЬПАН дубл.",
-    "wholesalePrice": 82.98,
-    "extraPrice": 87.13,
-    "retailPrice": 103.73
-  },
-  {
     "id": "УТ000013973",
     "category": "..ТЮЛЬПАНЫ",
     "name": "ДУБЛЬ ПРАЙС  ТЮЛЬПАН дубл.",
-    "wholesalePrice": 82.98,
-    "extraPrice": 87.13,
-    "retailPrice": 103.73
-  },
-  {
-    "id": "УТ000014006",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "КОЛУМБУС  ТЮЛЬПАН дубл.",
-    "wholesalePrice": 82.98,
-    "extraPrice": 87.13,
-    "retailPrice": 103.73
-  },
-  {
-    "id": "УТ000014055",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "ОРАНЖ ДЖУС  ТЮЛЬПАН дубл.",
     "wholesalePrice": 82.98,
     "extraPrice": 87.13,
     "retailPrice": 103.73
@@ -48038,14 +47926,6 @@
     "wholesalePrice": 73.58,
     "extraPrice": 77.26,
     "retailPrice": 91.97
-  },
-  {
-    "id": "УТ000018438",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "МАРИТ  ТЮЛЬПАН   энкл.",
-    "wholesalePrice": 82.98,
-    "extraPrice": 87.13,
-    "retailPrice": 103.73
   },
   {
     "id": "УТ000026588",
@@ -48248,14 +48128,6 @@
     "retailPrice": 121.2
   },
   {
-    "id": "УТ000039104",
-    "category": "..ХРИЗАНТЕМА",
-    "name": "КАЛИМБА САЛМОН",
-    "wholesalePrice": 91.3,
-    "extraPrice": 95.87,
-    "retailPrice": 114.13
-  },
-  {
     "id": "УТ000039359",
     "category": "..ХРИЗАНТЕМА",
     "name": "БАЛЛЕР ПИНК",
@@ -48286,14 +48158,6 @@
     "wholesalePrice": 114.74,
     "extraPrice": 120.47,
     "retailPrice": 143.42
-  },
-  {
-    "id": "УТ000042959",
-    "category": "..ХРИЗАНТЕМА",
-    "name": "ПАСТЕЛА ЖЕЛТАЯ",
-    "wholesalePrice": 84.33,
-    "extraPrice": 88.55,
-    "retailPrice": 105.41
   },
   {
     "id": "УТ000043737",
@@ -48352,14 +48216,6 @@
     "retailPrice": 105.41
   },
   {
-    "id": "УТ000047344",
-    "category": "..ХРИЗАНТЕМА",
-    "name": ".ХРИЗ. ДЕКО АНТОНОВ КРАШ PINK",
-    "wholesalePrice": 113.12,
-    "extraPrice": 118.78,
-    "retailPrice": 141.4
-  },
-  {
     "id": "УТ000047398",
     "category": "..ХРИЗАНТЕМА",
     "name": ".ХРИЗ. ДЕКО АНТОНОВ КРАШ BLUE",
@@ -48368,25 +48224,9 @@
     "retailPrice": 141.4
   },
   {
-    "id": "УТ000047400",
-    "category": "..ХРИЗАНТЕМА",
-    "name": ".ХРИЗ. ДЕКО АНТОНОВ КРАШ BUBBLEGUM",
-    "wholesalePrice": 113.12,
-    "extraPrice": 118.78,
-    "retailPrice": 141.4
-  },
-  {
     "id": "УТ000047401",
     "category": "..ХРИЗАНТЕМА",
     "name": ".ХРИЗ. ДЕКО АНТОНОВ КРАШ CERISE",
-    "wholesalePrice": 113.12,
-    "extraPrice": 118.78,
-    "retailPrice": 141.4
-  },
-  {
-    "id": "УТ000047412",
-    "category": "..ХРИЗАНТЕМА",
-    "name": ".ХРИЗ. ДЕКО АНТОНОВ КРАШ SKY BLUE",
     "wholesalePrice": 113.12,
     "extraPrice": 118.78,
     "retailPrice": 141.4
@@ -48624,28 +48464,12 @@
     "retailPrice": 105.41
   },
   {
-    "id": "УТ000014846",
-    "category": "..ХРИЗАНТЕМА",
-    "name": "ЛИМОНЧЕЛЛО",
-    "wholesalePrice": 105.04,
-    "extraPrice": 110.29,
-    "retailPrice": 131.3
-  },
-  {
     "id": "УТ000014874",
     "category": "..ХРИЗАНТЕМА",
     "name": "ОПТИМИСТ РОЗОВЫЙ",
     "wholesalePrice": 92.92,
     "extraPrice": 97.57,
     "retailPrice": 116.15
-  },
-  {
-    "id": "УТ000014886",
-    "category": "..ХРИЗАНТЕМА",
-    "name": "ПРОСЕККО",
-    "wholesalePrice": 84.33,
-    "extraPrice": 88.55,
-    "retailPrice": 105.41
   },
   {
     "id": "УТ000014888",
@@ -48694,14 +48518,6 @@
     "wholesalePrice": 121.2,
     "extraPrice": 127.26,
     "retailPrice": 151.5
-  },
-  {
-    "id": "УТ000014937",
-    "category": "..ХРИЗАНТЕМА",
-    "name": "СТЕЛЛИНИ",
-    "wholesalePrice": 84.33,
-    "extraPrice": 88.55,
-    "retailPrice": 105.41
   },
   {
     "id": "УТ000014966",
