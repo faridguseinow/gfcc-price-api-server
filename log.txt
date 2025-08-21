@@ -12351,3 +12351,22 @@ To https://github.com/faridguseinow/gfcc-price-api-server.git
 ❌ Ошибка при обновлении прайса:
 The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
 ❌ Ошибка при отправке email: Missing credentials for "PLAIN"
+warning: in the working copy of 'cached_prices.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'farid_gold.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'log.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'node_modules/.package-lock.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'package-lock.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'package.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'server.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'update-price.js', LF will be replaced by CRLF the next time Git touches it
+[main 21f8e86] ╨Р╨▓╤В╨╛╨╛╨▒╨╜╨╛╨▓╨╗╨╡╨╜╨╕╨╡ ╨┐╤А╨░╨╣╤Б-╨╗╨╕╤Б╤В╨░
+ 9 files changed, 734 insertions(+), 34 deletions(-)
+ create mode 100644 MongoDB.js
+To https://github.com/faridguseinow/gfcc-price-api-server.git
+   bbbe0ae..21f8e86  main -> main
+21.08.2025 21:00:03,89 
+Обновление завершено. 
+🔄 Подключение к MongoDB...
+❌ Ошибка при обновлении прайса:
+The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+❌ Ошибка при отправке email: Missing credentials for "PLAIN"

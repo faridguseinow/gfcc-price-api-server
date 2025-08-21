@@ -106,25 +106,25 @@ cron.schedule('0 * * * *', fetchAndCacheXML);
 fetchAndCacheXML();
 
 // =======================
-// 📌 API — получить цены
-// =======================
-app.get('/api/prices', async (req, res) => {
-  try {
-    const products = await Product.find();
-    if (products.length > 0) {
-      return res.json(products);
-    }
-  } catch (err) {
-    console.error("❌ Ошибка чтения из MongoDB:", err.message);
-  }
+// // 📌 API — получить цены
+// // =======================
+// app.get('/api/prices', async (req, res) => {
+//   try {
+//     const products = await Product.find();
+//     if (products.length > 0) {
+//       return res.json(products);
+//     }
+//   } catch (err) {
+//     console.error("❌ Ошибка чтения из MongoDB:", err.message);
+//   }
 
-  // ⚠️ fallback — берём локальный JSON
-  if (fs.existsSync(CACHE_FILE)) {
-    return res.sendFile(CACHE_FILE);
-  }
+//   // ⚠️ fallback — берём локальный JSON
+//   if (fs.existsSync(CACHE_FILE)) {
+//     return res.sendFile(CACHE_FILE);
+//   }
 
-  res.status(503).json({ error: '⏳ Прайс ещё не готов' });
-});
+//   res.status(503).json({ error: '⏳ Прайс ещё не готов' });
+// });
 
 // =======================
 // 📌 Запуск сервера
