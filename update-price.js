@@ -4,31 +4,17 @@ const xml2js = require('xml2js');
 const fs = require('fs');
 const path = require('path');
 const nodemailer = require('nodemailer');
-const mongoose = require('mongoose');
-
-// ===== MongoDB =====
-const ProductSchema = new mongoose.Schema({
-  id: { type: String, unique: true },
-  category: String,
-  name: String,
-  wholesalePrice: Number,
-  extraPrice: Number,
-  retailPrice: Number,
-  updatedAt: { type: Date, default: Date.now }
-});
-const Product = mongoose.model("Product", ProductSchema);
-
-// ===== FTP / FILES =====
 const LOCAL_XML_FILE = path.join(__dirname, 'farid_gold.xml');
+const CACHE_FILE = path.join(__dirname, 'cached_prices.json');
 
-// ===== SMTP =====
+
 const transporter = nodemailer.createTransport({
   host: 'smtp.yandex.ru',
   port: 465,
-  secure: true,
+  secure: true, // SSL 
   auth: {
-    user: process.env.EMAIL_USER,
-    pass: process.env.EMAIL_PASS
+    user: process.env.EMAIL_USER, // farid@gfcc.ru 
+    pass: process.env.EMAIL_PASS // пароль приложения от Яндекс.Почты 
   }
 });
 
@@ -45,15 +31,10 @@ const notifyError = async (subject, message) => {
   }
 };
 
-// ===== MAIN LOGIC =====
-async function fetchAndUpdateDB() {
+async function fetchAndCacheXML() {
   const client = new ftp.Client();
   client.ftp.verbose = false;
-
   try {
-    console.log('🔄 Подключение к MongoDB...');
-    await mongoose.connect(process.env.MONGO_URI);
-
     console.log('🔄 Подключение к FTP...');
     await client.access({
       host: "192.168.7.108",
@@ -62,53 +43,32 @@ async function fetchAndUpdateDB() {
       password: "FaridGold2025#",
       secure: false
     });
-
     console.log('📥 Скачивание XML...');
     await client.downloadTo(LOCAL_XML_FILE, "farid_gold.xml");
-
     const buffer = fs.readFileSync(LOCAL_XML_FILE);
     const xml = iconv.decode(buffer, "win1251");
-
-    const parsed = await xml2js.parseStringPromise(xml, { explicitArray: false });
+    const parsed = await xml2js.parseStringPromise(xml, {
+      explicitArray: false
+    });
     const items = parsed?.PriceList?.Goods?.Item;
-
     if (!items || !Array.isArray(items)) throw new Error("⛔ Некорректный формат XML");
-
-    console.log(`📊 Найдено товаров: ${items.length}`);
-
-    // Приведение к JSON
     const normalized = items.map(item => ({
       id: item.$.ID,
       category: item.$.ParentName,
       name: item.$.Name,
       wholesalePrice: parseFloat(item.$.Price.replace(",", ".")) || 0,
       extraPrice: parseFloat(item.$.PriceExt.replace(",", ".")) || 0,
-      retailPrice: parseFloat(item.$.PriceRetail.replace(",", ".")) || 0,
-      updatedAt: new Date()
+      retailPrice: parseFloat(item.$.PriceRetail.replace(",", ".")) || 0
     }));
-
-    // Обновление в MongoDB
-    let updated = 0;
-    for (const product of normalized) {
-      await Product.updateOne(
-        { id: product.id },
-        { $set: product },
-        { upsert: true }
-      );
-      updated++;
-    }
-
-    console.log(`✅ Прайс обновлён. Сохранено/обновлено: ${updated} позиций`);
-
+    fs.writeFileSync(CACHE_FILE, JSON.stringify(normalized, null, 2), 'utf8');
+    console.log('✅Прайс обновлён.Сохранено: $ { normalized.length } позиций');
   } catch (err) {
-    const errorMessage = `❌ Ошибка при обновлении прайса:\n${err.message}`;
+    const errorMessage = ('❌ Ошибка при обновлении прайса: \n${ err.message }');
     console.error(errorMessage);
     await notifyError('❗️Ошибка в автообновлении прайс-листа', errorMessage);
   } finally {
     client.close();
-    await mongoose.disconnect();
     process.exit(0);
   }
 }
-
-fetchAndUpdateDB();
+fetchAndCacheXML();
