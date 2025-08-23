@@ -16,6 +16,14 @@
     "retailPrice": 1986.68
   },
   {
+    "id": "УТ000032102",
+    "category": "..,РОЗА ,МЕСТНАЯ",
+    "name": "ЛИНИЯ РОЗА КУСТОВАЯ. 80 СМ",
+    "wholesalePrice": 254.37,
+    "extraPrice": 267.08,
+    "retailPrice": 317.96
+  },
+  {
     "id": "УТ000034885",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЛИНИЯ РОЗА ОДНОГОЛОВАЯ.. 70 СМ",
@@ -200,12 +208,28 @@
     "retailPrice": 47.5
   },
   {
+    "id": "УТ000010354",
+    "category": "..,РОЗА ,МЕСТНАЯ",
+    "name": "ЛИНИЯ РОЗА КУСТОВАЯ. 40 СМ",
+    "wholesalePrice": 76.53,
+    "extraPrice": 80.36,
+    "retailPrice": 95.67
+  },
+  {
     "id": "УТ000010355",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЛИНИЯ РОЗА КУСТОВАЯ. 50 СМ",
     "wholesalePrice": 139.65,
     "extraPrice": 146.63,
     "retailPrice": 174.56
+  },
+  {
+    "id": "УТ000010833",
+    "category": "..,РОЗА ,МЕСТНАЯ",
+    "name": "ЛИНИЯ РОЗА ОДНОГОЛОВАЯ..80 СМ",
+    "wholesalePrice": 129.68,
+    "extraPrice": 136.16,
+    "retailPrice": 162.09
   },
   {
     "id": "УТ000014022",
@@ -6446,6 +6470,14 @@
     "wholesalePrice": 860.1,
     "extraPrice": 903.1,
     "retailPrice": 1075.12
+  },
+  {
+    "id": "УТ000046414",
+    "category": " ..ЦВЕТЫ КИТАЙ",
+    "name": "ОКСИПЕТАЛИУМ  КИТАЙ ПАЧКА",
+    "wholesalePrice": 400.83,
+    "extraPrice": 420.87,
+    "retailPrice": 501.04
   },
   {
     "id": "УТ000046417",
@@ -17862,6 +17894,14 @@
     "wholesalePrice": 808,
     "extraPrice": 848.4,
     "retailPrice": 1010
+  },
+  {
+    "id": "УТ000043693",
+    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
+    "name": "РИПСАЛИС 21 СМ",
+    "wholesalePrice": 3505.91,
+    "extraPrice": 3681.21,
+    "retailPrice": 4382.39
   },
   {
     "id": "УТ000043834",
@@ -45606,6 +45646,14 @@
     "wholesalePrice": 130.02,
     "extraPrice": 136.52,
     "retailPrice": 162.53
+  },
+  {
+    "id": "УТ000008781",
+    "category": "..РОЗА КЕНИЯ",
+    "name": "ГИАРДИНА 50 см РОЗА Кения (RLR)",
+    "wholesalePrice": 102.75,
+    "extraPrice": 107.88,
+    "retailPrice": 128.43
   },
   {
     "id": "УТ000008784",
