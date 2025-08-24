@@ -28984,14 +28984,6 @@
     "retailPrice": 70.88
   },
   {
-    "id": "УТ000044067",
-    "category": "..,ЗЕЛЕНЬ",
-    "name": "ХАМЕЛАЦИУМ МИКС",
-    "wholesalePrice": 129.6,
-    "extraPrice": 136.08,
-    "retailPrice": 162
-  },
-  {
     "id": "УТ000044688",
     "category": "..,ЗЕЛЕНЬ",
     "name": "РУСКУС КРАСНОДАР  БОЛЬШОЙ",
@@ -41680,14 +41672,6 @@
     "retailPrice": 195.01
   },
   {
-    "id": "УТ000051154",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "ХЕППИ ВЕДИНГ ( VOORN-ROSES ) 60 см куст на воде",
-    "wholesalePrice": 206.47,
-    "extraPrice": 216.79,
-    "retailPrice": 258.09
-  },
-  {
     "id": "УТ000051242",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "БЭБИ ПИНК ЙО-ЙО  70 см куст на воде",
@@ -47400,6 +47384,14 @@
     "retailPrice": 141.75
   },
   {
+    "id": "УТ000038746",
+    "category": "..,РАЗНОЕ",
+    "name": "КАЛЛА  БЕЛО-ЧЕРНАЯ 50 СМ",
+    "wholesalePrice": 121.5,
+    "extraPrice": 127.58,
+    "retailPrice": 151.88
+  },
+  {
     "id": "УТ000038751",
     "category": "..,РАЗНОЕ",
     "name": "ГИПЕРИКУМ  МИКС",
@@ -47414,6 +47406,14 @@
     "wholesalePrice": 106.92,
     "extraPrice": 112.27,
     "retailPrice": 133.65
+  },
+  {
+    "id": "УТ000038756",
+    "category": "..,РАЗНОЕ",
+    "name": "ФРЕЗИЯ СИНЯЯ",
+    "wholesalePrice": 70.47,
+    "extraPrice": 73.99,
+    "retailPrice": 88.09
   },
   {
     "id": "УТ000038758",
@@ -48758,6 +48758,14 @@
     "wholesalePrice": 145.8,
     "extraPrice": 153.09,
     "retailPrice": 182.25
+  },
+  {
+    "id": "УТ000010657",
+    "category": "..,РАЗНОЕ",
+    "name": "ЭУКОМИС",
+    "wholesalePrice": 226.8,
+    "extraPrice": 238.14,
+    "retailPrice": 283.5
   },
   {
     "id": "УТ000010658",
