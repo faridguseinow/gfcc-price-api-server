@@ -6456,14 +6456,6 @@
     "retailPrice": 550
   },
   {
-    "id": "УТ000046098",
-    "category": " ..ЦВЕТЫ КИТАЙ",
-    "name": "ГИПЕРИКУМ КИТАЙ ПАЧКА",
-    "wholesalePrice": 503.16,
-    "extraPrice": 528.32,
-    "retailPrice": 628.95
-  },
-  {
     "id": "УТ000046100",
     "category": " ..ЦВЕТЫ КИТАЙ",
     "name": "ГИПСОФИЛА КРАШ КИТАЙ ПАЧКА",
@@ -17910,14 +17902,6 @@
     "wholesalePrice": 2592,
     "extraPrice": 2721.6,
     "retailPrice": 3240
-  },
-  {
-    "id": "УТ000045202",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "ФАЛЕНОПСИС ПАРФЮМ 12 СМ ",
-    "wholesalePrice": 1209.33,
-    "extraPrice": 1269.8,
-    "retailPrice": 1511.66
   },
   {
     "id": "УТ000045776",
@@ -47915,9 +47899,9 @@
     "id": "УТ000010147",
     "category": "..,РАЗНОЕ",
     "name": "БРАССИКА",
-    "wholesalePrice": 72.9,
-    "extraPrice": 76.55,
-    "retailPrice": 91.13
+    "wholesalePrice": 100.44,
+    "extraPrice": 105.46,
+    "retailPrice": 125.55
   },
   {
     "id": "УТ000010151",
@@ -48499,9 +48483,9 @@
     "id": "УТ000010569",
     "category": "..,РАЗНОЕ",
     "name": "СЕДУМ",
-    "wholesalePrice": 44.55,
-    "extraPrice": 46.78,
-    "retailPrice": 55.69
+    "wholesalePrice": 70.47,
+    "extraPrice": 73.99,
+    "retailPrice": 88.09
   },
   {
     "id": "УТ000010572",
@@ -49152,14 +49136,6 @@
     "retailPrice": 92.54
   },
   {
-    "id": "УТ000028443",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "КРАУН  ДИНАСТИЙ  ТЮЛЬПАН энкл.",
-    "wholesalePrice": 65.64,
-    "extraPrice": 68.92,
-    "retailPrice": 82.05
-  },
-  {
     "id": "УТ000035163",
     "category": "..ТЮЛЬПАНЫ",
     "name": "ФРОНТЛАЙН  ТЮЛЬПАН энкл.",
@@ -49248,14 +49224,6 @@
     "retailPrice": 82.05
   },
   {
-    "id": "УТ000025448",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "ТРЕСОР  ТЮЛЬПАН  энкл.",
-    "wholesalePrice": 74.03,
-    "extraPrice": 77.74,
-    "retailPrice": 92.54
-  },
-  {
     "id": "УТ000013898",
     "category": "..ТЮЛЬПАНЫ",
     "name": "АД РЕМ  ТЮЛЬПАН энкл.",
@@ -49272,14 +49240,6 @@
     "retailPrice": 82.05
   },
   {
-    "id": "УТ000013925",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "ВАЙТ ЛИБЕРСТА  ТЮЛЬПАН дубл.",
-    "wholesalePrice": 74.03,
-    "extraPrice": 77.74,
-    "retailPrice": 92.54
-  },
-  {
     "id": "УТ000013973",
     "category": "..ТЮЛЬПАНЫ",
     "name": "ДУБЛЬ ПРАЙС  ТЮЛЬПАН дубл.",
@@ -49291,14 +49251,6 @@
     "id": "УТ000014006",
     "category": "..ТЮЛЬПАНЫ",
     "name": "КОЛУМБУС  ТЮЛЬПАН дубл.",
-    "wholesalePrice": 74.03,
-    "extraPrice": 77.74,
-    "retailPrice": 92.54
-  },
-  {
-    "id": "УТ000014055",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "ОРАНЖ ДЖУС  ТЮЛЬПАН дубл.",
     "wholesalePrice": 74.03,
     "extraPrice": 77.74,
     "retailPrice": 92.54
@@ -49384,14 +49336,6 @@
     "retailPrice": 131.63
   },
   {
-    "id": "УТ000027432",
-    "category": "..ХРИЗАНТЕМА",
-    "name": ".ХРИЗ. ДЕКО ВИЕНА КОППЕР",
-    "wholesalePrice": 202.5,
-    "extraPrice": 212.63,
-    "retailPrice": 253.13
-  },
-  {
     "id": "УТ000027900",
     "category": "..ХРИЗАНТЕМА",
     "name": ".ХРИЗ. ДЕКО ЛАМИРА",
@@ -49424,12 +49368,12 @@
     "retailPrice": 226.8
   },
   {
-    "id": "УТ000029455",
+    "id": "УТ000030029",
     "category": "..ХРИЗАНТЕМА",
-    "name": "БОЛТЕ",
-    "wholesalePrice": 83.7,
-    "extraPrice": 87.88,
-    "retailPrice": 104.62
+    "name": ".ХРИЗ. ДЕКО ТОПСПИН",
+    "wholesalePrice": 84.24,
+    "extraPrice": 88.45,
+    "retailPrice": 105.3
   },
   {
     "id": "УТ000030044",
@@ -49704,14 +49648,6 @@
     "retailPrice": 141.75
   },
   {
-    "id": "УТ000047395",
-    "category": "..ХРИЗАНТЕМА",
-    "name": ".ХРИЗ. ДЕКО АНТОНОВ КРАШ BAZOOKA",
-    "wholesalePrice": 113.4,
-    "extraPrice": 119.07,
-    "retailPrice": 141.75
-  },
-  {
     "id": "УТ000047398",
     "category": "..ХРИЗАНТЕМА",
     "name": ".ХРИЗ. ДЕКО АНТОНОВ КРАШ BLUE",
@@ -49736,57 +49672,9 @@
     "retailPrice": 141.75
   },
   {
-    "id": "УТ000047409",
-    "category": "..ХРИЗАНТЕМА",
-    "name": ".ХРИЗ. ДЕКО АНТОНОВ КРАШ LIPSTICK",
-    "wholesalePrice": 113.4,
-    "extraPrice": 119.07,
-    "retailPrice": 141.75
-  },
-  {
-    "id": "УТ000047410",
-    "category": "..ХРИЗАНТЕМА",
-    "name": ".ХРИЗ. ДЕКО АНТОНОВ КРАШ MILKA",
-    "wholesalePrice": 113.4,
-    "extraPrice": 119.07,
-    "retailPrice": 141.75
-  },
-  {
     "id": "УТ000047412",
     "category": "..ХРИЗАНТЕМА",
     "name": ".ХРИЗ. ДЕКО АНТОНОВ КРАШ SKY BLUE",
-    "wholesalePrice": 113.4,
-    "extraPrice": 119.07,
-    "retailPrice": 141.75
-  },
-  {
-    "id": "УТ000047414",
-    "category": "..ХРИЗАНТЕМА",
-    "name": ".ХРИЗ. ДЕКО АНТОНОВ КРАШ PASTEL BLUE",
-    "wholesalePrice": 113.4,
-    "extraPrice": 119.07,
-    "retailPrice": 141.75
-  },
-  {
-    "id": "УТ000047415",
-    "category": "..ХРИЗАНТЕМА",
-    "name": ".ХРИЗ. ДЕКО АНТОНОВ КРАШ PASTEL CERISE",
-    "wholesalePrice": 113.4,
-    "extraPrice": 119.07,
-    "retailPrice": 141.75
-  },
-  {
-    "id": "УТ000047416",
-    "category": "..ХРИЗАНТЕМА",
-    "name": ".ХРИЗ. ДЕКО АНТОНОВ КРАШ PASTEL LILAC",
-    "wholesalePrice": 113.4,
-    "extraPrice": 119.07,
-    "retailPrice": 141.75
-  },
-  {
-    "id": "УТ000047417",
-    "category": "..ХРИЗАНТЕМА",
-    "name": ".ХРИЗ. ДЕКО АНТОНОВ КРАШ PASTEL MINT",
     "wholesalePrice": 113.4,
     "extraPrice": 119.07,
     "retailPrice": 141.75
@@ -49952,14 +49840,6 @@
     "retailPrice": 131.63
   },
   {
-    "id": "УТ000051656",
-    "category": "..ХРИЗАНТЕМА",
-    "name": ".ХРИЗ. ДЕКО АНТОНОВ КРАШ Yellow",
-    "wholesalePrice": 113.4,
-    "extraPrice": 119.07,
-    "retailPrice": 141.75
-  },
-  {
     "id": "УТ000022408",
     "category": "..ХРИЗАНТЕМА",
     "name": "КАЛИМБА",
@@ -50048,14 +49928,6 @@
     "retailPrice": 104.62
   },
   {
-    "id": "УТ000014811",
-    "category": "..ХРИЗАНТЕМА",
-    "name": "ЕВРО БЕЛЫЙ",
-    "wholesalePrice": 83.7,
-    "extraPrice": 87.88,
-    "retailPrice": 104.62
-  },
-  {
     "id": "УТ000014834",
     "category": "..ХРИЗАНТЕМА",
     "name": "КАТИНКА",
@@ -50067,14 +49939,6 @@
     "id": "УТ000014837",
     "category": "..ХРИЗАНТЕМА",
     "name": "КОД ГРИН",
-    "wholesalePrice": 83.7,
-    "extraPrice": 87.88,
-    "retailPrice": 104.62
-  },
-  {
-    "id": "УТ000014842",
-    "category": "..ХРИЗАНТЕМА",
-    "name": "КОРОНА",
     "wholesalePrice": 83.7,
     "extraPrice": 87.88,
     "retailPrice": 104.62
