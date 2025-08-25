@@ -80,14 +80,6 @@
     "retailPrice": 210.13
   },
   {
-    "id": "УТ000040758",
-    "category": "..,РОЗА ,МЕСТНАЯ",
-    "name": "ЧЕХОВСКИЙ САД КУСТОВАЯ  70 см",
-    "wholesalePrice": 181.14,
-    "extraPrice": 190.2,
-    "retailPrice": 226.43
-  },
-  {
     "id": "УТ000041188",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЧЕХОВСКИЙ САД ОДНОГ.  80 см",
@@ -10856,14 +10848,6 @@
     "retailPrice": 155.18
   },
   {
-    "id": "УТ000029169",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "РЕД/ПИНК МОНСТЕР 70 см",
-    "wholesalePrice": 138.54,
-    "extraPrice": 145.47,
-    "retailPrice": 173.18
-  },
-  {
     "id": "УТ000029172",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ВАЙТ/ПИНК ОХАРА-   40см",
@@ -16552,14 +16536,6 @@
     "retailPrice": 175.47
   },
   {
-    "id": "УТ000015291",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ЭКСПЛОРЕР-  110см",
-    "wholesalePrice": 154.6,
-    "extraPrice": 162.33,
-    "retailPrice": 193.26
-  },
-  {
     "id": "УТ000015293",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ЭКСПЛОРЕР-  130см",
@@ -16670,14 +16646,6 @@
     "wholesalePrice": 119.21,
     "extraPrice": 125.17,
     "retailPrice": 149.01
-  },
-  {
-    "id": "УТ000018605",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "НАУТИКА (ТЕССА)-80 см",
-    "wholesalePrice": 135.82,
-    "extraPrice": 142.61,
-    "retailPrice": 169.78
   },
   {
     "id": "УТ000018661",
@@ -18336,6 +18304,14 @@
     "retailPrice": 669.26
   },
   {
+    "id": "УТ000015712",
+    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
+    "name": "ГУЗМАНИЯ МИКС 13 СМ",
+    "wholesalePrice": 875.61,
+    "extraPrice": 919.39,
+    "retailPrice": 1094.51
+  },
+  {
     "id": "УТ000015713",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
     "name": "ГУЗМАНИЯ ХОП 13 СМ",
@@ -18470,22 +18446,6 @@
     "wholesalePrice": 1038.42,
     "extraPrice": 1090.34,
     "retailPrice": 1298.03
-  },
-  {
-    "id": "УТ000002544",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "АГЛАОНЕМА 17 СМ",
-    "wholesalePrice": 1372.95,
-    "extraPrice": 1441.6,
-    "retailPrice": 1716.19
-  },
-  {
-    "id": "УТ000002548",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "АГЛАОНЕМА 24 СМ",
-    "wholesalePrice": 3649.05,
-    "extraPrice": 3831.5,
-    "retailPrice": 4561.31
   },
   {
     "id": "УТ000002559",
@@ -25632,14 +25592,6 @@
     "retailPrice": 327.04
   },
   {
-    "id": "УТ000035174",
-    "category": "ВАЗЫ И КЕРАМИКА",
-    "name": "ВАЗА № 1882",
-    "wholesalePrice": 571.86,
-    "extraPrice": 600.45,
-    "retailPrice": 714.83
-  },
-  {
     "id": "УТ000035176",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 2034",
@@ -29262,6 +29214,14 @@
     "wholesalePrice": 86.72,
     "extraPrice": 91.05,
     "retailPrice": 108.4
+  },
+  {
+    "id": "УТ000033957",
+    "category": ",Сортовой",
+    "name": "ГОЛДЕН 50 см СОРТОВОЙ РОЗА Кен/Куст. (GOLDEN)",
+    "wholesalePrice": 88.4,
+    "extraPrice": 92.82,
+    "retailPrice": 110.5
   },
   {
     "id": "УТ000033958",
@@ -40272,6 +40232,14 @@
     "retailPrice": 396.9
   },
   {
+    "id": "УТ000047004",
+    "category": "..,ЛИЛИЯ",
+    "name": "ЛИЛИЯ ОТ ИНВИКТУС",
+    "wholesalePrice": 283.5,
+    "extraPrice": 297.68,
+    "retailPrice": 354.38
+  },
+  {
     "id": "УТ000047105",
     "category": "..,ЛИЛИЯ",
     "name": "ЛИЛИЯ ОР ДУ НАДЯ",
@@ -44640,14 +44608,6 @@
     "retailPrice": 56.8
   },
   {
-    "id": "УТ000037942",
-    "category": "..РОЗА КЕНИЯ",
-    "name": "БУЛВАРД  40 см РОЗА Кения (SUBATI)",
-    "wholesalePrice": 56.58,
-    "extraPrice": 59.41,
-    "retailPrice": 70.72
-  },
-  {
     "id": "УТ000039400",
     "category": "..РОЗА КЕНИЯ",
     "name": "ЭКСПЛОРЕР 50 см РОЗА Кения (EVER FLORA)",
@@ -46582,14 +46542,6 @@
     "wholesalePrice": 178.2,
     "extraPrice": 187.11,
     "retailPrice": 222.75
-  },
-  {
-    "id": "УТ000038621",
-    "category": "..,РАЗНОЕ",
-    "name": "ДЕЛЬФИНИУМ СИНИЙ  90 см",
-    "wholesalePrice": 162,
-    "extraPrice": 170.1,
-    "retailPrice": 202.5
   },
   {
     "id": "УТ000038622",
@@ -49046,6 +48998,14 @@
     "wholesalePrice": 129.6,
     "extraPrice": 136.08,
     "retailPrice": 162
+  },
+  {
+    "id": "УТ000012119",
+    "category": "..,РОЗА ,НА ВОДЕ",
+    "name": "ПЕРСУАСИОН 50 см одног на воде",
+    "wholesalePrice": 110,
+    "extraPrice": 115.5,
+    "retailPrice": 137.5
   },
   {
     "id": "УТ000012259",
