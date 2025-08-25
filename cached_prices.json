@@ -15448,14 +15448,6 @@
     "retailPrice": 128.81
   },
   {
-    "id": "УТ000040421",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ПРИНСЕСС  КРАУН-  70 см (АННИ,KING,TU,ROYAL,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН,)",
-    "wholesalePrice": 121.31,
-    "extraPrice": 127.37,
-    "retailPrice": 151.63
-  },
-  {
     "id": "УТ000040424",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ПОМАРОСА-  60см (АННИ,KING,TU,ROYAL,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН,)",
@@ -17864,14 +17856,6 @@
     "retailPrice": 3129.64
   },
   {
-    "id": "УТ000046178",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "САНСЕВИЕРИЯ СТАР 12 СМ",
-    "wholesalePrice": 864.27,
-    "extraPrice": 907.48,
-    "retailPrice": 1080.34
-  },
-  {
     "id": "УТ000046179",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
     "name": "СИНГОНИУМ  6 СМ (КОРОБКА 12 ШТУК)",
@@ -18680,14 +18664,6 @@
     "retailPrice": 1738.46
   },
   {
-    "id": "УТ000002837",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "АФЕЛАНДРА 13 СМ",
-    "wholesalePrice": 439.83,
-    "extraPrice": 461.82,
-    "retailPrice": 549.79
-  },
-  {
     "id": "УТ000002884",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
     "name": "БАМБУК 10 СМ",
@@ -18870,6 +18846,14 @@
     "wholesalePrice": 972,
     "extraPrice": 1020.6,
     "retailPrice": 1215
+  },
+  {
+    "id": "УТ000004584",
+    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
+    "name": "ДЕНДРОБИУМ 12 СМ",
+    "wholesalePrice": 980.1,
+    "extraPrice": 1029.11,
+    "retailPrice": 1225.13
   },
   {
     "id": "УТ000004593",
@@ -22315,9 +22299,9 @@
     "id": "УТ000051245",
     "category": ".УПАКОВКА",
     "name": "ВАЗЫ ПЛАСТИКОВЫЕ ИНФИНИТИ 200/560",
-    "wholesalePrice": 611.55,
-    "extraPrice": 642.13,
-    "retailPrice": 764.44
+    "wholesalePrice": 672.3,
+    "extraPrice": 705.92,
+    "retailPrice": 840.38
   },
   {
     "id": "УТ000051304",
@@ -29574,6 +29558,14 @@
     "wholesalePrice": 111.5,
     "extraPrice": 117.07,
     "retailPrice": 139.37
+  },
+  {
+    "id": "УТ000034391",
+    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
+    "name": "ДЖУЛЬЕТТА РОЗ БЕРИ 40 см РОЗА Кен/Куст.  (RLR)",
+    "wholesalePrice": 130.74,
+    "extraPrice": 137.28,
+    "retailPrice": 163.43
   },
   {
     "id": "УТ000025717",
@@ -40696,6 +40688,14 @@
     "retailPrice": 128.69
   },
   {
+    "id": "УТ000034472",
+    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
+    "name": "ФЛЭЙМ VOORN-ROSES 60 см куст на воде",
+    "wholesalePrice": 202.5,
+    "extraPrice": 212.63,
+    "retailPrice": 253.13
+  },
+  {
     "id": "УТ000023536",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "БЕЛЛА-ТРЕНДСЕТТЕР (VOORN-ROSES) 50 см куст на воде",
@@ -40718,14 +40718,6 @@
     "wholesalePrice": 153.17,
     "extraPrice": 160.83,
     "retailPrice": 191.46
-  },
-  {
-    "id": "УТ000035199",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "РЕД ТРЕНСЕТТЕР 60 см куст на воде",
-    "wholesalePrice": 81,
-    "extraPrice": 85.05,
-    "retailPrice": 101.25
   },
   {
     "id": "УТ000036241",
@@ -48750,6 +48742,14 @@
     "wholesalePrice": 153.9,
     "extraPrice": 161.6,
     "retailPrice": 192.38
+  },
+  {
+    "id": "УТ000032338",
+    "category": "..,РОЗА ,НА ВОДЕ",
+    "name": "ВУВУЗЕЛЛА бел 70 см одног на воде",
+    "wholesalePrice": 194.4,
+    "extraPrice": 204.12,
+    "retailPrice": 243
   },
   {
     "id": "УТ000032783",
