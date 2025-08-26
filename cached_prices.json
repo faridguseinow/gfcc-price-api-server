@@ -19088,14 +19088,6 @@
     "retailPrice": 1345.01
   },
   {
-    "id": "УТ000006090",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "КЛУСИЯ 12/40 СМ",
-    "wholesalePrice": 632.71,
-    "extraPrice": 664.35,
-    "retailPrice": 790.89
-  },
-  {
     "id": "УТ000007142",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
     "name": "КОФЕ 12 СМ",
@@ -20086,14 +20078,6 @@
     "wholesalePrice": 290.16,
     "extraPrice": 304.67,
     "retailPrice": 362.7
-  },
-  {
-    "id": "УТ000015207",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "ШЕФФЛЕРА КОМПАКТА НОРА 12/40 СМ",
-    "wholesalePrice": 831.79,
-    "extraPrice": 873.38,
-    "retailPrice": 1039.74
   },
   {
     "id": "УТ000015208",
@@ -29386,7 +29370,7 @@
   {
     "id": "УТ000027950",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
-    "name": "МИКС 40 см РОЗА Кен/Куст. (AMOR)",
+    "name": "МИКС 40 см РОЗА Кен/Куст. (GATOKA)",
     "wholesalePrice": 64.34,
     "extraPrice": 67.56,
     "retailPrice": 80.43
@@ -32110,14 +32094,6 @@
     "wholesalePrice": 558.56,
     "extraPrice": 586.49,
     "retailPrice": 698.2
-  },
-  {
-    "id": "УТ000028375",
-    "category": "КОРЗИНА",
-    "name": "Корзина - 210502",
-    "wholesalePrice": 353.03,
-    "extraPrice": 370.68,
-    "retailPrice": 441.29
   },
   {
     "id": "УТ000028376",
@@ -42056,14 +42032,6 @@
     "retailPrice": 141.05
   },
   {
-    "id": "УТ000011724",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "САНСЕРРА 60 см куст на воде",
-    "wholesalePrice": 161.2,
-    "extraPrice": 169.26,
-    "retailPrice": 201.5
-  },
-  {
     "id": "УТ000011733",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "СВИТ ГИСЕЛИ 70 см куст на воде",
@@ -49110,6 +49078,14 @@
     "wholesalePrice": 161.2,
     "extraPrice": 169.26,
     "retailPrice": 201.5
+  },
+  {
+    "id": "УТ000012591",
+    "category": "..,РОЗА ,НА ВОДЕ",
+    "name": "ЭММА  60 см одног на воде",
+    "wholesalePrice": 173.29,
+    "extraPrice": 181.95,
+    "retailPrice": 216.61
   },
   {
     "id": "УТ000012592",
