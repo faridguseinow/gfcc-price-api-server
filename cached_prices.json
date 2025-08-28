@@ -11664,6 +11664,14 @@
     "retailPrice": 170.72
   },
   {
+    "id": "УТ000029690",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "МУНСТОУН (ТЕССА) 80см ",
+    "wholesalePrice": 155.26,
+    "extraPrice": 163.02,
+    "retailPrice": 194.08
+  },
+  {
     "id": "УТ000029695",
     "category": "..РОЗА ЭКВАДОР",
     "name": "НАУТИКА  70см (СТАР+КОРАЗОН+МАТИЗ+ЭКО РОЗ+SOFI+BELLA ROSA+ЧАРМИНГ)",
@@ -13144,14 +13152,6 @@
     "retailPrice": 204.83
   },
   {
-    "id": "УТ000037130",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ВИ-ПИНК- 60см (СТАР,КОРОЗОН,МАТИЗ,ЭКО РОЗ,БЕЛЛА РОЗА,ЧАРМИНГ,СОФИ,ДАВИНЧИ)",
-    "wholesalePrice": 132.37,
-    "extraPrice": 138.99,
-    "retailPrice": 165.47
-  },
-  {
     "id": "УТ000037131",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ВИ-ПИНК- 70см (СТАР,КОРОЗОН,МАТИЗ,ЭКО РОЗ,БЕЛЛА РОЗА,ЧАРМИНГ,СОФИ,ДАВИНЧИ)",
@@ -14126,6 +14126,14 @@
     "wholesalePrice": 105.67,
     "extraPrice": 110.96,
     "retailPrice": 132.09
+  },
+  {
+    "id": "УТ000039795",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "КАБАРЕТ-  80см (АННИ,KING,TU,ROYAL,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН)",
+    "wholesalePrice": 116.92,
+    "extraPrice": 122.76,
+    "retailPrice": 146.15
   },
   {
     "id": "УТ000039804",
@@ -16008,14 +16016,6 @@
     "retailPrice": 176.84
   },
   {
-    "id": "УТ000025254",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "РЕД ПИАНО -  50 см",
-    "wholesalePrice": 149.13,
-    "extraPrice": 156.59,
-    "retailPrice": 186.42
-  },
-  {
     "id": "УТ000025255",
     "category": "..РОЗА ЭКВАДОР",
     "name": "РЕД ПИАНО -  60 см",
@@ -16638,6 +16638,14 @@
     "wholesalePrice": 151.5,
     "extraPrice": 159.08,
     "retailPrice": 189.38
+  },
+  {
+    "id": "УТ000026192",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "ПЛАЙЯ БЛАНКА (ТЕССА)-60 см",
+    "wholesalePrice": 124.36,
+    "extraPrice": 130.58,
+    "retailPrice": 155.45
   },
   {
     "id": "УТ000026637",
@@ -24627,9 +24635,9 @@
     "id": "УТ000032456",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 1966",
-    "wholesalePrice": 381.43,
-    "extraPrice": 400.5,
-    "retailPrice": 476.78
+    "wholesalePrice": 386.24,
+    "extraPrice": 405.56,
+    "retailPrice": 482.8
   },
   {
     "id": "УТ000032462",
@@ -24739,9 +24747,9 @@
     "id": "УТ000032478",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 2587",
-    "wholesalePrice": 174.25,
-    "extraPrice": 182.96,
-    "retailPrice": 217.81
+    "wholesalePrice": 203.96,
+    "extraPrice": 214.16,
+    "retailPrice": 254.95
   },
   {
     "id": "УТ000032480",
@@ -24771,9 +24779,9 @@
     "id": "УТ000032488",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 2863",
-    "wholesalePrice": 352.52,
-    "extraPrice": 370.14,
-    "retailPrice": 440.65
+    "wholesalePrice": 327.62,
+    "extraPrice": 344.01,
+    "retailPrice": 409.53
   },
   {
     "id": "УТ000032489",
@@ -24795,9 +24803,9 @@
     "id": "УТ000033072",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 1458",
-    "wholesalePrice": 463.33,
-    "extraPrice": 486.5,
-    "retailPrice": 579.16
+    "wholesalePrice": 429.61,
+    "extraPrice": 451.09,
+    "retailPrice": 537.01
   },
   {
     "id": "УТ000033077",
@@ -24814,6 +24822,14 @@
     "wholesalePrice": 594.22,
     "extraPrice": 623.93,
     "retailPrice": 742.78
+  },
+  {
+    "id": "УТ000033082",
+    "category": "ВАЗЫ И КЕРАМИКА",
+    "name": "ВАЗА № 1884",
+    "wholesalePrice": 306.75,
+    "extraPrice": 322.08,
+    "retailPrice": 383.43
   },
   {
     "id": "УТ000033084",
@@ -24843,17 +24859,25 @@
     "id": "УТ000033095",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 2381",
-    "wholesalePrice": 600.64,
-    "extraPrice": 630.68,
-    "retailPrice": 750.81
+    "wholesalePrice": 573.34,
+    "extraPrice": 602.01,
+    "retailPrice": 716.68
+  },
+  {
+    "id": "УТ000033097",
+    "category": "ВАЗЫ И КЕРАМИКА",
+    "name": "ВАЗА № 2539",
+    "wholesalePrice": 358.14,
+    "extraPrice": 376.04,
+    "retailPrice": 447.67
   },
   {
     "id": "УТ000033099",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 2625",
-    "wholesalePrice": 1781.86,
-    "extraPrice": 1870.95,
-    "retailPrice": 2227.32
+    "wholesalePrice": 1653.38,
+    "extraPrice": 1736.05,
+    "retailPrice": 2066.72
   },
   {
     "id": "УТ000033103",
@@ -24883,17 +24907,17 @@
     "id": "УТ000033729",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 2623",
-    "wholesalePrice": 599.84,
-    "extraPrice": 629.83,
-    "retailPrice": 749.8
+    "wholesalePrice": 606.27,
+    "extraPrice": 636.58,
+    "retailPrice": 757.83
   },
   {
     "id": "УТ000033731",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 2890",
-    "wholesalePrice": 614.3,
-    "extraPrice": 645.01,
-    "retailPrice": 767.87
+    "wholesalePrice": 606.27,
+    "extraPrice": 636.58,
+    "retailPrice": 757.83
   },
   {
     "id": "УТ000034048",
@@ -24907,17 +24931,17 @@
     "id": "УТ000034051",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 2627",
-    "wholesalePrice": 307.55,
-    "extraPrice": 322.93,
-    "retailPrice": 384.44
+    "wholesalePrice": 403.91,
+    "extraPrice": 424.1,
+    "retailPrice": 504.89
   },
   {
     "id": "УТ000034053",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 1454",
-    "wholesalePrice": 570.93,
-    "extraPrice": 599.48,
-    "retailPrice": 713.67
+    "wholesalePrice": 577.36,
+    "extraPrice": 606.22,
+    "retailPrice": 721.7
   },
   {
     "id": "УТ000034054",
@@ -24931,17 +24955,17 @@
     "id": "УТ000034056",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 2624",
-    "wholesalePrice": 572.54,
-    "extraPrice": 601.17,
-    "retailPrice": 715.67
+    "wholesalePrice": 578.96,
+    "extraPrice": 607.91,
+    "retailPrice": 723.7
   },
   {
     "id": "УТ000034057",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 2864",
-    "wholesalePrice": 257.76,
-    "extraPrice": 270.65,
-    "retailPrice": 322.2
+    "wholesalePrice": 245.72,
+    "extraPrice": 258,
+    "retailPrice": 307.15
   },
   {
     "id": "УТ000034078",
@@ -25195,9 +25219,17 @@
     "id": "УТ000034342",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 2560",
-    "wholesalePrice": 632.76,
-    "extraPrice": 664.4,
-    "retailPrice": 790.96
+    "wholesalePrice": 639.19,
+    "extraPrice": 671.15,
+    "retailPrice": 798.99
+  },
+  {
+    "id": "УТ000034343",
+    "category": "ВАЗЫ И КЕРАМИКА",
+    "name": "ВАЗА № 2561",
+    "wholesalePrice": 688.97,
+    "extraPrice": 723.42,
+    "retailPrice": 861.22
   },
   {
     "id": "УТ000034358",
@@ -25251,9 +25283,9 @@
     "id": "УТ000035174",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 1882",
-    "wholesalePrice": 566.92,
-    "extraPrice": 595.26,
-    "retailPrice": 708.65
+    "wholesalePrice": 573.34,
+    "extraPrice": 602.01,
+    "retailPrice": 716.68
   },
   {
     "id": "УТ000035176",
@@ -25283,9 +25315,9 @@
     "id": "УТ000035181",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 2626",
-    "wholesalePrice": 1781.86,
-    "extraPrice": 1870.95,
-    "retailPrice": 2227.32
+    "wholesalePrice": 1653.38,
+    "extraPrice": 1736.05,
+    "retailPrice": 2066.72
   },
   {
     "id": "УТ000035569",
@@ -25339,9 +25371,9 @@
     "id": "УТ000036120",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 2862",
-    "wholesalePrice": 529.18,
-    "extraPrice": 555.64,
-    "retailPrice": 661.47
+    "wholesalePrice": 534.8,
+    "extraPrice": 561.54,
+    "retailPrice": 668.5
   },
   {
     "id": "УТ000036121",
@@ -25371,9 +25403,9 @@
     "id": "УТ000036494",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 2713",
-    "wholesalePrice": 282.66,
-    "extraPrice": 296.79,
-    "retailPrice": 353.32
+    "wholesalePrice": 269.81,
+    "extraPrice": 283.3,
+    "retailPrice": 337.26
   },
   {
     "id": "УТ000037976",
@@ -25435,9 +25467,9 @@
     "id": "УТ000040925",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 1917",
-    "wholesalePrice": 664.08,
-    "extraPrice": 697.29,
-    "retailPrice": 830.1
+    "wholesalePrice": 633.57,
+    "extraPrice": 665.25,
+    "retailPrice": 791.96
   },
   {
     "id": "УТ000040926",
@@ -25470,6 +25502,14 @@
     "wholesalePrice": 284.26,
     "extraPrice": 298.48,
     "retailPrice": 355.33
+  },
+  {
+    "id": "УТ000040933",
+    "category": "ВАЗЫ И КЕРАМИКА",
+    "name": "ВАЗА № 2787",
+    "wholesalePrice": 894.54,
+    "extraPrice": 939.27,
+    "retailPrice": 1118.18
   },
   {
     "id": "УТ000040934",
@@ -25515,17 +25555,25 @@
     "id": "УТ000041161",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 1938",
-    "wholesalePrice": 307.55,
-    "extraPrice": 322.93,
-    "retailPrice": 384.44
+    "wholesalePrice": 303.53,
+    "extraPrice": 318.71,
+    "retailPrice": 379.42
+  },
+  {
+    "id": "УТ000041165",
+    "category": "ВАЗЫ И КЕРАМИКА",
+    "name": "ВАЗА № 2356",
+    "wholesalePrice": 248.13,
+    "extraPrice": 260.53,
+    "retailPrice": 310.16
   },
   {
     "id": "УТ000041166",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 2359",
-    "wholesalePrice": 231.26,
-    "extraPrice": 242.83,
-    "retailPrice": 289.08
+    "wholesalePrice": 269.81,
+    "extraPrice": 283.3,
+    "retailPrice": 337.26
   },
   {
     "id": "УТ000041167",
@@ -25534,6 +25582,14 @@
     "wholesalePrice": 579.77,
     "extraPrice": 608.75,
     "retailPrice": 724.71
+  },
+  {
+    "id": "УТ000041171",
+    "category": "ВАЗЫ И КЕРАМИКА",
+    "name": "ВАЗА № 2570",
+    "wholesalePrice": 754.82,
+    "extraPrice": 792.56,
+    "retailPrice": 943.53
   },
   {
     "id": "УТ000041172",
@@ -25587,9 +25643,9 @@
     "id": "УТ000041296",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 2571",
-    "wholesalePrice": 419.17,
-    "extraPrice": 440.12,
-    "retailPrice": 523.96
+    "wholesalePrice": 352.52,
+    "extraPrice": 370.14,
+    "retailPrice": 440.65
   },
   {
     "id": "УТ000041297",
@@ -25603,9 +25659,9 @@
     "id": "УТ000041288",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 2305",
-    "wholesalePrice": 436.83,
-    "extraPrice": 458.67,
-    "retailPrice": 546.04
+    "wholesalePrice": 431.21,
+    "extraPrice": 452.77,
+    "retailPrice": 539.01
   },
   {
     "id": "УТ000041741",
@@ -25662,6 +25718,14 @@
     "wholesalePrice": 109.21,
     "extraPrice": 114.67,
     "retailPrice": 136.51
+  },
+  {
+    "id": "УТ000042725",
+    "category": "ВАЗЫ И КЕРАМИКА",
+    "name": "ВАЗА № 1968",
+    "wholesalePrice": 248.13,
+    "extraPrice": 260.53,
+    "retailPrice": 310.16
   },
   {
     "id": "УТ000042729",
@@ -25851,9 +25915,9 @@
     "id": "УТ000043829",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 2590",
-    "wholesalePrice": 201.55,
-    "extraPrice": 211.63,
-    "retailPrice": 251.94
+    "wholesalePrice": 203.96,
+    "extraPrice": 214.16,
+    "retailPrice": 254.95
   },
   {
     "id": "УТ000043964",
@@ -25891,9 +25955,9 @@
     "id": "УТ000044181",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 1597",
-    "wholesalePrice": 375.8,
-    "extraPrice": 394.59,
-    "retailPrice": 469.76
+    "wholesalePrice": 380.62,
+    "extraPrice": 399.65,
+    "retailPrice": 475.78
   },
   {
     "id": "УТ000044182",
@@ -25968,6 +26032,14 @@
     "retailPrice": 602.25
   },
   {
+    "id": "УТ000044515",
+    "category": "ВАЗЫ И КЕРАМИКА",
+    "name": "ВАЗА № 1561",
+    "wholesalePrice": 97.16,
+    "extraPrice": 102.02,
+    "retailPrice": 121.45
+  },
+  {
     "id": "УТ000044516",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 1562",
@@ -25979,9 +26051,9 @@
     "id": "УТ000044520",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 2358",
-    "wholesalePrice": 285.07,
-    "extraPrice": 299.32,
-    "retailPrice": 356.33
+    "wholesalePrice": 281.05,
+    "extraPrice": 295.1,
+    "retailPrice": 351.31
   },
   {
     "id": "УТ000044521",
@@ -26000,12 +26072,20 @@
     "retailPrice": 401.5
   },
   {
+    "id": "УТ000044523",
+    "category": "ВАЗЫ И КЕРАМИКА",
+    "name": "ВАЗА № 2712",
+    "wholesalePrice": 319.59,
+    "extraPrice": 335.57,
+    "retailPrice": 399.49
+  },
+  {
     "id": "УТ000044696",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 2438",
-    "wholesalePrice": 290.69,
-    "extraPrice": 305.22,
-    "retailPrice": 363.36
+    "wholesalePrice": 269.81,
+    "extraPrice": 283.3,
+    "retailPrice": 337.26
   },
   {
     "id": "УТ000044699",
@@ -26032,12 +26112,28 @@
     "retailPrice": 1755.56
   },
   {
+    "id": "УТ000044769",
+    "category": "ВАЗЫ И КЕРАМИКА",
+    "name": "ВАЗА № 2695",
+    "wholesalePrice": 661.67,
+    "extraPrice": 694.76,
+    "retailPrice": 827.09
+  },
+  {
     "id": "УТ000044772",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 2947",
     "wholesalePrice": 368.58,
     "extraPrice": 387.01,
     "retailPrice": 460.72
+  },
+  {
+    "id": "УТ000044774",
+    "category": "ВАЗЫ И КЕРАМИКА",
+    "name": "ВАЗА № 2918",
+    "wholesalePrice": 292.29,
+    "extraPrice": 306.91,
+    "retailPrice": 365.37
   },
   {
     "id": "УТ000044854",
@@ -26059,9 +26155,9 @@
     "id": "УТ000044858",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 2306",
-    "wholesalePrice": 642.4,
-    "extraPrice": 674.52,
-    "retailPrice": 803
+    "wholesalePrice": 573.34,
+    "extraPrice": 602.01,
+    "retailPrice": 716.68
   },
   {
     "id": "УТ000045026",
@@ -26371,9 +26467,9 @@
     "id": "УТ000045305",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 1322",
-    "wholesalePrice": 565.31,
-    "extraPrice": 593.58,
-    "retailPrice": 706.64
+    "wholesalePrice": 540.42,
+    "extraPrice": 567.44,
+    "retailPrice": 675.52
   },
   {
     "id": "УТ000045306",
@@ -26408,12 +26504,28 @@
     "retailPrice": 545.04
   },
   {
+    "id": "УТ000046034",
+    "category": "ВАЗЫ И КЕРАМИКА",
+    "name": "ВАЗА № 1229",
+    "wholesalePrice": 387.85,
+    "extraPrice": 407.24,
+    "retailPrice": 484.81
+  },
+  {
     "id": "УТ000046036",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 1260",
     "wholesalePrice": 203.16,
     "extraPrice": 213.32,
     "retailPrice": 253.95
+  },
+  {
+    "id": "УТ000046037",
+    "category": "ВАЗЫ И КЕРАМИКА",
+    "name": "ВАЗА № 1280",
+    "wholesalePrice": 953.96,
+    "extraPrice": 1001.66,
+    "retailPrice": 1192.46
   },
   {
     "id": "УТ000046044",
@@ -26494,6 +26606,14 @@
     "wholesalePrice": 718.69,
     "extraPrice": 754.62,
     "retailPrice": 898.36
+  },
+  {
+    "id": "УТ000046388",
+    "category": "ВАЗЫ И КЕРАМИКА",
+    "name": "ВАЗА № 1323",
+    "wholesalePrice": 438.44,
+    "extraPrice": 460.36,
+    "retailPrice": 548.05
   },
   {
     "id": "УТ000046394",
@@ -26776,6 +26896,14 @@
     "retailPrice": 121.45
   },
   {
+    "id": "УТ000048484",
+    "category": "ВАЗЫ И КЕРАМИКА",
+    "name": "ВАЗА № 1231",
+    "wholesalePrice": 738.76,
+    "extraPrice": 775.7,
+    "retailPrice": 923.45
+  },
+  {
     "id": "УТ000048815",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 1728",
@@ -26795,9 +26923,9 @@
     "id": "УТ000049448",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 1235",
-    "wholesalePrice": 461.73,
-    "extraPrice": 484.81,
-    "retailPrice": 577.16
+    "wholesalePrice": 440.85,
+    "extraPrice": 462.89,
+    "retailPrice": 551.06
   },
   {
     "id": "УТ000050169",
@@ -26907,9 +27035,17 @@
     "id": "УТ000051247",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 1380",
-    "wholesalePrice": 161.4,
-    "extraPrice": 169.47,
-    "retailPrice": 201.75
+    "wholesalePrice": 154.18,
+    "extraPrice": 161.88,
+    "retailPrice": 192.72
+  },
+  {
+    "id": "УТ000051326",
+    "category": "ВАЗЫ И КЕРАМИКА",
+    "name": "ВАЗА № 1240",
+    "wholesalePrice": 644.01,
+    "extraPrice": 676.21,
+    "retailPrice": 805.01
   },
   {
     "id": "УТ000051394",
@@ -26942,6 +27078,14 @@
     "wholesalePrice": 190.31,
     "extraPrice": 199.83,
     "retailPrice": 237.89
+  },
+  {
+    "id": "УТ000051431",
+    "category": "ВАЗЫ И КЕРАМИКА",
+    "name": "ВАЗА № 1281",
+    "wholesalePrice": 595.02,
+    "extraPrice": 624.77,
+    "retailPrice": 743.78
   },
   {
     "id": "УТ000051432",
@@ -26984,6 +27128,22 @@
     "retailPrice": 613.29
   },
   {
+    "id": "УТ000051836",
+    "category": "ВАЗЫ И КЕРАМИКА",
+    "name": "ВАЗА № 1501",
+    "wholesalePrice": 192.72,
+    "extraPrice": 202.36,
+    "retailPrice": 240.9
+  },
+  {
+    "id": "УТ000023733",
+    "category": "ВАЗЫ И КЕРАМИКА",
+    "name": "ВАЗА № 1416",
+    "wholesalePrice": 315.58,
+    "extraPrice": 331.36,
+    "retailPrice": 394.47
+  },
+  {
     "id": "УТ000023737",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 1786",
@@ -26995,9 +27155,9 @@
     "id": "УТ000023738",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 1916",
-    "wholesalePrice": 606.27,
-    "extraPrice": 636.58,
-    "retailPrice": 757.83
+    "wholesalePrice": 578.96,
+    "extraPrice": 607.91,
+    "retailPrice": 723.7
   },
   {
     "id": "УТ000023739",
@@ -27027,9 +27187,9 @@
     "id": "УТ000023746",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 2824",
-    "wholesalePrice": 162.21,
-    "extraPrice": 170.32,
-    "retailPrice": 202.76
+    "wholesalePrice": 159.8,
+    "extraPrice": 167.79,
+    "retailPrice": 199.75
   },
   {
     "id": "УТ000023747",
@@ -27051,41 +27211,41 @@
     "id": "УТ000003064",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 1537",
-    "wholesalePrice": 561.3,
-    "extraPrice": 589.36,
-    "retailPrice": 701.62
+    "wholesalePrice": 567.72,
+    "extraPrice": 596.11,
+    "retailPrice": 709.65
   },
   {
     "id": "УТ000003065",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 1538",
-    "wholesalePrice": 512.31,
-    "extraPrice": 537.93,
-    "retailPrice": 640.39
+    "wholesalePrice": 523.56,
+    "extraPrice": 549.73,
+    "retailPrice": 654.45
   },
   {
     "id": "УТ000003066",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 1539",
-    "wholesalePrice": 448.07,
-    "extraPrice": 470.48,
-    "retailPrice": 560.09
+    "wholesalePrice": 424.79,
+    "extraPrice": 446.03,
+    "retailPrice": 530.98
   },
   {
     "id": "УТ000003067",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 1540",
-    "wholesalePrice": 346.09,
-    "extraPrice": 363.4,
-    "retailPrice": 432.62
+    "wholesalePrice": 330.84,
+    "extraPrice": 347.38,
+    "retailPrice": 413.55
   },
   {
     "id": "УТ000003068",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 1541",
-    "wholesalePrice": 221.63,
-    "extraPrice": 232.71,
-    "retailPrice": 277.04
+    "wholesalePrice": 218.42,
+    "extraPrice": 229.34,
+    "retailPrice": 273.02
   },
   {
     "id": "УТ000003069",
@@ -27123,9 +27283,9 @@
     "id": "УТ000003081",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 1577",
-    "wholesalePrice": 264.99,
-    "extraPrice": 278.24,
-    "retailPrice": 331.24
+    "wholesalePrice": 372.59,
+    "extraPrice": 391.22,
+    "retailPrice": 465.74
   },
   {
     "id": "УТ000003087",
@@ -27155,9 +27315,9 @@
     "id": "УТ000003091",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 1590",
-    "wholesalePrice": 256.96,
-    "extraPrice": 269.81,
-    "retailPrice": 321.2
+    "wholesalePrice": 257.76,
+    "extraPrice": 270.65,
+    "retailPrice": 322.2
   },
   {
     "id": "УТ000003094",
@@ -27251,9 +27411,9 @@
     "id": "УТ000003124",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 1660",
-    "wholesalePrice": 479.39,
-    "extraPrice": 503.36,
-    "retailPrice": 599.24
+    "wholesalePrice": 485.01,
+    "extraPrice": 509.26,
+    "retailPrice": 606.27
   },
   {
     "id": "УТ000003131",
@@ -27299,9 +27459,9 @@
     "id": "УТ000003137",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 1680",
-    "wholesalePrice": 419.97,
-    "extraPrice": 440.97,
-    "retailPrice": 524.96
+    "wholesalePrice": 424.79,
+    "extraPrice": 446.03,
+    "retailPrice": 530.98
   },
   {
     "id": "УТ000003146",
@@ -27320,6 +27480,14 @@
     "retailPrice": 441.65
   },
   {
+    "id": "УТ000003153",
+    "category": "ВАЗЫ И КЕРАМИКА",
+    "name": "ВАЗА № 1729/2",
+    "wholesalePrice": 313.97,
+    "extraPrice": 329.67,
+    "retailPrice": 392.47
+  },
+  {
     "id": "УТ000003162",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 1770",
@@ -27331,9 +27499,9 @@
     "id": "УТ000003163",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 1771",
-    "wholesalePrice": 240.9,
-    "extraPrice": 252.95,
-    "retailPrice": 301.13
+    "wholesalePrice": 236.89,
+    "extraPrice": 248.73,
+    "retailPrice": 296.11
   },
   {
     "id": "УТ000003164",
@@ -27395,9 +27563,9 @@
     "id": "УТ000003171",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 1779",
-    "wholesalePrice": 285.07,
-    "extraPrice": 299.32,
-    "retailPrice": 356.33
+    "wholesalePrice": 264.99,
+    "extraPrice": 278.24,
+    "retailPrice": 331.24
   },
   {
     "id": "УТ000003174",
@@ -27419,9 +27587,9 @@
     "id": "УТ000003186",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 1836",
-    "wholesalePrice": 463.33,
-    "extraPrice": 486.5,
-    "retailPrice": 579.16
+    "wholesalePrice": 429.61,
+    "extraPrice": 451.09,
+    "retailPrice": 537.01
   },
   {
     "id": "УТ000003189",
@@ -27435,25 +27603,25 @@
     "id": "УТ000003190",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 1872",
-    "wholesalePrice": 216.81,
-    "extraPrice": 227.65,
-    "retailPrice": 271.01
+    "wholesalePrice": 220.83,
+    "extraPrice": 231.87,
+    "retailPrice": 276.03
   },
   {
     "id": "УТ000003192",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 1876",
-    "wholesalePrice": 548.45,
-    "extraPrice": 575.87,
-    "retailPrice": 685.56
+    "wholesalePrice": 523.56,
+    "extraPrice": 549.73,
+    "retailPrice": 654.45
   },
   {
     "id": "УТ000003193",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 1877",
-    "wholesalePrice": 415.95,
-    "extraPrice": 436.75,
-    "retailPrice": 519.94
+    "wholesalePrice": 396.68,
+    "extraPrice": 416.52,
+    "retailPrice": 495.85
   },
   {
     "id": "УТ000003194",
@@ -27488,6 +27656,14 @@
     "retailPrice": 414.55
   },
   {
+    "id": "УТ000003212",
+    "category": "ВАЗЫ И КЕРАМИКА",
+    "name": "ВАЗА № 2017",
+    "wholesalePrice": 292.29,
+    "extraPrice": 306.91,
+    "retailPrice": 365.37
+  },
+  {
     "id": "УТ000003213",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 2018",
@@ -27507,9 +27683,9 @@
     "id": "УТ000003215",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 2020",
-    "wholesalePrice": 216.01,
-    "extraPrice": 226.81,
-    "retailPrice": 270.01
+    "wholesalePrice": 218.42,
+    "extraPrice": 229.34,
+    "retailPrice": 273.02
   },
   {
     "id": "УТ000003216",
@@ -27531,9 +27707,9 @@
     "id": "УТ000003218",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 2023",
-    "wholesalePrice": 335.65,
-    "extraPrice": 352.44,
-    "retailPrice": 419.57
+    "wholesalePrice": 330.84,
+    "extraPrice": 347.38,
+    "retailPrice": 413.55
   },
   {
     "id": "УТ000003219",
@@ -27547,41 +27723,41 @@
     "id": "УТ000003220",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 2025",
-    "wholesalePrice": 456.1,
-    "extraPrice": 478.91,
-    "retailPrice": 570.13
+    "wholesalePrice": 424.79,
+    "extraPrice": 446.03,
+    "retailPrice": 530.98
   },
   {
     "id": "УТ000003221",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 2026",
-    "wholesalePrice": 320.4,
-    "extraPrice": 336.42,
-    "retailPrice": 400.5
+    "wholesalePrice": 297.91,
+    "extraPrice": 312.81,
+    "retailPrice": 372.39
   },
   {
     "id": "УТ000003222",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 2027",
-    "wholesalePrice": 459.32,
-    "extraPrice": 482.28,
-    "retailPrice": 574.15
+    "wholesalePrice": 438.44,
+    "extraPrice": 460.36,
+    "retailPrice": 548.05
   },
   {
     "id": "УТ000003223",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 2028",
-    "wholesalePrice": 577.36,
-    "extraPrice": 606.22,
-    "retailPrice": 721.7
+    "wholesalePrice": 550.86,
+    "extraPrice": 578.4,
+    "retailPrice": 688.57
   },
   {
     "id": "УТ000003224",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 2029",
-    "wholesalePrice": 694.6,
-    "extraPrice": 729.32,
-    "retailPrice": 868.24
+    "wholesalePrice": 644.81,
+    "extraPrice": 677.05,
+    "retailPrice": 806.01
   },
   {
     "id": "УТ000003225",
@@ -27691,9 +27867,9 @@
     "id": "УТ000003249",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 2070",
-    "wholesalePrice": 599.84,
-    "extraPrice": 629.83,
-    "retailPrice": 749.8
+    "wholesalePrice": 606.27,
+    "extraPrice": 636.58,
+    "retailPrice": 757.83
   },
   {
     "id": "УТ000003250",
@@ -27843,41 +28019,41 @@
     "id": "УТ000003301",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 2294",
-    "wholesalePrice": 216.01,
-    "extraPrice": 226.81,
-    "retailPrice": 270.01
+    "wholesalePrice": 218.42,
+    "extraPrice": 229.34,
+    "retailPrice": 273.02
   },
   {
     "id": "УТ000003302",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 2295",
-    "wholesalePrice": 599.84,
-    "extraPrice": 629.83,
-    "retailPrice": 749.8
+    "wholesalePrice": 606.27,
+    "extraPrice": 636.58,
+    "retailPrice": 757.83
   },
   {
     "id": "УТ000003303",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 2296",
-    "wholesalePrice": 768.47,
-    "extraPrice": 806.89,
-    "retailPrice": 960.59
+    "wholesalePrice": 777.3,
+    "extraPrice": 816.17,
+    "retailPrice": 971.63
   },
   {
     "id": "УТ000003305",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 2297",
-    "wholesalePrice": 926.66,
-    "extraPrice": 973,
-    "retailPrice": 1158.33
+    "wholesalePrice": 937.1,
+    "extraPrice": 983.96,
+    "retailPrice": 1171.38
   },
   {
     "id": "УТ000003306",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 2298",
-    "wholesalePrice": 1068.79,
-    "extraPrice": 1122.23,
-    "retailPrice": 1335.99
+    "wholesalePrice": 1080.84,
+    "extraPrice": 1134.88,
+    "retailPrice": 1351.05
   },
   {
     "id": "УТ000003307",
@@ -27907,9 +28083,9 @@
     "id": "УТ000003313",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 2304",
-    "wholesalePrice": 576.55,
-    "extraPrice": 605.38,
-    "retailPrice": 720.69
+    "wholesalePrice": 550.06,
+    "extraPrice": 577.56,
+    "retailPrice": 687.57
   },
   {
     "id": "УТ000003315",
@@ -27923,17 +28099,17 @@
     "id": "УТ000003316",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 2363",
-    "wholesalePrice": 346.09,
-    "extraPrice": 363.4,
-    "retailPrice": 432.62
+    "wholesalePrice": 386.24,
+    "extraPrice": 405.56,
+    "retailPrice": 482.8
   },
   {
     "id": "УТ000003318",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 2384",
-    "wholesalePrice": 264.99,
-    "extraPrice": 278.24,
-    "retailPrice": 331.24
+    "wholesalePrice": 269.81,
+    "extraPrice": 283.3,
+    "retailPrice": 337.26
   },
   {
     "id": "УТ000003322",
@@ -27947,9 +28123,9 @@
     "id": "УТ000003333",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 2620",
-    "wholesalePrice": 273.82,
-    "extraPrice": 287.51,
-    "retailPrice": 342.28
+    "wholesalePrice": 269.81,
+    "extraPrice": 283.3,
+    "retailPrice": 337.26
   },
   {
     "id": "УТ000003337",
@@ -27987,9 +28163,9 @@
     "id": "УТ000003343",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 2929",
-    "wholesalePrice": 256.96,
-    "extraPrice": 269.81,
-    "retailPrice": 321.2
+    "wholesalePrice": 253.75,
+    "extraPrice": 266.44,
+    "retailPrice": 317.19
   },
   {
     "id": "УТ000003344",
@@ -27998,6 +28174,14 @@
     "wholesalePrice": 219.22,
     "extraPrice": 230.18,
     "retailPrice": 274.02
+  },
+  {
+    "id": "УТ000003345",
+    "category": "ВАЗЫ И КЕРАМИКА",
+    "name": "ВАЗА № 2931",
+    "wholesalePrice": 165.42,
+    "extraPrice": 173.69,
+    "retailPrice": 206.77
   },
   {
     "id": "УТ000003356",
@@ -28075,9 +28259,9 @@
     "id": "УТ000020345",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 1880",
-    "wholesalePrice": 381.43,
-    "extraPrice": 400.5,
-    "retailPrice": 476.78
+    "wholesalePrice": 386.24,
+    "extraPrice": 405.56,
+    "retailPrice": 482.8
   },
   {
     "id": "УТ000020352",
@@ -28104,6 +28288,14 @@
     "retailPrice": 829.1
   },
   {
+    "id": "УТ000020366",
+    "category": "ВАЗЫ И КЕРАМИКА",
+    "name": "ВАЗА № 2584",
+    "wholesalePrice": 319.59,
+    "extraPrice": 335.57,
+    "retailPrice": 399.49
+  },
+  {
     "id": "УТ000020368",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 2588",
@@ -28123,33 +28315,41 @@
     "id": "УТ000020370",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 2609",
-    "wholesalePrice": 187.9,
-    "extraPrice": 197.3,
-    "retailPrice": 234.88
+    "wholesalePrice": 185.49,
+    "extraPrice": 194.77,
+    "retailPrice": 231.87
   },
   {
     "id": "УТ000020371",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 2610",
-    "wholesalePrice": 228.86,
-    "extraPrice": 240.3,
-    "retailPrice": 286.07
+    "wholesalePrice": 231.26,
+    "extraPrice": 242.83,
+    "retailPrice": 289.08
   },
   {
     "id": "УТ000020372",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 2611",
-    "wholesalePrice": 273.82,
-    "extraPrice": 287.51,
-    "retailPrice": 342.28
+    "wholesalePrice": 269.81,
+    "extraPrice": 283.3,
+    "retailPrice": 337.26
+  },
+  {
+    "id": "УТ000020373",
+    "category": "ВАЗЫ И КЕРАМИКА",
+    "name": "ВАЗА № 2612",
+    "wholesalePrice": 297.91,
+    "extraPrice": 312.81,
+    "retailPrice": 372.39
   },
   {
     "id": "УТ000020374",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 2822",
-    "wholesalePrice": 508.3,
-    "extraPrice": 533.71,
-    "retailPrice": 635.37
+    "wholesalePrice": 485.01,
+    "extraPrice": 509.26,
+    "retailPrice": 606.27
   },
   {
     "id": "УТ000017343",
@@ -29464,6 +29664,14 @@
     "retailPrice": 196.53
   },
   {
+    "id": "УТ000041771",
+    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
+    "name": "ФАЕ ВОРКС 60 см РОЗА Кен/Куст. (EVER FLORA)",
+    "wholesalePrice": 67.82,
+    "extraPrice": 71.21,
+    "retailPrice": 84.78
+  },
+  {
     "id": "УТ000041801",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "МИКС 50 см РОЗА Кен/Куст. (ZEEFLORA)",
@@ -30278,6 +30486,14 @@
     "wholesalePrice": 104.11,
     "extraPrice": 109.31,
     "retailPrice": 130.14
+  },
+  {
+    "id": "УТ000005326",
+    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
+    "name": "КАЙЛИ 50 см РОЗА Кен/Куст. (RLR)",
+    "wholesalePrice": 143.5,
+    "extraPrice": 150.68,
+    "retailPrice": 179.38
   },
   {
     "id": "УТ000005327",
@@ -40296,6 +40512,14 @@
     "retailPrice": 292.69
   },
   {
+    "id": "УТ000026822",
+    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
+    "name": "ВИКТОР КЛАССИК VIP-ROSES куст 50 см на воде",
+    "wholesalePrice": 170,
+    "extraPrice": 178.49,
+    "retailPrice": 212.49
+  },
+  {
     "id": "УТ000026874",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "ПИНК ЙО-ЙО  50 см куст на воде",
@@ -49670,6 +49894,14 @@
     "wholesalePrice": 82.97,
     "extraPrice": 87.12,
     "retailPrice": 103.72
+  },
+  {
+    "id": "УТ000037077",
+    "category": "..ХРИЗАНТЕМА",
+    "name": ".ХРИЗ. ДЕКО ХОНЕЙМУН",
+    "wholesalePrice": 112.42,
+    "extraPrice": 118.04,
+    "retailPrice": 140.53
   },
   {
     "id": "УТ000038187",
