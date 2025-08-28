@@ -17488,14 +17488,6 @@
     "retailPrice": 6632.78
   },
   {
-    "id": "УТ000045776",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "АЛОКАЗИЯ МИКС 14 СМ",
-    "wholesalePrice": 859.21,
-    "extraPrice": 902.17,
-    "retailPrice": 1074.01
-  },
-  {
     "id": "УТ000045951",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
     "name": "КРОТОН АЙСТОН 27/150 СМ",
@@ -18384,14 +18376,6 @@
     "retailPrice": 787.94
   },
   {
-    "id": "УТ000002927",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "БЕГОНИЯ РЕКС 17 СМ",
-    "wholesalePrice": 1171.58,
-    "extraPrice": 1230.16,
-    "retailPrice": 1464.47
-  },
-  {
     "id": "УТ000002957",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
     "name": "БОНСАЙ 20 СМ",
@@ -18742,14 +18726,6 @@
     "wholesalePrice": 273.82,
     "extraPrice": 287.51,
     "retailPrice": 342.28
-  },
-  {
-    "id": "УТ000005820",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "КАЛАНДИВА МИКС 15 СМ",
-    "wholesalePrice": 512.31,
-    "extraPrice": 537.93,
-    "retailPrice": 640.39
   },
   {
     "id": "УТ000005823",
@@ -40208,6 +40184,14 @@
     "retailPrice": 402.5
   },
   {
+    "id": "УТ000045212",
+    "category": "..,ЛИЛИЯ",
+    "name": "ЛИЛИЯ ОР ДУ АИША",
+    "wholesalePrice": 264.99,
+    "extraPrice": 278.24,
+    "retailPrice": 331.24
+  },
+  {
     "id": "УТ000045214",
     "category": "..,ЛИЛИЯ",
     "name": "ЛИЛИЯ ОР ДУ ВИОЛА",
@@ -40536,6 +40520,14 @@
     "retailPrice": 301.13
   },
   {
+    "id": "УТ000027733",
+    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
+    "name": "ЛИДИЯ 40 см куст на воде",
+    "wholesalePrice": 64.32,
+    "extraPrice": 67.54,
+    "retailPrice": 80.4
+  },
+  {
     "id": "УТ000027954",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "ШАЙЕНН 50 см куст на воде",
@@ -40702,6 +40694,14 @@
     "wholesalePrice": 137.31,
     "extraPrice": 144.18,
     "retailPrice": 171.64
+  },
+  {
+    "id": "УТ000033365",
+    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
+    "name": "ЧИМО 40 см куст на воде",
+    "wholesalePrice": 68.82,
+    "extraPrice": 72.26,
+    "retailPrice": 86.02
   },
   {
     "id": "УТ000033411",
@@ -41878,6 +41878,14 @@
     "wholesalePrice": 152.57,
     "extraPrice": 160.2,
     "retailPrice": 190.71
+  },
+  {
+    "id": "УТ000011500",
+    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
+    "name": "ГУИНСИ 50 см куст на воде",
+    "wholesalePrice": 88.33,
+    "extraPrice": 92.75,
+    "retailPrice": 110.41
   },
   {
     "id": "УТ000011501",
@@ -49086,6 +49094,14 @@
     "wholesalePrice": 141.41,
     "extraPrice": 148.48,
     "retailPrice": 176.76
+  },
+  {
+    "id": "УТ000034207",
+    "category": "..,РОЗА ,НА ВОДЕ",
+    "name": "ХАРПЕР  70 см одног на воде",
+    "wholesalePrice": 188.71,
+    "extraPrice": 198.14,
+    "retailPrice": 235.88
   },
   {
     "id": "УТ000036322",
