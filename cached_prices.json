@@ -16008,14 +16008,6 @@
     "retailPrice": 140.74
   },
   {
-    "id": "УТ000051467",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "Фатима (РОЗАПРИМА)- 70см  ",
-    "wholesalePrice": 154.37,
-    "extraPrice": 162.09,
-    "retailPrice": 192.96
-  },
-  {
     "id": "УТ000051522",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ТИП ТОП -  70см (ТЕССА)",
@@ -18918,14 +18910,6 @@
     "wholesalePrice": 2305.52,
     "extraPrice": 2420.8,
     "retailPrice": 2881.9
-  },
-  {
-    "id": "УТ000005861",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "КАЛАТЕЯ ФУЖИН 14 СМ",
-    "wholesalePrice": 1086.75,
-    "extraPrice": 1141.09,
-    "retailPrice": 1358.44
   },
   {
     "id": "УТ000005866",
@@ -25976,6 +25960,14 @@
     "retailPrice": 1258.82
   },
   {
+    "id": "УТ000043829",
+    "category": "ВАЗЫ И КЕРАМИКА",
+    "name": "ВАЗА № 2590",
+    "wholesalePrice": 202.06,
+    "extraPrice": 212.16,
+    "retailPrice": 252.57
+  },
+  {
     "id": "УТ000043964",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 1979",
@@ -30848,6 +30840,14 @@
     "retailPrice": 133.6
   },
   {
+    "id": "УТ000005731",
+    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
+    "name": "ФАЕВОРКС 60 см РОЗА Кен/Куст. (RLR)",
+    "wholesalePrice": 180.13,
+    "extraPrice": 189.13,
+    "retailPrice": 225.16
+  },
+  {
     "id": "УТ000005740",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "ФАЕВОРКС 70 см РОЗА Кен/Куст. (RLR)",
@@ -30918,14 +30918,6 @@
     "wholesalePrice": 104.37,
     "extraPrice": 109.59,
     "retailPrice": 130.46
-  },
-  {
-    "id": "УТ000020065",
-    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
-    "name": "МИКС 50 см РОЗА Кен/Куст. (GROOVE)",
-    "wholesalePrice": 106.88,
-    "extraPrice": 112.22,
-    "retailPrice": 133.6
   },
   {
     "id": "УТ000020267",
@@ -32171,9 +32163,9 @@
     "id": "УТ000030474",
     "category": "КОРЗИНА",
     "name": "Корзина - 352803",
-    "wholesalePrice": 1233.26,
-    "extraPrice": 1294.92,
-    "retailPrice": 1541.58
+    "wholesalePrice": 1286.39,
+    "extraPrice": 1350.71,
+    "retailPrice": 1607.99
   },
   {
     "id": "УТ000030475",
@@ -33027,9 +33019,9 @@
     "id": "УТ000034796",
     "category": "КОРЗИНА",
     "name": "Корзина - 19A209003",
-    "wholesalePrice": 1074.68,
-    "extraPrice": 1128.41,
-    "retailPrice": 1343.34
+    "wholesalePrice": 1032.01,
+    "extraPrice": 1083.61,
+    "retailPrice": 1290.01
   },
   {
     "id": "УТ000025998",
@@ -33232,6 +33224,14 @@
     "retailPrice": 1281.96
   },
   {
+    "id": "УТ000026033",
+    "category": "КОРЗИНА",
+    "name": "Корзина - 124503",
+    "wholesalePrice": 1000.62,
+    "extraPrice": 1050.65,
+    "retailPrice": 1250.77
+  },
+  {
     "id": "УТ000026034",
     "category": "КОРЗИНА",
     "name": "Корзина - 125903",
@@ -33347,9 +33347,9 @@
     "id": "УТ000026059",
     "category": "КОРЗИНА",
     "name": "Корзина - 19B209003",
-    "wholesalePrice": 573.97,
-    "extraPrice": 602.66,
-    "retailPrice": 717.46
+    "wholesalePrice": 815.47,
+    "extraPrice": 856.24,
+    "retailPrice": 1019.33
   },
   {
     "id": "УТ000026061",
@@ -33803,9 +33803,9 @@
     "id": "УТ000035308",
     "category": "КОРЗИНА",
     "name": "Корзина - 129303",
-    "wholesalePrice": 871.01,
-    "extraPrice": 914.56,
-    "retailPrice": 1088.76
+    "wholesalePrice": 782.46,
+    "extraPrice": 821.58,
+    "retailPrice": 978.08
   },
   {
     "id": "УТ000035309",
@@ -36024,6 +36024,14 @@
     "retailPrice": 1401.71
   },
   {
+    "id": "УТ000049679",
+    "category": "КОРЗИНА",
+    "name": "Корзина - N111503",
+    "wholesalePrice": 1157.59,
+    "extraPrice": 1215.47,
+    "retailPrice": 1446.99
+  },
+  {
     "id": "УТ000049680",
     "category": "КОРЗИНА",
     "name": "Корзина - N075103",
@@ -36286,6 +36294,46 @@
     "wholesalePrice": 639.17,
     "extraPrice": 671.13,
     "retailPrice": 798.96
+  },
+  {
+    "id": "УТ000051822",
+    "category": "КОРЗИНА",
+    "name": "Корзина - 19A201903",
+    "wholesalePrice": 1333.08,
+    "extraPrice": 1399.73,
+    "retailPrice": 1666.35
+  },
+  {
+    "id": "УТ000051823",
+    "category": "КОРЗИНА",
+    "name": "Корзина - 129403",
+    "wholesalePrice": 782.46,
+    "extraPrice": 821.58,
+    "retailPrice": 978.08
+  },
+  {
+    "id": "УТ000051824",
+    "category": "КОРЗИНА",
+    "name": "Корзина - 955503",
+    "wholesalePrice": 1058.58,
+    "extraPrice": 1111.5,
+    "retailPrice": 1323.22
+  },
+  {
+    "id": "УТ000051825",
+    "category": "КОРЗИНА",
+    "name": "Корзина - N142903",
+    "wholesalePrice": 858.13,
+    "extraPrice": 901.04,
+    "retailPrice": 1072.66
+  },
+  {
+    "id": "УТ000051826",
+    "category": "КОРЗИНА",
+    "name": "Корзина - N219503",
+    "wholesalePrice": 985.32,
+    "extraPrice": 1034.59,
+    "retailPrice": 1231.65
   },
   {
     "id": "УТ000023839",
@@ -36595,9 +36643,9 @@
     "id": "УТ000006352",
     "category": "КОРЗИНА",
     "name": "Корзина - 065503",
-    "wholesalePrice": 1378.97,
-    "extraPrice": 1447.91,
-    "retailPrice": 1723.71
+    "wholesalePrice": 1323.42,
+    "extraPrice": 1389.59,
+    "retailPrice": 1654.28
   },
   {
     "id": "УТ000006354",
@@ -36731,9 +36779,9 @@
     "id": "УТ000006385",
     "category": "КОРЗИНА",
     "name": "Корзина - 100303",
-    "wholesalePrice": 1106.88,
-    "extraPrice": 1162.22,
-    "retailPrice": 1383.59
+    "wholesalePrice": 1155.18,
+    "extraPrice": 1212.93,
+    "retailPrice": 1443.97
   },
   {
     "id": "УТ000006387",
@@ -37291,9 +37339,9 @@
     "id": "УТ000006535",
     "category": "КОРЗИНА",
     "name": "Корзина - 151403",
-    "wholesalePrice": 1203.48,
-    "extraPrice": 1263.65,
-    "retailPrice": 1504.34
+    "wholesalePrice": 1155.18,
+    "extraPrice": 1212.93,
+    "retailPrice": 1443.97
   },
   {
     "id": "УТ000006536",
@@ -37451,9 +37499,9 @@
     "id": "УТ000006577",
     "category": "КОРЗИНА",
     "name": "Корзина - 202703",
-    "wholesalePrice": 1479.59,
-    "extraPrice": 1553.57,
-    "retailPrice": 1849.49
+    "wholesalePrice": 1420.02,
+    "extraPrice": 1491.02,
+    "retailPrice": 1775.03
   },
   {
     "id": "УТ000006582",
@@ -37659,9 +37707,9 @@
     "id": "УТ000006648",
     "category": "КОРЗИНА",
     "name": "Корзина - 355603",
-    "wholesalePrice": 1390.24,
-    "extraPrice": 1459.75,
-    "retailPrice": 1737.79
+    "wholesalePrice": 1450.61,
+    "extraPrice": 1523.14,
+    "retailPrice": 1813.26
   },
   {
     "id": "УТ000006649",
@@ -37699,9 +37747,9 @@
     "id": "УТ000006657",
     "category": "КОРЗИНА",
     "name": "Корзина - 387904",
-    "wholesalePrice": 1467.52,
-    "extraPrice": 1540.89,
-    "retailPrice": 1834.39
+    "wholesalePrice": 1408.75,
+    "extraPrice": 1479.19,
+    "retailPrice": 1760.94
   },
   {
     "id": "УТ000006658",
