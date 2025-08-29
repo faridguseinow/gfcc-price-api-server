@@ -12592,14 +12592,6 @@
     "retailPrice": 191.39
   },
   {
-    "id": "УТ000030224",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ХАРТС (ТЕССА)-70см ",
-    "wholesalePrice": 131.24,
-    "extraPrice": 137.8,
-    "retailPrice": 164.05
-  },
-  {
     "id": "УТ000030341",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ПАНДОРА -  70см ",
@@ -13486,14 +13478,6 @@
     "wholesalePrice": 84.87,
     "extraPrice": 89.12,
     "retailPrice": 106.09
-  },
-  {
-    "id": "УТ000037788",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ХАЙ ЕЛЛОУ (РОЗАПРИМА)- 60см",
-    "wholesalePrice": 89.86,
-    "extraPrice": 94.35,
-    "retailPrice": 112.33
   },
   {
     "id": "УТ000037807",
@@ -17528,6 +17512,14 @@
     "retailPrice": 6657.56
   },
   {
+    "id": "УТ000045776",
+    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
+    "name": "АЛОКАЗИЯ МИКС 14 СМ",
+    "wholesalePrice": 862.42,
+    "extraPrice": 905.54,
+    "retailPrice": 1078.03
+  },
+  {
     "id": "УТ000045951",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
     "name": "КРОТОН АЙСТОН 27/150 СМ",
@@ -18014,14 +18006,6 @@
     "wholesalePrice": 9715.52,
     "extraPrice": 10201.3,
     "retailPrice": 12144.41
-  },
-  {
-    "id": "УТ000015740",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "САНСЕВИЕРИЯ  6 СМ",
-    "wholesalePrice": 314.34,
-    "extraPrice": 330.06,
-    "retailPrice": 392.93
   },
   {
     "id": "УТ000015749",
@@ -19766,14 +19750,6 @@
     "wholesalePrice": 353.03,
     "extraPrice": 370.68,
     "retailPrice": 441.29
-  },
-  {
-    "id": "УТ000015122",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "ЦИМБИДИУМ 14 СМ",
-    "wholesalePrice": 3090.2,
-    "extraPrice": 3244.71,
-    "retailPrice": 3862.76
   },
   {
     "id": "УТ000015149",
@@ -21854,14 +21830,6 @@
     "wholesalePrice": 72.54,
     "extraPrice": 76.17,
     "retailPrice": 90.68
-  },
-  {
-    "id": "УТ000050152",
-    "category": ".УПАКОВКА",
-    "name": "БУЛАВКИ ПАЧКА 50 ШТ",
-    "wholesalePrice": 257.92,
-    "extraPrice": 270.82,
-    "retailPrice": 322.4
   },
   {
     "id": "УТ000050153",
@@ -40880,14 +40848,6 @@
     "retailPrice": 142.56
   },
   {
-    "id": "УТ000034213",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "ОРАНЖ ГУИН 60 см куст на воде",
-    "wholesalePrice": 140.97,
-    "extraPrice": 148.02,
-    "retailPrice": 176.21
-  },
-  {
     "id": "УТ000034264",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "ОРАНЖ ДАЙМЕНШИН  60 см куст на воде",
@@ -41232,6 +41192,14 @@
     "retailPrice": 162.21
   },
   {
+    "id": "УТ000039196",
+    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
+    "name": "РАМОНА 50  см куст на воде",
+    "wholesalePrice": 72.54,
+    "extraPrice": 76.17,
+    "retailPrice": 90.68
+  },
+  {
     "id": "УТ000039342",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "АРИЯ 50 см куст на воде",
@@ -41246,14 +41214,6 @@
     "wholesalePrice": 153.14,
     "extraPrice": 160.8,
     "retailPrice": 191.43
-  },
-  {
-    "id": "УТ000040650",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "ТРАЛАЛА  70  см куст на воде",
-    "wholesalePrice": 169.26,
-    "extraPrice": 177.72,
-    "retailPrice": 211.58
   },
   {
     "id": "УТ000040817",
@@ -48891,9 +48851,9 @@
     "id": "УТ000010569",
     "category": "..,РАЗНОЕ",
     "name": "СЕДУМ",
-    "wholesalePrice": 49.97,
-    "extraPrice": 52.47,
-    "retailPrice": 62.47
+    "wholesalePrice": 76.57,
+    "extraPrice": 80.4,
+    "retailPrice": 95.71
   },
   {
     "id": "УТ000010572",
