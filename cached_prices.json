@@ -11856,14 +11856,6 @@
     "retailPrice": 161.83
   },
   {
-    "id": "УТ000029753",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ПИНК ФЛОЙД- 50см (СТАР+КОРАЗОН+МАТИЗ+ЭКО РОЗ+SOFI+BELLA ROSA+ЧАРМИНГ)",
-    "wholesalePrice": 82.67,
-    "extraPrice": 86.81,
-    "retailPrice": 103.34
-  },
-  {
     "id": "УТ000029754",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ПИНК ФЛОЙД- 60см (СТАР+КОРАЗОН+МАТИЗ+ЭКО РОЗ+SOFI+BELLA ROSA+ЧАРМИНГ)",
@@ -12806,6 +12798,14 @@
     "wholesalePrice": 193.93,
     "extraPrice": 203.62,
     "retailPrice": 242.41
+  },
+  {
+    "id": "УТ000031390",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "ПИНК ПИАНО  60см (СТАР+КОРАЗОН+МАТИЗ+ЭКО РОЗ)",
+    "wholesalePrice": 106.46,
+    "extraPrice": 111.78,
+    "retailPrice": 133.07
   },
   {
     "id": "УТ000032363",
@@ -14302,6 +14302,14 @@
     "wholesalePrice": 99.39,
     "extraPrice": 104.36,
     "retailPrice": 124.24
+  },
+  {
+    "id": "УТ000039872",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "КОТТОН ЭКСПРЕШН - 70см (АННИ,KING,TU,ROYAL,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН)",
+    "wholesalePrice": 128.47,
+    "extraPrice": 134.9,
+    "retailPrice": 160.59
   },
   {
     "id": "УТ000039888",
@@ -47096,14 +47104,6 @@
     "retailPrice": 200
   },
   {
-    "id": "УТ000038644",
-    "category": "..,РАЗНОЕ",
-    "name": "ДЕЛЬФИНИУМ МИКС  70 см",
-    "wholesalePrice": 144,
-    "extraPrice": 151.2,
-    "retailPrice": 180
-  },
-  {
     "id": "УТ000038645",
     "category": "..,РАЗНОЕ",
     "name": "ДЕЛЬФИНИУМ МИКС  60 см",
@@ -49158,6 +49158,14 @@
     "wholesalePrice": 188,
     "extraPrice": 197.4,
     "retailPrice": 235
+  },
+  {
+    "id": "УТ000036321",
+    "category": "..,РОЗА ,НА ВОДЕ",
+    "name": "ПИНКИ ПАЙ 50 см одног на воде",
+    "wholesalePrice": 144,
+    "extraPrice": 151.2,
+    "retailPrice": 180
   },
   {
     "id": "УТ000036322",
