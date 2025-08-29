@@ -14072,14 +14072,6 @@
     "retailPrice": 163.46
   },
   {
-    "id": "УТ000039774",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ДИП ПЕРПЛ-  50см (АННИ,KING,TU,ROYAL,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН)",
-    "wholesalePrice": 72.77,
-    "extraPrice": 76.41,
-    "retailPrice": 90.97
-  },
-  {
     "id": "УТ000039775",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ДИП ПЕРПЛ-  60см (АННИ,KING,TU,ROYAL,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН)",
@@ -14254,6 +14246,14 @@
     "wholesalePrice": 100.14,
     "extraPrice": 105.14,
     "retailPrice": 125.17
+  },
+  {
+    "id": "УТ000039871",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "КОТТОН ЭКСПРЕШН - 60см (АННИ,KING,TU,ROYAL,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН)",
+    "wholesalePrice": 111.2,
+    "extraPrice": 116.76,
+    "retailPrice": 139
   },
   {
     "id": "УТ000039872",
@@ -14464,6 +14464,14 @@
     "retailPrice": 150.42
   },
   {
+    "id": "УТ000039954",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "МЕНТА-  50см  (АННИ,KING,TU,ROYAL,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН,)",
+    "wholesalePrice": 91.93,
+    "extraPrice": 96.53,
+    "retailPrice": 114.92
+  },
+  {
     "id": "УТ000039955",
     "category": "..РОЗА ЭКВАДОР",
     "name": "МЕНТА-  60см  (АННИ,KING,TU,ROYAL,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН,)",
@@ -14526,14 +14534,6 @@
     "wholesalePrice": 108.85,
     "extraPrice": 114.29,
     "retailPrice": 136.06
-  },
-  {
-    "id": "УТ000039975",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "МОДИ БЛЮ-70см (АННИ,KING,TU,ROYAL,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН,)",
-    "wholesalePrice": 107.34,
-    "extraPrice": 112.7,
-    "retailPrice": 134.17
   },
   {
     "id": "УТ000039985",
@@ -14966,6 +14966,14 @@
     "wholesalePrice": 131.52,
     "extraPrice": 138.1,
     "retailPrice": 164.4
+  },
+  {
+    "id": "УТ000040215",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "ФУЛ МОНТИ-  50см  (АННИ,KING,TU,ROYAL,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН,)",
+    "wholesalePrice": 82.64,
+    "extraPrice": 86.77,
+    "retailPrice": 103.3
   },
   {
     "id": "УТ000040216",
@@ -48726,6 +48734,14 @@
     "wholesalePrice": 58.75,
     "extraPrice": 61.69,
     "retailPrice": 73.44
+  },
+  {
+    "id": "УТ000010525",
+    "category": "..,РАЗНОЕ",
+    "name": "ПОДСОЛНУХ",
+    "wholesalePrice": 120.9,
+    "extraPrice": 126.95,
+    "retailPrice": 151.13
   },
   {
     "id": "УТ000010528",
