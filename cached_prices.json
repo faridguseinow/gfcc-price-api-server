@@ -16,14 +16,6 @@
     "retailPrice": 1981.76
   },
   {
-    "id": "УТ000032102",
-    "category": "..,РОЗА ,МЕСТНАЯ",
-    "name": "ЛИНИЯ РОЗА КУСТОВАЯ. 80 СМ",
-    "wholesalePrice": 280.44,
-    "extraPrice": 294.46,
-    "retailPrice": 350.55
-  },
-  {
     "id": "УТ000034885",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЛИНИЯ РОЗА ОДНОГОЛОВАЯ.. 70 СМ",
@@ -10328,14 +10320,6 @@
     "retailPrice": 83.72
   },
   {
-    "id": "УТ000028887",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ЛОЛА -  50 см",
-    "wholesalePrice": 80.76,
-    "extraPrice": 84.8,
-    "retailPrice": 100.95
-  },
-  {
     "id": "УТ000028888",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ЛОЛА -  60 см",
@@ -13616,14 +13600,6 @@
     "retailPrice": 143.4
   },
   {
-    "id": "УТ000037578",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "НИНА (РОЗАПРИМА)-70см ",
-    "wholesalePrice": 97.82,
-    "extraPrice": 102.71,
-    "retailPrice": 122.27
-  },
-  {
     "id": "УТ000037619",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ПИНК МОНДИАЛЬ (РОЗАПРИМА)-60см ",
@@ -16790,14 +16766,6 @@
     "wholesalePrice": 113.2,
     "extraPrice": 118.86,
     "retailPrice": 141.5
-  },
-  {
-    "id": "УТ000017467",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ПИНК МОНДИАЛЬ (ТЕССА)-70 см ",
-    "wholesalePrice": 134.76,
-    "extraPrice": 141.49,
-    "retailPrice": 168.44
   },
   {
     "id": "УТ000017468",
@@ -22611,9 +22579,9 @@
     "id": "УТ000007304",
     "category": ".УПАКОВКА",
     "name": "ЛЕНТА 3 СМ",
-    "wholesalePrice": 104.78,
-    "extraPrice": 110.02,
-    "retailPrice": 130.98
+    "wholesalePrice": 100.75,
+    "extraPrice": 105.79,
+    "retailPrice": 125.94
   },
   {
     "id": "УТ000007307",
@@ -41736,6 +41704,14 @@
     "retailPrice": 272.03
   },
   {
+    "id": "УТ000046722",
+    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
+    "name": "БРИТНИ  (VOORN-ROSES)  50 см куст на воде",
+    "wholesalePrice": 153.14,
+    "extraPrice": 160.8,
+    "retailPrice": 191.43
+  },
+  {
     "id": "УТ000046723",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "БРИТНИ  (VOORN-ROSES)  60 см куст на воде",
@@ -46718,6 +46694,14 @@
     "wholesalePrice": 204.72,
     "extraPrice": 214.96,
     "retailPrice": 255.91
+  },
+  {
+    "id": "УТ000027745",
+    "category": "..,РАЗНОЕ",
+    "name": "ЛИЗИАНТУС  КРЕМ",
+    "wholesalePrice": 151.53,
+    "extraPrice": 159.1,
+    "retailPrice": 189.41
   },
   {
     "id": "УТ000027746",
