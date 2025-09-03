@@ -41976,14 +41976,6 @@
     "retailPrice": 192.85
   },
   {
-    "id": "УТ000011500",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "ГУИНСИ 50 см куст на воде",
-    "wholesalePrice": 89.32,
-    "extraPrice": 93.79,
-    "retailPrice": 111.65
-  },
-  {
     "id": "УТ000011501",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "ГУД 50 см куст на воде",
@@ -49992,6 +49984,14 @@
     "retailPrice": 131.95
   },
   {
+    "id": "УТ000045218",
+    "category": "..ХРИЗАНТЕМА",
+    "name": "ЛАМИРА КРАСНАЯ",
+    "wholesalePrice": 77.12,
+    "extraPrice": 80.97,
+    "retailPrice": 96.39
+  },
+  {
     "id": "УТ000047292",
     "category": "..ХРИЗАНТЕМА",
     "name": "КОМАНДИР РОЗОВЫЙ",
@@ -50158,6 +50158,14 @@
     "wholesalePrice": 83.9,
     "extraPrice": 88.1,
     "retailPrice": 104.88
+  },
+  {
+    "id": "УТ000049758",
+    "category": "..ХРИЗАНТЕМА",
+    "name": ".ХРИЗ. ДЕКО АНДЭРКАВР",
+    "wholesalePrice": 84.45,
+    "extraPrice": 88.67,
+    "retailPrice": 105.56
   },
   {
     "id": "УТ000050177",
@@ -50459,6 +50467,14 @@
     "id": "УТ000014966",
     "category": "..ХРИЗАНТЕМА",
     "name": ".ХРИЗ. ДЕКО АНАСТАСИЯ БЕЛАЯ",
+    "wholesalePrice": 84.45,
+    "extraPrice": 88.67,
+    "retailPrice": 105.56
+  },
+  {
+    "id": "УТ000014967",
+    "category": "..ХРИЗАНТЕМА",
+    "name": ".ХРИЗ. ДЕКО АНАСТАСИЯ ЖЕЛТАЯ",
     "wholesalePrice": 84.45,
     "extraPrice": 88.67,
     "retailPrice": 105.56
