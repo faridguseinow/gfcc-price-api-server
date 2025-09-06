@@ -11464,6 +11464,14 @@
     "retailPrice": 220.49
   },
   {
+    "id": "УТ000028802",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "КАНТРИ БЛЮЗ-   40см",
+    "wholesalePrice": 84.67,
+    "extraPrice": 88.91,
+    "retailPrice": 105.84
+  },
+  {
     "id": "УТ000028803",
     "category": "..РОЗА ЭКВАДОР",
     "name": "КАНТРИ БЛЮЗ-   50см",
@@ -17542,6 +17550,14 @@
     "wholesalePrice": 131.39,
     "extraPrice": 137.96,
     "retailPrice": 164.24
+  },
+  {
+    "id": "УТ000049433",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "Фатима- 70см  (СТАР,КОРОЗОН,МАТИЗ,ЭКО РОЗ,БЕЛЛА РОЗА,ЧАРМИНГ,СОФИ,ДАВИНЧИ)",
+    "wholesalePrice": 149.24,
+    "extraPrice": 156.7,
+    "retailPrice": 186.55
   },
   {
     "id": "УТ000049439",
@@ -41800,22 +41816,6 @@
     "retailPrice": 127.66
   },
   {
-    "id": "УТ000047138",
-    "category": "..,ЛИЛИЯ",
-    "name": "ЛИЛИЯ ЛА БРИНДИСИ",
-    "wholesalePrice": 114.38,
-    "extraPrice": 120.1,
-    "retailPrice": 142.98
-  },
-  {
-    "id": "УТ000047139",
-    "category": "..,ЛИЛИЯ",
-    "name": "ЛИЛИЯ ЛА КОРТОНА",
-    "wholesalePrice": 114.38,
-    "extraPrice": 120.1,
-    "retailPrice": 142.98
-  },
-  {
     "id": "УТ000047141",
     "category": "..,ЛИЛИЯ",
     "name": "ЛИЛИЯ ЛА ЛИТУВЕН",
@@ -41872,14 +41872,6 @@
     "retailPrice": 217.53
   },
   {
-    "id": "УТ000051177",
-    "category": "..,ЛИЛИЯ",
-    "name": "ЛИЛИЯ ОР ДЖЕКСОНВИЛЛ",
-    "wholesalePrice": 321.9,
-    "extraPrice": 337.99,
-    "retailPrice": 402.37
-  },
-  {
     "id": "УТ000051448",
     "category": "..,ЛИЛИЯ",
     "name": "ЛИЛИЯ ОР НЕССО",
@@ -41891,14 +41883,6 @@
     "id": "УТ000051454",
     "category": "..,ЛИЛИЯ",
     "name": "ЛИЛИЯ ЛА КАЛАБРИЯ",
-    "wholesalePrice": 114.38,
-    "extraPrice": 120.1,
-    "retailPrice": 142.98
-  },
-  {
-    "id": "УТ000052151",
-    "category": "..,ЛИЛИЯ",
-    "name": "ЛИЛИЯ ЛА МОДЕНА",
     "wholesalePrice": 114.38,
     "extraPrice": 120.1,
     "retailPrice": 142.98
@@ -48267,41 +48251,41 @@
     "id": "УТ000031643",
     "category": "..,РАЗНОЕ",
     "name": "ОРХИДЕЯ  1*6 БЕЛАЯ",
-    "wholesalePrice": 1838.25,
-    "extraPrice": 1930.16,
-    "retailPrice": 2297.81
+    "wholesalePrice": 1715.7,
+    "extraPrice": 1801.49,
+    "retailPrice": 2144.63
   },
   {
     "id": "УТ000031644",
     "category": "..,РАЗНОЕ",
     "name": "ОРХИДЕЯ  1*6 РОЗОВАЯ",
-    "wholesalePrice": 1821.91,
-    "extraPrice": 1913.01,
-    "retailPrice": 2277.39
+    "wholesalePrice": 1715.7,
+    "extraPrice": 1801.49,
+    "retailPrice": 2144.63
   },
   {
     "id": "УТ000031645",
     "category": "..,РАЗНОЕ",
     "name": "ОРХИДЕЯ  1*6 ЖЕЛТАЯ",
-    "wholesalePrice": 1756.55,
-    "extraPrice": 1844.38,
-    "retailPrice": 2195.69
+    "wholesalePrice": 1612.76,
+    "extraPrice": 1693.4,
+    "retailPrice": 2015.95
   },
   {
     "id": "УТ000031646",
     "category": "..,РАЗНОЕ",
     "name": "ОРХИДЕЯ  1*6 ЗЕЛЁНАЯ",
-    "wholesalePrice": 1805.57,
-    "extraPrice": 1895.85,
-    "retailPrice": 2256.96
+    "wholesalePrice": 1612.76,
+    "extraPrice": 1693.4,
+    "retailPrice": 2015.95
   },
   {
     "id": "УТ000031648",
     "category": "..,РАЗНОЕ",
     "name": "ОРХИДЕЯ  1*6 КРАСНАЯ",
-    "wholesalePrice": 1772.89,
-    "extraPrice": 1861.53,
-    "retailPrice": 2216.11
+    "wholesalePrice": 1666.68,
+    "extraPrice": 1750.01,
+    "retailPrice": 2083.35
   },
   {
     "id": "УТ000032261",
@@ -48379,9 +48363,9 @@
     "id": "УТ000033807",
     "category": "..,РАЗНОЕ",
     "name": "АЛЬСТРОМЕРИЯ  ПОДМОСКОВЬЕ 80 см",
-    "wholesalePrice": 49.02,
-    "extraPrice": 51.47,
-    "retailPrice": 61.28
+    "wholesalePrice": 60.46,
+    "extraPrice": 63.48,
+    "retailPrice": 75.57
   },
   {
     "id": "УТ000033968",
@@ -50307,17 +50291,17 @@
     "id": "УТ000010395",
     "category": "..,РАЗНОЕ",
     "name": "ОРХИДЕЯ  1*6 МИКС",
-    "wholesalePrice": 1740.21,
-    "extraPrice": 1827.22,
-    "retailPrice": 2175.26
+    "wholesalePrice": 1612.76,
+    "extraPrice": 1693.4,
+    "retailPrice": 2015.95
   },
   {
     "id": "УТ000010402",
     "category": "..,РАЗНОЕ",
     "name": "ОРХИДЕЯ 1*15  ",
-    "wholesalePrice": 784.32,
-    "extraPrice": 823.54,
-    "retailPrice": 980.4
+    "wholesalePrice": 645.43,
+    "extraPrice": 677.7,
+    "retailPrice": 806.79
   },
   {
     "id": "УТ000010416",
