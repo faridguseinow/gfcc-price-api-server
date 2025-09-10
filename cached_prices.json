@@ -10840,14 +10840,6 @@
     "retailPrice": 533.36
   },
   {
-    "id": "УТ000004473",
-    "category": "ГРУНТ И УДОБРЕНИЯ ",
-    "name": "ГРУНТ УН.  5 Л  (ПАЧКА 5 ШТ)",
-    "wholesalePrice": 277.56,
-    "extraPrice": 291.44,
-    "retailPrice": 346.96
-  },
-  {
     "id": "УТ000004474",
     "category": "ГРУНТ И УДОБРЕНИЯ ",
     "name": "ГРУНТ УН. 10 Л",
@@ -17032,14 +17024,6 @@
     "retailPrice": 172.88
   },
   {
-    "id": "УТ000040076",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ЭНЧАНТМЕНТ-  60см (АННИ,KING,TU,ROYAL,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН,)",
-    "wholesalePrice": 102.59,
-    "extraPrice": 107.72,
-    "retailPrice": 128.23
-  },
-  {
     "id": "УТ000040100",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ЭКСПЛОРЕР-  100см(АННИ,KING,TU,ROYAL,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН,)",
@@ -19832,14 +19816,6 @@
     "retailPrice": 1044.1
   },
   {
-    "id": "УТ000044480",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "ОЛИВКОВОЕ  ДЕРЕВО 21/100 СМ",
-    "wholesalePrice": 2542.9,
-    "extraPrice": 2670.05,
-    "retailPrice": 3178.63
-  },
-  {
     "id": "УТ000045202",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
     "name": "ФАЛЕНОПСИС ПАРФЮМ 12 СМ ",
@@ -22392,14 +22368,6 @@
     "retailPrice": 181.02
   },
   {
-    "id": "УТ000034372",
-    "category": ".УПАКОВКА",
-    "name": "ОАЗИС БУЛАВКИ БРИЛЛИАНТ 40 ММ (ПАЧКА-100 ШТ)",
-    "wholesalePrice": 456.86,
-    "extraPrice": 479.7,
-    "retailPrice": 571.08
-  },
-  {
     "id": "УТ000034678",
     "category": ".УПАКОВКА",
     "name": "СЕКАТОР № 804",
@@ -22608,14 +22576,6 @@
     "retailPrice": 1003.15
   },
   {
-    "id": "УТ000035429",
-    "category": ".УПАКОВКА",
-    "name": "КОРОБКА № Y058",
-    "wholesalePrice": 744.77,
-    "extraPrice": 782.01,
-    "retailPrice": 930.96
-  },
-  {
     "id": "УТ000035430",
     "category": ".УПАКОВКА",
     "name": "КОРОБКА № T93-16",
@@ -22790,14 +22750,6 @@
     "wholesalePrice": 198.26,
     "extraPrice": 208.17,
     "retailPrice": 247.83
-  },
-  {
-    "id": "УТ000037061",
-    "category": ".УПАКОВКА",
-    "name": "ЯЩИК № 2-138 ",
-    "wholesalePrice": 181.02,
-    "extraPrice": 190.07,
-    "retailPrice": 226.28
   },
   {
     "id": "УТ000037063",
@@ -23336,14 +23288,6 @@
     "retailPrice": 177.79
   },
   {
-    "id": "УТ000043738",
-    "category": ".УПАКОВКА",
-    "name": "КОРОБКА № 3422 НАБОР",
-    "wholesalePrice": 315.49,
-    "extraPrice": 331.27,
-    "retailPrice": 394.37
-  },
-  {
     "id": "УТ000043786",
     "category": ".УПАКОВКА",
     "name": "ВАЗЫ ПЛАСТИКОВЫЕ ИНФИНИТИ 150/230",
@@ -23664,14 +23608,6 @@
     "retailPrice": 527.98
   },
   {
-    "id": "УТ000049700",
-    "category": ".УПАКОВКА",
-    "name": "ПАКЕТ № 24082 ПАЧКА 10 ШТ ",
-    "wholesalePrice": 729.25,
-    "extraPrice": 765.71,
-    "retailPrice": 911.57
-  },
-  {
     "id": "УТ000050149",
     "category": ".УПАКОВКА",
     "name": "ДЕРЖАТЕЛЬ ПАЧКА 80 ШТ",
@@ -23736,22 +23672,6 @@
     "retailPrice": 290.93
   },
   {
-    "id": "УТ000051145",
-    "category": ".УПАКОВКА",
-    "name": "ЯЩИК № 501",
-    "wholesalePrice": 269.81,
-    "extraPrice": 283.3,
-    "retailPrice": 337.26
-  },
-  {
-    "id": "УТ000051146",
-    "category": ".УПАКОВКА",
-    "name": "ЯЩИК № 502",
-    "wholesalePrice": 201.71,
-    "extraPrice": 211.79,
-    "retailPrice": 252.14
-  },
-  {
     "id": "УТ000051147",
     "category": ".УПАКОВКА",
     "name": "ЯЩИК № 503",
@@ -23784,28 +23704,12 @@
     "retailPrice": 899.71
   },
   {
-    "id": "УТ000051304",
-    "category": ".УПАКОВКА",
-    "name": "ЯЩИК № 525  (КАРАНДАШ)",
-    "wholesalePrice": 208.6,
-    "extraPrice": 219.03,
-    "retailPrice": 260.76
-  },
-  {
     "id": "УТ000051309",
     "category": ".УПАКОВКА",
     "name": "ЯЩИК № 506",
     "wholesalePrice": 208.6,
     "extraPrice": 219.03,
     "retailPrice": 260.76
-  },
-  {
-    "id": "УТ000051399",
-    "category": ".УПАКОВКА",
-    "name": "ЯЩИК № 505",
-    "wholesalePrice": 209.47,
-    "extraPrice": 219.94,
-    "retailPrice": 261.83
   },
   {
     "id": "УТ000051401",
@@ -24280,14 +24184,6 @@
     "retailPrice": 805.97
   },
   {
-    "id": "УТ000007107",
-    "category": ".УПАКОВКА",
-    "name": "КОРОБКА № 8028 НАБОР",
-    "wholesalePrice": 732.7,
-    "extraPrice": 769.34,
-    "retailPrice": 915.88
-  },
-  {
     "id": "УТ000007155",
     "category": ".УПАКОВКА",
     "name": "КРАСКА АЭРОЗОЛЬ (400 МЛ)",
@@ -24448,14 +24344,6 @@
     "retailPrice": 749.94
   },
   {
-    "id": "УТ000009516",
-    "category": ".УПАКОВКА",
-    "name": "ОАЗИС ЖЕМЧУГ  (ПАЧКА-240 ГР)",
-    "wholesalePrice": 362.04,
-    "extraPrice": 380.14,
-    "retailPrice": 452.55
-  },
-  {
     "id": "УТ000009524",
     "category": ".УПАКОВКА",
     "name": "ОАЗИС КИРПИЧ ДЛЯ СУХИХ ЦВЕТОВ (КОРОБКА-35 ШТ)",
@@ -24614,14 +24502,6 @@
     "wholesalePrice": 47.41,
     "extraPrice": 49.78,
     "retailPrice": 59.26
-  },
-  {
-    "id": "УТ000009559",
-    "category": ".УПАКОВКА",
-    "name": "ОАЗИС ПРИСОСКИ",
-    "wholesalePrice": 375.83,
-    "extraPrice": 394.62,
-    "retailPrice": 469.79
   },
   {
     "id": "УТ000009560",
@@ -27062,14 +26942,6 @@
     "wholesalePrice": 145.68,
     "extraPrice": 152.96,
     "retailPrice": 182.1
-  },
-  {
-    "id": "УТ000034387",
-    "category": "ВАЗЫ И КЕРАМИКА",
-    "name": "ПЛАСТИК ГОРШОК ДЕЛЬТА 17 СМ",
-    "wholesalePrice": 211.19,
-    "extraPrice": 221.75,
-    "retailPrice": 263.99
   },
   {
     "id": "УТ000034388",
@@ -43960,14 +43832,6 @@
     "retailPrice": 200.42
   },
   {
-    "id": "УТ000011451",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "БАНДАЛЕРО 70 см куст на воде",
-    "wholesalePrice": 181.19,
-    "extraPrice": 190.25,
-    "retailPrice": 226.49
-  },
-  {
     "id": "УТ000011456",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "БРАЙДАЛ ФЛОУ (VOORN-ROSES) 50 см куст на воде",
@@ -48198,6 +48062,14 @@
     "wholesalePrice": 142.23,
     "extraPrice": 149.34,
     "retailPrice": 177.79
+  },
+  {
+    "id": "УТ000009193",
+    "category": "..РОЗА КЕНИЯ",
+    "name": "РЕВАЙВЛ 40 см РОЗА Кения (SUBATI)",
+    "wholesalePrice": 51.73,
+    "extraPrice": 54.32,
+    "retailPrice": 64.66
   },
   {
     "id": "УТ000009198",
