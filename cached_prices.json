@@ -19880,14 +19880,6 @@
     "retailPrice": 1253.75
   },
   {
-    "id": "УТ000043599",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "СПАТИФИЛЛИУМ DIAMOND 17 СМ",
-    "wholesalePrice": 1893.8,
-    "extraPrice": 1988.49,
-    "retailPrice": 2367.25
-  },
-  {
     "id": "УТ000043633",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
     "name": "АЛОЭ ТИКИ ТАКИ 12 СМ",
@@ -20366,6 +20358,14 @@
     "wholesalePrice": 1319.2,
     "extraPrice": 1385.16,
     "retailPrice": 1649
+  },
+  {
+    "id": "УТ000025262",
+    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
+    "name": "ВРИЕЗИЯ 12 СМ",
+    "wholesalePrice": 510.85,
+    "extraPrice": 536.39,
+    "retailPrice": 638.56
   },
   {
     "id": "УТ000002540",
@@ -46750,6 +46750,14 @@
     "wholesalePrice": 125.8,
     "extraPrice": 132.09,
     "retailPrice": 157.25
+  },
+  {
+    "id": "УТ000026907",
+    "category": "..РОЗА КЕНИЯ",
+    "name": "КУИК СЭНД 60 см РОЗА Кения (RLR)",
+    "wholesalePrice": 136,
+    "extraPrice": 142.8,
+    "retailPrice": 170
   },
   {
     "id": "УТ000026909",
