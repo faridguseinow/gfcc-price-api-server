@@ -5983,3 +5983,14 @@ To https://github.com/faridguseinow/gfcc-price-api-server.git
 ❌ Ошибка при обновлении прайса: 
 ${ err.message }
 ❌ Ошибка при отправке email: connect ETIMEDOUT 77.88.21.158:465
+warning: in the working copy of 'log.txt', LF will be replaced by CRLF the next time Git touches it
+[main 314282d] ╨Р╨▓╤В╨╛╨╛╨▒╨╜╨╛╨▓╨╗╨╡╨╜╨╕╨╡ ╨┐╤А╨░╨╣╤Б-╨╗╨╕╤Б╤В╨░
+ 1 file changed, 13 insertions(+)
+To https://github.com/faridguseinow/gfcc-price-api-server.git
+   adaa379..314282d  main -> main
+13.09.2025  8:01:13,26 
+Обновление завершено. 
+🔄 Подключение к FTP...
+❌ Ошибка при обновлении прайса: 
+${ err.message }
+❌ Ошибка при отправке email: Missing credentials for "PLAIN"
