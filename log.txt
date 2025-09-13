@@ -5994,3 +5994,12 @@ To https://github.com/faridguseinow/gfcc-price-api-server.git
 ❌ Ошибка при обновлении прайса: 
 ${ err.message }
 ❌ Ошибка при отправке email: Missing credentials for "PLAIN"
+warning: in the working copy of 'log.txt', LF will be replaced by CRLF the next time Git touches it
+[main 71ca7e1] ╨Р╨▓╤В╨╛╨╛╨▒╨╜╨╛╨▓╨╗╨╡╨╜╨╕╨╡ ╨┐╤А╨░╨╣╤Б-╨╗╨╕╤Б╤В╨░
+ 1 file changed, 11 insertions(+)
+fatal: unable to access 'https://github.com/faridguseinow/gfcc-price-api-server.git/': Recv failure: Connection was reset
+13.09.2025  9:02:23,74 
+Обновление завершено. 
+🔄 Подключение к FTP...
+📥 Скачивание XML...
+✅Прайс обновлён.Сохранено: $ { normalized.length } позиций
