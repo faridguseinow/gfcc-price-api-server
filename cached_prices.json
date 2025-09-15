@@ -8920,14 +8920,6 @@
     "retailPrice": 458.85
   },
   {
-    "id": "УТ000046417",
-    "category": " ..ЦВЕТЫ КИТАЙ",
-    "name": "ЛИЛИЯ КИТАЙ ПАЧКА",
-    "wholesalePrice": 1552.32,
-    "extraPrice": 1629.94,
-    "retailPrice": 1940.4
-  },
-  {
     "id": "УТ000046418",
     "category": " ..ЦВЕТЫ КИТАЙ",
     "name": "ГВОЗДИКА ЗЕЛЕНАЯ КИТАЙ ПАЧКА",
@@ -17322,7 +17314,7 @@
   {
     "id": "УТ000039888",
     "category": "..РОЗА ЭКВАДОР",
-    "name": "КЭНДИ ЭКСПРЕШН-  50см (АННИ,KING,TU,ROYAL,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН,)",
+    "name": "КЭНДИ ЭКСПРЕШН-  50см (АННИ,KING,TU,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН)",
     "wholesalePrice": 105.71,
     "extraPrice": 110.99,
     "retailPrice": 132.13
@@ -17330,7 +17322,7 @@
   {
     "id": "УТ000039889",
     "category": "..РОЗА ЭКВАДОР",
-    "name": "КЭНДИ ЭКСПРЕШН-  60см  (АННИ,KING,TU,ROYAL,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН,)",
+    "name": "КЭНДИ ЭКСПРЕШН-  60см (АННИ,KING,TU,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН)",
     "wholesalePrice": 122.56,
     "extraPrice": 128.69,
     "retailPrice": 153.21
@@ -17338,7 +17330,7 @@
   {
     "id": "УТ000039890",
     "category": "..РОЗА ЭКВАДОР",
-    "name": "КЭНДИ ЭКСПРЕШН-  70см  (АННИ,KING,TU,ROYAL,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН,)",
+    "name": "КЭНДИ ЭКСПРЕШН-  70см  (АННИ,KING,TU,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН)",
     "wholesalePrice": 140.83,
     "extraPrice": 147.88,
     "retailPrice": 176.04
@@ -17346,7 +17338,7 @@
   {
     "id": "УТ000039891",
     "category": "..РОЗА ЭКВАДОР",
-    "name": "КЭНДИ ЭКСПРЕШН-  80см  (АННИ,KING,TU,ROYAL,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН,)",
+    "name": "КЭНДИ ЭКСПРЕШН-  80см (АННИ,KING,TU,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН)",
     "wholesalePrice": 158.08,
     "extraPrice": 165.98,
     "retailPrice": 197.6
@@ -17354,7 +17346,7 @@
   {
     "id": "УТ000039894",
     "category": "..РОЗА ЭКВАДОР",
-    "name": "КЭНДЛЛАЙТ-  50см (АННИ,KING,TU,ROYAL,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН,)",
+    "name": "КЭНДЛЛАЙТ-  50см (АННИ,KING,TU,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН)",
     "wholesalePrice": 112.7,
     "extraPrice": 118.34,
     "retailPrice": 140.88
@@ -17362,7 +17354,7 @@
   {
     "id": "УТ000039895",
     "category": "..РОЗА ЭКВАДОР",
-    "name": "КЭНДЛЛАЙТ-  60см (АННИ,KING,TU,ROYAL,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН,)",
+    "name": "КЭНДЛЛАЙТ-  60см (АННИ,KING,TU,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН)",
     "wholesalePrice": 138.51,
     "extraPrice": 145.43,
     "retailPrice": 173.13
@@ -17370,7 +17362,7 @@
   {
     "id": "УТ000039896",
     "category": "..РОЗА ЭКВАДОР",
-    "name": "КЭНДЛЛАЙТ-  70см (АННИ,KING,TU,ROYAL,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН,)",
+    "name": "КЭНДЛЛАЙТ-  70см (АННИ,KING,TU,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН)",
     "wholesalePrice": 160.99,
     "extraPrice": 169.04,
     "retailPrice": 201.24
@@ -17378,7 +17370,7 @@
   {
     "id": "УТ000039897",
     "category": "..РОЗА ЭКВАДОР",
-    "name": "КЭНДЛЛАЙТ-  80см (АННИ,KING,TU,ROYAL,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН,)",
+    "name": "КЭНДЛЛАЙТ-  80см (АННИ,KING,TU,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН)",
     "wholesalePrice": 182.95,
     "extraPrice": 192.1,
     "retailPrice": 228.69
@@ -17386,7 +17378,7 @@
   {
     "id": "УТ000039899",
     "category": "..РОЗА ЭКВАДОР",
-    "name": "ЛИМОНАД-  40см (АННИ,KING,TU,ROYAL,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН,)",
+    "name": "ЛИМОНАД-  40см (АННИ,KING,TU,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН)",
     "wholesalePrice": 59.86,
     "extraPrice": 62.85,
     "retailPrice": 74.82
@@ -17394,7 +17386,7 @@
   {
     "id": "УТ000039900",
     "category": "..РОЗА ЭКВАДОР",
-    "name": "ЛИМОНАД-  50см (АННИ,KING,TU,ROYAL,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН,)",
+    "name": "ЛИМОНАД-  50см (АННИ,KING,TU,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН)",
     "wholesalePrice": 74.86,
     "extraPrice": 78.6,
     "retailPrice": 93.58
@@ -17402,7 +17394,7 @@
   {
     "id": "УТ000039901",
     "category": "..РОЗА ЭКВАДОР",
-    "name": "ЛИМОНАД-  60см (АННИ,KING,TU,ROYAL,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН,)",
+    "name": "ЛИМОНАД-  60см (АННИ,KING,TU,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН)",
     "wholesalePrice": 88.61,
     "extraPrice": 93.04,
     "retailPrice": 110.76
@@ -17410,7 +17402,7 @@
   {
     "id": "УТ000039902",
     "category": "..РОЗА ЭКВАДОР",
-    "name": "ЛИМОНАД-  70см(АННИ,KING,TU,ROYAL,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН,)",
+    "name": "ЛИМОНАД-  70см(АННИ,KING,TU,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН)",
     "wholesalePrice": 106.76,
     "extraPrice": 112.1,
     "retailPrice": 133.46
@@ -17418,7 +17410,7 @@
   {
     "id": "УТ000039906",
     "category": "..РОЗА ЭКВАДОР",
-    "name": "ЛОЛА-  50см(АННИ,KING,TU,ROYAL,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН,)",
+    "name": "ЛОЛА-  50см(АННИ,KING,TU,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН)",
     "wholesalePrice": 87.08,
     "extraPrice": 91.44,
     "retailPrice": 108.85
@@ -17426,7 +17418,7 @@
   {
     "id": "УТ000039907",
     "category": "..РОЗА ЭКВАДОР",
-    "name": "ЛОЛА-  60см(АННИ,KING,TU,ROYAL,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН,)",
+    "name": "ЛОЛА-  60см(АННИ,KING,TU,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН)",
     "wholesalePrice": 102.73,
     "extraPrice": 107.87,
     "retailPrice": 128.42
@@ -17434,7 +17426,7 @@
   {
     "id": "УТ000039908",
     "category": "..РОЗА ЭКВАДОР",
-    "name": "ЛОЛА-  70см(АННИ,KING,TU,ROYAL,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН,)",
+    "name": "ЛОЛА-  70см(АННИ,KING,TU,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН)",
     "wholesalePrice": 120.51,
     "extraPrice": 126.53,
     "retailPrice": 150.63
@@ -17442,7 +17434,7 @@
   {
     "id": "УТ000039909",
     "category": "..РОЗА ЭКВАДОР",
-    "name": "ЛОЛА-  80см (АННИ,KING,TU,ROYAL,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН,)",
+    "name": "ЛОЛА-  80см (АННИ,KING,TU,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН)",
     "wholesalePrice": 133.53,
     "extraPrice": 140.21,
     "retailPrice": 166.92
@@ -17450,7 +17442,7 @@
   {
     "id": "УТ000039918",
     "category": "..РОЗА ЭКВАДОР",
-    "name": "ЛУСИАНА-  50см(АННИ,KING,TU,ROYAL,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН,)",
+    "name": "ЛУСИАНА-  50см(АННИ,KING,TU,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН)",
     "wholesalePrice": 78.73,
     "extraPrice": 82.67,
     "retailPrice": 98.42
@@ -17458,7 +17450,7 @@
   {
     "id": "УТ000039930",
     "category": "..РОЗА ЭКВАДОР",
-    "name": "МАНДАЛА-  50см(АННИ,KING,TU,ROYAL,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН,)",
+    "name": "МАНДАЛА-  50см(АННИ,KING,TU,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН)",
     "wholesalePrice": 109.46,
     "extraPrice": 114.93,
     "retailPrice": 136.83
@@ -17466,7 +17458,7 @@
   {
     "id": "УТ000039931",
     "category": "..РОЗА ЭКВАДОР",
-    "name": "МАНДАЛА-  60см(АННИ,KING,TU,ROYAL,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН,)",
+    "name": "МАНДАЛА-  60см(АННИ,KING,TU,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН)",
     "wholesalePrice": 128.33,
     "extraPrice": 134.74,
     "retailPrice": 160.41
@@ -17474,7 +17466,7 @@
   {
     "id": "УТ000039932",
     "category": "..РОЗА ЭКВАДОР",
-    "name": "МАНДАЛА-  70см (АННИ,KING,TU,ROYAL,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН,)",
+    "name": "МАНДАЛА-  70см (АННИ,KING,TU,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН)",
     "wholesalePrice": 150.7,
     "extraPrice": 158.24,
     "retailPrice": 188.38
@@ -17482,7 +17474,7 @@
   {
     "id": "УТ000039933",
     "category": "..РОЗА ЭКВАДОР",
-    "name": "МАНДАЛА-  80см(АННИ,KING,TU,ROYAL,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН,)",
+    "name": "МАНДАЛА-  80см(АННИ,KING,TU,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН)",
     "wholesalePrice": 168.45,
     "extraPrice": 176.87,
     "retailPrice": 210.56
@@ -17490,7 +17482,7 @@
   {
     "id": "УТ000039936",
     "category": "..РОЗА ЭКВАДОР",
-    "name": "МАНДАРИН ЭКСПРЕШН-  50см(АННИ,KING,TU,ROYAL,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН,)",
+    "name": "МАНДАРИН ЭКСПРЕШН-  50см(АННИ,KING,TU,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН)",
     "wholesalePrice": 112.07,
     "extraPrice": 117.68,
     "retailPrice": 140.09
@@ -17498,7 +17490,7 @@
   {
     "id": "УТ000039937",
     "category": "..РОЗА ЭКВАДОР",
-    "name": "МАНДАРИН ЭКСПРЕШН-  60см(АННИ,KING,TU,ROYAL,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН,)",
+    "name": "МАНДАРИН ЭКСПРЕШН-  60см(АННИ,KING,TU,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН)",
     "wholesalePrice": 127.46,
     "extraPrice": 133.83,
     "retailPrice": 159.33
@@ -17506,7 +17498,7 @@
   {
     "id": "УТ000039938",
     "category": "..РОЗА ЭКВАДОР",
-    "name": "МАНДАРИН ЭКСПРЕШН-  70см(АННИ,KING,TU,ROYAL,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН,)",
+    "name": "МАНДАРИН ЭКСПРЕШН-  70см(АННИ,KING,TU,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН)",
     "wholesalePrice": 146.4,
     "extraPrice": 153.72,
     "retailPrice": 183
@@ -17514,7 +17506,7 @@
   {
     "id": "УТ000039939",
     "category": "..РОЗА ЭКВАДОР",
-    "name": "МАНДАРИН ЭКСПРЕШН-  80см (АННИ,KING,TU,ROYAL,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН,)",
+    "name": "МАНДАРИН ЭКСПРЕШН-  80см (АННИ,KING,TU,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН)",
     "wholesalePrice": 163.8,
     "extraPrice": 171.99,
     "retailPrice": 204.75
@@ -17522,7 +17514,7 @@
   {
     "id": "УТ000039949",
     "category": "..РОЗА ЭКВАДОР",
-    "name": "МЕДЖИК ТАЙМ-  60см  (АННИ,KING,TU,ROYAL,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН,)",
+    "name": "МЕДЖИК ТАЙМ-  60см(АННИ,KING,TU,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН)",
     "wholesalePrice": 106.21,
     "extraPrice": 111.52,
     "retailPrice": 132.76
@@ -17530,7 +17522,7 @@
   {
     "id": "УТ000039950",
     "category": "..РОЗА ЭКВАДОР",
-    "name": "МЕДЖИК ТАЙМ-  70см (АННИ,KING,TU,ROYAL,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН,)",
+    "name": "МЕДЖИК ТАЙМ-  70см(АННИ,KING,TU,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН)",
     "wholesalePrice": 125.99,
     "extraPrice": 132.29,
     "retailPrice": 157.49
@@ -17538,7 +17530,7 @@
   {
     "id": "УТ000039954",
     "category": "..РОЗА ЭКВАДОР",
-    "name": "МЕНТА-  50см  (АННИ,KING,TU,ROYAL,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН,)",
+    "name": "МЕНТА-  50см  (АННИ,KING,TU,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН)",
     "wholesalePrice": 96.26,
     "extraPrice": 101.07,
     "retailPrice": 120.32
@@ -17546,7 +17538,7 @@
   {
     "id": "УТ000039955",
     "category": "..РОЗА ЭКВАДОР",
-    "name": "МЕНТА-  60см  (АННИ,KING,TU,ROYAL,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН,)",
+    "name": "МЕНТА-  60см  (АННИ,KING,TU,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН)",
     "wholesalePrice": 111.83,
     "extraPrice": 117.42,
     "retailPrice": 139.79
@@ -17554,7 +17546,7 @@
   {
     "id": "УТ000039960",
     "category": "..РОЗА ЭКВАДОР",
-    "name": "МИКС  40см  (АННИ,KING,TU,ROYAL,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН,)",
+    "name": "МИКС  40см (АННИ,KING,TU,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН)",
     "wholesalePrice": 66.3,
     "extraPrice": 69.62,
     "retailPrice": 82.88
@@ -17562,7 +17554,7 @@
   {
     "id": "УТ000039961",
     "category": "..РОЗА ЭКВАДОР",
-    "name": "МИКС  50см  (АННИ,KING,TU,ROYAL,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН,)",
+    "name": "МИКС  50см  (АННИ,KING,TU,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН)",
     "wholesalePrice": 79.8,
     "extraPrice": 83.79,
     "retailPrice": 99.75
@@ -17570,7 +17562,7 @@
   {
     "id": "УТ000039962",
     "category": "..РОЗА ЭКВАДОР",
-    "name": "МИКС  60см  (АННИ,KING,TU,ROYAL,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН,)",
+    "name": "МИКС  60см  (АННИ,KING,TU,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН)",
     "wholesalePrice": 95.6,
     "extraPrice": 100.38,
     "retailPrice": 119.5
@@ -17578,7 +17570,7 @@
   {
     "id": "УТ000039963",
     "category": "..РОЗА ЭКВАДОР",
-    "name": "МИКС  70см  (АННИ,KING,TU,ROYAL,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН,)",
+    "name": "МИКС  70см  (АННИ,KING,TU,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН)",
     "wholesalePrice": 110.47,
     "extraPrice": 115.99,
     "retailPrice": 138.09
@@ -18746,7 +18738,7 @@
   {
     "id": "УТ000047728",
     "category": "..РОЗА ЭКВАДОР",
-    "name": "МАМА МИЯ-  50см (АННИ,KING,TU,ROYAL,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН,)",
+    "name": "МАМА МИЯ-  50см (АННИ,KING,TU,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН)",
     "wholesalePrice": 85.51,
     "extraPrice": 89.79,
     "retailPrice": 106.89
@@ -18754,7 +18746,7 @@
   {
     "id": "УТ000047729",
     "category": "..РОЗА ЭКВАДОР",
-    "name": "МАМА МИЯ-  60см(АННИ,KING,TU,ROYAL,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН,)",
+    "name": "МАМА МИЯ-  60см(АННИ,KING,TU,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН)",
     "wholesalePrice": 99.27,
     "extraPrice": 104.23,
     "retailPrice": 124.09
@@ -18762,7 +18754,7 @@
   {
     "id": "УТ000047730",
     "category": "..РОЗА ЭКВАДОР",
-    "name": "МАМА МИЯ-  70см (АННИ,KING,TU,ROYAL,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН,)",
+    "name": "МАМА МИЯ-  70см (АННИ,KING,TU,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН)",
     "wholesalePrice": 118.82,
     "extraPrice": 124.76,
     "retailPrice": 148.52
@@ -33360,6 +33352,14 @@
     "retailPrice": 208.95
   },
   {
+    "id": "УТ000005493",
+    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
+    "name": "ОРАНЖ СТАР 50 см РОЗА Кен/Куст. (RLR)",
+    "wholesalePrice": 132.72,
+    "extraPrice": 139.36,
+    "retailPrice": 165.9
+  },
+  {
     "id": "УТ000005494",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "ОРАНЖ СТАР 60 см РОЗА Кен/Куст. (RLR)",
@@ -43808,14 +43808,6 @@
     "retailPrice": 244.65
   },
   {
-    "id": "УТ000037879",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "СВИТ ДЖУЛИА 70 см куст на воде",
-    "wholesalePrice": 142.8,
-    "extraPrice": 149.94,
-    "retailPrice": 178.5
-  },
-  {
     "id": "УТ000037881",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "ДЖУДИ VOORN ROSES 50 см куст на воде",
@@ -44395,14 +44387,6 @@
     "id": "УТ000046660",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "ГРАНДМАЙС РОМА (VOORN-ROSES)  50 см куст на воде",
-    "wholesalePrice": 159.68,
-    "extraPrice": 167.67,
-    "retailPrice": 199.61
-  },
-  {
-    "id": "УТ000046667",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "ЛАВ ИТ  (VOORN-ROSES) 60 см куст на воде",
     "wholesalePrice": 159.68,
     "extraPrice": 167.67,
     "retailPrice": 199.61
@@ -49419,17 +49403,17 @@
     "id": "УТ000027743",
     "category": "..,РАЗНОЕ",
     "name": "ЛИЗИАНТУС  СВЕТЛО РОЗОВЫЙ",
-    "wholesalePrice": 145.32,
-    "extraPrice": 152.59,
-    "retailPrice": 181.65
+    "wholesalePrice": 153.72,
+    "extraPrice": 161.41,
+    "retailPrice": 192.15
   },
   {
     "id": "УТ000027744",
     "category": "..,РАЗНОЕ",
     "name": "ЛИЗИАНТУС  ЛАВАНДОВЫЙ",
-    "wholesalePrice": 161.28,
-    "extraPrice": 169.34,
-    "retailPrice": 201.6
+    "wholesalePrice": 175.56,
+    "extraPrice": 184.34,
+    "retailPrice": 219.45
   },
   {
     "id": "УТ000027746",
@@ -49451,25 +49435,25 @@
     "id": "УТ000027748",
     "category": "..,РАЗНОЕ",
     "name": "ЛИЗИАНТУС  БЕЛЫЙ",
-    "wholesalePrice": 143.64,
-    "extraPrice": 150.82,
-    "retailPrice": 179.55
+    "wholesalePrice": 162.96,
+    "extraPrice": 171.11,
+    "retailPrice": 203.7
   },
   {
     "id": "УТ000027772",
     "category": "..,РАЗНОЕ",
     "name": "ЛИЗИАНТУС  КРАСНЫЙ",
-    "wholesalePrice": 163.8,
-    "extraPrice": 171.99,
-    "retailPrice": 204.75
+    "wholesalePrice": 166.32,
+    "extraPrice": 174.64,
+    "retailPrice": 207.9
   },
   {
     "id": "УТ000027773",
     "category": "..,РАЗНОЕ",
     "name": "ЛИЗИАНТУС  СИНИЙ",
-    "wholesalePrice": 128.52,
-    "extraPrice": 134.95,
-    "retailPrice": 160.65
+    "wholesalePrice": 139.44,
+    "extraPrice": 146.41,
+    "retailPrice": 174.3
   },
   {
     "id": "УТ000027931",
@@ -49515,49 +49499,49 @@
     "id": "УТ000031643",
     "category": "..,РАЗНОЕ",
     "name": "ОРХИДЕЯ  1*6 БЕЛАЯ",
-    "wholesalePrice": 1680,
-    "extraPrice": 1764,
-    "retailPrice": 2100
+    "wholesalePrice": 1428,
+    "extraPrice": 1499.4,
+    "retailPrice": 1785
   },
   {
     "id": "УТ000031644",
     "category": "..,РАЗНОЕ",
     "name": "ОРХИДЕЯ  1*6 РОЗОВАЯ",
-    "wholesalePrice": 1680,
-    "extraPrice": 1764,
-    "retailPrice": 2100
+    "wholesalePrice": 1444.8,
+    "extraPrice": 1517.04,
+    "retailPrice": 1806
   },
   {
     "id": "УТ000031645",
     "category": "..,РАЗНОЕ",
     "name": "ОРХИДЕЯ  1*6 ЖЕЛТАЯ",
-    "wholesalePrice": 1612.8,
-    "extraPrice": 1693.44,
-    "retailPrice": 2016
+    "wholesalePrice": 1344,
+    "extraPrice": 1411.2,
+    "retailPrice": 1680
   },
   {
     "id": "УТ000031646",
     "category": "..,РАЗНОЕ",
     "name": "ОРХИДЕЯ  1*6 ЗЕЛЁНАЯ",
-    "wholesalePrice": 1612.8,
-    "extraPrice": 1693.44,
-    "retailPrice": 2016
+    "wholesalePrice": 1360.8,
+    "extraPrice": 1428.84,
+    "retailPrice": 1701
   },
   {
     "id": "УТ000031647",
     "category": "..,РАЗНОЕ",
     "name": "ОРХИДЕЯ  1*6 ОРАНЖЕВАЯ",
-    "wholesalePrice": 1638,
-    "extraPrice": 1719.9,
-    "retailPrice": 2047.5
+    "wholesalePrice": 1377.6,
+    "extraPrice": 1446.48,
+    "retailPrice": 1722
   },
   {
     "id": "УТ000031648",
     "category": "..,РАЗНОЕ",
     "name": "ОРХИДЕЯ  1*6 КРАСНАЯ",
-    "wholesalePrice": 1680,
-    "extraPrice": 1764,
-    "retailPrice": 2100
+    "wholesalePrice": 1453.2,
+    "extraPrice": 1525.86,
+    "retailPrice": 1816.5
   },
   {
     "id": "УТ000043074",
@@ -50827,17 +50811,17 @@
     "id": "УТ000010395",
     "category": "..,РАЗНОЕ",
     "name": "ОРХИДЕЯ  1*6 МИКС",
-    "wholesalePrice": 1596,
-    "extraPrice": 1675.8,
-    "retailPrice": 1995
+    "wholesalePrice": 1344,
+    "extraPrice": 1411.2,
+    "retailPrice": 1680
   },
   {
     "id": "УТ000010402",
     "category": "..,РАЗНОЕ",
     "name": "ОРХИДЕЯ 1*15  ",
-    "wholesalePrice": 685.44,
-    "extraPrice": 719.71,
-    "retailPrice": 856.8
+    "wholesalePrice": 680.4,
+    "extraPrice": 714.42,
+    "retailPrice": 850.5
   },
   {
     "id": "УТ000010416",
@@ -51059,17 +51043,17 @@
     "id": "УТ000019611",
     "category": "..,РАЗНОЕ",
     "name": "ЛИЗИАНТУС АЛИСА  БЕЛ",
-    "wholesalePrice": 193.2,
-    "extraPrice": 202.86,
-    "retailPrice": 241.5
+    "wholesalePrice": 218.4,
+    "extraPrice": 229.32,
+    "retailPrice": 273
   },
   {
     "id": "УТ000019677",
     "category": "..,РАЗНОЕ",
     "name": "ЛИЗИАНТУС АЛИСА РОЗОВЫЙ",
-    "wholesalePrice": 185.64,
-    "extraPrice": 194.92,
-    "retailPrice": 232.05
+    "wholesalePrice": 197.4,
+    "extraPrice": 207.27,
+    "retailPrice": 246.75
   },
   {
     "id": "УТ000020493",
