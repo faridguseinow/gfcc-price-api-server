@@ -2800,14 +2800,6 @@
     "retailPrice": 256.28
   },
   {
-    "id": "УТ000050972",
-    "category": "СИЛИКОНОВЫЕ ЦВЕТЫ",
-    "name": "RJ 24125-MW-WG",
-    "wholesalePrice": 1709.97,
-    "extraPrice": 1795.47,
-    "retailPrice": 2137.46
-  },
-  {
     "id": "УТ000050974",
     "category": "СИЛИКОНОВЫЕ ЦВЕТЫ",
     "name": "HYM-ZPT-WT",
@@ -22048,14 +22040,6 @@
     "retailPrice": 1685.66
   },
   {
-    "id": "УТ000013725",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "СТЕФАНОТИС 12 СМ",
-    "wholesalePrice": 885.94,
-    "extraPrice": 930.23,
-    "retailPrice": 1107.42
-  },
-  {
     "id": "УТ000013732",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
     "name": "СТРЕЛИЦИЯ 12/40 СМ",
@@ -22947,9 +22931,9 @@
     "id": "УТ000030672",
     "category": ".УПАКОВКА",
     "name": "ЛАТЕКС 60 СМ*5 М",
-    "wholesalePrice": 208.75,
-    "extraPrice": 219.19,
-    "retailPrice": 260.94
+    "wholesalePrice": 167,
+    "extraPrice": 175.35,
+    "retailPrice": 208.75
   },
   {
     "id": "УТ000030673",
@@ -24195,9 +24179,9 @@
     "id": "УТ000044298",
     "category": ".УПАКОВКА",
     "name": "БУМАГА СОТЫ",
-    "wholesalePrice": 250.5,
-    "extraPrice": 263.03,
-    "retailPrice": 313.13
+    "wholesalePrice": 208.75,
+    "extraPrice": 219.19,
+    "retailPrice": 260.94
   },
   {
     "id": "УТ000044299",
@@ -24558,6 +24542,30 @@
     "wholesalePrice": 1095.52,
     "extraPrice": 1150.3,
     "retailPrice": 1369.4
+  },
+  {
+    "id": "УТ000052389",
+    "category": ".УПАКОВКА",
+    "name": "КЕНЗАН",
+    "wholesalePrice": 334,
+    "extraPrice": 350.7,
+    "retailPrice": 417.5
+  },
+  {
+    "id": "УТ000052390",
+    "category": ".УПАКОВКА",
+    "name": "ДЕКОРЕТТА ",
+    "wholesalePrice": 233.8,
+    "extraPrice": 245.49,
+    "retailPrice": 292.25
+  },
+  {
+    "id": "УТ000052391",
+    "category": ".УПАКОВКА",
+    "name": "СЕТКА ФЛОРИСТИЧЕСКАЯ ( МЕТАЛЛ )",
+    "wholesalePrice": 567.8,
+    "extraPrice": 596.19,
+    "retailPrice": 709.75
   },
   {
     "id": "УТ000015846",
@@ -25120,6 +25128,14 @@
     "retailPrice": 99.16
   },
   {
+    "id": "УТ000009499",
+    "category": ".УПАКОВКА",
+    "name": "ОАЗИС АВТО КОРСО МИНИ",
+    "wholesalePrice": 333.17,
+    "extraPrice": 349.82,
+    "retailPrice": 416.46
+  },
+  {
     "id": "УТ000009504",
     "category": ".УПАКОВКА",
     "name": "ОАЗИС АНКОР СКОТЧ  6 ММ",
@@ -25611,9 +25627,9 @@
     "id": "УТ000013627",
     "category": ".УПАКОВКА",
     "name": "СЕТКА ПАУТИНКА",
-    "wholesalePrice": 112.73,
-    "extraPrice": 118.36,
-    "retailPrice": 140.91
+    "wholesalePrice": 116.9,
+    "extraPrice": 122.75,
+    "retailPrice": 146.13
   },
   {
     "id": "УТ000013628",
@@ -31214,6 +31230,14 @@
     "wholesalePrice": 24.22,
     "extraPrice": 25.43,
     "retailPrice": 30.27
+  },
+  {
+    "id": "УТ000048524",
+    "category": "..,ЗЕЛЕНЬ",
+    "name": "МАГНОЛИЯ  КРАСНОДАР",
+    "wholesalePrice": 550.43,
+    "extraPrice": 577.95,
+    "retailPrice": 688.04
   },
   {
     "id": "УТ000025471",
@@ -43520,14 +43544,6 @@
     "retailPrice": 284
   },
   {
-    "id": "УТ000035157",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "ЛИМУЗИН 60 см куст на воде",
-    "wholesalePrice": 141.95,
-    "extraPrice": 149.05,
-    "retailPrice": 177.44
-  },
-  {
     "id": "УТ000035199",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "РЕД ТРЕНСЕТТЕР 60 см куст на воде",
@@ -46494,6 +46510,14 @@
     "wholesalePrice": 1047.09,
     "extraPrice": 1099.44,
     "retailPrice": 1308.86
+  },
+  {
+    "id": "УТ000045359",
+    "category": "МЯГКАЯ ИГРУШКА",
+    "name": "Мягкая игрушка № LK24-117",
+    "wholesalePrice": 1184.87,
+    "extraPrice": 1244.11,
+    "retailPrice": 1481.08
   },
   {
     "id": "УТ000045502",
@@ -51635,14 +51659,6 @@
     "id": "УТ000013906",
     "category": "..ТЮЛЬПАНЫ",
     "name": "АНГОЛА  ТЮЛЬПАН энкл.",
-    "wholesalePrice": 73.46,
-    "extraPrice": 77.14,
-    "retailPrice": 91.83
-  },
-  {
-    "id": "УТ000013909",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "АНТАРКТИКА  ТЮЛЬПАН энкл.",
     "wholesalePrice": 73.46,
     "extraPrice": 77.14,
     "retailPrice": 91.83
