@@ -8904,84 +8904,12 @@
     "retailPrice": 571.73
   },
   {
-    "id": "УТ000046100",
-    "category": " ..ЦВЕТЫ КИТАЙ",
-    "name": "ГИПСОФИЛА КРАШ КИТАЙ ПАЧКА",
-    "wholesalePrice": 1286.58,
-    "extraPrice": 1350.9,
-    "retailPrice": 1608.22
-  },
-  {
     "id": "УТ000046101",
     "category": " ..ЦВЕТЫ КИТАЙ",
     "name": "ЛИМОНИУМ КИТАЙ ПАЧКА  ",
     "wholesalePrice": 905.15,
     "extraPrice": 950.41,
     "retailPrice": 1131.44
-  },
-  {
-    "id": "УТ000046104",
-    "category": " ..ЦВЕТЫ КИТАЙ",
-    "name": "ЭВКАЛИПТ ПОПУЛУС КИТАЙ",
-    "wholesalePrice": 494.25,
-    "extraPrice": 518.97,
-    "retailPrice": 617.82
-  },
-  {
-    "id": "УТ000046105",
-    "category": " ..ЦВЕТЫ КИТАЙ",
-    "name": "ЛИЗИАНТУС КИТАЙ ПАЧКА",
-    "wholesalePrice": 928.73,
-    "extraPrice": 975.16,
-    "retailPrice": 1160.91
-  },
-  {
-    "id": "УТ000046414",
-    "category": " ..ЦВЕТЫ КИТАЙ",
-    "name": "ОКСИПЕТАЛИУМ  КИТАЙ ПАЧКА",
-    "wholesalePrice": 367.95,
-    "extraPrice": 386.35,
-    "retailPrice": 459.94
-  },
-  {
-    "id": "УТ000046418",
-    "category": " ..ЦВЕТЫ КИТАЙ",
-    "name": "ГВОЗДИКА ЗЕЛЕНАЯ КИТАЙ ПАЧКА",
-    "wholesalePrice": 476.57,
-    "extraPrice": 500.4,
-    "retailPrice": 595.72
-  },
-  {
-    "id": "УТ000046420",
-    "category": " ..ЦВЕТЫ КИТАЙ",
-    "name": "ГОРТЕНЗИЯ КИТАЙ ",
-    "wholesalePrice": 496.78,
-    "extraPrice": 521.62,
-    "retailPrice": 620.98
-  },
-  {
-    "id": "УТ000047627",
-    "category": " ..ЦВЕТЫ КИТАЙ",
-    "name": "ЭВКАЛИПТ ЦИНЕРЕЯ КИТАЙ",
-    "wholesalePrice": 933.91,
-    "extraPrice": 980.61,
-    "retailPrice": 1167.39
-  },
-  {
-    "id": "УТ000047628",
-    "category": " ..ЦВЕТЫ КИТАЙ",
-    "name": "ЭВКАЛИПТ ПАРВИФОЛИЯ КИТАЙ",
-    "wholesalePrice": 494.25,
-    "extraPrice": 518.97,
-    "retailPrice": 617.82
-  },
-  {
-    "id": "УТ000047629",
-    "category": " ..ЦВЕТЫ КИТАЙ",
-    "name": "ПОДСОЛНУХ КИТАЙ ПАЧКА",
-    "wholesalePrice": 799.06,
-    "extraPrice": 839.01,
-    "retailPrice": 998.82
   },
   {
     "id": "УТ000048760",
@@ -8998,14 +8926,6 @@
     "wholesalePrice": 852.95,
     "extraPrice": 895.59,
     "retailPrice": 1066.18
-  },
-  {
-    "id": "УТ000051295",
-    "category": " ..ЦВЕТЫ КИТАЙ",
-    "name": "ГИПСОФИЛА КИТАЙ ПАЧКА",
-    "wholesalePrice": 1000.3,
-    "extraPrice": 1050.31,
-    "retailPrice": 1250.37
   },
   {
     "id": "УТ000030422",
@@ -31240,6 +31160,14 @@
     "retailPrice": 131.56
   },
   {
+    "id": "УТ000005008",
+    "category": "..,ЗЕЛЕНЬ",
+    "name": "НОБЛИС КРАНС",
+    "wholesalePrice": 479.94,
+    "extraPrice": 503.94,
+    "retailPrice": 599.93
+  },
+  {
     "id": "УТ000005017",
     "category": "..,ЗЕЛЕНЬ",
     "name": "ПАПОРОТНИК",
@@ -44600,14 +44528,6 @@
     "retailPrice": 231.55
   },
   {
-    "id": "УТ000024175",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "АЭРОБИК VOORN-ROSES 60  см куст на воде",
-    "wholesalePrice": 188.27,
-    "extraPrice": 197.68,
-    "retailPrice": 235.34
-  },
-  {
     "id": "УТ000024176",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "АЭРОБИК VOORN-ROSES 70 см куст на воде",
@@ -50704,6 +50624,14 @@
     "retailPrice": 87.36
   },
   {
+    "id": "УТ000010145",
+    "category": "..,РАЗНОЕ",
+    "name": "БУВАРДИЯ",
+    "wholesalePrice": 126.3,
+    "extraPrice": 132.62,
+    "retailPrice": 157.88
+  },
+  {
     "id": "УТ000010147",
     "category": "..,РАЗНОЕ",
     "name": "БРАССИКА",
@@ -50968,6 +50896,14 @@
     "retailPrice": 73.68
   },
   {
+    "id": "УТ000010327",
+    "category": "..,РАЗНОЕ",
+    "name": "КУКУРБИТА",
+    "wholesalePrice": 67.36,
+    "extraPrice": 70.73,
+    "retailPrice": 84.2
+  },
+  {
     "id": "УТ000010329",
     "category": "..,РАЗНОЕ",
     "name": "КУРКУМА",
@@ -51184,6 +51120,14 @@
     "retailPrice": 85.25
   },
   {
+    "id": "УТ000010635",
+    "category": "..,РАЗНОЕ",
+    "name": "ХЕЛЕБОРУС",
+    "wholesalePrice": 140.61,
+    "extraPrice": 147.64,
+    "retailPrice": 175.77
+  },
+  {
     "id": "УТ000010636",
     "category": "..,РАЗНОЕ",
     "name": "ХЕЛИКОНИЯ",
@@ -51262,6 +51206,14 @@
     "wholesalePrice": 53.05,
     "extraPrice": 55.7,
     "retailPrice": 66.31
+  },
+  {
+    "id": "УТ000018590",
+    "category": "..,РАЗНОЕ",
+    "name": "КУКУРБИТА ЭКСТРА",
+    "wholesalePrice": 483.31,
+    "extraPrice": 507.47,
+    "retailPrice": 604.14
   },
   {
     "id": "УТ000019611",
