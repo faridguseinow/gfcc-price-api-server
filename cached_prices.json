@@ -8904,12 +8904,84 @@
     "retailPrice": 569.01
   },
   {
+    "id": "УТ000046100",
+    "category": " ..ЦВЕТЫ КИТАЙ",
+    "name": "ГИПСОФИЛА КРАШ КИТАЙ ПАЧКА",
+    "wholesalePrice": 1226.83,
+    "extraPrice": 1288.17,
+    "retailPrice": 1533.54
+  },
+  {
     "id": "УТ000046101",
     "category": " ..ЦВЕТЫ КИТАЙ",
     "name": "ЛИМОНИУМ КИТАЙ ПАЧКА  ",
-    "wholesalePrice": 900.85,
-    "extraPrice": 945.89,
-    "retailPrice": 1126.06
+    "wholesalePrice": 894.15,
+    "extraPrice": 938.85,
+    "retailPrice": 1117.68
+  },
+  {
+    "id": "УТ000046105",
+    "category": " ..ЦВЕТЫ КИТАЙ",
+    "name": "ЛИЗИАНТУС КИТАЙ ПАЧКА",
+    "wholesalePrice": 1051.69,
+    "extraPrice": 1104.27,
+    "retailPrice": 1314.61
+  },
+  {
+    "id": "УТ000046414",
+    "category": " ..ЦВЕТЫ КИТАЙ",
+    "name": "ОКСИПЕТАЛИУМ  КИТАЙ ПАЧКА",
+    "wholesalePrice": 366.21,
+    "extraPrice": 384.52,
+    "retailPrice": 457.76
+  },
+  {
+    "id": "УТ000046417",
+    "category": " ..ЦВЕТЫ КИТАЙ",
+    "name": "ЛИЛИЯ КИТАЙ ПАЧКА",
+    "wholesalePrice": 1557,
+    "extraPrice": 1634.85,
+    "retailPrice": 1946.26
+  },
+  {
+    "id": "УТ000046418",
+    "category": " ..ЦВЕТЫ КИТАЙ",
+    "name": "ГВОЗДИКА ЗЕЛЕНАЯ КИТАЙ ПАЧКА",
+    "wholesalePrice": 653.64,
+    "extraPrice": 686.32,
+    "retailPrice": 817.05
+  },
+  {
+    "id": "УТ000046419",
+    "category": " ..ЦВЕТЫ КИТАЙ",
+    "name": "СТАТИЦА  КИТАЙ  ПАЧКА",
+    "wholesalePrice": 703.92,
+    "extraPrice": 739.12,
+    "retailPrice": 879.9
+  },
+  {
+    "id": "УТ000046420",
+    "category": " ..ЦВЕТЫ КИТАЙ",
+    "name": "ГОРТЕНЗИЯ КИТАЙ ",
+    "wholesalePrice": 470.12,
+    "extraPrice": 493.62,
+    "retailPrice": 587.65
+  },
+  {
+    "id": "УТ000046422",
+    "category": " ..ЦВЕТЫ КИТАЙ",
+    "name": "ФИСТАШКА КИТАЙ ПАЧКА",
+    "wholesalePrice": 463.41,
+    "extraPrice": 486.58,
+    "retailPrice": 579.27
+  },
+  {
+    "id": "УТ000047269",
+    "category": " ..ЦВЕТЫ КИТАЙ",
+    "name": "ЭВКАЛИПТ БЭЙБИ БЛЮ КИТАЙ",
+    "wholesalePrice": 959.51,
+    "extraPrice": 1007.49,
+    "retailPrice": 1199.39
   },
   {
     "id": "УТ000048760",
@@ -8926,6 +8998,14 @@
     "wholesalePrice": 848.89,
     "extraPrice": 891.34,
     "retailPrice": 1061.12
+  },
+  {
+    "id": "УТ000051295",
+    "category": " ..ЦВЕТЫ КИТАЙ",
+    "name": "ГИПСОФИЛА КИТАЙ ПАЧКА",
+    "wholesalePrice": 894.15,
+    "extraPrice": 938.85,
+    "retailPrice": 1117.68
   },
   {
     "id": "УТ000030422",
@@ -30875,25 +30955,25 @@
     "id": "УТ000046096",
     "category": "..,ГВОЗДИКА",
     "name": "ГВОЗДИКА КИТАЙ КУСТОВАЯ",
-    "wholesalePrice": 33.52,
-    "extraPrice": 35.2,
-    "retailPrice": 41.9
+    "wholesalePrice": 34.36,
+    "extraPrice": 36.08,
+    "retailPrice": 42.95
   },
   {
     "id": "УТ000046097",
     "category": "..,ГВОЗДИКА",
     "name": "ГВОЗДИКА КИТАЙ",
-    "wholesalePrice": 33.52,
-    "extraPrice": 35.2,
-    "retailPrice": 41.9
+    "wholesalePrice": 26.82,
+    "extraPrice": 28.16,
+    "retailPrice": 33.52
   },
   {
     "id": "УТ000050172",
     "category": "..,ГВОЗДИКА",
     "name": "ГВОЗДИКА КИТАЙ  СОРТОВАЯ",
-    "wholesalePrice": 33.52,
-    "extraPrice": 35.2,
-    "retailPrice": 41.9
+    "wholesalePrice": 28.49,
+    "extraPrice": 29.92,
+    "retailPrice": 35.62
   },
   {
     "id": "УТ000003893",
@@ -31104,6 +31184,14 @@
     "retailPrice": 48.6
   },
   {
+    "id": "УТ000004965",
+    "category": "..,ЗЕЛЕНЬ",
+    "name": "АСПАРАГУС  СЕТАТУС",
+    "wholesalePrice": 45.25,
+    "extraPrice": 47.51,
+    "retailPrice": 56.57
+  },
+  {
     "id": "УТ000004970",
     "category": "..,ЗЕЛЕНЬ",
     "name": "АСПИДИСТРА  80 см",
@@ -31230,6 +31318,14 @@
     "wholesalePrice": 77.93,
     "extraPrice": 81.83,
     "retailPrice": 97.42
+  },
+  {
+    "id": "УТ000005064",
+    "category": "..,ЗЕЛЕНЬ",
+    "name": "ТРАХЕЛИУМ ЗЕЛЕНЫЙ ",
+    "wholesalePrice": 110.62,
+    "extraPrice": 116.15,
+    "retailPrice": 138.27
   },
   {
     "id": "УТ000005066",
@@ -48614,14 +48710,6 @@
     "wholesalePrice": 39.39,
     "extraPrice": 41.36,
     "retailPrice": 49.23
-  },
-  {
-    "id": "УТ000023725",
-    "category": "..РОЗА КЕНИЯ",
-    "name": "МИКС 60 см РОЗА Кения (MT ELGON)",
-    "wholesalePrice": 51.12,
-    "extraPrice": 53.67,
-    "retailPrice": 63.9
   },
   {
     "id": "УТ000024365",
