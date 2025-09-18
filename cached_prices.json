@@ -21448,14 +21448,6 @@
     "retailPrice": 817.26
   },
   {
-    "id": "УТ000002923",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "БЕГОНИЯ МИКС 19 СМ",
-    "wholesalePrice": 1170.67,
-    "extraPrice": 1229.2,
-    "retailPrice": 1463.34
-  },
-  {
     "id": "УТ000002925",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
     "name": "БЕГОНИЯ РЕКС 13 СМ",
@@ -22560,14 +22552,6 @@
     "retailPrice": 147.17
   },
   {
-    "id": "УТ000014714",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "ХЕДЕРА 13 СМ",
-    "wholesalePrice": 347.36,
-    "extraPrice": 364.73,
-    "retailPrice": 434.2
-  },
-  {
     "id": "УТ000014718",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
     "name": "ХЕДЕРА 24 СМ",
@@ -22592,12 +22576,28 @@
     "retailPrice": 615.81
   },
   {
+    "id": "УТ000015048",
+    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
+    "name": "ХРИЗАНТЕМА КУСТОВАЯ 12 СМ",
+    "wholesalePrice": 295.59,
+    "extraPrice": 310.37,
+    "retailPrice": 369.49
+  },
+  {
     "id": "УТ000015050",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
     "name": "ХРИЗАНТЕМА КУСТОВАЯ 13 СМ",
     "wholesalePrice": 406.65,
     "extraPrice": 426.98,
     "retailPrice": 508.31
+  },
+  {
+    "id": "УТ000015057",
+    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
+    "name": "ХРИЗАНТЕМА КУСТОВАЯ 19/35 СМ",
+    "wholesalePrice": 1025.38,
+    "extraPrice": 1076.65,
+    "retailPrice": 1281.73
   },
   {
     "id": "УТ000015061",
@@ -51246,14 +51246,6 @@
     "wholesalePrice": 97.7,
     "extraPrice": 102.58,
     "retailPrice": 122.12
-  },
-  {
-    "id": "УТ000010249",
-    "category": "..,РАЗНОЕ",
-    "name": "ЗАНЗИБАР",
-    "wholesalePrice": 108.55,
-    "extraPrice": 113.98,
-    "retailPrice": 135.69
   },
   {
     "id": "УТ000010255",
