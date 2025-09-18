@@ -64,6 +64,14 @@
     "retailPrice": 115.25
   },
   {
+    "id": "УТ000039234",
+    "category": "..,РОЗА ,МЕСТНАЯ",
+    "name": "ЧЕХОВСКИЙ САД КУСТОВАЯ  50 см",
+    "wholesalePrice": 144.53,
+    "extraPrice": 151.76,
+    "retailPrice": 180.66
+  },
+  {
     "id": "УТ000039341",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЧЕХОВСКИЙ САД КУСТОВАЯ  40 см",
@@ -15536,14 +15544,6 @@
     "retailPrice": 148.41
   },
   {
-    "id": "УТ000030243",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "КВИКСЕНД (ТЕССА)- 70см",
-    "wholesalePrice": 159.36,
-    "extraPrice": 167.33,
-    "retailPrice": 199.2
-  },
-  {
     "id": "УТ000030224",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ХАРТС (ТЕССА)-70см ",
@@ -17016,6 +17016,14 @@
     "retailPrice": 173.43
   },
   {
+    "id": "УТ000039680",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "БЛЮЗ - 70см (АННИ,KING,TU,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН)",
+    "wholesalePrice": 125.33,
+    "extraPrice": 131.6,
+    "retailPrice": 156.67
+  },
+  {
     "id": "УТ000039681",
     "category": "..РОЗА ЭКВАДОР",
     "name": "БЛЮЗ - 80см (АННИ,KING,TU,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН)",
@@ -18270,6 +18278,14 @@
     "wholesalePrice": 152.55,
     "extraPrice": 160.18,
     "retailPrice": 190.69
+  },
+  {
+    "id": "УТ000040397",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "РЕД ПАНТЕРА-  70см(АННИ,KING,TU,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН,)",
+    "wholesalePrice": 119.77,
+    "extraPrice": 125.76,
+    "retailPrice": 149.72
   },
   {
     "id": "УТ000040398",
@@ -20472,14 +20488,6 @@
     "retailPrice": 4999.56
   },
   {
-    "id": "УТ000026813",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "ФАТСИЯ 12 СМ",
-    "wholesalePrice": 326.49,
-    "extraPrice": 342.81,
-    "retailPrice": 408.11
-  },
-  {
     "id": "УТ000027249",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
     "name": "ДРАЦЕНА ЦИНТО 13 СМ",
@@ -21392,22 +21400,6 @@
     "retailPrice": 1019.74
   },
   {
-    "id": "УТ000003971",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "ГИДРАНГИЯ 15 СМ",
-    "wholesalePrice": 1156.48,
-    "extraPrice": 1214.3,
-    "retailPrice": 1445.59
-  },
-  {
-    "id": "УТ000003983",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "ГИДРАНГИЯ 29/60 СМ",
-    "wholesalePrice": 3590.5,
-    "extraPrice": 3770.03,
-    "retailPrice": 4488.13
-  },
-  {
     "id": "УТ000004007",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
     "name": "ГИМНОКАЛИЦИУМ  5 СМ (КОРОБКА 20 ШТУК)",
@@ -21454,14 +21446,6 @@
     "wholesalePrice": 343.19,
     "extraPrice": 360.34,
     "retailPrice": 428.98
-  },
-  {
-    "id": "УТ000004559",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "ГЮНУРА 12 СМ",
-    "wholesalePrice": 479.29,
-    "extraPrice": 503.25,
-    "retailPrice": 599.11
   },
   {
     "id": "УТ000004568",
@@ -21704,28 +21688,12 @@
     "retailPrice": 990.52
   },
   {
-    "id": "УТ000005975",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "КАТЛЕЯ 12 СМ",
-    "wholesalePrice": 919.34,
-    "extraPrice": 965.3,
-    "retailPrice": 1149.17
-  },
-  {
     "id": "УТ000006077",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
     "name": "КАШПО КОЛЕЗИЯ 23 СМ (КРАСНОДАР)",
     "wholesalePrice": 668,
     "extraPrice": 701.4,
     "retailPrice": 835
-  },
-  {
-    "id": "УТ000006081",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "КЛИВИЯ 13 СМ",
-    "wholesalePrice": 1078.82,
-    "extraPrice": 1132.76,
-    "retailPrice": 1348.53
   },
   {
     "id": "УТ000007142",
@@ -22280,14 +22248,6 @@
     "retailPrice": 9669.3
   },
   {
-    "id": "УТ000014532",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "ФИКУС АУДРЕЙ 17 СМ",
-    "wholesalePrice": 1779.35,
-    "extraPrice": 1868.32,
-    "retailPrice": 2224.19
-  },
-  {
     "id": "УТ000014533",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
     "name": "ФИКУС КИНКИ 12 СМ",
@@ -22494,14 +22454,6 @@
     "wholesalePrice": 1518.03,
     "extraPrice": 1593.93,
     "retailPrice": 1897.54
-  },
-  {
-    "id": "УТ000015093",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "ЦИКАС РЕВОЛЮТА  6 СМ",
-    "wholesalePrice": 425.85,
-    "extraPrice": 447.14,
-    "retailPrice": 532.31
   },
   {
     "id": "УТ000015108",
@@ -51142,14 +51094,6 @@
     "wholesalePrice": 50.1,
     "extraPrice": 52.61,
     "retailPrice": 62.63
-  },
-  {
-    "id": "УТ000010258",
-    "category": "..,РАЗНОЕ",
-    "name": "ИРИС ЖЕЛТЫЙ",
-    "wholesalePrice": 43.42,
-    "extraPrice": 45.59,
-    "retailPrice": 54.28
   },
   {
     "id": "УТ000010267",
