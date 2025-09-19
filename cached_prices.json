@@ -14112,6 +14112,14 @@
     "retailPrice": 147.5
   },
   {
+    "id": "УТ000029514",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "БРАЙТОН- 60см (СТАР,КОРОЗОН,МАТИЗ,ЭКО РОЗ,БЕЛЛА РОЗА,ЧАРМИНГ,СОФИ,ДАВИНЧИ.РОЯЛ)",
+    "wholesalePrice": 97.38,
+    "extraPrice": 102.25,
+    "retailPrice": 121.72
+  },
+  {
     "id": "УТ000029515",
     "category": "..РОЗА ЭКВАДОР",
     "name": "БРАЙТОН- 70см (СТАР,КОРОЗОН,МАТИЗ,ЭКО РОЗ,БЕЛЛА РОЗА,ЧАРМИНГ,СОФИ,ДАВИНЧИ.РОЯЛ)",
@@ -16654,14 +16662,6 @@
     "wholesalePrice": 143.14,
     "extraPrice": 150.3,
     "retailPrice": 178.93
-  },
-  {
-    "id": "УТ000039430",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ЭНЧАНТМЕНТ -  50см ",
-    "wholesalePrice": 80.79,
-    "extraPrice": 84.83,
-    "retailPrice": 100.98
   },
   {
     "id": "УТ000039431",
@@ -29648,6 +29648,166 @@
     "retailPrice": 257.81
   },
   {
+    "id": "УТ000052516",
+    "category": "ВАЗЫ И КЕРАМИКА",
+    "name": "ПЛАСТИК ГОРШОК H-09YB25",
+    "wholesalePrice": 629.59,
+    "extraPrice": 661.07,
+    "retailPrice": 786.99
+  },
+  {
+    "id": "УТ000052517",
+    "category": "ВАЗЫ И КЕРАМИКА",
+    "name": "ПЛАСТИК ГОРШОК H-09YB30",
+    "wholesalePrice": 840.01,
+    "extraPrice": 882.01,
+    "retailPrice": 1050.01
+  },
+  {
+    "id": "УТ000052518",
+    "category": "ВАЗЫ И КЕРАМИКА",
+    "name": "ПЛАСТИК ГОРШОК H-09YB41",
+    "wholesalePrice": 1189.88,
+    "extraPrice": 1249.37,
+    "retailPrice": 1487.34
+  },
+  {
+    "id": "УТ000052519",
+    "category": "ВАЗЫ И КЕРАМИКА",
+    "name": "ПЛАСТИК ГОРШОК H-16UF20",
+    "wholesalePrice": 1568.13,
+    "extraPrice": 1646.54,
+    "retailPrice": 1960.16
+  },
+  {
+    "id": "УТ000052520",
+    "category": "ВАЗЫ И КЕРАМИКА",
+    "name": "ПЛАСТИК ГОРШОК H-16UF30",
+    "wholesalePrice": 2940.04,
+    "extraPrice": 3087.04,
+    "retailPrice": 3675.04
+  },
+  {
+    "id": "УТ000052521",
+    "category": "ВАЗЫ И КЕРАМИКА",
+    "name": "ПЛАСТИК ГОРШОК H-16UF40",
+    "wholesalePrice": 5739.79,
+    "extraPrice": 6026.78,
+    "retailPrice": 7174.74
+  },
+  {
+    "id": "УТ000052522",
+    "category": "ВАЗЫ И КЕРАМИКА",
+    "name": "ПЛАСТИК ГОРШОК H-16G20",
+    "wholesalePrice": 1189.88,
+    "extraPrice": 1249.37,
+    "retailPrice": 1487.34
+  },
+  {
+    "id": "УТ000052523",
+    "category": "ВАЗЫ И КЕРАМИКА",
+    "name": "ПЛАСТИК ГОРШОК H-16G25",
+    "wholesalePrice": 1456.24,
+    "extraPrice": 1529.05,
+    "retailPrice": 1820.3
+  },
+  {
+    "id": "УТ000052524",
+    "category": "ВАЗЫ И КЕРАМИКА",
+    "name": "ПЛАСТИК ГОРШОК H-16G30",
+    "wholesalePrice": 2352.2,
+    "extraPrice": 2469.8,
+    "retailPrice": 2940.24
+  },
+  {
+    "id": "УТ000052525",
+    "category": "ВАЗЫ И КЕРАМИКА",
+    "name": "ПЛАСТИК ГОРШОК H-16G35",
+    "wholesalePrice": 3275.71,
+    "extraPrice": 3439.49,
+    "retailPrice": 4094.63
+  },
+  {
+    "id": "УТ000052526",
+    "category": "ВАЗЫ И КЕРАМИКА",
+    "name": "ПЛАСТИК ГОРШОК Y-17D20A",
+    "wholesalePrice": 1469.6,
+    "extraPrice": 1543.08,
+    "retailPrice": 1837
+  },
+  {
+    "id": "УТ000052527",
+    "category": "ВАЗЫ И КЕРАМИКА",
+    "name": "ПЛАСТИК ГОРШОК H-11T30",
+    "wholesalePrice": 1609.88,
+    "extraPrice": 1690.37,
+    "retailPrice": 2012.35
+  },
+  {
+    "id": "УТ000052528",
+    "category": "ВАЗЫ И КЕРАМИКА",
+    "name": "ПЛАСТИК ГОРШОК H-11T35",
+    "wholesalePrice": 1889.61,
+    "extraPrice": 1984.09,
+    "retailPrice": 2362.01
+  },
+  {
+    "id": "УТ000052529",
+    "category": "ВАЗЫ И КЕРАМИКА",
+    "name": "ПЛАСТИК ГОРШОК H-11T40",
+    "wholesalePrice": 2520.03,
+    "extraPrice": 2646.03,
+    "retailPrice": 3150.04
+  },
+  {
+    "id": "УТ000052530",
+    "category": "ВАЗЫ И КЕРАМИКА",
+    "name": "ПЛАСТИК ГОРШОК H-11TH30",
+    "wholesalePrice": 2100.03,
+    "extraPrice": 2205.03,
+    "retailPrice": 2625.03
+  },
+  {
+    "id": "УТ000052531",
+    "category": "ВАЗЫ И КЕРАМИКА",
+    "name": "ПЛАСТИК ГОРШОК H-11TH40",
+    "wholesalePrice": 2799.76,
+    "extraPrice": 2939.74,
+    "retailPrice": 3499.69
+  },
+  {
+    "id": "УТ000052532",
+    "category": "ВАЗЫ И КЕРАМИКА",
+    "name": "ПЛАСТИК ГОРШОК H-11VH29",
+    "wholesalePrice": 2100.03,
+    "extraPrice": 2205.03,
+    "retailPrice": 2625.03
+  },
+  {
+    "id": "УТ000052533",
+    "category": "ВАЗЫ И КЕРАМИКА",
+    "name": "ПЛАСТИК ГОРШОК H-11VH39",
+    "wholesalePrice": 3709.91,
+    "extraPrice": 3895.4,
+    "retailPrice": 4637.38
+  },
+  {
+    "id": "УТ000052534",
+    "category": "ВАЗЫ И КЕРАМИКА",
+    "name": "ПЛАСТИК ГОРШОК R-16YB20",
+    "wholesalePrice": 825.82,
+    "extraPrice": 867.11,
+    "retailPrice": 1032.27
+  },
+  {
+    "id": "УТ000052535",
+    "category": "ВАЗЫ И КЕРАМИКА",
+    "name": "ПЛАСТИК ГОРШОК R-16YB25",
+    "wholesalePrice": 1148.13,
+    "extraPrice": 1205.53,
+    "retailPrice": 1435.16
+  },
+  {
     "id": "УТ000023733",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 1416",
@@ -31475,17 +31635,17 @@
     "id": "УТ000033957",
     "category": ",Сортовой",
     "name": "ГОЛДЕН 50 см СОРТОВОЙ РОЗА Кен/Куст. (GOLDEN)",
-    "wholesalePrice": 83.84,
-    "extraPrice": 88.03,
-    "retailPrice": 104.8
+    "wholesalePrice": 87.68,
+    "extraPrice": 92.06,
+    "retailPrice": 109.59
   },
   {
     "id": "УТ000033958",
     "category": ",Сортовой",
     "name": "ГОЛДЕН 60 см СОРТОВОЙ РОЗА Кен/Куст. (GOLDEN)",
-    "wholesalePrice": 102,
-    "extraPrice": 107.1,
-    "retailPrice": 127.49
+    "wholesalePrice": 106.88,
+    "extraPrice": 112.22,
+    "retailPrice": 133.6
   },
   {
     "id": "УТ000039375",
@@ -32043,17 +32203,17 @@
     "id": "УТ000041284",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "ДЖУЛЬЕТТА 50 см РОЗА Кен/Куст.  (GOLDEN)",
-    "wholesalePrice": 134.03,
-    "extraPrice": 140.73,
-    "retailPrice": 167.53
+    "wholesalePrice": 141.12,
+    "extraPrice": 148.17,
+    "retailPrice": 176.39
   },
   {
     "id": "УТ000041600",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "ДЖУЛЬЕТТА 60 см РОЗА Кен/Куст.  (GOLDEN)",
-    "wholesalePrice": 150.42,
-    "extraPrice": 157.94,
-    "retailPrice": 188.02
+    "wholesalePrice": 157.82,
+    "extraPrice": 165.71,
+    "retailPrice": 197.27
   },
   {
     "id": "УТ000041771",
@@ -32219,9 +32379,9 @@
     "id": "УТ000049922",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "СИЛВА ПИНК 50 см РОЗА Кен/Куст. (GOLDEN)",
-    "wholesalePrice": 145.16,
-    "extraPrice": 152.42,
-    "retailPrice": 181.46
+    "wholesalePrice": 152.81,
+    "extraPrice": 160.45,
+    "retailPrice": 191.01
   },
   {
     "id": "УТ000050127",
@@ -32275,17 +32435,17 @@
     "id": "УТ000050467",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "ГУД МУД 50 см РОЗА Кен/Куст. (GOLDEN)",
-    "wholesalePrice": 83.84,
-    "extraPrice": 88.03,
-    "retailPrice": 104.8
+    "wholesalePrice": 87.68,
+    "extraPrice": 92.06,
+    "retailPrice": 109.59
   },
   {
     "id": "УТ000050754",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "ЛЕДИ БОМБАСТИК  50 см РОЗА Кен/Куст. (MERIDIAN)",
-    "wholesalePrice": 102.4,
-    "extraPrice": 107.52,
-    "retailPrice": 128.01
+    "wholesalePrice": 102.71,
+    "extraPrice": 107.84,
+    "retailPrice": 128.38
   },
   {
     "id": "УТ000051042",
@@ -32451,9 +32611,9 @@
     "id": "УТ000051504",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "ХОТ ДЕРИС 60 см РОЗА Кен/Куст. (GOLDEN)",
-    "wholesalePrice": 102,
-    "extraPrice": 107.1,
-    "retailPrice": 127.49
+    "wholesalePrice": 106.88,
+    "extraPrice": 112.22,
+    "retailPrice": 133.6
   },
   {
     "id": "УТ000051560",
@@ -32563,17 +32723,17 @@
     "id": "УТ000051609",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "ОДИЛИЯ 60 см  РОЗА Кен/Куст. (MERIDIAN)",
-    "wholesalePrice": 99.87,
-    "extraPrice": 104.86,
-    "retailPrice": 124.83
+    "wholesalePrice": 100.2,
+    "extraPrice": 105.21,
+    "retailPrice": 125.25
   },
   {
     "id": "УТ000051610",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "СПЕШЛ ДАЙМЕНШИОН 50 см  РОЗА Кен/Куст. (MERIDIAN)",
-    "wholesalePrice": 102.4,
-    "extraPrice": 107.52,
-    "retailPrice": 128.01
+    "wholesalePrice": 102.71,
+    "extraPrice": 107.84,
+    "retailPrice": 128.38
   },
   {
     "id": "УТ000051615",
@@ -32683,9 +32843,9 @@
     "id": "УТ000005161",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "МИКС 50 см РОЗА Кен/Куст. (GOLDEN)",
-    "wholesalePrice": 83.84,
-    "extraPrice": 88.03,
-    "retailPrice": 104.8
+    "wholesalePrice": 87.68,
+    "extraPrice": 92.06,
+    "retailPrice": 109.59
   },
   {
     "id": "УТ000005163",
@@ -32707,9 +32867,9 @@
     "id": "УТ000005170",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "МИКС 60 см РОЗА Кен/Куст. (GOLDEN)",
-    "wholesalePrice": 102,
-    "extraPrice": 107.1,
-    "retailPrice": 127.49
+    "wholesalePrice": 106.88,
+    "extraPrice": 112.22,
+    "retailPrice": 133.6
   },
   {
     "id": "УТ000005172",
@@ -32731,9 +32891,9 @@
     "id": "УТ000005179",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "МИКС 70 см РОЗА Кен/Куст. (GOLDEN)",
-    "wholesalePrice": 121.84,
-    "extraPrice": 127.94,
-    "retailPrice": 152.3
+    "wholesalePrice": 127.76,
+    "extraPrice": 134.14,
+    "retailPrice": 159.69
   },
   {
     "id": "УТ000005181",
@@ -33115,9 +33275,9 @@
     "id": "УТ000005409",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "МИРАБЕЛЬ 50 см РОЗА Кен/Куст. (GOLDEN)",
-    "wholesalePrice": 83.84,
-    "extraPrice": 88.03,
-    "retailPrice": 104.8
+    "wholesalePrice": 87.68,
+    "extraPrice": 92.06,
+    "retailPrice": 109.59
   },
   {
     "id": "УТ000005411",
@@ -33139,9 +33299,9 @@
     "id": "УТ000005415",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "МИРАБЕЛЬ 60 см РОЗА Кен/Куст. (GOLDEN)",
-    "wholesalePrice": 102,
-    "extraPrice": 107.1,
-    "retailPrice": 127.49
+    "wholesalePrice": 106.88,
+    "extraPrice": 112.22,
+    "retailPrice": 133.6
   },
   {
     "id": "УТ000005417",
@@ -33163,9 +33323,9 @@
     "id": "УТ000005420",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "МИРАБЕЛЬ 70 см РОЗА Кен/Куст. (GOLDEN)",
-    "wholesalePrice": 121.84,
-    "extraPrice": 127.94,
-    "retailPrice": 152.3
+    "wholesalePrice": 127.76,
+    "extraPrice": 134.14,
+    "retailPrice": 159.69
   },
   {
     "id": "УТ000005432",
@@ -33291,9 +33451,9 @@
     "id": "УТ000005562",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "ПУШКИН 50 см РОЗА Кен/Куст. (GOLDEN)",
-    "wholesalePrice": 83.84,
-    "extraPrice": 88.03,
-    "retailPrice": 104.8
+    "wholesalePrice": 87.68,
+    "extraPrice": 92.06,
+    "retailPrice": 109.59
   },
   {
     "id": "УТ000005563",
@@ -33411,9 +33571,9 @@
     "id": "УТ000005641",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "СВИТ САРА 50 см РОЗА Кен/Куст. (GOLDEN)",
-    "wholesalePrice": 83.84,
-    "extraPrice": 88.03,
-    "retailPrice": 104.8
+    "wholesalePrice": 87.68,
+    "extraPrice": 92.06,
+    "retailPrice": 109.59
   },
   {
     "id": "УТ000005643",
@@ -33483,9 +33643,9 @@
     "id": "УТ000005720",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "ФАЕВОРКС 50 см РОЗА Кен/Куст. (GOLDEN)",
-    "wholesalePrice": 83.84,
-    "extraPrice": 88.03,
-    "retailPrice": 104.8
+    "wholesalePrice": 87.68,
+    "extraPrice": 92.06,
+    "retailPrice": 109.59
   },
   {
     "id": "УТ000005722",
@@ -33499,9 +33659,9 @@
     "id": "УТ000005729",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "ФАЕВОРКС 60 см РОЗА Кен/Куст. (GOLDEN)",
-    "wholesalePrice": 102,
-    "extraPrice": 107.1,
-    "retailPrice": 127.49
+    "wholesalePrice": 106.88,
+    "extraPrice": 112.22,
+    "retailPrice": 133.6
   },
   {
     "id": "УТ000005731",
@@ -33627,9 +33787,9 @@
     "id": "УТ000016690",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "БЕЛЛА ЛИНДА ЦЕРИС 70 см РОЗА Кен/Куст. (GOLDEN)",
-    "wholesalePrice": 153.79,
-    "extraPrice": 161.48,
-    "retailPrice": 192.24
+    "wholesalePrice": 161.16,
+    "extraPrice": 169.21,
+    "retailPrice": 201.44
   },
   {
     "id": "УТ000016867",
@@ -47587,17 +47747,17 @@
     "id": "УТ000039369",
     "category": ",Сортовой",
     "name": "БРАНАН СОРТОВОЙ 35 см РОЗА Кения (BRANAN)",
-    "wholesalePrice": 17.27,
-    "extraPrice": 18.13,
-    "retailPrice": 21.58
+    "wholesalePrice": 17.54,
+    "extraPrice": 18.41,
+    "retailPrice": 21.92
   },
   {
     "id": "УТ000039370",
     "category": ",Сортовой",
     "name": "БРАНАН СОРТОВОЙ 40 см РОЗА Кения (BRANAN)",
-    "wholesalePrice": 20.74,
-    "extraPrice": 21.78,
-    "retailPrice": 25.93
+    "wholesalePrice": 20.88,
+    "extraPrice": 21.92,
+    "retailPrice": 26.09
   },
   {
     "id": "УТ000039372",
@@ -47667,17 +47827,17 @@
     "id": "УТ000046053",
     "category": ",Сортовой",
     "name": "МЕРИДИАН СОРТОВОЙ 50 см РОЗА Кения (MERIDIAN)",
-    "wholesalePrice": 38,
-    "extraPrice": 39.9,
-    "retailPrice": 47.5
+    "wholesalePrice": 38.41,
+    "extraPrice": 40.33,
+    "retailPrice": 48.01
   },
   {
     "id": "УТ000046057",
     "category": ",Сортовой",
     "name": "МЕРИДИАН СОРТОВОЙ 40 см РОЗА Кения (MERIDIAN)",
-    "wholesalePrice": 32.84,
-    "extraPrice": 34.48,
-    "retailPrice": 41.05
+    "wholesalePrice": 32.57,
+    "extraPrice": 34.19,
+    "retailPrice": 40.71
   },
   {
     "id": "УТ000046406",
@@ -47699,17 +47859,17 @@
     "id": "УТ000046477",
     "category": ",Сортовой",
     "name": "КРЭДИБЛ 40 см СОРТОВОЙ РОЗА Кения (CREDIBLE)",
-    "wholesalePrice": 28.39,
-    "extraPrice": 29.81,
-    "retailPrice": 35.49
+    "wholesalePrice": 30.06,
+    "extraPrice": 31.56,
+    "retailPrice": 37.58
   },
   {
     "id": "УТ000046478",
     "category": ",Сортовой",
     "name": "КРЭДИБЛ 50 см СОРТОВОЙ РОЗА Кения (CREDIBLE)",
-    "wholesalePrice": 39.25,
-    "extraPrice": 41.21,
-    "retailPrice": 49.06
+    "wholesalePrice": 40.92,
+    "extraPrice": 42.96,
+    "retailPrice": 51.14
   },
   {
     "id": "УТ000046635",
@@ -48323,41 +48483,41 @@
     "id": "УТ000045471",
     "category": "..РОЗА КЕНИЯ",
     "name": "МИКС 40 см РОЗА Кения (MERIDIAN)",
-    "wholesalePrice": 32.84,
-    "extraPrice": 34.48,
-    "retailPrice": 41.05
+    "wholesalePrice": 32.57,
+    "extraPrice": 34.19,
+    "retailPrice": 40.71
   },
   {
     "id": "УТ000045783",
     "category": "..РОЗА КЕНИЯ",
     "name": "МИКС 50 см РОЗА Кения (MERIDIAN)",
-    "wholesalePrice": 38,
-    "extraPrice": 39.9,
-    "retailPrice": 47.5
+    "wholesalePrice": 38.41,
+    "extraPrice": 40.33,
+    "retailPrice": 48.01
   },
   {
     "id": "УТ000045904",
     "category": "..РОЗА КЕНИЯ",
     "name": "МАДАМ РЕД 50 см РОЗА Кения (MERIDIAN)",
-    "wholesalePrice": 40.58,
-    "extraPrice": 42.61,
-    "retailPrice": 50.73
+    "wholesalePrice": 41.75,
+    "extraPrice": 43.84,
+    "retailPrice": 52.19
   },
   {
     "id": "УТ000045905",
     "category": "..РОЗА КЕНИЯ",
     "name": "ДЖУМИЛИЯ 50 см РОЗА Кения (MERIDIAN)",
-    "wholesalePrice": 51,
-    "extraPrice": 53.55,
-    "retailPrice": 63.75
+    "wholesalePrice": 50.94,
+    "extraPrice": 53.48,
+    "retailPrice": 63.67
   },
   {
     "id": "УТ000045941",
     "category": "..РОЗА КЕНИЯ",
     "name": "МАДАМ РЕД 40 см РОЗА Кения (MERIDIAN)",
-    "wholesalePrice": 33.73,
-    "extraPrice": 35.41,
-    "retailPrice": 42.16
+    "wholesalePrice": 33.4,
+    "extraPrice": 35.07,
+    "retailPrice": 41.75
   },
   {
     "id": "УТ000046441",
@@ -48419,41 +48579,41 @@
     "id": "УТ000051073",
     "category": "..РОЗА КЕНИЯ",
     "name": "КРАШЕНЫЙ  50 см РОЗА Кения (CREDIBLE)",
-    "wholesalePrice": 48.43,
-    "extraPrice": 50.85,
-    "retailPrice": 60.54
+    "wholesalePrice": 50.1,
+    "extraPrice": 52.61,
+    "retailPrice": 62.63
   },
   {
     "id": "УТ000051133",
     "category": "..РОЗА КЕНИЯ",
     "name": "ТАКАЗЗИ 40 см РОЗА Кения (KREDIBLE)",
-    "wholesalePrice": 33.4,
-    "extraPrice": 35.07,
-    "retailPrice": 41.75
+    "wholesalePrice": 35.07,
+    "extraPrice": 36.82,
+    "retailPrice": 43.84
   },
   {
     "id": "УТ000051134",
     "category": "..РОЗА КЕНИЯ",
     "name": "ТАКАЗЗИ 50 см РОЗА Кения (KREDIBLE)",
-    "wholesalePrice": 44.26,
-    "extraPrice": 46.47,
-    "retailPrice": 55.32
+    "wholesalePrice": 45.93,
+    "extraPrice": 48.22,
+    "retailPrice": 57.41
   },
   {
     "id": "УТ000051135",
     "category": "..РОЗА КЕНИЯ",
     "name": "СВИТ РЕВАЙВЛ  50 см РОЗА Кения (KREDIBLE)",
-    "wholesalePrice": 44.26,
-    "extraPrice": 46.47,
-    "retailPrice": 55.32
+    "wholesalePrice": 45.93,
+    "extraPrice": 48.22,
+    "retailPrice": 57.41
   },
   {
     "id": "УТ000051136",
     "category": "..РОЗА КЕНИЯ",
-    "name": "КОНФИДЕНТАЛ 50 см РОЗА Кения (KREDIBLE)",
-    "wholesalePrice": 44.26,
-    "extraPrice": 46.47,
-    "retailPrice": 55.32
+    "name": "КОНФИДЕНТАЛ 50 см РОЗА Кения (CREDIBLE)",
+    "wholesalePrice": 45.93,
+    "extraPrice": 48.22,
+    "retailPrice": 57.41
   },
   {
     "id": "УТ000051180",
@@ -48491,17 +48651,17 @@
     "id": "УТ000051216",
     "category": "..РОЗА КЕНИЯ",
     "name": "ДАУН ТАУН  50 см РОЗА Кения (KREDIBLE)",
-    "wholesalePrice": 44.26,
-    "extraPrice": 46.47,
-    "retailPrice": 55.32
+    "wholesalePrice": 45.93,
+    "extraPrice": 48.22,
+    "retailPrice": 57.41
   },
   {
     "id": "УТ000051217",
     "category": "..РОЗА КЕНИЯ",
     "name": "РЕВАЙВЛ  50 см РОЗА Кения (KREDIBLE)",
-    "wholesalePrice": 44.26,
-    "extraPrice": 46.47,
-    "retailPrice": 55.32
+    "wholesalePrice": 45.93,
+    "extraPrice": 48.22,
+    "retailPrice": 57.41
   },
   {
     "id": "УТ000051219",
@@ -48563,9 +48723,9 @@
     "id": "УТ000051302",
     "category": "..РОЗА КЕНИЯ",
     "name": "РЕВАЙВЛ 50 см РОЗА Кения (KREDIBLE)",
-    "wholesalePrice": 44.26,
-    "extraPrice": 46.47,
-    "retailPrice": 55.32
+    "wholesalePrice": 45.93,
+    "extraPrice": 48.22,
+    "retailPrice": 57.41
   },
   {
     "id": "УТ000051305",
@@ -48635,9 +48795,9 @@
     "id": "УТ000051602",
     "category": "..РОЗА КЕНИЯ",
     "name": "ДАУН ТАУН  40 см РОЗА Кения (KREDIBLE)",
-    "wholesalePrice": 35.91,
-    "extraPrice": 37.7,
-    "retailPrice": 44.88
+    "wholesalePrice": 37.58,
+    "extraPrice": 39.45,
+    "retailPrice": 46.97
   },
   {
     "id": "УТ000051603",
@@ -48747,9 +48907,9 @@
     "id": "УТ000025423",
     "category": "..РОЗА КЕНИЯ",
     "name": "МИКС 50 см РОЗА Кения (CREDIBLE)",
-    "wholesalePrice": 39.25,
-    "extraPrice": 41.21,
-    "retailPrice": 49.06
+    "wholesalePrice": 40.92,
+    "extraPrice": 42.96,
+    "retailPrice": 51.14
   },
   {
     "id": "УТ000025445",
@@ -48795,33 +48955,33 @@
     "id": "УТ000008498",
     "category": "..РОЗА КЕНИЯ",
     "name": "ПЖДЭЙВ 35 см РОЗА Кения (PJDAVE)",
-    "wholesalePrice": 26.72,
-    "extraPrice": 28.06,
-    "retailPrice": 33.4
+    "wholesalePrice": 28.39,
+    "extraPrice": 29.81,
+    "retailPrice": 35.49
   },
   {
     "id": "УТ000008499",
     "category": "..РОЗА КЕНИЯ",
     "name": "ПЖДЭЙВ 40 см РОЗА Кения (PJDAVE)",
-    "wholesalePrice": 31.73,
-    "extraPrice": 33.32,
-    "retailPrice": 39.66
+    "wholesalePrice": 30.9,
+    "extraPrice": 32.44,
+    "retailPrice": 38.62
   },
   {
     "id": "УТ000008509",
     "category": "..РОЗА КЕНИЯ",
     "name": "БРАНАН 35 см РОЗА Кения (BRANAN)",
-    "wholesalePrice": 17.27,
-    "extraPrice": 18.13,
-    "retailPrice": 21.58
+    "wholesalePrice": 17.54,
+    "extraPrice": 18.41,
+    "retailPrice": 21.92
   },
   {
     "id": "УТ000008510",
     "category": "..РОЗА КЕНИЯ",
     "name": "БРАНАН 40 см РОЗА Кения (BRANAN)",
-    "wholesalePrice": 20.74,
-    "extraPrice": 21.78,
-    "retailPrice": 25.93
+    "wholesalePrice": 20.88,
+    "extraPrice": 21.92,
+    "retailPrice": 26.09
   },
   {
     "id": "УТ000008513",
@@ -48851,9 +49011,9 @@
     "id": "УТ000008525",
     "category": "..РОЗА КЕНИЯ",
     "name": "КРЭДИБЛ 50 см РОЗА Кения (CREDIBLE)",
-    "wholesalePrice": 44.26,
-    "extraPrice": 46.47,
-    "retailPrice": 55.32
+    "wholesalePrice": 45.93,
+    "extraPrice": 48.22,
+    "retailPrice": 57.41
   },
   {
     "id": "УТ000008535",
@@ -49115,25 +49275,25 @@
     "id": "УТ000008867",
     "category": "..РОЗА КЕНИЯ",
     "name": "ДЖУМИЛИЯ 40 см РОЗА Кения (CREDIBLE)",
-    "wholesalePrice": 35.91,
-    "extraPrice": 37.7,
-    "retailPrice": 44.88
+    "wholesalePrice": 37.58,
+    "extraPrice": 39.45,
+    "retailPrice": 46.97
   },
   {
     "id": "УТ000008868",
     "category": "..РОЗА КЕНИЯ",
     "name": "ДЖУМИЛИЯ 50 см РОЗА Кения (CREDIBLE)",
-    "wholesalePrice": 47.6,
-    "extraPrice": 49.97,
-    "retailPrice": 59.49
+    "wholesalePrice": 49.27,
+    "extraPrice": 51.73,
+    "retailPrice": 61.58
   },
   {
     "id": "УТ000008869",
     "category": "..РОЗА КЕНИЯ",
     "name": "ДЖУМИЛИЯ 60 см РОЗА Кения (CREDIBLE)",
-    "wholesalePrice": 56.78,
-    "extraPrice": 59.62,
-    "retailPrice": 70.98
+    "wholesalePrice": 58.45,
+    "extraPrice": 61.37,
+    "retailPrice": 73.06
   },
   {
     "id": "УТ000008880",
@@ -49587,9 +49747,9 @@
     "id": "УТ000017810",
     "category": "..РОЗА КЕНИЯ",
     "name": "МИКС 40 см РОЗА Кения (CREDIBLE)",
-    "wholesalePrice": 28.39,
-    "extraPrice": 29.81,
-    "retailPrice": 35.49
+    "wholesalePrice": 30.06,
+    "extraPrice": 31.56,
+    "retailPrice": 37.58
   },
   {
     "id": "УТ000018111",
