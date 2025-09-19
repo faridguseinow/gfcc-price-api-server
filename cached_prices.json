@@ -5208,6 +5208,14 @@
     "retailPrice": 237.59
   },
   {
+    "id": "УТ000051938",
+    "category": "СИЛИКОНОВЫЕ ЦВЕТЫ",
+    "name": "GBHY 249",
+    "wholesalePrice": 221.06,
+    "extraPrice": 232.11,
+    "retailPrice": 276.33
+  },
+  {
     "id": "УТ000051939",
     "category": "СИЛИКОНОВЫЕ ЦВЕТЫ",
     "name": "GBHY 250",
@@ -8974,14 +8982,6 @@
     "wholesalePrice": 363.92,
     "extraPrice": 382.11,
     "retailPrice": 454.9
-  },
-  {
-    "id": "УТ000051185",
-    "category": " ..ЦВЕТЫ КИТАЙ",
-    "name": "ГЛАДИОЛУС КИТАЙ ПАЧКА",
-    "wholesalePrice": 845.86,
-    "extraPrice": 888.15,
-    "retailPrice": 1057.32
   },
   {
     "id": "УТ000051295",
@@ -18728,14 +18728,6 @@
     "retailPrice": 181.92
   },
   {
-    "id": "УТ000046652",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ФЕЛИСИТИ- 60см (СТАР,КОРОЗОН,МАТИЗ,ЭКО РОЗ,БЕЛЛА РОЗА,ЧАРМИНГ,СОФИ,ДАВИНЧИ.РОЯЛ)",
-    "wholesalePrice": 130.85,
-    "extraPrice": 137.4,
-    "retailPrice": 163.57
-  },
-  {
     "id": "УТ000046706",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ФЕЛИСИТИ -   60см",
@@ -19798,6 +19790,14 @@
     "wholesalePrice": 157.33,
     "extraPrice": 165.2,
     "retailPrice": 196.66
+  },
+  {
+    "id": "УТ000017398",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "ЭСПЕРАНСА (ТЕССА)-60 см ",
+    "wholesalePrice": 114.13,
+    "extraPrice": 119.83,
+    "retailPrice": 142.66
   },
   {
     "id": "УТ000017399",
@@ -22008,14 +22008,6 @@
     "retailPrice": 266.16
   },
   {
-    "id": "УТ000013668",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "СУККУЛЕНТЫ  МИКС 12 СМ",
-    "wholesalePrice": 421.68,
-    "extraPrice": 442.76,
-    "retailPrice": 527.09
-  },
-  {
     "id": "УТ000013677",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
     "name": "СОЛАНУМ 12 СМ",
@@ -23208,22 +23200,6 @@
     "retailPrice": 441.51
   },
   {
-    "id": "УТ000034816",
-    "category": ".УПАКОВКА",
-    "name": "ПАКЕТ № 12128 ПАЧКА 10 ШТ",
-    "wholesalePrice": 353.21,
-    "extraPrice": 370.87,
-    "retailPrice": 441.51
-  },
-  {
-    "id": "УТ000034817",
-    "category": ".УПАКОВКА",
-    "name": "ПАКЕТ № 12130 ПАЧКА 10 ШТ",
-    "wholesalePrice": 353.21,
-    "extraPrice": 370.87,
-    "retailPrice": 441.51
-  },
-  {
     "id": "УТ000034823",
     "category": ".УПАКОВКА",
     "name": "ПАКЕТ № 12102 ПАЧКА 10 ШТ",
@@ -23310,14 +23286,6 @@
     "wholesalePrice": 526.89,
     "extraPrice": 553.23,
     "retailPrice": 658.61
-  },
-  {
-    "id": "УТ000035419",
-    "category": ".УПАКОВКА",
-    "name": "КОРОБКА № Y062",
-    "wholesalePrice": 1305.94,
-    "extraPrice": 1371.24,
-    "retailPrice": 1632.43
   },
   {
     "id": "УТ000035420",
@@ -23616,14 +23584,6 @@
     "retailPrice": 709.75
   },
   {
-    "id": "УТ000038847",
-    "category": ".УПАКОВКА",
-    "name": "ПАКЕТ № 2206 ПАЧКА 10 ШТ",
-    "wholesalePrice": 353.21,
-    "extraPrice": 370.87,
-    "retailPrice": 441.51
-  },
-  {
     "id": "УТ000038850",
     "category": ".УПАКОВКА",
     "name": "КОРОБКА № 2213 НАБОР",
@@ -23646,14 +23606,6 @@
     "wholesalePrice": 742.32,
     "extraPrice": 779.43,
     "retailPrice": 927.89
-  },
-  {
-    "id": "УТ000038886",
-    "category": ".УПАКОВКА",
-    "name": "ЯЩИК № 128",
-    "wholesalePrice": 207.92,
-    "extraPrice": 218.31,
-    "retailPrice": 259.89
   },
   {
     "id": "УТ000038887",
@@ -23867,46 +23819,6 @@
     "id": "УТ000040674",
     "category": ".УПАКОВКА",
     "name": "ПАКЕТ № 2203 ПАЧКА 10 ШТ",
-    "wholesalePrice": 372.41,
-    "extraPrice": 391.03,
-    "retailPrice": 465.51
-  },
-  {
-    "id": "УТ000040675",
-    "category": ".УПАКОВКА",
-    "name": "ПАКЕТ № 2204 ПАЧКА 10 ШТ",
-    "wholesalePrice": 353.21,
-    "extraPrice": 370.87,
-    "retailPrice": 441.51
-  },
-  {
-    "id": "УТ000040680",
-    "category": ".УПАКОВКА",
-    "name": "ПАКЕТ № 12149 ПАЧКА 10 ШТ",
-    "wholesalePrice": 353.21,
-    "extraPrice": 370.87,
-    "retailPrice": 441.51
-  },
-  {
-    "id": "УТ000040681",
-    "category": ".УПАКОВКА",
-    "name": "ПАКЕТ № 12150 ПАЧКА 10 ШТ",
-    "wholesalePrice": 353.21,
-    "extraPrice": 370.87,
-    "retailPrice": 441.51
-  },
-  {
-    "id": "УТ000040682",
-    "category": ".УПАКОВКА",
-    "name": "ПАКЕТ № 12151 ПАЧКА 10 ШТ",
-    "wholesalePrice": 372.41,
-    "extraPrice": 391.03,
-    "retailPrice": 465.51
-  },
-  {
-    "id": "УТ000040684",
-    "category": ".УПАКОВКА",
-    "name": "ПАКЕТ № 12153 ПАЧКА 10 ШТ",
     "wholesalePrice": 372.41,
     "extraPrice": 391.03,
     "retailPrice": 465.51
@@ -24216,14 +24128,6 @@
     "retailPrice": 703.49
   },
   {
-    "id": "УТ000044362",
-    "category": ".УПАКОВКА",
-    "name": "ДЖУТОВЫЙ ШПАГАТ 500 ГР",
-    "wholesalePrice": 334,
-    "extraPrice": 350.7,
-    "retailPrice": 417.5
-  },
-  {
     "id": "УТ000044298",
     "category": ".УПАКОВКА",
     "name": "БУМАГА СОТЫ",
@@ -24256,25 +24160,9 @@
     "retailPrice": 266.16
   },
   {
-    "id": "УТ000045204",
-    "category": ".УПАКОВКА",
-    "name": "ПАКЕТ № 24051 ПАЧКА 10 ШТ ",
-    "wholesalePrice": 353.21,
-    "extraPrice": 370.87,
-    "retailPrice": 441.51
-  },
-  {
     "id": "УТ000045205",
     "category": ".УПАКОВКА",
     "name": "ПАКЕТ № 24075 ПАЧКА 10 ШТ ",
-    "wholesalePrice": 372.41,
-    "extraPrice": 391.03,
-    "retailPrice": 465.51
-  },
-  {
-    "id": "УТ000045206",
-    "category": ".УПАКОВКА",
-    "name": "ПАКЕТ № 24076 ПАЧКА 10 ШТ ",
     "wholesalePrice": 372.41,
     "extraPrice": 391.03,
     "retailPrice": 465.51
@@ -25184,14 +25072,6 @@
     "retailPrice": 99.16
   },
   {
-    "id": "УТ000009499",
-    "category": ".УПАКОВКА",
-    "name": "ОАЗИС АВТО КОРСО МИНИ",
-    "wholesalePrice": 333.17,
-    "extraPrice": 349.82,
-    "retailPrice": 416.46
-  },
-  {
     "id": "УТ000009504",
     "category": ".УПАКОВКА",
     "name": "ОАЗИС АНКОР СКОТЧ  6 ММ",
@@ -25528,14 +25408,6 @@
     "retailPrice": 313.13
   },
   {
-    "id": "УТ000009594",
-    "category": ".УПАКОВКА",
-    "name": "ОАЗИС ШПАГАТ",
-    "wholesalePrice": 392.45,
-    "extraPrice": 412.07,
-    "retailPrice": 490.56
-  },
-  {
     "id": "УТ000009610",
     "category": ".УПАКОВКА",
     "name": "ОРГАНЗА 70 СМ*10 М",
@@ -25798,14 +25670,6 @@
     "wholesalePrice": 83.5,
     "extraPrice": 87.68,
     "retailPrice": 104.38
-  },
-  {
-    "id": "УТ000019113",
-    "category": ".УПАКОВКА",
-    "name": "КОРОБКА № 158",
-    "wholesalePrice": 125.25,
-    "extraPrice": 131.51,
-    "retailPrice": 156.56
   },
   {
     "id": "УТ000019115",
@@ -32974,6 +32838,14 @@
     "wholesalePrice": 94.36,
     "extraPrice": 99.07,
     "retailPrice": 117.94
+  },
+  {
+    "id": "УТ000005271",
+    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
+    "name": "ГОЛДЛУК 50 см РОЗА Кен/Куст. (RLR)",
+    "wholesalePrice": 131.93,
+    "extraPrice": 138.53,
+    "retailPrice": 164.91
   },
   {
     "id": "УТ000005272",
@@ -50094,6 +49966,14 @@
     "wholesalePrice": 86.01,
     "extraPrice": 90.31,
     "retailPrice": 107.51
+  },
+  {
+    "id": "УТ000038610",
+    "category": "..,РАЗНОЕ",
+    "name": "АНТИР ГОЛЛАНДИЯ ЛАВАНДОВЫЙ",
+    "wholesalePrice": 73.48,
+    "extraPrice": 77.15,
+    "retailPrice": 91.85
   },
   {
     "id": "УТ000038611",
