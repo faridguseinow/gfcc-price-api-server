@@ -9144,14 +9144,6 @@
     "retailPrice": 856.92
   },
   {
-    "id": "УТ000048968",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ КИТАЙ",
-    "name": "САНСЕВИЕРИЯ 11 СМ КИТАЙ",
-    "wholesalePrice": 450.07,
-    "extraPrice": 472.57,
-    "retailPrice": 562.58
-  },
-  {
     "id": "УТ000048969",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ КИТАЙ",
     "name": "ДРАЦЕНА КОЛОРАМА 11 СМ КИТАЙ",
@@ -14118,14 +14110,6 @@
     "wholesalePrice": 118,
     "extraPrice": 123.9,
     "retailPrice": 147.5
-  },
-  {
-    "id": "УТ000029514",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "БРАЙТОН- 60см (СТАР,КОРОЗОН,МАТИЗ,ЭКО РОЗ,БЕЛЛА РОЗА,ЧАРМИНГ,СОФИ,ДАВИНЧИ.РОЯЛ)",
-    "wholesalePrice": 97.38,
-    "extraPrice": 102.25,
-    "retailPrice": 121.72
   },
   {
     "id": "УТ000029515",
@@ -31619,25 +31603,25 @@
     "id": "УТ000026640",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "МЭНСФИЛД ПАРК 60 см РОЗА Кен/Куст. (FLORA OLA)",
-    "wholesalePrice": 121.08,
-    "extraPrice": 127.13,
-    "retailPrice": 151.34
+    "wholesalePrice": 125.25,
+    "extraPrice": 131.51,
+    "retailPrice": 156.56
   },
   {
     "id": "УТ000026641",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "МЭНСФИЛД ПАРК 70 см РОЗА Кен/Куст. (FLORA OLA)",
-    "wholesalePrice": 132.77,
-    "extraPrice": 139.4,
-    "retailPrice": 165.96
+    "wholesalePrice": 136.94,
+    "extraPrice": 143.79,
+    "retailPrice": 171.18
   },
   {
     "id": "УТ000026642",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "МЭНСФИЛД ПАРК 50 см РОЗА Кен/Куст. (FLORA OLA)",
-    "wholesalePrice": 107.72,
-    "extraPrice": 113.1,
-    "retailPrice": 134.64
+    "wholesalePrice": 111.89,
+    "extraPrice": 117.48,
+    "retailPrice": 139.86
   },
   {
     "id": "УТ000026677",
@@ -32139,9 +32123,9 @@
     "id": "УТ000044039",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "ДЖУЛЬЕТТА 60 см РОЗА Кен/Куст.  (FLORA OLA)",
-    "wholesalePrice": 136.94,
-    "extraPrice": 143.79,
-    "retailPrice": 171.18
+    "wholesalePrice": 141.12,
+    "extraPrice": 148.17,
+    "retailPrice": 176.39
   },
   {
     "id": "УТ000044449",
@@ -32355,9 +32339,9 @@
     "id": "УТ000051218",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "ГИСЕЛЕ 70 см РОЗА Кен/Куст. (FLORA OLA)",
-    "wholesalePrice": 121.08,
-    "extraPrice": 127.13,
-    "retailPrice": 151.34
+    "wholesalePrice": 125.25,
+    "extraPrice": 131.51,
+    "retailPrice": 156.56
   },
   {
     "id": "УТ000051225",
@@ -43008,14 +42992,6 @@
     "retailPrice": 130.47
   },
   {
-    "id": "УТ000047138",
-    "category": "..,ЛИЛИЯ",
-    "name": "ЛИЛИЯ ЛА БРИНДИСИ",
-    "wholesalePrice": 104.38,
-    "extraPrice": 109.59,
-    "retailPrice": 130.47
-  },
-  {
     "id": "УТ000047139",
     "category": "..,ЛИЛИЯ",
     "name": "ЛИЛИЯ ЛА КОРТОНА",
@@ -47595,17 +47571,17 @@
     "id": "УТ000039366",
     "category": ",Сортовой",
     "name": "ПЕНТА СОРТОВОЙ 35 см РОЗА Кения (PENTA)",
-    "wholesalePrice": 20.74,
-    "extraPrice": 21.78,
-    "retailPrice": 25.93
+    "wholesalePrice": 20.88,
+    "extraPrice": 21.92,
+    "retailPrice": 26.09
   },
   {
     "id": "УТ000039367",
     "category": ",Сортовой",
     "name": "ПЕНТА СОРТОВОЙ 40 см РОЗА Кения (PENTA)",
-    "wholesalePrice": 26.8,
-    "extraPrice": 28.13,
-    "retailPrice": 33.49
+    "wholesalePrice": 26.72,
+    "extraPrice": 28.06,
+    "retailPrice": 33.4
   },
   {
     "id": "УТ000039369",
@@ -47651,9 +47627,9 @@
     "id": "УТ000039476",
     "category": ",Сортовой",
     "name": "СИЕРРА СОРТОВОЙ 50 см (SIERRA)",
-    "wholesalePrice": 44.95,
-    "extraPrice": 47.2,
-    "retailPrice": 56.19
+    "wholesalePrice": 45.09,
+    "extraPrice": 47.34,
+    "retailPrice": 56.36
   },
   {
     "id": "УТ000042960",
@@ -48803,17 +48779,17 @@
     "id": "УТ000008495",
     "category": "..РОЗА КЕНИЯ",
     "name": "ПЕНТА 35 см РОЗА Кения (PENTA)",
-    "wholesalePrice": 20.74,
-    "extraPrice": 21.78,
-    "retailPrice": 25.93
+    "wholesalePrice": 20.88,
+    "extraPrice": 21.92,
+    "retailPrice": 26.09
   },
   {
     "id": "УТ000008496",
     "category": "..РОЗА КЕНИЯ",
     "name": "ПЕНТА 40 см РОЗА Кения (PENTA)",
-    "wholesalePrice": 26.8,
-    "extraPrice": 28.13,
-    "retailPrice": 33.49
+    "wholesalePrice": 26.72,
+    "extraPrice": 28.06,
+    "retailPrice": 33.4
   },
   {
     "id": "УТ000008498",
@@ -48995,17 +48971,17 @@
     "id": "УТ000008571",
     "category": "..РОЗА КЕНИЯ",
     "name": "СИЕРРА МИКС 40 см РОЗА Кения (SIERRA)",
-    "wholesalePrice": 34.62,
-    "extraPrice": 36.35,
-    "retailPrice": 43.27
+    "wholesalePrice": 34.24,
+    "extraPrice": 35.95,
+    "retailPrice": 42.79
   },
   {
     "id": "УТ000008572",
     "category": "..РОЗА КЕНИЯ",
     "name": "СИЕРРА МИКС 50 см РОЗА Кения (SIERRA)",
-    "wholesalePrice": 44.95,
-    "extraPrice": 47.2,
-    "retailPrice": 56.19
+    "wholesalePrice": 45.09,
+    "extraPrice": 47.34,
+    "retailPrice": 56.36
   },
   {
     "id": "УТ000008624",
