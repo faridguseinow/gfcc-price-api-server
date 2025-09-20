@@ -21288,14 +21288,6 @@
     "retailPrice": 6201.96
   },
   {
-    "id": "УТ000002815",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "АСПАРАГУС  7 СМ",
-    "wholesalePrice": 182.03,
-    "extraPrice": 191.13,
-    "retailPrice": 227.54
-  },
-  {
     "id": "УТ000002822",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
     "name": "АСПЛЕНИУМ 12 СМ",
@@ -21894,14 +21886,6 @@
     "wholesalePrice": 469.27,
     "extraPrice": 492.73,
     "retailPrice": 586.59
-  },
-  {
-    "id": "УТ000013538",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "САНСЕВИЕРИЯ 14 СМ",
-    "wholesalePrice": 954.41,
-    "extraPrice": 1002.13,
-    "retailPrice": 1193.01
   },
   {
     "id": "УТ000013539",
@@ -23608,6 +23592,14 @@
     "retailPrice": 325.65
   },
   {
+    "id": "УТ000038936",
+    "category": ".УПАКОВКА",
+    "name": "СУМКА №10 ПАЧКА 10 ШТ",
+    "wholesalePrice": 217.1,
+    "extraPrice": 227.96,
+    "retailPrice": 271.38
+  },
+  {
     "id": "УТ000038937",
     "category": ".УПАКОВКА",
     "name": "СУМКА №11 ПАЧКА 10 ШТ",
@@ -23750,6 +23742,14 @@
     "wholesalePrice": 372.41,
     "extraPrice": 391.03,
     "retailPrice": 465.51
+  },
+  {
+    "id": "УТ000040681",
+    "category": ".УПАКОВКА",
+    "name": "ПАКЕТ № 12150 ПАЧКА 10 ШТ",
+    "wholesalePrice": 353.21,
+    "extraPrice": 370.87,
+    "retailPrice": 441.51
   },
   {
     "id": "УТ000040983",
@@ -33502,6 +33502,14 @@
     "wholesalePrice": 87.68,
     "extraPrice": 92.06,
     "retailPrice": 109.59
+  },
+  {
+    "id": "УТ000005643",
+    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
+    "name": "СВИТ САРА 50 см РОЗА Кен/Куст. (RLR)",
+    "wholesalePrice": 136.11,
+    "extraPrice": 142.91,
+    "retailPrice": 170.13
   },
   {
     "id": "УТ000005651",
@@ -51366,14 +51374,6 @@
     "wholesalePrice": 79.33,
     "extraPrice": 83.29,
     "retailPrice": 99.16
-  },
-  {
-    "id": "УТ000010572",
-    "category": "..,РАЗНОЕ",
-    "name": "СЕНЕКИО",
-    "wholesalePrice": 80.16,
-    "extraPrice": 84.17,
-    "retailPrice": 100.2
   },
   {
     "id": "УТ000010573",
