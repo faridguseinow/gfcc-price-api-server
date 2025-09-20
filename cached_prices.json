@@ -29832,14 +29832,6 @@
     "retailPrice": 4637.38
   },
   {
-    "id": "УТ000052534",
-    "category": "ВАЗЫ И КЕРАМИКА",
-    "name": "ПЛАСТИК ГОРШОК R-16YB20",
-    "wholesalePrice": 825.82,
-    "extraPrice": 867.11,
-    "retailPrice": 1032.27
-  },
-  {
     "id": "УТ000052535",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ПЛАСТИК ГОРШОК R-16YB25",
@@ -43216,14 +43208,6 @@
     "retailPrice": 130.47
   },
   {
-    "id": "УТ000048247",
-    "category": "..,ЛИЛИЯ",
-    "name": "ЛИЛИЯ ОР ДУ САМАНТА",
-    "wholesalePrice": 305.61,
-    "extraPrice": 320.89,
-    "retailPrice": 382.01
-  },
-  {
     "id": "УТ000048836",
     "category": "..,ЛИЛИЯ",
     "name": "ЛИЛИЯ ОТ СТРОНГ ЛАВ",
@@ -53227,6 +53211,14 @@
     "id": "УТ000014886",
     "category": "..ХРИЗАНТЕМА",
     "name": "ПРОСЕККО",
+    "wholesalePrice": 83.54,
+    "extraPrice": 87.72,
+    "retailPrice": 104.43
+  },
+  {
+    "id": "УТ000014888",
+    "category": "..ХРИЗАНТЕМА",
+    "name": "РАДОСТЬ",
     "wholesalePrice": 83.54,
     "extraPrice": 87.72,
     "retailPrice": 104.43
