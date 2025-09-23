@@ -16232,6 +16232,14 @@
     "retailPrice": 177.68
   },
   {
+    "id": "УТ000037144",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "РЕД ПАНТЕРА (ТЕССА) 80см",
+    "wholesalePrice": 158.34,
+    "extraPrice": 166.26,
+    "retailPrice": 197.93
+  },
+  {
     "id": "УТ000037248",
     "category": "..РОЗА ЭКВАДОР",
     "name": "БАРИСТА -  60см",
@@ -19294,14 +19302,6 @@
     "wholesalePrice": 179.41,
     "extraPrice": 188.38,
     "retailPrice": 224.26
-  },
-  {
-    "id": "УТ000024978",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "КАНТРИ БЛЮЗ (ТЕССА)- 50см",
-    "wholesalePrice": 134.6,
-    "extraPrice": 141.33,
-    "retailPrice": 168.25
   },
   {
     "id": "УТ000025248",
@@ -24859,41 +24859,41 @@
     "id": "УТ000051145",
     "category": ".УПАКОВКА",
     "name": "ЯЩИК № 501",
-    "wholesalePrice": 262.29,
-    "extraPrice": 275.41,
-    "retailPrice": 327.87
+    "wholesalePrice": 252.24,
+    "extraPrice": 264.85,
+    "retailPrice": 315.3
   },
   {
     "id": "УТ000051146",
     "category": ".УПАКОВКА",
     "name": "ЯЩИК № 502",
-    "wholesalePrice": 196.09,
-    "extraPrice": 205.9,
-    "retailPrice": 245.12
+    "wholesalePrice": 189.39,
+    "extraPrice": 198.86,
+    "retailPrice": 236.74
   },
   {
     "id": "УТ000051147",
     "category": ".УПАКОВКА",
     "name": "ЯЩИК № 503",
-    "wholesalePrice": 232.96,
-    "extraPrice": 244.61,
-    "retailPrice": 291.21
+    "wholesalePrice": 223.75,
+    "extraPrice": 234.93,
+    "retailPrice": 279.68
   },
   {
     "id": "УТ000051149",
     "category": ".УПАКОВКА",
     "name": "ЯЩИК № 504",
-    "wholesalePrice": 202.8,
-    "extraPrice": 212.94,
-    "retailPrice": 253.5
+    "wholesalePrice": 196.09,
+    "extraPrice": 205.9,
+    "retailPrice": 245.12
   },
   {
     "id": "УТ000051150",
     "category": ".УПАКОВКА",
     "name": "ЯЩИК № 508",
-    "wholesalePrice": 232.13,
-    "extraPrice": 243.73,
-    "retailPrice": 290.16
+    "wholesalePrice": 223.75,
+    "extraPrice": 234.93,
+    "retailPrice": 279.68
   },
   {
     "id": "УТ000051245",
@@ -24907,25 +24907,25 @@
     "id": "УТ000051309",
     "category": ".УПАКОВКА",
     "name": "ЯЩИК № 506",
-    "wholesalePrice": 202.8,
-    "extraPrice": 212.94,
-    "retailPrice": 253.5
+    "wholesalePrice": 196.09,
+    "extraPrice": 205.9,
+    "retailPrice": 245.12
   },
   {
     "id": "УТ000051399",
     "category": ".УПАКОВКА",
     "name": "ЯЩИК № 505",
-    "wholesalePrice": 203.63,
-    "extraPrice": 213.82,
-    "retailPrice": 254.54
+    "wholesalePrice": 196.09,
+    "extraPrice": 205.9,
+    "retailPrice": 245.12
   },
   {
     "id": "УТ000051401",
     "category": ".УПАКОВКА",
     "name": "ЯЩИК № 528",
-    "wholesalePrice": 260.62,
-    "extraPrice": 273.65,
-    "retailPrice": 325.77
+    "wholesalePrice": 252.24,
+    "extraPrice": 264.85,
+    "retailPrice": 315.3
   },
   {
     "id": "УТ000051440",
@@ -24939,9 +24939,9 @@
     "id": "УТ000051575",
     "category": ".УПАКОВКА",
     "name": "ТОППЕР ПАЧКА 5 ШТ",
-    "wholesalePrice": 108.94,
-    "extraPrice": 114.39,
-    "retailPrice": 136.18
+    "wholesalePrice": 104.75,
+    "extraPrice": 109.99,
+    "retailPrice": 130.94
   },
   {
     "id": "УТ000052300",
@@ -29864,14 +29864,6 @@
     "retailPrice": 638.98
   },
   {
-    "id": "УТ000049448",
-    "category": "ВАЗЫ И КЕРАМИКА",
-    "name": "ВАЗА № 1235",
-    "wholesalePrice": 442.46,
-    "extraPrice": 464.59,
-    "retailPrice": 553.08
-  },
-  {
     "id": "УТ000050088",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ПЛАСТИК ГОРШОК ОРФЕЙ 17 СМ",
@@ -31547,9 +31539,9 @@
     "id": "УТ000009634",
     "category": "ОТКРЫТКИ",
     "name": "ОТКРЫТКА",
-    "wholesalePrice": 159.22,
-    "extraPrice": 167.18,
-    "retailPrice": 199.03
+    "wholesalePrice": 154.19,
+    "extraPrice": 161.9,
+    "retailPrice": 192.74
   },
   {
     "id": "УТ000009655",
@@ -31563,9 +31555,9 @@
     "id": "УТ000009660",
     "category": "ОТКРЫТКИ",
     "name": "ОТКРЫТКА РУЧНАЯ РАБОТА",
-    "wholesalePrice": 72.07,
-    "extraPrice": 75.67,
-    "retailPrice": 90.09
+    "wholesalePrice": 70.39,
+    "extraPrice": 73.91,
+    "retailPrice": 87.99
   },
   {
     "id": "УТ000019603",
