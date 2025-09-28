@@ -19360,14 +19360,6 @@
     "retailPrice": 201.09
   },
   {
-    "id": "УТ000049434",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "РЭДВАЛЮШЫН - 80 (АННИ,KING,TU,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН)",
-    "wholesalePrice": 134.32,
-    "extraPrice": 141.04,
-    "retailPrice": 167.91
-  },
-  {
     "id": "УТ000049439",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ДАЛЛАС -  70см ",
@@ -46328,6 +46320,14 @@
     "retailPrice": 166.8
   },
   {
+    "id": "УТ000051064",
+    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
+    "name": "ЛИРИКА 50 см куст на воде",
+    "wholesalePrice": 83.4,
+    "extraPrice": 87.57,
+    "retailPrice": 104.25
+  },
+  {
     "id": "УТ000051065",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "ЛИРИКА 60 см куст на воде",
@@ -52184,14 +52184,6 @@
     "retailPrice": 239.78
   },
   {
-    "id": "УТ000038650",
-    "category": "..,РАЗНОЕ",
-    "name": "ДЕЛЬФИНИУМ РОЗОВЫЙ 70 см",
-    "wholesalePrice": 141.78,
-    "extraPrice": 148.87,
-    "retailPrice": 177.23
-  },
-  {
     "id": "УТ000038651",
     "category": "..,РАЗНОЕ",
     "name": "ДЕЛЬФИНИУМ РОЗОВЫЙ 60 см",
@@ -52782,6 +52774,14 @@
     "wholesalePrice": 341.94,
     "extraPrice": 359.04,
     "retailPrice": 427.43
+  },
+  {
+    "id": "УТ000050921",
+    "category": "..,РАЗНОЕ",
+    "name": "КОНСОЛИДА",
+    "wholesalePrice": 100.08,
+    "extraPrice": 105.08,
+    "retailPrice": 125.1
   },
   {
     "id": "УТ000051481",
@@ -54896,14 +54896,6 @@
     "retailPrice": 182.44
   },
   {
-    "id": "УТ000047418",
-    "category": "..ХРИЗАНТЕМА",
-    "name": ".ХРИЗ. ДЕКО АНТОНОВ КРАШ PASTEL ORANGE",
-    "wholesalePrice": 145.95,
-    "extraPrice": 153.25,
-    "retailPrice": 182.44
-  },
-  {
     "id": "УТ000047419",
     "category": "..ХРИЗАНТЕМА",
     "name": ".ХРИЗ. ДЕКО АНТОНОВ КРАШ PASTEL PINK",
@@ -54915,22 +54907,6 @@
     "id": "УТ000047420",
     "category": "..ХРИЗАНТЕМА",
     "name": ".ХРИЗ. ДЕКО АНТОНОВ КРАШ RED",
-    "wholesalePrice": 145.95,
-    "extraPrice": 153.25,
-    "retailPrice": 182.44
-  },
-  {
-    "id": "УТ000047421",
-    "category": "..ХРИЗАНТЕМА",
-    "name": ".ХРИЗ. ДЕКО АНТОНОВ КРАШ ROULETTE",
-    "wholesalePrice": 145.95,
-    "extraPrice": 153.25,
-    "retailPrice": 182.44
-  },
-  {
-    "id": "УТ000047423",
-    "category": "..ХРИЗАНТЕМА",
-    "name": ".ХРИЗ. ДЕКО АНТОНОВ КРАШ SOFT PINK",
     "wholesalePrice": 145.95,
     "extraPrice": 153.25,
     "retailPrice": 182.44
@@ -55174,14 +55150,6 @@
     "wholesalePrice": 80.9,
     "extraPrice": 84.94,
     "retailPrice": 101.12
-  },
-  {
-    "id": "УТ000052555",
-    "category": "..ХРИЗАНТЕМА",
-    "name": ".ХРИЗ. ДЕКО АНТОНОВ КРАШ PETROL",
-    "wholesalePrice": 145.95,
-    "extraPrice": 153.25,
-    "retailPrice": 182.44
   },
   {
     "id": "УТ000052556",
@@ -55550,6 +55518,14 @@
     "wholesalePrice": 140.11,
     "extraPrice": 147.12,
     "retailPrice": 175.14
+  },
+  {
+    "id": "УТ000020915",
+    "category": "..ХРИЗАНТЕМА",
+    "name": "ЧИК КРЕМ",
+    "wholesalePrice": 118.43,
+    "extraPrice": 124.35,
+    "retailPrice": 148.04
   },
   {
     "id": "УТ000022641",
