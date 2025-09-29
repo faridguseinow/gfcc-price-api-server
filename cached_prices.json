@@ -21640,14 +21640,6 @@
     "retailPrice": 3163.28
   },
   {
-    "id": "УТ000051508",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "СПАТИФИЛЛИУМ СЕНСАТСИЯ ВАРИЕГАТА 6 СМ (КОРОБКА 12 ШТУК)",
-    "wholesalePrice": 2932.54,
-    "extraPrice": 3079.17,
-    "retailPrice": 3665.68
-  },
-  {
     "id": "УТ000051540",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
     "name": "ФИКУС ЛИРАТА 17/60 3 PP",
@@ -21942,6 +21934,14 @@
     "wholesalePrice": 474.7,
     "extraPrice": 498.43,
     "retailPrice": 593.37
+  },
+  {
+    "id": "УТ000002610",
+    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
+    "name": "АЛОКАЗИЯ 19 СМ",
+    "wholesalePrice": 2232.9,
+    "extraPrice": 2344.55,
+    "retailPrice": 2791.13
   },
   {
     "id": "УТ000002617",
@@ -32574,6 +32574,14 @@
     "wholesalePrice": 33.08,
     "extraPrice": 34.73,
     "retailPrice": 41.35
+  },
+  {
+    "id": "УТ000005040",
+    "category": "..,ЗЕЛЕНЬ",
+    "name": "РУСКУС 80 cм",
+    "wholesalePrice": 42.18,
+    "extraPrice": 44.29,
+    "retailPrice": 52.72
   },
   {
     "id": "УТ000005044",
