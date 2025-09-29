@@ -22264,14 +22264,6 @@
     "retailPrice": 675.19
   },
   {
-    "id": "УТ000004914",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "ДРАЦЕНА ЦИНТО 24/140 СМ",
-    "wholesalePrice": 7258.79,
-    "extraPrice": 7621.72,
-    "retailPrice": 9073.48
-  },
-  {
     "id": "УТ000005096",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
     "name": "ЗАМИОКУЛЬКАС 12 СМ",
@@ -22966,6 +22958,14 @@
     "wholesalePrice": 1042.91,
     "extraPrice": 1095.05,
     "retailPrice": 1303.63
+  },
+  {
+    "id": "УТ000014303",
+    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
+    "name": "ФАЛЕНОПСИС 2 СТ. 12/70 СМ",
+    "wholesalePrice": 1373.64,
+    "extraPrice": 1442.33,
+    "retailPrice": 1717.05
   },
   {
     "id": "УТ000014311",
@@ -32862,6 +32862,14 @@
     "wholesalePrice": 177.83,
     "extraPrice": 186.73,
     "retailPrice": 222.29
+  },
+  {
+    "id": "УТ000031725",
+    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
+    "name": "БАЛА 60 см РОЗА Кен/Куст. (RLR)",
+    "wholesalePrice": 157.89,
+    "extraPrice": 165.78,
+    "retailPrice": 197.36
   },
   {
     "id": "УТ000032258",
@@ -49950,6 +49958,14 @@
     "wholesalePrice": 38.78,
     "extraPrice": 40.72,
     "retailPrice": 48.48
+  },
+  {
+    "id": "УТ000043061",
+    "category": "..РОЗА КЕНИЯ",
+    "name": "АЛЬБАТРОС 60 см РОЗА Кения (UHURU)",
+    "wholesalePrice": 88.09,
+    "extraPrice": 92.49,
+    "retailPrice": 110.11
   },
   {
     "id": "УТ000043062",
