@@ -16544,14 +16544,6 @@
     "retailPrice": 149.97
   },
   {
-    "id": "УТ000037601",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ПАЛОМА (РОЗАПРИМА)-60см ",
-    "wholesalePrice": 115.45,
-    "extraPrice": 121.22,
-    "retailPrice": 144.31
-  },
-  {
     "id": "УТ000037619",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ПИНК МОНДИАЛЬ (РОЗАПРИМА)-60см ",
@@ -20176,14 +20168,6 @@
     "retailPrice": 159.12
   },
   {
-    "id": "УТ000017381",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "АТОМИК (ТЕССА)-60 см ",
-    "wholesalePrice": 122.95,
-    "extraPrice": 129.1,
-    "retailPrice": 153.69
-  },
-  {
     "id": "УТ000017383",
     "category": "..РОЗА ЭКВАДОР",
     "name": "БРАЙТОН (ТЕССА)- 70см",
@@ -20475,9 +20459,9 @@
     "id": "УТ000026637",
     "category": "ТАРА",
     "name": "БОЧОК белый (возвратный)",
-    "wholesalePrice": 186.98,
-    "extraPrice": 196.32,
-    "retailPrice": 233.72
+    "wholesalePrice": 205.67,
+    "extraPrice": 215.96,
+    "retailPrice": 257.09
   },
   {
     "id": "УТ000028674",
@@ -20563,9 +20547,9 @@
     "id": "УТ000002971",
     "category": "ТАРА",
     "name": "БОЧОК КРЫШКА",
-    "wholesalePrice": 46.54,
-    "extraPrice": 48.86,
-    "retailPrice": 58.17
+    "wholesalePrice": 51.19,
+    "extraPrice": 53.75,
+    "retailPrice": 63.99
   },
   {
     "id": "УТ000002972",
@@ -32422,14 +32406,6 @@
     "wholesalePrice": 481.98,
     "extraPrice": 506.08,
     "retailPrice": 602.48
-  },
-  {
-    "id": "УТ000005060",
-    "category": "..,ЗЕЛЕНЬ",
-    "name": "ТЛАСПИ  ",
-    "wholesalePrice": 74.79,
-    "extraPrice": 78.53,
-    "retailPrice": 93.49
   },
   {
     "id": "УТ000005063",
@@ -53878,6 +53854,14 @@
     "wholesalePrice": 187.97,
     "extraPrice": 197.37,
     "retailPrice": 234.97
+  },
+  {
+    "id": "УТ000011151",
+    "category": "..,РОЗА ,НА ВОДЕ",
+    "name": "ГОЛДЕН ВУВУЗЕЛЛА 50 см одног на воде",
+    "wholesalePrice": 133.88,
+    "extraPrice": 140.58,
+    "retailPrice": 167.35
   },
   {
     "id": "УТ000011152",
