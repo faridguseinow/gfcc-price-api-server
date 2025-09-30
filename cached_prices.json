@@ -21488,14 +21488,6 @@
     "retailPrice": 9638.69
   },
   {
-    "id": "УТ000047026",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "САНСЕВИЕРИЯ ЦИЛИНДРИЧЕСКАЯ ( сп,ст ) 12 СМ",
-    "wholesalePrice": 635.14,
-    "extraPrice": 666.89,
-    "retailPrice": 793.92
-  },
-  {
     "id": "УТ000048031",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
     "name": "САНСЕВИЕРИЯ ЦИЛИНДРИЧЕСКАЯ ( пр ) 12 СМ",
@@ -23134,6 +23126,14 @@
     "wholesalePrice": 962.63,
     "extraPrice": 1010.76,
     "retailPrice": 1203.29
+  },
+  {
+    "id": "УТ000014510",
+    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
+    "name": "ФИКУС ЭЛАСТИКА НА СТВОЛЕ 27/130 СМ",
+    "wholesalePrice": 8149.26,
+    "extraPrice": 8556.72,
+    "retailPrice": 10186.57
   },
   {
     "id": "УТ000014533",
@@ -32643,9 +32643,9 @@
     "id": "УТ000033950",
     "category": ",Сортовой",
     "name": "ЗЕЕФЛОРА 50 см СОРТОВОЙ РОЗА Кен/Куст. (ZEEFLORA)",
-    "wholesalePrice": 47.14,
-    "extraPrice": 49.5,
-    "retailPrice": 58.92
+    "wholesalePrice": 45.49,
+    "extraPrice": 47.76,
+    "retailPrice": 56.86
   },
   {
     "id": "УТ000033951",
@@ -32691,17 +32691,17 @@
     "id": "УТ000033957",
     "category": ",Сортовой",
     "name": "ГОЛДЕН 50 см СОРТОВОЙ РОЗА Кен/Куст. (GOLDEN)",
-    "wholesalePrice": 82.7,
-    "extraPrice": 86.84,
-    "retailPrice": 103.38
+    "wholesalePrice": 79.39,
+    "extraPrice": 83.36,
+    "retailPrice": 99.24
   },
   {
     "id": "УТ000033958",
     "category": ",Сортовой",
     "name": "ГОЛДЕН 60 см СОРТОВОЙ РОЗА Кен/Куст. (GOLDEN)",
-    "wholesalePrice": 100.89,
-    "extraPrice": 105.94,
-    "retailPrice": 126.12
+    "wholesalePrice": 97.59,
+    "extraPrice": 102.47,
+    "retailPrice": 121.98
   },
   {
     "id": "УТ000039375",
@@ -32747,9 +32747,9 @@
     "id": "УТ000045209",
     "category": ",Сортовой",
     "name": "ЗЕЕФЛОРА 60 см СОРТОВОЙ РОЗА Кен/Куст. (ZEEFLORA)",
-    "wholesalePrice": 54.58,
-    "extraPrice": 57.31,
-    "retailPrice": 68.23
+    "wholesalePrice": 52.93,
+    "extraPrice": 55.57,
+    "retailPrice": 66.16
   },
   {
     "id": "УТ000048008",
@@ -32982,6 +32982,14 @@
     "wholesalePrice": 160.44,
     "extraPrice": 168.46,
     "retailPrice": 200.55
+  },
+  {
+    "id": "УТ000032644",
+    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
+    "name": "БАЛА 50 см РОЗА Кен/Куст. (RLR)",
+    "wholesalePrice": 124.05,
+    "extraPrice": 130.25,
+    "retailPrice": 155.06
   },
   {
     "id": "УТ000033202",
@@ -33299,17 +33307,17 @@
     "id": "УТ000041284",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "ДЖУЛЬЕТТА 50 см РОЗА Кен/Куст.  (GOLDEN)",
-    "wholesalePrice": 133.15,
-    "extraPrice": 139.8,
-    "retailPrice": 166.43
+    "wholesalePrice": 129.84,
+    "extraPrice": 136.33,
+    "retailPrice": 162.3
   },
   {
     "id": "УТ000041600",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "ДЖУЛЬЕТТА 60 см РОЗА Кен/Куст.  (GOLDEN)",
-    "wholesalePrice": 148.86,
-    "extraPrice": 156.3,
-    "retailPrice": 186.08
+    "wholesalePrice": 145.55,
+    "extraPrice": 152.83,
+    "retailPrice": 181.94
   },
   {
     "id": "УТ000041763",
@@ -33331,25 +33339,25 @@
     "id": "УТ000041801",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "МИКС 50 см РОЗА Кен/Куст. (ZEEFLORA)",
-    "wholesalePrice": 47.14,
-    "extraPrice": 49.5,
-    "retailPrice": 58.92
+    "wholesalePrice": 45.49,
+    "extraPrice": 47.76,
+    "retailPrice": 56.86
   },
   {
     "id": "УТ000041802",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "МИКС 60 см РОЗА Кен/Куст. (ZEEFLORA)",
-    "wholesalePrice": 54.58,
-    "extraPrice": 57.31,
-    "retailPrice": 68.23
+    "wholesalePrice": 52.93,
+    "extraPrice": 55.57,
+    "retailPrice": 66.16
   },
   {
     "id": "УТ000041803",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "МИКС 70 см РОЗА Кен/Куст. (ZEEFLORA)",
-    "wholesalePrice": 62.85,
-    "extraPrice": 65.99,
-    "retailPrice": 78.57
+    "wholesalePrice": 61.2,
+    "extraPrice": 64.26,
+    "retailPrice": 76.5
   },
   {
     "id": "УТ000041915",
@@ -33499,25 +33507,25 @@
     "id": "УТ000049922",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "СИЛВА ПИНК 50 см РОЗА Кен/Куст. (GOLDEN)",
-    "wholesalePrice": 143.9,
-    "extraPrice": 151.09,
-    "retailPrice": 179.87
+    "wholesalePrice": 140.59,
+    "extraPrice": 147.62,
+    "retailPrice": 175.74
   },
   {
     "id": "УТ000050127",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "ГУД МУД  50 см РОЗА Кен/Куст. (ZEE FLORA)",
-    "wholesalePrice": 57.06,
-    "extraPrice": 59.92,
-    "retailPrice": 71.33
+    "wholesalePrice": 55.41,
+    "extraPrice": 58.18,
+    "retailPrice": 69.26
   },
   {
     "id": "УТ000050128",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "ГУД МУД  60 см РОЗА Кен/Куст. (ZEE FLORA)",
-    "wholesalePrice": 72.78,
-    "extraPrice": 76.41,
-    "retailPrice": 90.97
+    "wholesalePrice": 71.12,
+    "extraPrice": 74.68,
+    "retailPrice": 88.9
   },
   {
     "id": "УТ000050204",
@@ -33555,9 +33563,9 @@
     "id": "УТ000050467",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "ГУД МУД 50 см РОЗА Кен/Куст. (GOLDEN)",
-    "wholesalePrice": 82.7,
-    "extraPrice": 86.84,
-    "retailPrice": 103.38
+    "wholesalePrice": 79.39,
+    "extraPrice": 83.36,
+    "retailPrice": 99.24
   },
   {
     "id": "УТ000050754",
@@ -33731,9 +33739,9 @@
     "id": "УТ000051504",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "ХОТ ДЕРИС 60 см РОЗА Кен/Куст. (GOLDEN)",
-    "wholesalePrice": 100.89,
-    "extraPrice": 105.94,
-    "retailPrice": 126.12
+    "wholesalePrice": 97.59,
+    "extraPrice": 102.47,
+    "retailPrice": 121.98
   },
   {
     "id": "УТ000051560",
@@ -34067,9 +34075,9 @@
     "id": "УТ000005161",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "МИКС 50 см РОЗА Кен/Куст. (GOLDEN)",
-    "wholesalePrice": 82.7,
-    "extraPrice": 86.84,
-    "retailPrice": 103.38
+    "wholesalePrice": 79.39,
+    "extraPrice": 83.36,
+    "retailPrice": 99.24
   },
   {
     "id": "УТ000005163",
@@ -34091,9 +34099,9 @@
     "id": "УТ000005170",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "МИКС 60 см РОЗА Кен/Куст. (GOLDEN)",
-    "wholesalePrice": 100.89,
-    "extraPrice": 105.94,
-    "retailPrice": 126.12
+    "wholesalePrice": 97.59,
+    "extraPrice": 102.47,
+    "retailPrice": 121.98
   },
   {
     "id": "УТ000005172",
@@ -34115,9 +34123,9 @@
     "id": "УТ000005179",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "МИКС 70 см РОЗА Кен/Куст. (GOLDEN)",
-    "wholesalePrice": 119.92,
-    "extraPrice": 125.91,
-    "retailPrice": 149.89
+    "wholesalePrice": 116.61,
+    "extraPrice": 122.44,
+    "retailPrice": 145.76
   },
   {
     "id": "УТ000005181",
@@ -34499,9 +34507,9 @@
     "id": "УТ000005409",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "МИРАБЕЛЬ 50 см РОЗА Кен/Куст. (GOLDEN)",
-    "wholesalePrice": 82.7,
-    "extraPrice": 86.84,
-    "retailPrice": 103.38
+    "wholesalePrice": 79.39,
+    "extraPrice": 83.36,
+    "retailPrice": 99.24
   },
   {
     "id": "УТ000005411",
@@ -34523,9 +34531,9 @@
     "id": "УТ000005415",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "МИРАБЕЛЬ 60 см РОЗА Кен/Куст. (GOLDEN)",
-    "wholesalePrice": 100.89,
-    "extraPrice": 105.94,
-    "retailPrice": 126.12
+    "wholesalePrice": 97.59,
+    "extraPrice": 102.47,
+    "retailPrice": 121.98
   },
   {
     "id": "УТ000005417",
@@ -34547,9 +34555,9 @@
     "id": "УТ000005420",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "МИРАБЕЛЬ 70 см РОЗА Кен/Куст. (GOLDEN)",
-    "wholesalePrice": 119.92,
-    "extraPrice": 125.91,
-    "retailPrice": 149.89
+    "wholesalePrice": 116.61,
+    "extraPrice": 122.44,
+    "retailPrice": 145.76
   },
   {
     "id": "УТ000005432",
@@ -34675,9 +34683,9 @@
     "id": "УТ000005562",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "ПУШКИН 50 см РОЗА Кен/Куст. (GOLDEN)",
-    "wholesalePrice": 82.7,
-    "extraPrice": 86.84,
-    "retailPrice": 103.38
+    "wholesalePrice": 79.39,
+    "extraPrice": 83.36,
+    "retailPrice": 99.24
   },
   {
     "id": "УТ000005563",
@@ -34795,9 +34803,9 @@
     "id": "УТ000005641",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "СВИТ САРА 50 см РОЗА Кен/Куст. (GOLDEN)",
-    "wholesalePrice": 82.7,
-    "extraPrice": 86.84,
-    "retailPrice": 103.38
+    "wholesalePrice": 79.39,
+    "extraPrice": 83.36,
+    "retailPrice": 99.24
   },
   {
     "id": "УТ000005643",
@@ -34859,9 +34867,9 @@
     "id": "УТ000005720",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "ФАЕВОРКС 50 см РОЗА Кен/Куст. (GOLDEN)",
-    "wholesalePrice": 82.7,
-    "extraPrice": 86.84,
-    "retailPrice": 103.38
+    "wholesalePrice": 79.39,
+    "extraPrice": 83.36,
+    "retailPrice": 99.24
   },
   {
     "id": "УТ000005722",
@@ -34875,9 +34883,9 @@
     "id": "УТ000005729",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "ФАЕВОРКС 60 см РОЗА Кен/Куст. (GOLDEN)",
-    "wholesalePrice": 100.89,
-    "extraPrice": 105.94,
-    "retailPrice": 126.12
+    "wholesalePrice": 97.59,
+    "extraPrice": 102.47,
+    "retailPrice": 121.98
   },
   {
     "id": "УТ000005731",
@@ -35011,9 +35019,9 @@
     "id": "УТ000016690",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "БЕЛЛА ЛИНДА ЦЕРИС 70 см РОЗА Кен/Куст. (GOLDEN)",
-    "wholesalePrice": 151.34,
-    "extraPrice": 158.91,
-    "retailPrice": 189.18
+    "wholesalePrice": 148.03,
+    "extraPrice": 155.43,
+    "retailPrice": 185.04
   },
   {
     "id": "УТ000016867",
@@ -49507,9 +49515,9 @@
     "id": "УТ000045412",
     "category": ",Сортовой",
     "name": "ЗИФЛОРА 40 см СОРТОВОЙ РОЗА Кения (ZEEFLORA)",
-    "wholesalePrice": 22.33,
-    "extraPrice": 23.45,
-    "retailPrice": 27.91
+    "wholesalePrice": 20.68,
+    "extraPrice": 21.71,
+    "retailPrice": 25.84
   },
   {
     "id": "УТ000046053",
@@ -50083,17 +50091,17 @@
     "id": "УТ000041805",
     "category": "..РОЗА КЕНИЯ",
     "name": "МИКС 50 см РОЗА Кения (ZEEFLORA)",
-    "wholesalePrice": 26.46,
-    "extraPrice": 27.79,
-    "retailPrice": 33.08
+    "wholesalePrice": 24.81,
+    "extraPrice": 26.05,
+    "retailPrice": 31.01
   },
   {
     "id": "УТ000041806",
     "category": "..РОЗА КЕНИЯ",
     "name": "МИКС 40 см РОЗА Кения (ZEEFLORA)",
-    "wholesalePrice": 22.33,
-    "extraPrice": 23.45,
-    "retailPrice": 27.91
+    "wholesalePrice": 20.68,
+    "extraPrice": 21.71,
+    "retailPrice": 25.84
   },
   {
     "id": "УТ000042639",
