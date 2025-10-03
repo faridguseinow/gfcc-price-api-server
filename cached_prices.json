@@ -176,6 +176,14 @@
     "retailPrice": 245.03
   },
   {
+    "id": "УТ000048730",
+    "category": "..,РОЗА ,МЕСТНАЯ",
+    "name": "ГОРКУНОВ  ОДНОГ 60 см",
+    "wholesalePrice": 67.08,
+    "extraPrice": 70.44,
+    "retailPrice": 83.86
+  },
+  {
     "id": "УТ000052406",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "МИР ЦВЕТОВ КУСТОВАЯ 60 СМ",
@@ -9302,14 +9310,6 @@
     "wholesalePrice": 124.34,
     "extraPrice": 130.55,
     "retailPrice": 155.42
-  },
-  {
-    "id": "УТ000048996",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ КИТАЙ",
-    "name": "ПЕПЕРОМИЯ 11 СМ КИТАЙ",
-    "wholesalePrice": 352.56,
-    "extraPrice": 370.19,
-    "retailPrice": 440.7
   },
   {
     "id": "УТ000048997",
@@ -19806,14 +19806,6 @@
     "wholesalePrice": 168.88,
     "extraPrice": 177.32,
     "retailPrice": 211.1
-  },
-  {
-    "id": "УТ000051623",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "Амира - 60см (АННИ,KING,TU,ROYAL,FLEURANDES,RED LINE,MONTEROSA,VALDESOL,АЛТАС,САПФИР,ГУАЛИСИА,АЛЛЕГРИЯ,ЭВЕРБЛУМ,АЛЛЕГРО,МИЛЛИОН,)",
-    "wholesalePrice": 90.77,
-    "extraPrice": 95.31,
-    "retailPrice": 113.47
   },
   {
     "id": "УТ000051624",
@@ -45456,6 +45448,14 @@
     "retailPrice": 105.42
   },
   {
+    "id": "УТ000029094",
+    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
+    "name": "ДЖУЛЬЕТТА  50 см куст на воде",
+    "wholesalePrice": 122.7,
+    "extraPrice": 128.84,
+    "retailPrice": 153.38
+  },
+  {
     "id": "УТ000029095",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "ДЖУЛЬЕТТА  70 см куст на воде",
@@ -45662,6 +45662,14 @@
     "wholesalePrice": 130.88,
     "extraPrice": 137.42,
     "retailPrice": 163.6
+  },
+  {
+    "id": "УТ000034294",
+    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
+    "name": "АЙ ОПЕНЕР  70 см куст на воде",
+    "wholesalePrice": 106.34,
+    "extraPrice": 111.66,
+    "retailPrice": 132.93
   },
   {
     "id": "УТ000034472",
@@ -46606,6 +46614,14 @@
     "wholesalePrice": 340.29,
     "extraPrice": 357.3,
     "retailPrice": 425.36
+  },
+  {
+    "id": "УТ000047012",
+    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
+    "name": "МЭНСФИЛД  ВАЙТ  VIP ROSES 50 см куст на воде",
+    "wholesalePrice": 306.1,
+    "extraPrice": 321.4,
+    "retailPrice": 382.62
   },
   {
     "id": "УТ000047013",
@@ -55371,6 +55387,14 @@
     "id": "УТ000047401",
     "category": "..ХРИЗАНТЕМА",
     "name": ".ХРИЗ. ДЕКО АНТОНОВ КРАШ CERISE",
+    "wholesalePrice": 143.15,
+    "extraPrice": 150.31,
+    "retailPrice": 178.94
+  },
+  {
+    "id": "УТ000047402",
+    "category": "..ХРИЗАНТЕМА",
+    "name": ".ХРИЗ. ДЕКО АНТОНОВ КРАШ CASIS",
     "wholesalePrice": 143.15,
     "extraPrice": 150.31,
     "retailPrice": 178.94
