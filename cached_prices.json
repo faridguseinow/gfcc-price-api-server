@@ -16856,14 +16856,6 @@
     "retailPrice": 182.56
   },
   {
-    "id": "УТ000037248",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "БАРИСТА -  60см",
-    "wholesalePrice": 145.32,
-    "extraPrice": 152.58,
-    "retailPrice": 181.65
-  },
-  {
     "id": "УТ000037254",
     "category": "..РОЗА ЭКВАДОР",
     "name": "БАРИСТА -  70см",
@@ -52768,14 +52760,6 @@
     "retailPrice": 94.64
   },
   {
-    "id": "УТ000038617",
-    "category": "..,РАЗНОЕ",
-    "name": "АСТРАНЦИА БЕЛАЯ",
-    "wholesalePrice": 88.19,
-    "extraPrice": 92.6,
-    "retailPrice": 110.24
-  },
-  {
     "id": "УТ000038618",
     "category": "..,РАЗНОЕ",
     "name": "АСТРАНЦИА РОЗОВАЯ",
@@ -55560,6 +55544,14 @@
     "retailPrice": 151.04
   },
   {
+    "id": "УТ000037941",
+    "category": "..ХРИЗАНТЕМА",
+    "name": "АЛТАЙ ЖЕЛТЫЙ",
+    "wholesalePrice": 85.7,
+    "extraPrice": 89.98,
+    "retailPrice": 107.12
+  },
+  {
     "id": "УТ000038187",
     "category": "..ХРИЗАНТЕМА",
     "name": ".ХРИЗ. ДЕКО ХОРИНБОЛЛ",
@@ -56200,6 +56192,22 @@
     "retailPrice": 182
   },
   {
+    "id": "УТ000052700",
+    "category": "..ХРИЗАНТЕМА",
+    "name": "АЛТАЙ ZENTOO",
+    "wholesalePrice": 118.14,
+    "extraPrice": 124.05,
+    "retailPrice": 147.68
+  },
+  {
+    "id": "УТ000052740",
+    "category": "..ХРИЗАНТЕМА",
+    "name": "БЭБИ ХОНЕЙ",
+    "wholesalePrice": 85.7,
+    "extraPrice": 89.98,
+    "retailPrice": 107.12
+  },
+  {
     "id": "УТ000022390",
     "category": "..ХРИЗАНТЕМА",
     "name": ".ХРИЗ. ДЕКО РОССАНО ШАРЛОТТА",
@@ -56299,6 +56307,14 @@
     "id": "УТ000014780",
     "category": "..ХРИЗАНТЕМА",
     "name": "БАЛТИКА САЛМОН",
+    "wholesalePrice": 85.7,
+    "extraPrice": 89.98,
+    "retailPrice": 107.12
+  },
+  {
+    "id": "УТ000014786",
+    "category": "..ХРИЗАНТЕМА",
+    "name": "БОНТЕМПИ",
     "wholesalePrice": 85.7,
     "extraPrice": 89.98,
     "retailPrice": 107.12
