@@ -13094,3 +13094,14 @@ To https://github.com/faridguseinow/gfcc-price-api-server.git
 ❌ Ошибка при обновлении прайса: 
 ${ err.message }
 ❌ Ошибка при отправке email: Missing credentials for "PLAIN"
+warning: in the working copy of 'farid_gold.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'log.txt', LF will be replaced by CRLF the next time Git touches it
+[main cc6e48d] ╨Р╨▓╤В╨╛╨╛╨▒╨╜╨╛╨▓╨╗╨╡╨╜╨╕╨╡ ╨┐╤А╨░╨╣╤Б-╨╗╨╕╤Б╤В╨░
+ 2 files changed, 16 insertions(+), 270 deletions(-)
+To https://github.com/faridguseinow/gfcc-price-api-server.git
+   8b36a1e..cc6e48d  main -> main
+06.10.2025  6:00:04,14 
+Обновление завершено. 
+🔄 Подключение к FTP...
+📥 Скачивание XML...
+✅Прайс обновлён.Сохранено: $ { normalized.length } позиций
