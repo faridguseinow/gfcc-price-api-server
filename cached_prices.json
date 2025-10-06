@@ -104,6 +104,14 @@
     "retailPrice": 277.12
   },
   {
+    "id": "УТ000046851",
+    "category": "..,РОЗА ,МЕСТНАЯ",
+    "name": "МИКС ОДНОГ.  50 см АРТ РОССЕ",
+    "wholesalePrice": 61.91,
+    "extraPrice": 65,
+    "retailPrice": 77.38
+  },
+  {
     "id": "УТ000046852",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "МИКС ОДНОГ.  60 см АРТ РОССЕ",
@@ -12440,6 +12448,14 @@
     "retailPrice": 112.71
   },
   {
+    "id": "УТ000028733",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "АТОМИК -  70см",
+    "wholesalePrice": 108.58,
+    "extraPrice": 114,
+    "retailPrice": 135.72
+  },
+  {
     "id": "УТ000028734",
     "category": "..РОЗА ЭКВАДОР",
     "name": "АТОМИК -  80см",
@@ -15736,14 +15752,6 @@
     "retailPrice": 148.73
   },
   {
-    "id": "УТ000029912",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "СВИТНЕСС- 80см (СТАР,КОРОЗОН,МАТИЗ,ЭКО РОЗ,БЕЛЛА РОЗА,ЧАРМИНГ,СОФИ,ДАВИНЧИ.РОЯЛ)",
-    "wholesalePrice": 122.5,
-    "extraPrice": 128.63,
-    "retailPrice": 153.13
-  },
-  {
     "id": "УТ000029929",
     "category": "..РОЗА ЭКВАДОР",
     "name": "САЛМА  70см (СТАР,КОРОЗОН,МАТИЗ,ЭКО РОЗ,БЕЛЛА РОЗА,ЧАРМИНГ,СОФИ,ДАВИНЧИ.РОЯЛ)",
@@ -18824,6 +18832,14 @@
     "retailPrice": 146.24
   },
   {
+    "id": "УТ000040182",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "ХАРТС-  60см LRA.QLS.ATC.NBT.SPPH.ALLGF.EVR.RLH.TURS.GWFW.VDS.RDF.FDS 2.CNV.MON",
+    "wholesalePrice": 111.52,
+    "extraPrice": 117.1,
+    "retailPrice": 139.4
+  },
+  {
     "id": "УТ000040196",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ХАЙ МЭДЖИК-  60см ANNI ROSES.LRA.QLS.ATC.SPPH.ALLGF.EVR.RLH.TURS.GWFW.VDS.RDF.FDS 2.CNV.MON",
@@ -19298,7 +19314,7 @@
   {
     "id": "УТ000040460",
     "category": "..РОЗА ЭКВАДОР",
-    "name": "ПИНК ЛАВ-  50см LRA.QLS.ATC.NBT.SPPH.ALLGF.EVR.RLH.TURS.GWFW.VDS.RDF.FDS 2.CNV.MON",
+    "name": "ПИНК ЛАВ-  50см ANNI ROSES.LRA.QLS.ATC.SPPH.ALLGF.EVR.RLH.TURS.GWFW.VDS.RDF.FDS 2.CNV.MON",
     "wholesalePrice": 76.37,
     "extraPrice": 80.19,
     "retailPrice": 95.46
@@ -19798,14 +19814,6 @@
     "wholesalePrice": 137.02,
     "extraPrice": 143.87,
     "retailPrice": 171.27
-  },
-  {
-    "id": "УТ000049433",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "Фатима- 70см  (СТАР,КОРОЗОН,МАТИЗ,ЭКО РОЗ,БЕЛЛА РОЗА,ЧАРМИНГ,СОФИ,ДАВИНЧИ.РОЯЛ)",
-    "wholesalePrice": 155.63,
-    "extraPrice": 163.41,
-    "retailPrice": 194.53
   },
   {
     "id": "УТ000049439",
@@ -47304,14 +47312,6 @@
     "retailPrice": 182.76
   },
   {
-    "id": "УТ000011446",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "БОМБАСТИК 70 см куст на воде",
-    "wholesalePrice": 151.8,
-    "extraPrice": 159.39,
-    "retailPrice": 189.75
-  },
-  {
     "id": "УТ000011449",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "БАНДАЛЕРО 50 см куст на воде",
@@ -52568,6 +52568,14 @@
     "retailPrice": 177.44
   },
   {
+    "id": "УТ000033999",
+    "category": "..,РАЗНОЕ",
+    "name": "ЛИЗИАНТУС   ПОДМОСКВА МИНИ",
+    "wholesalePrice": 75.15,
+    "extraPrice": 78.91,
+    "retailPrice": 93.94
+  },
+  {
     "id": "УТ000034148",
     "category": "..,РАЗНОЕ",
     "name": "ГВОЗДИКА ЛУННАЯ",
@@ -52974,14 +52982,6 @@
     "wholesalePrice": 108.55,
     "extraPrice": 113.98,
     "retailPrice": 135.69
-  },
-  {
-    "id": "УТ000038675",
-    "category": "..,РАЗНОЕ",
-    "name": "ГИПЕРИКУМ 70 СМ ЗЕЛЕНЫЙ",
-    "wholesalePrice": 83.5,
-    "extraPrice": 87.68,
-    "retailPrice": 104.38
   },
   {
     "id": "УТ000038676",
@@ -55595,9 +55595,9 @@
     "id": "УТ000039360",
     "category": "..ХРИЗАНТЕМА",
     "name": ".ХРИЗ. ДЕКО КРАСНОДАР",
-    "wholesalePrice": 177.02,
-    "extraPrice": 185.87,
-    "retailPrice": 221.28
+    "wholesalePrice": 168.67,
+    "extraPrice": 177.1,
+    "retailPrice": 210.84
   },
   {
     "id": "УТ000039564",
