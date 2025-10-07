@@ -21880,6 +21880,14 @@
     "retailPrice": 3688.88
   },
   {
+    "id": "УТ000044532",
+    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
+    "name": "ФИЛОДЕНДРОН  6 СМ  (КОРОБКА 12 ШТУК)",
+    "wholesalePrice": 2580.86,
+    "extraPrice": 2709.91,
+    "retailPrice": 3226.08
+  },
+  {
     "id": "УТ000045199",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
     "name": "ЦИТРУС КОЛОМОНДИН 19/65 СМ",
@@ -21926,14 +21934,6 @@
     "wholesalePrice": 921.02,
     "extraPrice": 967.08,
     "retailPrice": 1151.28
-  },
-  {
-    "id": "УТ000046023",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "МОНСТЕРА  6 СМ (КОРОБКА 12 ШТУК)",
-    "wholesalePrice": 2232.26,
-    "extraPrice": 2343.87,
-    "retailPrice": 2790.32
   },
   {
     "id": "УТ000046038",
@@ -22526,6 +22526,14 @@
     "wholesalePrice": 1072.45,
     "extraPrice": 1126.07,
     "retailPrice": 1340.56
+  },
+  {
+    "id": "УТ000002744",
+    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
+    "name": "АНТУРИУМ МИКС 17 СМ",
+    "wholesalePrice": 1817.92,
+    "extraPrice": 1908.82,
+    "retailPrice": 2272.4
   },
   {
     "id": "УТ000002795",
@@ -26054,14 +26062,6 @@
     "wholesalePrice": 2381.18,
     "extraPrice": 2500.24,
     "retailPrice": 2976.48
-  },
-  {
-    "id": "УТ000052302",
-    "category": ".УПАКОВКА",
-    "name": "КОРОБКА ДЛЯ ЦВЕТОВ № 101 (10 ШТ)",
-    "wholesalePrice": 915.2,
-    "extraPrice": 960.96,
-    "retailPrice": 1144
   },
   {
     "id": "УТ000052303",
@@ -45282,7 +45282,7 @@
   {
     "id": "УТ000051177",
     "category": "..,ЛИЛИЯ",
-    "name": "ЛИЛИЯ ОР ДЖЕКСОНВИЛЛ",
+    "name": "ЛИЛИЯ ОТ ДЖЕКСОНВИЛЛ",
     "wholesalePrice": 401.02,
     "extraPrice": 421.08,
     "retailPrice": 501.28
@@ -45306,7 +45306,7 @@
   {
     "id": "УТ000007388",
     "category": "..,ЛИЛИЯ",
-    "name": "ЛИЛИЯ ОР ВЕЛИКИЙ АЛЬБЕРТ 100 см",
+    "name": "ЛИЛИЯ ОТ ВЕЛИКИЙ АЛЬБЕРТ 100 см",
     "wholesalePrice": 312,
     "extraPrice": 327.6,
     "retailPrice": 390
@@ -46654,14 +46654,6 @@
     "wholesalePrice": 144.27,
     "extraPrice": 151.48,
     "retailPrice": 180.34
-  },
-  {
-    "id": "УТ000046667",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "ЛАВ ИТ  (VOORN-ROSES) 60 см куст на воде",
-    "wholesalePrice": 215.16,
-    "extraPrice": 225.91,
-    "retailPrice": 268.94
   },
   {
     "id": "УТ000046692",
@@ -52168,12 +52160,12 @@
     "retailPrice": 232.96
   },
   {
-    "id": "УТ000027747",
+    "id": "УТ000027746",
     "category": "..,РАЗНОЕ",
-    "name": "ЛИЗИАНТУС  ЗЕЛЕНЫЙ",
-    "wholesalePrice": 184.7,
-    "extraPrice": 193.94,
-    "retailPrice": 230.88
+    "name": "ЛИЗИАНТУС  БЕЛО СИНИЙ",
+    "wholesalePrice": 138.11,
+    "extraPrice": 145.02,
+    "retailPrice": 172.64
   },
   {
     "id": "УТ000027748",
@@ -55222,14 +55214,6 @@
     "wholesalePrice": 66.56,
     "extraPrice": 69.89,
     "retailPrice": 83.2
-  },
-  {
-    "id": "УТ000031397",
-    "category": "..ХРИЗАНТЕМА",
-    "name": "ТОПСПИН",
-    "wholesalePrice": 85.7,
-    "extraPrice": 89.98,
-    "retailPrice": 107.12
   },
   {
     "id": "УТ000032358",
