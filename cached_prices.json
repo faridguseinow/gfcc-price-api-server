@@ -200,30 +200,6 @@
     "retailPrice": 451.47
   },
   {
-    "id": "УТ000052407",
-    "category": "..,РОЗА ,МЕСТНАЯ",
-    "name": "МИР ЦВЕТОВ КУСТОВАЯ 70 СМ",
-    "wholesalePrice": 414.18,
-    "extraPrice": 434.89,
-    "retailPrice": 517.73
-  },
-  {
-    "id": "УТ000052409",
-    "category": "..,РОЗА ,МЕСТНАЯ",
-    "name": "МИР ЦВЕТОВ ОДНОГОЛОВАЯ 60 СМ",
-    "wholesalePrice": 106.34,
-    "extraPrice": 111.65,
-    "retailPrice": 132.92
-  },
-  {
-    "id": "УТ000052410",
-    "category": "..,РОЗА ,МЕСТНАЯ",
-    "name": "МИР ЦВЕТОВ ОДНОГОЛОВАЯ 70 СМ",
-    "wholesalePrice": 119.93,
-    "extraPrice": 125.93,
-    "retailPrice": 149.92
-  },
-  {
     "id": "УТ000007422",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЛИНИЯ РОЗА ОДНОГОЛОВАЯ.. 50 СМ",
@@ -9464,14 +9440,6 @@
     "retailPrice": 964.08
   },
   {
-    "id": "УТ000049018",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ КИТАЙ",
-    "name": "ФИКУС ГИНСЕНГ 33/100 СМ КИТАЙ",
-    "wholesalePrice": 5982.24,
-    "extraPrice": 6281.35,
-    "retailPrice": 7477.8
-  },
-  {
     "id": "УТ000049019",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ КИТАЙ",
     "name": "АНТУРИУМ КРАСНЫЙ 14 СМ КИТАЙ",
@@ -9662,14 +9630,6 @@
     "wholesalePrice": 677.33,
     "extraPrice": 711.19,
     "retailPrice": 846.66
-  },
-  {
-    "id": "УТ000052168",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ КИТАЙ",
-    "name": "РАДЕРМЕХЕРА 28/200 СМ КИТАЙ",
-    "wholesalePrice": 9804.78,
-    "extraPrice": 10295.01,
-    "retailPrice": 12255.97
   },
   {
     "id": "УТ000052169",
@@ -13824,14 +13784,6 @@
     "retailPrice": 160.49
   },
   {
-    "id": "УТ000029092",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "РЕД ПАНТЕРА -  90 см",
-    "wholesalePrice": 140.95,
-    "extraPrice": 148,
-    "retailPrice": 176.19
-  },
-  {
     "id": "УТ000029093",
     "category": "..РОЗА ЭКВАДОР",
     "name": "РЕД ПАНТЕРА - 100см",
@@ -16880,6 +16832,14 @@
     "retailPrice": 180.81
   },
   {
+    "id": "УТ000037144",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "РЕД ПАНТЕРА (ТЕССА) 80см",
+    "wholesalePrice": 161.12,
+    "extraPrice": 169.18,
+    "retailPrice": 201.41
+  },
+  {
     "id": "УТ000037328",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ВАЙТ/ПИНК ОХАРА (РОЗАПРИМА)- 40см",
@@ -18622,6 +18582,14 @@
     "wholesalePrice": 107.01,
     "extraPrice": 112.36,
     "retailPrice": 133.77
+  },
+  {
+    "id": "УТ000040062",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "ЭППЛ ДЖЕК-  70см ANNI ROSES.LRA.QLS.ATC.SPPH.ALLGF.EVR.RLH.TURS.GWFW.VDS.RDF.FDS 2.CNV.MON",
+    "wholesalePrice": 123.75,
+    "extraPrice": 129.94,
+    "retailPrice": 154.69
   },
   {
     "id": "УТ000040064",
@@ -24168,14 +24136,6 @@
     "retailPrice": 366.68
   },
   {
-    "id": "УТ000017328",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "ОПУНЦИЯ 10 СМ",
-    "wholesalePrice": 308.18,
-    "extraPrice": 323.58,
-    "retailPrice": 385.22
-  },
-  {
     "id": "УТ000017425",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
     "name": "ЛАУРУС 14 СМ",
@@ -25998,14 +25958,6 @@
     "wholesalePrice": 2358.29,
     "extraPrice": 2476.2,
     "retailPrice": 2947.86
-  },
-  {
-    "id": "УТ000052303",
-    "category": ".УПАКОВКА",
-    "name": "КОРОБКА ДЛЯ ЦВЕТОВ № 103 (10 ШТ)",
-    "wholesalePrice": 722.65,
-    "extraPrice": 758.78,
-    "retailPrice": 903.31
   },
   {
     "id": "УТ000052389",
@@ -35254,6 +35206,14 @@
     "wholesalePrice": 93.11,
     "extraPrice": 97.77,
     "retailPrice": 116.39
+  },
+  {
+    "id": "УТ000005711",
+    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
+    "name": "ФАБИОЛА 50 см РОЗА Кен/Куст. (RLR)",
+    "wholesalePrice": 130.19,
+    "extraPrice": 136.7,
+    "retailPrice": 162.74
   },
   {
     "id": "УТ000005712",
@@ -52163,49 +52123,49 @@
     "id": "УТ000031643",
     "category": "..,РАЗНОЕ",
     "name": "ОРХИДЕЯ  1*6 БЕЛАЯ",
-    "wholesalePrice": 1400.8,
-    "extraPrice": 1470.84,
-    "retailPrice": 1751
+    "wholesalePrice": 1343.12,
+    "extraPrice": 1410.28,
+    "retailPrice": 1678.9
   },
   {
     "id": "УТ000031644",
     "category": "..,РАЗНОЕ",
     "name": "ОРХИДЕЯ  1*6 РОЗОВАЯ",
-    "wholesalePrice": 1417.28,
-    "extraPrice": 1488.14,
-    "retailPrice": 1771.6
+    "wholesalePrice": 1318.4,
+    "extraPrice": 1384.32,
+    "retailPrice": 1648
   },
   {
     "id": "УТ000031645",
     "category": "..,РАЗНОЕ",
     "name": "ОРХИДЕЯ  1*6 ЖЕЛТАЯ",
-    "wholesalePrice": 1334.88,
-    "extraPrice": 1401.62,
-    "retailPrice": 1668.6
+    "wholesalePrice": 1236,
+    "extraPrice": 1297.8,
+    "retailPrice": 1545
   },
   {
     "id": "УТ000031646",
     "category": "..,РАЗНОЕ",
     "name": "ОРХИДЕЯ  1*6 ЗЕЛЁНАЯ",
-    "wholesalePrice": 1351.36,
-    "extraPrice": 1418.93,
-    "retailPrice": 1689.2
+    "wholesalePrice": 1252.48,
+    "extraPrice": 1315.1,
+    "retailPrice": 1565.6
   },
   {
     "id": "УТ000031647",
     "category": "..,РАЗНОЕ",
     "name": "ОРХИДЕЯ  1*6 ОРАНЖЕВАЯ",
-    "wholesalePrice": 1351.36,
-    "extraPrice": 1418.93,
-    "retailPrice": 1689.2
+    "wholesalePrice": 1268.96,
+    "extraPrice": 1332.41,
+    "retailPrice": 1586.2
   },
   {
     "id": "УТ000031648",
     "category": "..,РАЗНОЕ",
     "name": "ОРХИДЕЯ  1*6 КРАСНАЯ",
-    "wholesalePrice": 1425.52,
-    "extraPrice": 1496.8,
-    "retailPrice": 1781.9
+    "wholesalePrice": 1285.44,
+    "extraPrice": 1349.71,
+    "retailPrice": 1606.8
   },
   {
     "id": "УТ000032261",
@@ -52358,14 +52318,6 @@
     "wholesalePrice": 98.88,
     "extraPrice": 103.82,
     "retailPrice": 123.6
-  },
-  {
-    "id": "УТ000036470",
-    "category": "..,РАЗНОЕ",
-    "name": "ПОЛИАНТЕС",
-    "wholesalePrice": 76.63,
-    "extraPrice": 80.46,
-    "retailPrice": 95.79
   },
   {
     "id": "УТ000037211",
@@ -53891,17 +53843,17 @@
     "id": "УТ000010395",
     "category": "..,РАЗНОЕ",
     "name": "ОРХИДЕЯ  1*6 МИКС",
-    "wholesalePrice": 1334.88,
-    "extraPrice": 1401.62,
-    "retailPrice": 1668.6
+    "wholesalePrice": 1236,
+    "extraPrice": 1297.8,
+    "retailPrice": 1545
   },
   {
     "id": "УТ000010402",
     "category": "..,РАЗНОЕ",
     "name": "ОРХИДЕЯ 1*15  ",
-    "wholesalePrice": 711.11,
-    "extraPrice": 746.67,
-    "retailPrice": 888.89
+    "wholesalePrice": 708.64,
+    "extraPrice": 744.07,
+    "retailPrice": 885.8
   },
   {
     "id": "УТ000010416",
@@ -54062,14 +54014,6 @@
     "wholesalePrice": 346.08,
     "extraPrice": 363.38,
     "retailPrice": 432.6
-  },
-  {
-    "id": "УТ000010622",
-    "category": "..,РАЗНОЕ",
-    "name": "ФЛОКС",
-    "wholesalePrice": 54.38,
-    "extraPrice": 57.1,
-    "retailPrice": 67.98
   },
   {
     "id": "УТ000010625",
