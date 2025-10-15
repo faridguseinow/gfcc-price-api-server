@@ -22384,14 +22384,6 @@
     "retailPrice": 8762.43
   },
   {
-    "id": "УТ000051470",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "ФИКУС ЭКЗОТИКА 40/175 СМ ",
-    "wholesalePrice": 16459.84,
-    "extraPrice": 17282.83,
-    "retailPrice": 20574.79
-  },
-  {
     "id": "УТ000051476",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
     "name": "ТУЯ ( Smaragd ) 26/130 СМ",
@@ -24446,14 +24438,6 @@
     "wholesalePrice": 882.28,
     "extraPrice": 926.39,
     "retailPrice": 1102.85
-  },
-  {
-    "id": "УТ000020639",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "БАХУС 30/60 СМ",
-    "wholesalePrice": 4208.54,
-    "extraPrice": 4418.97,
-    "retailPrice": 5260.68
   },
   {
     "id": "УТ000016707",
@@ -32912,6 +32896,14 @@
     "retailPrice": 287.79
   },
   {
+    "id": "УТ000038723",
+    "category": "..,ЗЕЛЕНЬ",
+    "name": "ЛИМОНИУМ БЕЛЫЙ",
+    "wholesalePrice": 103.04,
+    "extraPrice": 108.19,
+    "retailPrice": 128.8
+  },
+  {
     "id": "УТ000038724",
     "category": "..,ЗЕЛЕНЬ",
     "name": "ЛИМОНИУМ СИНИЙ",
@@ -35214,6 +35206,14 @@
     "wholesalePrice": 195.62,
     "extraPrice": 205.4,
     "retailPrice": 244.52
+  },
+  {
+    "id": "УТ000005293",
+    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
+    "name": "ДЖУЛЬЕТТА 70 см РОЗА Кен/Куст.  (RLR)",
+    "wholesalePrice": 227.01,
+    "extraPrice": 238.36,
+    "retailPrice": 283.76
   },
   {
     "id": "УТ000005296",
@@ -40366,14 +40366,6 @@
     "wholesalePrice": 1005.45,
     "extraPrice": 1055.72,
     "retailPrice": 1256.81
-  },
-  {
-    "id": "УТ000040602",
-    "category": "КОРЗИНА",
-    "name": "Корзина - 20A601801",
-    "wholesalePrice": 455.63,
-    "extraPrice": 478.41,
-    "retailPrice": 569.54
   },
   {
     "id": "УТ000040603",
