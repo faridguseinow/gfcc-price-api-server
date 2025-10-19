@@ -22480,6 +22480,14 @@
     "retailPrice": 3192.14
   },
   {
+    "id": "УТ000024952",
+    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
+    "name": "ФИКУС ГИНСЕНГ 14 СМ",
+    "wholesalePrice": 1501.2,
+    "extraPrice": 1576.26,
+    "retailPrice": 1876.5
+  },
+  {
     "id": "УТ000025262",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
     "name": "ВРИЕЗИЯ 12 СМ",
@@ -55648,14 +55656,6 @@
     "retailPrice": 85.42
   },
   {
-    "id": "УТ000030959",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "БЕТ ХАРТ  ТЮЛЬПАН дубл",
-    "wholesalePrice": 73.98,
-    "extraPrice": 77.67,
-    "retailPrice": 92.47
-  },
-  {
     "id": "УТ000034956",
     "category": "..ТЮЛЬПАНЫ",
     "name": "КАБАННА  ТЮЛЬПАН дубл",
@@ -55670,14 +55670,6 @@
     "wholesalePrice": 68.34,
     "extraPrice": 71.75,
     "retailPrice": 85.42
-  },
-  {
-    "id": "УТ000035160",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "КОНКОРД  ТЮЛЬПАН дубл.",
-    "wholesalePrice": 73.98,
-    "extraPrice": 77.67,
-    "retailPrice": 92.47
   },
   {
     "id": "УТ000035369",
@@ -55707,14 +55699,6 @@
     "id": "УТ000040643",
     "category": "..ТЮЛЬПАНЫ",
     "name": "СИРИКИТ  ТЮЛЬПАН энкл.",
-    "wholesalePrice": 68.34,
-    "extraPrice": 71.75,
-    "retailPrice": 85.42
-  },
-  {
-    "id": "УТ000041186",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "ТАРЗАН  ТЮЛЬПАН энкл.",
     "wholesalePrice": 68.34,
     "extraPrice": 71.75,
     "retailPrice": 85.42
@@ -55768,14 +55752,6 @@
     "retailPrice": 85.42
   },
   {
-    "id": "УТ000047576",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "ЧЕРИС ПАРРОТ  ТЮЛЬПАН дубл.",
-    "wholesalePrice": 73.98,
-    "extraPrice": 77.67,
-    "retailPrice": 92.47
-  },
-  {
     "id": "УТ000047909",
     "category": "..ТЮЛЬПАНЫ",
     "name": "ФОКСТРОД  ТЮЛЬПАН дубл.",
@@ -55787,14 +55763,6 @@
     "id": "УТ000047952",
     "category": "..ТЮЛЬПАНЫ",
     "name": "ЛАНКА  ТЮЛЬПАН энкл.",
-    "wholesalePrice": 68.34,
-    "extraPrice": 71.75,
-    "retailPrice": 85.42
-  },
-  {
-    "id": "УТ000048463",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "СНОУМЕН  ТЮЛЬПАН энкл.",
     "wholesalePrice": 68.34,
     "extraPrice": 71.75,
     "retailPrice": 85.42
@@ -55814,14 +55782,6 @@
     "wholesalePrice": 68.34,
     "extraPrice": 71.75,
     "retailPrice": 85.42
-  },
-  {
-    "id": "УТ000015696",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "МАСКОТ  ТЮЛЬПАН дубл.",
-    "wholesalePrice": 73.98,
-    "extraPrice": 77.67,
-    "retailPrice": 92.47
   },
   {
     "id": "УТ000024630",
@@ -55846,14 +55806,6 @@
     "wholesalePrice": 73.98,
     "extraPrice": 77.67,
     "retailPrice": 92.47
-  },
-  {
-    "id": "УТ000013898",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "АД РЕМ  ТЮЛЬПАН энкл.",
-    "wholesalePrice": 68.34,
-    "extraPrice": 71.75,
-    "retailPrice": 85.42
   },
   {
     "id": "УТ000013906",
@@ -55992,14 +55944,6 @@
     "retailPrice": 85.42
   },
   {
-    "id": "УТ000014123",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "ТАЙМЛЕС  ТЮЛЬПАН  энкл",
-    "wholesalePrice": 68.34,
-    "extraPrice": 71.75,
-    "retailPrice": 85.42
-  },
-  {
     "id": "УТ000014136",
     "category": "..ТЮЛЬПАНЫ",
     "name": "ФЕСТ КЛАСС  ТЮЛЬПАН энкел.",
@@ -56054,14 +55998,6 @@
     "wholesalePrice": 115.09,
     "extraPrice": 120.85,
     "retailPrice": 143.87
-  },
-  {
-    "id": "УТ000027900",
-    "category": "..ХРИЗАНТЕМА",
-    "name": ".ХРИЗ. ДЕКО ЛАМИРА",
-    "wholesalePrice": 158.46,
-    "extraPrice": 166.38,
-    "retailPrice": 198.08
   },
   {
     "id": "УТ000027901",
@@ -56128,28 +56064,12 @@
     "retailPrice": 79.23
   },
   {
-    "id": "УТ000031397",
-    "category": "..ХРИЗАНТЕМА",
-    "name": "ТОПСПИН",
-    "wholesalePrice": 97.66,
-    "extraPrice": 102.54,
-    "retailPrice": 122.08
-  },
-  {
     "id": "УТ000032358",
     "category": "..ХРИЗАНТЕМА",
     "name": ".ХРИЗ. ДЕКО КАЛИМБА",
     "wholesalePrice": 135.93,
     "extraPrice": 142.73,
     "retailPrice": 169.92
-  },
-  {
-    "id": "УТ000032434",
-    "category": "..ХРИЗАНТЕМА",
-    "name": "ЛЕТИТБЕ",
-    "wholesalePrice": 116.76,
-    "extraPrice": 122.6,
-    "retailPrice": 145.95
   },
   {
     "id": "УТ000033002",
@@ -56200,14 +56120,6 @@
     "retailPrice": 169.92
   },
   {
-    "id": "УТ000033630",
-    "category": "..ХРИЗАНТЕМА",
-    "name": ".ХРИЗ. ДЕКО КИЕВ ДАРК",
-    "wholesalePrice": 161.8,
-    "extraPrice": 169.89,
-    "retailPrice": 202.25
-  },
-  {
     "id": "УТ000033692",
     "category": "..ХРИЗАНТЕМА",
     "name": "КАСТЕЛЛИ",
@@ -56246,14 +56158,6 @@
     "wholesalePrice": 97.66,
     "extraPrice": 102.54,
     "retailPrice": 122.08
-  },
-  {
-    "id": "УТ000035667",
-    "category": "..ХРИЗАНТЕМА",
-    "name": "БАЛТИКА BEYOND",
-    "wholesalePrice": 122.6,
-    "extraPrice": 128.73,
-    "retailPrice": 153.25
   },
   {
     "id": "УТ000035736",
@@ -56304,14 +56208,6 @@
     "retailPrice": 141.78
   },
   {
-    "id": "УТ000037077",
-    "category": "..ХРИЗАНТЕМА",
-    "name": ".ХРИЗ. ДЕКО ХОНЕЙМУН",
-    "wholesalePrice": 135.93,
-    "extraPrice": 142.73,
-    "retailPrice": 169.92
-  },
-  {
     "id": "УТ000037941",
     "category": "..ХРИЗАНТЕМА",
     "name": "АЛТАЙ ЖЕЛТЫЙ",
@@ -56334,14 +56230,6 @@
     "wholesalePrice": 168.47,
     "extraPrice": 176.89,
     "retailPrice": 210.59
-  },
-  {
-    "id": "УТ000038599",
-    "category": "..ХРИЗАНТЕМА",
-    "name": ".ХРИЗ. ДЕКО ВИЕНА БЕЛАЯ",
-    "wholesalePrice": 186.82,
-    "extraPrice": 196.16,
-    "retailPrice": 233.52
   },
   {
     "id": "УТ000039086",
@@ -56384,28 +56272,12 @@
     "retailPrice": 243.25
   },
   {
-    "id": "УТ000039564",
-    "category": "..ХРИЗАНТЕМА",
-    "name": "ФАБИАННА",
-    "wholesalePrice": 120.1,
-    "extraPrice": 126.1,
-    "retailPrice": 150.12
-  },
-  {
     "id": "УТ000040760",
     "category": "..ХРИЗАНТЕМА",
     "name": ".ХРИЗ. ДЕКО АЛЕМАНИ",
     "wholesalePrice": 185.12,
     "extraPrice": 194.38,
     "retailPrice": 231.4
-  },
-  {
-    "id": "УТ000042330",
-    "category": "..ХРИЗАНТЕМА",
-    "name": ".ХРИЗ. ДЕКО КАЛИМБА САЛМОН",
-    "wholesalePrice": 173.47,
-    "extraPrice": 182.15,
-    "retailPrice": 216.84
   },
   {
     "id": "УТ000042612",
@@ -56427,14 +56299,6 @@
     "id": "УТ000043587",
     "category": "..ХРИЗАНТЕМА",
     "name": "КАТИНКА САЛМОН",
-    "wholesalePrice": 97.66,
-    "extraPrice": 102.54,
-    "retailPrice": 122.08
-  },
-  {
-    "id": "УТ000043737",
-    "category": "..ХРИЗАНТЕМА",
-    "name": "ДЕЙДРИМ",
     "wholesalePrice": 97.66,
     "extraPrice": 102.54,
     "retailPrice": 122.08
@@ -56571,14 +56435,6 @@
     "id": "УТ000047401",
     "category": "..ХРИЗАНТЕМА",
     "name": ".ХРИЗ. ДЕКО АНТОНОВ КРАШ CERISE",
-    "wholesalePrice": 150.13,
-    "extraPrice": 157.63,
-    "retailPrice": 187.66
-  },
-  {
-    "id": "УТ000047402",
-    "category": "..ХРИЗАНТЕМА",
-    "name": ".ХРИЗ. ДЕКО АНТОНОВ КРАШ CASIS",
     "wholesalePrice": 150.13,
     "extraPrice": 157.63,
     "retailPrice": 187.66
@@ -56728,22 +56584,6 @@
     "retailPrice": 176.16
   },
   {
-    "id": "УТ000048383",
-    "category": "..ХРИЗАНТЕМА",
-    "name": "ПРАШЕС",
-    "wholesalePrice": 97.66,
-    "extraPrice": 102.54,
-    "retailPrice": 122.08
-  },
-  {
-    "id": "УТ000049712",
-    "category": "..ХРИЗАНТЕМА",
-    "name": "РУБИ СТАР",
-    "wholesalePrice": 97.66,
-    "extraPrice": 102.54,
-    "retailPrice": 122.08
-  },
-  {
     "id": "УТ000049713",
     "category": "..ХРИЗАНТЕМА",
     "name": "САНТИНИ COUNTRY",
@@ -56766,14 +56606,6 @@
     "wholesalePrice": 143.45,
     "extraPrice": 150.62,
     "retailPrice": 179.31
-  },
-  {
-    "id": "УТ000049753",
-    "category": "..ХРИЗАНТЕМА",
-    "name": "ЧИК LINFLOWERS",
-    "wholesalePrice": 104.25,
-    "extraPrice": 109.46,
-    "retailPrice": 130.31
   },
   {
     "id": "УТ000049758",
@@ -56824,14 +56656,6 @@
     "retailPrice": 64.64
   },
   {
-    "id": "УТ000051047",
-    "category": "..ХРИЗАНТЕМА",
-    "name": "САНТИНИ PIZARRO",
-    "wholesalePrice": 70.89,
-    "extraPrice": 74.43,
-    "retailPrice": 88.61
-  },
-  {
     "id": "УТ000051048",
     "category": "..ХРИЗАНТЕМА",
     "name": "САНТИНИ MAD LINDI WHITE",
@@ -56854,14 +56678,6 @@
     "wholesalePrice": 135.93,
     "extraPrice": 142.73,
     "retailPrice": 169.92
-  },
-  {
-    "id": "УТ000051576",
-    "category": "..ХРИЗАНТЕМА",
-    "name": "МЕКСИКАНО",
-    "wholesalePrice": 97.66,
-    "extraPrice": 102.54,
-    "retailPrice": 122.08
   },
   {
     "id": "УТ000051607",
@@ -56920,14 +56736,6 @@
     "retailPrice": 122.08
   },
   {
-    "id": "УТ000052488",
-    "category": "..ХРИЗАНТЕМА",
-    "name": "КОМАНДИР КРАШЕНЫЙ BLUE",
-    "wholesalePrice": 98.23,
-    "extraPrice": 103.14,
-    "retailPrice": 122.79
-  },
-  {
     "id": "УТ000052492",
     "category": "..ХРИЗАНТЕМА",
     "name": "КОМАНДИР КРАШЕНЫЙ PASTEL MILKA",
@@ -56944,33 +56752,9 @@
     "retailPrice": 122.79
   },
   {
-    "id": "УТ000052494",
-    "category": "..ХРИЗАНТЕМА",
-    "name": "КОМАНДИР КРАШЕНЫЙ RED",
-    "wholesalePrice": 98.23,
-    "extraPrice": 103.14,
-    "retailPrice": 122.79
-  },
-  {
-    "id": "УТ000052495",
-    "category": "..ХРИЗАНТЕМА",
-    "name": "КОМАНДИР КРАШЕНЫЙ HOT PINK",
-    "wholesalePrice": 98.23,
-    "extraPrice": 103.14,
-    "retailPrice": 122.79
-  },
-  {
     "id": "УТ000052555",
     "category": "..ХРИЗАНТЕМА",
     "name": ".ХРИЗ. ДЕКО АНТОНОВ КРАШ PETROL",
-    "wholesalePrice": 150.13,
-    "extraPrice": 157.63,
-    "retailPrice": 187.66
-  },
-  {
-    "id": "УТ000052556",
-    "category": "..ХРИЗАНТЕМА",
-    "name": ".ХРИЗ. ДЕКО АНТОНОВ КРАШ PASTEL MILKA",
     "wholesalePrice": 150.13,
     "extraPrice": 157.63,
     "retailPrice": 187.66
@@ -57056,14 +56840,6 @@
     "retailPrice": 122.08
   },
   {
-    "id": "УТ000052878",
-    "category": "..ХРИЗАНТЕМА",
-    "name": "КОМАНДИР ЖЕЛТЫЙ",
-    "wholesalePrice": 104.25,
-    "extraPrice": 109.46,
-    "retailPrice": 130.31
-  },
-  {
     "id": "УТ000022390",
     "category": "..ХРИЗАНТЕМА",
     "name": ".ХРИЗ. ДЕКО РОССАНО ШАРЛОТТА",
@@ -57094,14 +56870,6 @@
     "wholesalePrice": 121.76,
     "extraPrice": 127.85,
     "retailPrice": 152.21
-  },
-  {
-    "id": "УТ000014771",
-    "category": "..ХРИЗАНТЕМА",
-    "name": "БАКАРДИ КРАШЕНЫЙ",
-    "wholesalePrice": 103.36,
-    "extraPrice": 108.53,
-    "retailPrice": 129.2
   },
   {
     "id": "УТ000014773",
@@ -57168,14 +56936,6 @@
     "retailPrice": 122.08
   },
   {
-    "id": "УТ000014793",
-    "category": "..ХРИЗАНТЕМА",
-    "name": "ГАЙДАР",
-    "wholesalePrice": 97.66,
-    "extraPrice": 102.54,
-    "retailPrice": 122.08
-  },
-  {
     "id": "УТ000014794",
     "category": "..ХРИЗАНТЕМА",
     "name": "ГАЙДАР ЖЕЛТЫЙ",
@@ -57190,14 +56950,6 @@
     "wholesalePrice": 97.66,
     "extraPrice": 102.54,
     "retailPrice": 122.08
-  },
-  {
-    "id": "УТ000014837",
-    "category": "..ХРИЗАНТЕМА",
-    "name": "КОД ГРИН",
-    "wholesalePrice": 115.31,
-    "extraPrice": 121.07,
-    "retailPrice": 144.14
   },
   {
     "id": "УТ000014842",
@@ -57238,14 +56990,6 @@
     "wholesalePrice": 117.59,
     "extraPrice": 123.47,
     "retailPrice": 146.99
-  },
-  {
-    "id": "УТ000014886",
-    "category": "..ХРИЗАНТЕМА",
-    "name": "ПРОСЕККО",
-    "wholesalePrice": 97.66,
-    "extraPrice": 102.54,
-    "retailPrice": 122.08
   },
   {
     "id": "УТ000014888",
@@ -57296,36 +57040,12 @@
     "retailPrice": 162.63
   },
   {
-    "id": "УТ000014934",
-    "category": "..ХРИЗАНТЕМА",
-    "name": "СТАЛЛИОН желт.",
-    "wholesalePrice": 99.33,
-    "extraPrice": 104.3,
-    "retailPrice": 124.16
-  },
-  {
     "id": "УТ000014937",
     "category": "..ХРИЗАНТЕМА",
     "name": "СТЕЛЛИНИ",
     "wholesalePrice": 97.66,
     "extraPrice": 102.54,
     "retailPrice": 122.08
-  },
-  {
-    "id": "УТ000014966",
-    "category": "..ХРИЗАНТЕМА",
-    "name": ".ХРИЗ. ДЕКО АНАСТАСИЯ БЕЛАЯ",
-    "wholesalePrice": 135.93,
-    "extraPrice": 142.73,
-    "retailPrice": 169.92
-  },
-  {
-    "id": "УТ000014967",
-    "category": "..ХРИЗАНТЕМА",
-    "name": ".ХРИЗ. ДЕКО АНАСТАСИЯ ЖЕЛТАЯ",
-    "wholesalePrice": 135.93,
-    "extraPrice": 142.73,
-    "retailPrice": 169.92
   },
   {
     "id": "УТ000014972",
@@ -57363,14 +57083,6 @@
     "id": "УТ000015009",
     "category": "..ХРИЗАНТЕМА",
     "name": ".ХРИЗ. ДЕКО МОМОКО",
-    "wholesalePrice": 135.93,
-    "extraPrice": 142.73,
-    "retailPrice": 169.92
-  },
-  {
-    "id": "УТ000015012",
-    "category": "..ХРИЗАНТЕМА",
-    "name": ".ХРИЗ. ДЕКО ПЁТР",
     "wholesalePrice": 135.93,
     "extraPrice": 142.73,
     "retailPrice": 169.92
@@ -57430,22 +57142,6 @@
     "wholesalePrice": 156.79,
     "extraPrice": 164.63,
     "retailPrice": 195.99
-  },
-  {
-    "id": "УТ000016776",
-    "category": "..ХРИЗАНТЕМА",
-    "name": ".ХРИЗ. ДЕКО ПАЛАДОВ ДАРК",
-    "wholesalePrice": 135.93,
-    "extraPrice": 142.73,
-    "retailPrice": 169.92
-  },
-  {
-    "id": "УТ000016789",
-    "category": "..ХРИЗАНТЕМА",
-    "name": "ПУРПЛ СТАР",
-    "wholesalePrice": 97.66,
-    "extraPrice": 102.54,
-    "retailPrice": 122.08
   },
   {
     "id": "УТ000017622",
