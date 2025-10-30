@@ -9840,14 +9840,6 @@
     "retailPrice": 1040.07
   },
   {
-    "id": "УТ000052682",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ КИТАЙ",
-    "name": "ФИКУС ГИНСЕНГ 40/150 СМ КИТАЙ",
-    "wholesalePrice": 17661.58,
-    "extraPrice": 18544.66,
-    "retailPrice": 22076.98
-  },
-  {
     "id": "УТ000052686",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ КИТАЙ",
     "name": "СУККУЛЕНТЫ 12 СМ КИТАЙ",
@@ -16416,14 +16408,6 @@
     "retailPrice": 142.6
   },
   {
-    "id": "УТ000030461",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ФУЛ МОНТИ (ТЕССА)-70см ",
-    "wholesalePrice": 133.61,
-    "extraPrice": 140.29,
-    "retailPrice": 167.02
-  },
-  {
     "id": "УТ000031293",
     "category": "..РОЗА ЭКВАДОР",
     "name": "СВАН- 50см (СТАР,КОРОЗОН,МАТИЗ,ЭКО РОЗ,БЕЛЛА РОЗА,ЧАРМИНГ,СОФИ,ДАВИНЧИ.РОЯЛ)",
@@ -17918,14 +17902,6 @@
     "wholesalePrice": 137.33,
     "extraPrice": 144.19,
     "retailPrice": 171.66
-  },
-  {
-    "id": "УТ000039557",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "МАНДАРИН ЭКСПРЕШН (РОЗАПРИМА)- 70см",
-    "wholesalePrice": 151.23,
-    "extraPrice": 158.8,
-    "retailPrice": 189.04
   },
   {
     "id": "УТ000039586",
@@ -22574,14 +22550,6 @@
     "wholesalePrice": 2075.61,
     "extraPrice": 2179.39,
     "retailPrice": 2594.51
-  },
-  {
-    "id": "УТ000045441",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "ФИКУС ГИНСЕНГ 26 СМ",
-    "wholesalePrice": 5431.8,
-    "extraPrice": 5703.39,
-    "retailPrice": 6789.75
   },
   {
     "id": "УТ000045776",
@@ -46136,14 +46104,6 @@
     "retailPrice": 131.68
   },
   {
-    "id": "УТ000047434",
-    "category": "..,ЛИЛИЯ",
-    "name": "ЛИЛИЯ ОТ ТРОКАДЕРО",
-    "wholesalePrice": 342.37,
-    "extraPrice": 359.49,
-    "retailPrice": 427.96
-  },
-  {
     "id": "УТ000048247",
     "category": "..,ЛИЛИЯ",
     "name": "ЛИЛИЯ ОР ДУ САМАНТА",
@@ -53179,65 +53139,65 @@
     "id": "УТ000027742",
     "category": "..,РАЗНОЕ",
     "name": "ЛИЗИАНТУС  БЕЛО РОЗОВЫЙ",
-    "wholesalePrice": 137.44,
-    "extraPrice": 144.31,
-    "retailPrice": 171.8
+    "wholesalePrice": 129.21,
+    "extraPrice": 135.67,
+    "retailPrice": 161.51
   },
   {
     "id": "УТ000027743",
     "category": "..,РАЗНОЕ",
     "name": "ЛИЗИАНТУС  СВЕТЛО РОЗОВЫЙ",
-    "wholesalePrice": 167.89,
-    "extraPrice": 176.29,
-    "retailPrice": 209.87
+    "wholesalePrice": 152.26,
+    "extraPrice": 159.87,
+    "retailPrice": 190.32
   },
   {
     "id": "УТ000027744",
     "category": "..,РАЗНОЕ",
     "name": "ЛИЗИАНТУС  ЛАВАНДОВЫЙ",
-    "wholesalePrice": 176.95,
-    "extraPrice": 185.79,
-    "retailPrice": 221.18
-  },
-  {
-    "id": "УТ000027746",
-    "category": "..,РАЗНОЕ",
-    "name": "ЛИЗИАНТУС  БЕЛО СИНИЙ",
-    "wholesalePrice": 141.56,
-    "extraPrice": 148.63,
-    "retailPrice": 176.95
-  },
-  {
-    "id": "УТ000027747",
-    "category": "..,РАЗНОЕ",
-    "name": "ЛИЗИАНТУС  ЗЕЛЕНЫЙ",
-    "wholesalePrice": 162.13,
-    "extraPrice": 170.24,
-    "retailPrice": 202.66
-  },
-  {
-    "id": "УТ000027748",
-    "category": "..,РАЗНОЕ",
-    "name": "ЛИЗИАНТУС  БЕЛЫЙ",
     "wholesalePrice": 156.37,
     "extraPrice": 164.19,
     "retailPrice": 195.46
   },
   {
+    "id": "УТ000027746",
+    "category": "..,РАЗНОЕ",
+    "name": "ЛИЗИАНТУС  БЕЛО СИНИЙ",
+    "wholesalePrice": 137.44,
+    "extraPrice": 144.31,
+    "retailPrice": 171.8
+  },
+  {
+    "id": "УТ000027747",
+    "category": "..,РАЗНОЕ",
+    "name": "ЛИЗИАНТУС  ЗЕЛЕНЫЙ",
+    "wholesalePrice": 150.61,
+    "extraPrice": 158.14,
+    "retailPrice": 188.26
+  },
+  {
+    "id": "УТ000027748",
+    "category": "..,РАЗНОЕ",
+    "name": "ЛИЗИАНТУС  БЕЛЫЙ",
+    "wholesalePrice": 143.2,
+    "extraPrice": 150.36,
+    "retailPrice": 179
+  },
+  {
     "id": "УТ000027772",
     "category": "..,РАЗНОЕ",
     "name": "ЛИЗИАНТУС  КРАСНЫЙ",
-    "wholesalePrice": 164.6,
-    "extraPrice": 172.83,
-    "retailPrice": 205.75
+    "wholesalePrice": 152.26,
+    "extraPrice": 159.87,
+    "retailPrice": 190.32
   },
   {
     "id": "УТ000027773",
     "category": "..,РАЗНОЕ",
     "name": "ЛИЗИАНТУС  СИНИЙ",
-    "wholesalePrice": 148.96,
-    "extraPrice": 156.41,
-    "retailPrice": 186.2
+    "wholesalePrice": 142.38,
+    "extraPrice": 149.5,
+    "retailPrice": 177.97
   },
   {
     "id": "УТ000027931",
@@ -54051,9 +54011,9 @@
     "id": "УТ000044173",
     "category": "..,РАЗНОЕ",
     "name": "ЛИЗИАНТУС  ОРАНЖЕВЫЙ",
-    "wholesalePrice": 160.49,
-    "extraPrice": 168.51,
-    "retailPrice": 200.61
+    "wholesalePrice": 127.57,
+    "extraPrice": 133.94,
+    "retailPrice": 159.46
   },
   {
     "id": "УТ000044606",
@@ -54939,9 +54899,9 @@
     "id": "УТ000019677",
     "category": "..,РАЗНОЕ",
     "name": "ЛИЗИАНТУС АЛИСА РОЗОВЫЙ",
-    "wholesalePrice": 189.29,
-    "extraPrice": 198.75,
-    "retailPrice": 236.61
+    "wholesalePrice": 181.06,
+    "extraPrice": 190.11,
+    "retailPrice": 226.33
   },
   {
     "id": "УТ000016599",
