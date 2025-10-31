@@ -9480,14 +9480,6 @@
     "retailPrice": 248.7
   },
   {
-    "id": "УТ000010435",
-    "category": "..,ПИОНЫ",
-    "name": "БОУЛ ОФ КРЕМ ПИОНЫ",
-    "wholesalePrice": 198.96,
-    "extraPrice": 208.91,
-    "retailPrice": 248.7
-  },
-  {
     "id": "УТ000010448",
     "category": "..,ПИОНЫ",
     "name": "ДИАНА ПАРКС ПИОНЫ",
@@ -22854,14 +22846,6 @@
     "wholesalePrice": 580.3,
     "extraPrice": 609.32,
     "retailPrice": 725.38
-  },
-  {
-    "id": "УТ000042578",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "МУСА БАНАН 17 СМ",
-    "wholesalePrice": 901.95,
-    "extraPrice": 947.05,
-    "retailPrice": 1127.44
   },
   {
     "id": "УТ000043287",
@@ -46592,14 +46576,6 @@
     "retailPrice": 176.16
   },
   {
-    "id": "УТ000021363",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "РОМА VOORN-ROSES 70 см куст на воде",
-    "wholesalePrice": 157.43,
-    "extraPrice": 165.3,
-    "retailPrice": 196.78
-  },
-  {
     "id": "УТ000021395",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "ВИКТОР ВЕДИНГ VIP-ROSES 70 куст см на воде",
@@ -47920,6 +47896,14 @@
     "retailPrice": 179.69
   },
   {
+    "id": "УТ000046667",
+    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
+    "name": "ЛАВ ИТ  (VOORN-ROSES) 60 см куст на воде",
+    "wholesalePrice": 214.38,
+    "extraPrice": 225.1,
+    "retailPrice": 267.97
+  },
+  {
     "id": "УТ000046692",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "АЯЛА (VOORN-ROSES) 70 см куст на воде",
@@ -48336,6 +48320,14 @@
     "retailPrice": 186.53
   },
   {
+    "id": "УТ000052876",
+    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
+    "name": "РОЯЛ БЛАШ 60 см куст на воде",
+    "wholesalePrice": 206.92,
+    "extraPrice": 217.26,
+    "retailPrice": 258.65
+  },
+  {
     "id": "УТ000015683",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "СМЭШИНГ 70 см куст на воде",
@@ -48534,6 +48526,14 @@
     "wholesalePrice": 165.63,
     "extraPrice": 173.92,
     "retailPrice": 207.04
+  },
+  {
+    "id": "УТ000011486",
+    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
+    "name": "ГАЛИНА VOORN-ROSES 70 см куст на воде",
+    "wholesalePrice": 186.28,
+    "extraPrice": 195.59,
+    "retailPrice": 232.85
   },
   {
     "id": "УТ000011487",
@@ -53691,49 +53691,49 @@
     "id": "УТ000031643",
     "category": "..,РАЗНОЕ",
     "name": "ОРХИДЕЯ  1*6 БЕЛАЯ",
-    "wholesalePrice": 1508.78,
-    "extraPrice": 1584.22,
-    "retailPrice": 1885.98
+    "wholesalePrice": 1409.3,
+    "extraPrice": 1479.77,
+    "retailPrice": 1761.63
   },
   {
     "id": "УТ000031644",
     "category": "..,РАЗНОЕ",
     "name": "ОРХИДЕЯ  1*6 РОЗОВАЯ",
-    "wholesalePrice": 1492.2,
-    "extraPrice": 1566.81,
-    "retailPrice": 1865.25
+    "wholesalePrice": 1384.43,
+    "extraPrice": 1453.65,
+    "retailPrice": 1730.54
   },
   {
     "id": "УТ000031645",
     "category": "..,РАЗНОЕ",
     "name": "ОРХИДЕЯ  1*6 ЖЕЛТАЯ",
-    "wholesalePrice": 1459.04,
-    "extraPrice": 1531.99,
-    "retailPrice": 1823.8
+    "wholesalePrice": 1359.56,
+    "extraPrice": 1427.54,
+    "retailPrice": 1699.45
   },
   {
     "id": "УТ000031646",
     "category": "..,РАЗНОЕ",
     "name": "ОРХИДЕЯ  1*6 ЗЕЛЁНАЯ",
-    "wholesalePrice": 1442.46,
-    "extraPrice": 1514.58,
-    "retailPrice": 1803.08
+    "wholesalePrice": 1342.98,
+    "extraPrice": 1410.13,
+    "retailPrice": 1678.73
   },
   {
     "id": "УТ000031647",
     "category": "..,РАЗНОЕ",
     "name": "ОРХИДЕЯ  1*6 ОРАНЖЕВАЯ",
-    "wholesalePrice": 1467.33,
-    "extraPrice": 1540.7,
-    "retailPrice": 1834.16
+    "wholesalePrice": 1364.53,
+    "extraPrice": 1432.76,
+    "retailPrice": 1705.67
   },
   {
     "id": "УТ000031648",
     "category": "..,РАЗНОЕ",
     "name": "ОРХИДЕЯ  1*6 КРАСНАЯ",
-    "wholesalePrice": 1442.46,
-    "extraPrice": 1514.58,
-    "retailPrice": 1803.08
+    "wholesalePrice": 1342.98,
+    "extraPrice": 1410.13,
+    "retailPrice": 1678.73
   },
   {
     "id": "УТ000032261",
@@ -55131,17 +55131,17 @@
     "id": "УТ000010395",
     "category": "..,РАЗНОЕ",
     "name": "ОРХИДЕЯ  1*6 МИКС",
-    "wholesalePrice": 1442.46,
-    "extraPrice": 1514.58,
-    "retailPrice": 1803.08
+    "wholesalePrice": 1342.98,
+    "extraPrice": 1410.13,
+    "retailPrice": 1678.73
   },
   {
     "id": "УТ000010402",
     "category": "..,РАЗНОЕ",
     "name": "ОРХИДЕЯ 1*15  ",
-    "wholesalePrice": 700.51,
-    "extraPrice": 735.53,
-    "retailPrice": 875.63
+    "wholesalePrice": 650.77,
+    "extraPrice": 683.3,
+    "retailPrice": 813.46
   },
   {
     "id": "УТ000010416",
