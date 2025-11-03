@@ -34064,14 +34064,6 @@
     "retailPrice": 771.56
   },
   {
-    "id": "УТ000041583",
-    "category": "..,ЗЕЛЕНЬ",
-    "name": "СТАТИЦА  ЛАВАНДОВАЯ",
-    "wholesalePrice": 87.24,
-    "extraPrice": 91.6,
-    "retailPrice": 109.05
-  },
-  {
     "id": "УТ000043045",
     "category": "..,ЗЕЛЕНЬ",
     "name": "ТЛАСПИ  ВОДА",
@@ -34222,6 +34214,14 @@
     "wholesalePrice": 1465.84,
     "extraPrice": 1539.13,
     "retailPrice": 1832.3
+  },
+  {
+    "id": "УТ000053002",
+    "category": "..,ЗЕЛЕНЬ",
+    "name": "КРАНС ФРУКТЫ",
+    "wholesalePrice": 434.54,
+    "extraPrice": 456.27,
+    "retailPrice": 543.18
   },
   {
     "id": "УТ000015675",
@@ -54736,6 +54736,14 @@
     "retailPrice": 493.8
   },
   {
+    "id": "УТ000043728",
+    "category": "..,РАЗНОЕ",
+    "name": "МАЛУС",
+    "wholesalePrice": 186.82,
+    "extraPrice": 196.16,
+    "retailPrice": 233.53
+  },
+  {
     "id": "УТ000043852",
     "category": "..,РАЗНОЕ",
     "name": "ТАНАЦЕТУМ ЭКСТРА",
@@ -55440,14 +55448,6 @@
     "retailPrice": 204.72
   },
   {
-    "id": "УТ000010357",
-    "category": "..,РАЗНОЕ",
-    "name": "ЛЙОСИМ",
-    "wholesalePrice": 120.98,
-    "extraPrice": 127.03,
-    "retailPrice": 151.23
-  },
-  {
     "id": "УТ000010373",
     "category": "..,РАЗНОЕ",
     "name": "МОЛЮЦЕЛЛА",
@@ -55678,14 +55678,6 @@
     "wholesalePrice": 148.14,
     "extraPrice": 155.55,
     "retailPrice": 185.18
-  },
-  {
-    "id": "УТ000010643",
-    "category": "..,РАЗНОЕ",
-    "name": "ЦЕЛОЗИЯ  МИНИ",
-    "wholesalePrice": 98.76,
-    "extraPrice": 103.7,
-    "retailPrice": 123.45
   },
   {
     "id": "УТ000010646",
