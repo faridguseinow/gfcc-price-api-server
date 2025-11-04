@@ -25256,6 +25256,14 @@
     "retailPrice": 794.13
   },
   {
+    "id": "УТ000015091",
+    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
+    "name": "ЦИКАС РЕВОЛЮТА 12 СМ",
+    "wholesalePrice": 988.8,
+    "extraPrice": 1038.24,
+    "retailPrice": 1236
+  },
+  {
     "id": "УТ000015092",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
     "name": "ЦИКАС РЕВОЛЮТА 14 СМ",
@@ -46736,14 +46744,6 @@
     "retailPrice": 1556.33
   },
   {
-    "id": "УТ000032432",
-    "category": "..,ЛИЛИЯ",
-    "name": "ЛИЛИЯ ОР ДУ САРА БЕРНАРД ",
-    "wholesalePrice": 453.2,
-    "extraPrice": 475.86,
-    "retailPrice": 566.5
-  },
-  {
     "id": "УТ000043418",
     "category": "..,ЛИЛИЯ",
     "name": "ЛИЛИЯ ОР ДУ ШАРДОННАЙ",
@@ -46774,14 +46774,6 @@
     "wholesalePrice": 332.9,
     "extraPrice": 349.54,
     "retailPrice": 416.12
-  },
-  {
-    "id": "УТ000045614",
-    "category": "..,ЛИЛИЯ",
-    "name": "ЛИЛИЯ ОР ДУ ТАЛИССА",
-    "wholesalePrice": 269.45,
-    "extraPrice": 282.92,
-    "retailPrice": 336.81
   },
   {
     "id": "УТ000046583",
@@ -46862,14 +46854,6 @@
     "wholesalePrice": 107.12,
     "extraPrice": 112.48,
     "retailPrice": 133.9
-  },
-  {
-    "id": "УТ000052634",
-    "category": "..,ЛИЛИЯ",
-    "name": "ЛИЛИЯ ОТ СЕВЕРН",
-    "wholesalePrice": 323.01,
-    "extraPrice": 339.16,
-    "retailPrice": 403.76
   },
   {
     "id": "УТ000052880",
@@ -54832,14 +54816,6 @@
     "retailPrice": 115.36
   },
   {
-    "id": "УТ000045082",
-    "category": "..,РАЗНОЕ",
-    "name": "ГЕРБЕРА ДАЙМОНД ПАСТИНИ",
-    "wholesalePrice": 106.3,
-    "extraPrice": 111.61,
-    "retailPrice": 132.87
-  },
-  {
     "id": "УТ000045445",
     "category": "..,РАЗНОЕ",
     "name": "ЛЕЙКО ОРАНЖ",
@@ -55379,14 +55355,6 @@
     "id": "УТ000010257",
     "category": "..,РАЗНОЕ",
     "name": "ИРИС  КАСАБЛАНКА",
-    "wholesalePrice": 45.32,
-    "extraPrice": 47.59,
-    "retailPrice": 56.65
-  },
-  {
-    "id": "УТ000010258",
-    "category": "..,РАЗНОЕ",
-    "name": "ИРИС ЖЕЛТЫЙ",
     "wholesalePrice": 45.32,
     "extraPrice": 47.59,
     "retailPrice": 56.65
@@ -56360,22 +56328,6 @@
     "retailPrice": 68.06
   },
   {
-    "id": "УТ000034956",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "КАБАННА  ТЮЛЬПАН дубл",
-    "wholesalePrice": 58.95,
-    "extraPrice": 61.9,
-    "retailPrice": 73.69
-  },
-  {
-    "id": "УТ000035160",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "КОНКОРД  ТЮЛЬПАН дубл.",
-    "wholesalePrice": 58.95,
-    "extraPrice": 61.9,
-    "retailPrice": 73.69
-  },
-  {
     "id": "УТ000035369",
     "category": "..ТЮЛЬПАНЫ",
     "name": "КАРАКАС  ТЮЛЬПАН энкл.",
@@ -56448,14 +56400,6 @@
     "retailPrice": 68.06
   },
   {
-    "id": "УТ000044316",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "ХОНЕЙМУН  ТЮЛЬПАН  энкл.",
-    "wholesalePrice": 54.45,
-    "extraPrice": 57.17,
-    "retailPrice": 68.06
-  },
-  {
     "id": "УТ000044623",
     "category": "..ТЮЛЬПАНЫ",
     "name": "СВИТ БРИЗ ТЮЛЬПАН энкл.",
@@ -56464,41 +56408,9 @@
     "retailPrice": 68.06
   },
   {
-    "id": "УТ000045664",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "ПУРПЛ ВАЛЛЕЙ  ТЮЛЬПАН энкл.",
-    "wholesalePrice": 54.45,
-    "extraPrice": 57.17,
-    "retailPrice": 68.06
-  },
-  {
-    "id": "УТ000045835",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "ФОКСИ ФОКСТРОД КОАСТ  ТЮЛЬПАН дубл.",
-    "wholesalePrice": 80.86,
-    "extraPrice": 84.9,
-    "retailPrice": 101.07
-  },
-  {
     "id": "УТ000047364",
     "category": "..ТЮЛЬПАНЫ",
     "name": "РЕМАЙНДЕР  ТЮЛЬПАН дубл.",
-    "wholesalePrice": 58.95,
-    "extraPrice": 61.9,
-    "retailPrice": 73.69
-  },
-  {
-    "id": "УТ000047379",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "БИГ ЛОВЕ  ТЮЛЬПАН энкл.",
-    "wholesalePrice": 54.45,
-    "extraPrice": 57.17,
-    "retailPrice": 68.06
-  },
-  {
-    "id": "УТ000047576",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "ЧЕРИС ПАРРОТ  ТЮЛЬПАН дубл.",
     "wholesalePrice": 58.95,
     "extraPrice": 61.9,
     "retailPrice": 73.69
@@ -56515,22 +56427,6 @@
     "id": "УТ000047941",
     "category": "..ТЮЛЬПАНЫ",
     "name": "ИРЕН ПАРРОТ  ТЮЛЬПАН дубл.",
-    "wholesalePrice": 58.95,
-    "extraPrice": 61.9,
-    "retailPrice": 73.69
-  },
-  {
-    "id": "УТ000047952",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "ЛАНКА  ТЮЛЬПАН энкл.",
-    "wholesalePrice": 54.45,
-    "extraPrice": 57.17,
-    "retailPrice": 68.06
-  },
-  {
-    "id": "УТ000048907",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "ПАРРОТ ПРИНЦ  ТЮЛЬПАН дубл.",
     "wholesalePrice": 58.95,
     "extraPrice": 61.9,
     "retailPrice": 73.69
@@ -56566,14 +56462,6 @@
     "wholesalePrice": 61.41,
     "extraPrice": 64.48,
     "retailPrice": 76.77
-  },
-  {
-    "id": "УТ000013898",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "АД РЕМ  ТЮЛЬПАН энкл.",
-    "wholesalePrice": 54.45,
-    "extraPrice": 57.17,
-    "retailPrice": 68.06
   },
   {
     "id": "УТ000013906",
@@ -56656,22 +56544,6 @@
     "retailPrice": 73.69
   },
   {
-    "id": "УТ000014006",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "КОЛУМБУС  ТЮЛЬПАН дубл.",
-    "wholesalePrice": 58.95,
-    "extraPrice": 61.9,
-    "retailPrice": 73.69
-  },
-  {
-    "id": "УТ000014063",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "ПИНК АРДОУР  ТЮЛЬПАН энкл.",
-    "wholesalePrice": 54.45,
-    "extraPrice": 57.17,
-    "retailPrice": 68.06
-  },
-  {
     "id": "УТ000014078",
     "category": "..ТЮЛЬПАНЫ",
     "name": "ПУРПЛ ПРИНЦЕСС  ТЮЛЬПАН энкл.",
@@ -56731,14 +56603,6 @@
     "id": "УТ000014149",
     "category": "..ТЮЛЬПАНЫ",
     "name": "ФУРАНД  ТЮЛЬПАН энкел. ",
-    "wholesalePrice": 54.45,
-    "extraPrice": 57.17,
-    "retailPrice": 68.06
-  },
-  {
-    "id": "УТ000014167",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "ЭСКЕЙП  ТЮЛЬПАН энкл.",
     "wholesalePrice": 54.45,
     "extraPrice": 57.17,
     "retailPrice": 68.06
