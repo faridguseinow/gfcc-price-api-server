@@ -30080,14 +30080,6 @@
     "retailPrice": 1847.88
   },
   {
-    "id": "УТ000053002",
-    "category": "..,ЗЕЛЕНЬ",
-    "name": "КРАНС ФРУКТЫ",
-    "wholesalePrice": 438.24,
-    "extraPrice": 460.15,
-    "retailPrice": 547.8
-  },
-  {
     "id": "УТ000015675",
     "category": "..,ЗЕЛЕНЬ",
     "name": "ЭВКАЛИПТ МИНИ",
@@ -32174,14 +32166,6 @@
     "wholesalePrice": 135.29,
     "extraPrice": 142.05,
     "retailPrice": 169.11
-  },
-  {
-    "id": "УТ000005378",
-    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
-    "name": "ЛИРИКА 60 см РОЗА Кен/Куст. (RLR)",
-    "wholesalePrice": 165.17,
-    "extraPrice": 173.43,
-    "retailPrice": 206.46
   },
   {
     "id": "УТ000005379",
@@ -42848,6 +42832,14 @@
     "retailPrice": 280.13
   },
   {
+    "id": "УТ000030334",
+    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
+    "name": "ШАЙЕНН 60 см куст на воде",
+    "wholesalePrice": 124.5,
+    "extraPrice": 130.73,
+    "retailPrice": 155.63
+  },
+  {
     "id": "УТ000030336",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "ШАЙЕНН 70 см куст на воде",
@@ -50064,14 +50056,6 @@
     "retailPrice": 197.13
   },
   {
-    "id": "УТ000038657",
-    "category": "..,РАЗНОЕ",
-    "name": "ДЕЛЬФИНИУМ СИНИЙ  60 см",
-    "wholesalePrice": 149.4,
-    "extraPrice": 156.87,
-    "retailPrice": 186.75
-  },
-  {
     "id": "УТ000038658",
     "category": "..,РАЗНОЕ",
     "name": "ДЕЛЬФИНИУМ СИНИЙ  100 см",
@@ -50094,14 +50078,6 @@
     "wholesalePrice": 116.2,
     "extraPrice": 122.01,
     "retailPrice": 145.25
-  },
-  {
-    "id": "УТ000038676",
-    "category": "..,РАЗНОЕ",
-    "name": "ГИПЕРИКУМ 70 СМ БЕЛЫЙ",
-    "wholesalePrice": 101.26,
-    "extraPrice": 106.32,
-    "retailPrice": 126.58
   },
   {
     "id": "УТ000038680",
@@ -50240,6 +50216,14 @@
     "retailPrice": 162.89
   },
   {
+    "id": "УТ000038712",
+    "category": "..,РАЗНОЕ",
+    "name": "КАЛЛА  ЧЕРНАЯ 60 СМ",
+    "wholesalePrice": 136.95,
+    "extraPrice": 143.8,
+    "retailPrice": 171.19
+  },
+  {
     "id": "УТ000038733",
     "category": "..,РАЗНОЕ",
     "name": "ЛЕЙКО КРАСНЫЙ",
@@ -50302,14 +50286,6 @@
     "wholesalePrice": 128.65,
     "extraPrice": 135.08,
     "retailPrice": 160.81
-  },
-  {
-    "id": "УТ000038758",
-    "category": "..,РАЗНОЕ",
-    "name": "РАНУНКУЛЮС БАТТЕР",
-    "wholesalePrice": 141.1,
-    "extraPrice": 148.16,
-    "retailPrice": 176.38
   },
   {
     "id": "УТ000038761",
@@ -50454,14 +50430,6 @@
     "wholesalePrice": 381.8,
     "extraPrice": 400.89,
     "retailPrice": 477.25
-  },
-  {
-    "id": "УТ000043728",
-    "category": "..,РАЗНОЕ",
-    "name": "МАЛУС",
-    "wholesalePrice": 188.41,
-    "extraPrice": 197.83,
-    "retailPrice": 235.51
   },
   {
     "id": "УТ000043852",
@@ -51160,14 +51128,6 @@
     "retailPrice": 124.5
   },
   {
-    "id": "УТ000010346",
-    "category": "..,РАЗНОЕ",
-    "name": "ЛИГУСТЕР",
-    "wholesalePrice": 178.45,
-    "extraPrice": 187.37,
-    "retailPrice": 223.06
-  },
-  {
     "id": "УТ000010348",
     "category": "..,РАЗНОЕ",
     "name": "ЛИЗИАНТУС   КРАСНОДАР  ",
@@ -51382,6 +51342,14 @@
     "wholesalePrice": 64.74,
     "extraPrice": 67.98,
     "retailPrice": 80.93
+  },
+  {
+    "id": "УТ000010625",
+    "category": "..,РАЗНОЕ",
+    "name": "ФРЕЗИЯ МИКС",
+    "wholesalePrice": 58.1,
+    "extraPrice": 61.01,
+    "retailPrice": 72.63
   },
   {
     "id": "УТ000010635",
@@ -52400,14 +52368,6 @@
     "retailPrice": 185.71
   },
   {
-    "id": "УТ000033566",
-    "category": "..ХРИЗАНТЕМА",
-    "name": ".ХРИЗ. ДЕКО ПИП ПРЕТТИ",
-    "wholesalePrice": 148.57,
-    "extraPrice": 156,
-    "retailPrice": 185.71
-  },
-  {
     "id": "УТ000033629",
     "category": "..ХРИЗАНТЕМА",
     "name": ".ХРИЗ. ДЕКО ТУТУ",
@@ -53243,6 +53203,14 @@
     "id": "УТ000015013",
     "category": "..ХРИЗАНТЕМА",
     "name": ".ХРИЗ. ДЕКО ПАЛАДОВ",
+    "wholesalePrice": 148.57,
+    "extraPrice": 156,
+    "retailPrice": 185.71
+  },
+  {
+    "id": "УТ000015014",
+    "category": "..ХРИЗАНТЕМА",
+    "name": ".ХРИЗ. ДЕКО ПИП",
     "wholesalePrice": 148.57,
     "extraPrice": 156,
     "retailPrice": 185.71
