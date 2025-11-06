@@ -19440,28 +19440,12 @@
     "retailPrice": 1777.1
   },
   {
-    "id": "УТ000002884",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "БАМБУК 10 СМ",
-    "wholesalePrice": 619.34,
-    "extraPrice": 650.31,
-    "retailPrice": 774.18
-  },
-  {
     "id": "УТ000002899",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
     "name": "БАХУС 17 СМ",
     "wholesalePrice": 1170.79,
     "extraPrice": 1229.33,
     "retailPrice": 1463.49
-  },
-  {
-    "id": "УТ000002914",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "БЕГОНИЯ БОРИАС 14 СМ",
-    "wholesalePrice": 781.63,
-    "extraPrice": 820.71,
-    "retailPrice": 977.04
   },
   {
     "id": "УТ000002919",
@@ -29595,9 +29579,9 @@
     "id": "УТ000032349",
     "category": "..,ЗЕЛЕНЬ",
     "name": "РУСКУС КРАСНОДАР  МИНИ",
-    "wholesalePrice": 162.29,
-    "extraPrice": 170.4,
-    "retailPrice": 202.86
+    "wholesalePrice": 168.08,
+    "extraPrice": 176.49,
+    "retailPrice": 210.11
   },
   {
     "id": "УТ000034214",
@@ -29803,9 +29787,9 @@
     "id": "УТ000048274",
     "category": "..,ЗЕЛЕНЬ",
     "name": "МЕРЕЖКА КРАСНОДАР",
-    "wholesalePrice": 315.55,
-    "extraPrice": 331.33,
-    "retailPrice": 394.44
+    "wholesalePrice": 420.62,
+    "extraPrice": 441.66,
+    "retailPrice": 525.78
   },
   {
     "id": "УТ000015675",
@@ -42208,14 +42192,6 @@
     "retailPrice": 129.38
   },
   {
-    "id": "УТ000047140",
-    "category": "..,ЛИЛИЯ",
-    "name": "ЛИЛИЯ ЛА КОРЛЕОНЕ",
-    "wholesalePrice": 103.5,
-    "extraPrice": 108.68,
-    "retailPrice": 129.38
-  },
-  {
     "id": "УТ000047141",
     "category": "..,ЛИЛИЯ",
     "name": "ЛИЛИЯ ЛА ЛИТУВЕН",
@@ -42246,14 +42222,6 @@
     "wholesalePrice": 103.5,
     "extraPrice": 108.68,
     "retailPrice": 129.38
-  },
-  {
-    "id": "УТ000052634",
-    "category": "..,ЛИЛИЯ",
-    "name": "ЛИЛИЯ ОТ СЕВЕРН",
-    "wholesalePrice": 311.33,
-    "extraPrice": 326.89,
-    "retailPrice": 389.16
   },
   {
     "id": "УТ000052880",
@@ -49331,9 +49299,9 @@
     "id": "УТ000028028",
     "category": "..,РАЗНОЕ",
     "name": "МАТИОЛА   КРАСНОДАР",
-    "wholesalePrice": 128.34,
-    "extraPrice": 134.76,
-    "retailPrice": 160.43
+    "wholesalePrice": 124.2,
+    "extraPrice": 130.41,
+    "retailPrice": 155.25
   },
   {
     "id": "УТ000028029",
@@ -49635,9 +49603,9 @@
     "id": "УТ000038976",
     "category": "..,РАЗНОЕ",
     "name": "МАТИОЛА  ИТАЛИЯ",
-    "wholesalePrice": 128.34,
-    "extraPrice": 134.76,
-    "retailPrice": 160.43
+    "wholesalePrice": 124.2,
+    "extraPrice": 130.41,
+    "retailPrice": 155.25
   },
   {
     "id": "УТ000039101",
@@ -49659,9 +49627,9 @@
     "id": "УТ000039223",
     "category": "..,РАЗНОЕ",
     "name": "АНТИР ИТАЛИЯ",
-    "wholesalePrice": 107.64,
-    "extraPrice": 113.02,
-    "retailPrice": 134.55
+    "wholesalePrice": 112.61,
+    "extraPrice": 118.24,
+    "retailPrice": 140.76
   },
   {
     "id": "УТ000040785",
@@ -49984,6 +49952,14 @@
     "retailPrice": 124.2
   },
   {
+    "id": "УТ000010156",
+    "category": "..,РАЗНОЕ",
+    "name": "БРУНИЯ ЛЕВИС",
+    "wholesalePrice": 68.72,
+    "extraPrice": 72.16,
+    "retailPrice": 85.91
+  },
+  {
     "id": "УТ000010158",
     "category": "..,РАЗНОЕ",
     "name": "БУПЛЕРУМ",
@@ -50286,6 +50262,14 @@
     "wholesalePrice": 115.92,
     "extraPrice": 121.72,
     "retailPrice": 144.9
+  },
+  {
+    "id": "УТ000010642",
+    "category": "..,РАЗНОЕ",
+    "name": "ЦЕЛОЗИЯ",
+    "wholesalePrice": 149.04,
+    "extraPrice": 156.49,
+    "retailPrice": 186.3
   },
   {
     "id": "УТ000010643",
