@@ -88,14 +88,6 @@
     "retailPrice": 149.82
   },
   {
-    "id": "УТ000041189",
-    "category": "..,РОЗА ,МЕСТНАЯ",
-    "name": "ЧЕХОВСКИЙ САД КУСТОВАЯ  80 см",
-    "wholesalePrice": 219.3,
-    "extraPrice": 230.27,
-    "retailPrice": 274.13
-  },
-  {
     "id": "УТ000046913",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "МИКС КУСТ 50 см АРТ РОССЕ",
@@ -6366,14 +6358,6 @@
     "wholesalePrice": 147.85,
     "extraPrice": 155.25,
     "retailPrice": 184.82
-  },
-  {
-    "id": "УТ000044422",
-    "category": "НОВЫЙ ГОД",
-    "name": "ЕЛОЧНЫЕ ШАРЫ № CBV27",
-    "wholesalePrice": 128.03,
-    "extraPrice": 134.43,
-    "retailPrice": 160.04
   },
   {
     "id": "УТ000044423",
@@ -16456,6 +16440,14 @@
     "retailPrice": 115.77
   },
   {
+    "id": "УТ000040451",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "ПИНК ФЛОЙД-  80см ANNI ROSES.LRA.QLS.ATC.SPPH.ALLGF.EVR.RLH.TURS.GWFW.VDS.RDF.FDS 2.CNV.MON",
+    "wholesalePrice": 105.77,
+    "extraPrice": 111.06,
+    "retailPrice": 132.21
+  },
+  {
     "id": "УТ000040455",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ПИНК МОНДИАЛЬ-  60см ANNI ROSES.LRA.QLS.ATC.SPPH.ALLGF.EVR.RLH.TURS.GWFW.VDS.RDF.FDS 2.CNV.MON",
@@ -21440,6 +21432,14 @@
     "retailPrice": 255.03
   },
   {
+    "id": "УТ000030827",
+    "category": ".УПАКОВКА",
+    "name": "ЯЩИК № 023",
+    "wholesalePrice": 218.89,
+    "extraPrice": 229.83,
+    "retailPrice": 273.61
+  },
+  {
     "id": "УТ000030885",
     "category": ".УПАКОВКА",
     "name": "СЕКАТОР № 3152",
@@ -23230,6 +23230,14 @@
     "wholesalePrice": 272.58,
     "extraPrice": 286.21,
     "retailPrice": 340.73
+  },
+  {
+    "id": "УТ000022420",
+    "category": ".УПАКОВКА",
+    "name": "ЯЩИК № 111",
+    "wholesalePrice": 194.11,
+    "extraPrice": 203.82,
+    "retailPrice": 242.64
   },
   {
     "id": "УТ000022423",
