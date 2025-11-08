@@ -12792,14 +12792,6 @@
     "retailPrice": 121.55
   },
   {
-    "id": "УТ000027920",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "МОНДИАЛЬ -  90 см",
-    "wholesalePrice": 113.7,
-    "extraPrice": 119.38,
-    "retailPrice": 142.12
-  },
-  {
     "id": "УТ000028687",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ПРОУД -  50 см",
@@ -15110,14 +15102,6 @@
     "wholesalePrice": 96.71,
     "extraPrice": 101.54,
     "retailPrice": 120.89
-  },
-  {
-    "id": "УТ000037542",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "МОНДИАЛЬ (РОЗАПРИМА)- 70 см",
-    "wholesalePrice": 109.49,
-    "extraPrice": 114.97,
-    "retailPrice": 136.87
   },
   {
     "id": "УТ000037619",
@@ -31032,6 +31016,14 @@
     "retailPrice": 123.9
   },
   {
+    "id": "УТ000047461",
+    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
+    "name": "ГИСЕЛЕ 60 см РОЗА Кен/Куст. (TAMBUZI)",
+    "wholesalePrice": 147.03,
+    "extraPrice": 154.38,
+    "retailPrice": 183.79
+  },
+  {
     "id": "УТ000047462",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "ЛЕДИ БОМБАСТИК  50 см РОЗА Кен/Куст. (TAMBUZI)",
@@ -31414,6 +31406,14 @@
     "wholesalePrice": 103.25,
     "extraPrice": 108.41,
     "retailPrice": 129.06
+  },
+  {
+    "id": "УТ000052515",
+    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
+    "name": "ГИСЕЛЕ 60 см РОЗА Кен/Куст. (FLORA OLA)",
+    "wholesalePrice": 108.21,
+    "extraPrice": 113.62,
+    "retailPrice": 135.26
   },
   {
     "id": "УТ000052543",
@@ -51910,6 +51910,14 @@
     "wholesalePrice": 113.99,
     "extraPrice": 119.69,
     "retailPrice": 142.49
+  },
+  {
+    "id": "УТ000014773",
+    "category": "..ХРИЗАНТЕМА",
+    "name": "БАКАРДИ РОЗОВЫЙ",
+    "wholesalePrice": 92.69,
+    "extraPrice": 97.32,
+    "retailPrice": 115.86
   },
   {
     "id": "УТ000014774",
