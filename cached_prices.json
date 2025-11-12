@@ -21264,6 +21264,14 @@
     "retailPrice": 1137.13
   },
   {
+    "id": "УТ000015714",
+    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
+    "name": "ДЕНДРОБИУМ КАСКАТ 12 СМ",
+    "wholesalePrice": 1240.5,
+    "extraPrice": 1302.53,
+    "retailPrice": 1550.63
+  },
+  {
     "id": "УТ000015718",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
     "name": "КАКТУС 12 СМ",
@@ -30614,14 +30622,6 @@
     "wholesalePrice": 1178.48,
     "extraPrice": 1237.4,
     "retailPrice": 1473.09
-  },
-  {
-    "id": "УТ000052521",
-    "category": "ВАЗЫ И КЕРАМИКА",
-    "name": "ПЛАСТИК ГОРШОК H-16UF40",
-    "wholesalePrice": 5684.8,
-    "extraPrice": 5969.04,
-    "retailPrice": 7106
   },
   {
     "id": "УТ000052526",
@@ -48936,14 +48936,6 @@
     "retailPrice": 1611.62
   },
   {
-    "id": "УТ000052242",
-    "category": "МЯГКАЯ ИГРУШКА",
-    "name": "Мягкая игрушка № HS27-010",
-    "wholesalePrice": 1017.21,
-    "extraPrice": 1068.07,
-    "retailPrice": 1271.51
-  },
-  {
     "id": "УТ000052392",
     "category": "МЯГКАЯ ИГРУШКА",
     "name": "Мягкая игрушка № LB-154",
@@ -52920,14 +52912,6 @@
     "retailPrice": 116.81
   },
   {
-    "id": "УТ000010156",
-    "category": "..,РАЗНОЕ",
-    "name": "БРУНИЯ ЛЕВИС",
-    "wholesalePrice": 71.95,
-    "extraPrice": 75.55,
-    "retailPrice": 89.94
-  },
-  {
     "id": "УТ000010159",
     "category": "..,РАЗНОЕ",
     "name": "ВАНДА",
@@ -54635,6 +54619,14 @@
     "id": "УТ000014793",
     "category": "..ХРИЗАНТЕМА",
     "name": "ГАЙДАР",
+    "wholesalePrice": 93.45,
+    "extraPrice": 98.12,
+    "retailPrice": 116.81
+  },
+  {
+    "id": "УТ000014811",
+    "category": "..ХРИЗАНТЕМА",
+    "name": "ЕВРО БЕЛЫЙ",
     "wholesalePrice": 93.45,
     "extraPrice": 98.12,
     "retailPrice": 116.81
