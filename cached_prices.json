@@ -24960,14 +24960,6 @@
     "retailPrice": 285.99
   },
   {
-    "id": "УТ000038929",
-    "category": ".УПАКОВКА",
-    "name": "СУМКА № 3 ПАЧКА 10 ШТ",
-    "wholesalePrice": 186,
-    "extraPrice": 195.3,
-    "retailPrice": 232.5
-  },
-  {
     "id": "УТ000038930",
     "category": ".УПАКОВКА",
     "name": "СУМКА № 4 ПАЧКА 10 ШТ",
@@ -33926,14 +33918,6 @@
     "wholesalePrice": 73.25,
     "extraPrice": 76.91,
     "retailPrice": 91.56
-  },
-  {
-    "id": "УТ000045588",
-    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
-    "name": "ГУД МУД 60 см РОЗА Кен/Куст. (GROOVE)",
-    "wholesalePrice": 88.6,
-    "extraPrice": 93.03,
-    "retailPrice": 110.76
   },
   {
     "id": "УТ000045751",
@@ -51702,6 +51686,14 @@
     "wholesalePrice": 90.53,
     "extraPrice": 95.06,
     "retailPrice": 113.16
+  },
+  {
+    "id": "УТ000008626",
+    "category": "..РОЗА КЕНИЯ",
+    "name": "АЙС БРЕКЕР 60 см РОЗА Кения (RLR)",
+    "wholesalePrice": 101.23,
+    "extraPrice": 106.29,
+    "retailPrice": 126.54
   },
   {
     "id": "УТ000008628",
