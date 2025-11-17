@@ -19280,6 +19280,14 @@
     "retailPrice": 118.53
   },
   {
+    "id": "УТ000040108",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "ЭКСПЛОРЕР-  110см ANNI ROSES.LRA.QLS.ATC.SPPH.ALLGF.EVR.RLH.TURS.GWFW.VDS.RDF.CNV.MON",
+    "wholesalePrice": 155.68,
+    "extraPrice": 163.47,
+    "retailPrice": 194.61
+  },
+  {
     "id": "УТ000040145",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ХЭРМОСА-60см ANNI ROSES.LRA.QLS.ATC.SPPH.ALLGF.EVR.RLH.TURS.GWFW.VDS.RDF.FDS 2.CNV.MON",
@@ -20840,14 +20848,6 @@
     "retailPrice": 214.69
   },
   {
-    "id": "УТ000017437",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ГОТЧА (ТЕССА)- 60см",
-    "wholesalePrice": 119.84,
-    "extraPrice": 125.84,
-    "retailPrice": 149.81
-  },
-  {
     "id": "УТ000017438",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ГОТЧА (ТЕССА)- 70см",
@@ -22222,14 +22222,6 @@
     "wholesalePrice": 5043.56,
     "extraPrice": 5295.73,
     "retailPrice": 6304.45
-  },
-  {
-    "id": "УТ000050374",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "ФИЛЕБОДИУМ 20 СМ",
-    "wholesalePrice": 1891.54,
-    "extraPrice": 1986.12,
-    "retailPrice": 2364.43
   },
   {
     "id": "УТ000051043",
@@ -33155,9 +33147,9 @@
     "id": "УТ000034514",
     "category": "..,ЗЕЛЕНЬ",
     "name": "АСПАРАГУС ИТАЛИЯ ЭКСТРА",
-    "wholesalePrice": 520.38,
-    "extraPrice": 546.4,
-    "retailPrice": 650.48
+    "wholesalePrice": 512.12,
+    "extraPrice": 537.73,
+    "retailPrice": 640.15
   },
   {
     "id": "УТ000034838",
@@ -33376,12 +33368,20 @@
     "retailPrice": 545.16
   },
   {
+    "id": "УТ000053578",
+    "category": "..,ЗЕЛЕНЬ",
+    "name": "СОСНА ГОРНАЯ ИТАЛИЯ",
+    "wholesalePrice": 512.12,
+    "extraPrice": 537.73,
+    "retailPrice": 640.15
+  },
+  {
     "id": "УТ000015675",
     "category": "..,ЗЕЛЕНЬ",
     "name": "ЭВКАЛИПТ МИНИ",
-    "wholesalePrice": 437.78,
-    "extraPrice": 459.67,
-    "retailPrice": 547.23
+    "wholesalePrice": 446.04,
+    "extraPrice": 468.34,
+    "retailPrice": 557.55
   },
   {
     "id": "УТ000004951",
@@ -33507,17 +33507,17 @@
     "id": "УТ000005023",
     "category": "..,ЗЕЛЕНЬ",
     "name": "ПИТТОСПОРУМ СНОУ",
-    "wholesalePrice": 346.92,
-    "extraPrice": 364.27,
-    "retailPrice": 433.65
+    "wholesalePrice": 348.57,
+    "extraPrice": 366,
+    "retailPrice": 435.72
   },
   {
     "id": "УТ000005025",
     "category": "..,ЗЕЛЕНЬ",
     "name": "ПИТТОСПОРУМ ЭКСТРА",
-    "wholesalePrice": 338.66,
-    "extraPrice": 355.59,
-    "retailPrice": 423.33
+    "wholesalePrice": 348.57,
+    "extraPrice": 366,
+    "retailPrice": 435.72
   },
   {
     "id": "УТ000005026",
@@ -53843,9 +53843,9 @@
     "id": "УТ000040944",
     "category": "..,РАЗНОЕ",
     "name": "ВИБУРНУМ БЕРРИ пачка",
-    "wholesalePrice": 297.36,
-    "extraPrice": 312.23,
-    "retailPrice": 371.7
+    "wholesalePrice": 611.24,
+    "extraPrice": 641.8,
+    "retailPrice": 764.05
   },
   {
     "id": "УТ000041151",
@@ -53963,9 +53963,9 @@
     "id": "УТ000044937",
     "category": "..,РАЗНОЕ",
     "name": "ЦИПРИПЕДИУМ",
-    "wholesalePrice": 163.22,
-    "extraPrice": 171.38,
-    "retailPrice": 204.02
+    "wholesalePrice": 206.5,
+    "extraPrice": 216.83,
+    "retailPrice": 258.13
   },
   {
     "id": "УТ000045082",
@@ -54603,9 +54603,9 @@
     "id": "УТ000010546",
     "category": "..,РАЗНОЕ",
     "name": "РАНУНКУЛЮС  экстра",
-    "wholesalePrice": 258.54,
-    "extraPrice": 271.46,
-    "retailPrice": 323.17
+    "wholesalePrice": 260.19,
+    "extraPrice": 273.2,
+    "retailPrice": 325.24
   },
   {
     "id": "УТ000010547",
