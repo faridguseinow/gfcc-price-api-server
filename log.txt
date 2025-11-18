@@ -25369,3 +25369,17 @@ To https://github.com/faridguseinow/gfcc-price-api-server.git
 🔄 Подключение к FTP...
 📥 Скачивание XML...
 ✅Прайс обновлён.Сохранено: $ { normalized.length } позиций
+warning: in the working copy of 'cached_prices.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'farid_gold.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'log.txt', LF will be replaced by CRLF the next time Git touches it
+[main f172f1b] ╨Р╨▓╤В╨╛╨╛╨▒╨╜╨╛╨▓╨╗╨╡╨╜╨╕╨╡ ╨┐╤А╨░╨╣╤Б-╨╗╨╕╤Б╤В╨░
+ 3 files changed, 13 insertions(+), 613 deletions(-)
+To https://github.com/faridguseinow/gfcc-price-api-server.git
+   88d5603..f172f1b  main -> main
+18.11.2025 15:00:04,00 
+Обновление завершено. 
+🔄 Подключение к FTP...
+📥 Скачивание XML...
+❌ Ошибка при обновлении прайса: 
+${ err.message }
+❌ Ошибка при отправке email: Missing credentials for "PLAIN"
