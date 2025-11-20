@@ -192,14 +192,6 @@
     "retailPrice": 165.97
   },
   {
-    "id": "УТ000014022",
-    "category": "..,РОЗА ,МЕСТНАЯ",
-    "name": "ЛИНИЯ РОЗА КУСТОВАЯ. 60 СМ",
-    "wholesalePrice": 206.49,
-    "extraPrice": 216.81,
-    "retailPrice": 258.11
-  },
-  {
     "id": "УТ000033205",
     "category": "СИЛИКОНОВЫЕ ЦВЕТЫ",
     "name": "ОРХИДЕЯ СИЛИКОНОВЫЕ",
@@ -23750,6 +23742,14 @@
     "wholesalePrice": 997.52,
     "extraPrice": 1047.39,
     "retailPrice": 1246.89
+  },
+  {
+    "id": "УТ000002716",
+    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
+    "name": "АНТУРИУМ СПИРИТ 14 СМ",
+    "wholesalePrice": 1262.7,
+    "extraPrice": 1325.83,
+    "retailPrice": 1578.37
   },
   {
     "id": "УТ000002721",
@@ -56128,14 +56128,6 @@
     "retailPrice": 78.97
   },
   {
-    "id": "УТ000013973",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "ДУБЛЬ ПРАЙС  ТЮЛЬПАН дубл.",
-    "wholesalePrice": 68.43,
-    "extraPrice": 71.85,
-    "retailPrice": 85.54
-  },
-  {
     "id": "УТ000013974",
     "category": "..ТЮЛЬПАНЫ",
     "name": "ДУБЛЬ ПРИНЦЕС  ТЮЛЬПАН дубл.",
@@ -57112,6 +57104,14 @@
     "retailPrice": 130.48
   },
   {
+    "id": "УТ000014769",
+    "category": "..ХРИЗАНТЕМА",
+    "name": "БАКАРДИ БЕЛЫЙ",
+    "wholesalePrice": 104.38,
+    "extraPrice": 109.6,
+    "retailPrice": 130.48
+  },
+  {
     "id": "УТ000014770",
     "category": "..ХРИЗАНТЕМА",
     "name": "БАКАРДИ ЖЕЛТЫЙ",
@@ -57126,14 +57126,6 @@
     "wholesalePrice": 139.5,
     "extraPrice": 146.48,
     "retailPrice": 174.38
-  },
-  {
-    "id": "УТ000014773",
-    "category": "..ХРИЗАНТЕМА",
-    "name": "БАКАРДИ РОЗОВЫЙ",
-    "wholesalePrice": 104.38,
-    "extraPrice": 109.6,
-    "retailPrice": 130.48
   },
   {
     "id": "УТ000014774",
