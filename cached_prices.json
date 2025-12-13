@@ -17840,14 +17840,6 @@
     "retailPrice": 98.8
   },
   {
-    "id": "УТ000029490",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "АТОМИК- 60см (СТАР,КОРОЗОН,МАТИЗ,ЭКО РОЗ,БЕЛЛА РОЗА,ЧАРМИНГ,СОФИ,ДАВИНЧИ.РОЯЛ)",
-    "wholesalePrice": 91.43,
-    "extraPrice": 96,
-    "retailPrice": 114.29
-  },
-  {
     "id": "УТ000029491",
     "category": "..РОЗА ЭКВАДОР",
     "name": "АТОМИК- 70см (СТАР,КОРОЗОН,МАТИЗ,ЭКО РОЗ,БЕЛЛА РОЗА,ЧАРМИНГ,СОФИ,ДАВИНЧИ.РОЯЛ)",
@@ -21534,14 +21526,6 @@
     "wholesalePrice": 84.06,
     "extraPrice": 88.26,
     "retailPrice": 105.07
-  },
-  {
-    "id": "УТ000040054",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ЭСПЕРАНСА-  70см ANNI ROSES.LRA.QLS.ATC.SPPH.ALLGF.EVR.RLH.TURS.GWFW.VDS.RDF.FDS 2.CNV.MON",
-    "wholesalePrice": 107.4,
-    "extraPrice": 112.76,
-    "retailPrice": 134.24
   },
   {
     "id": "УТ000040055",
@@ -37256,6 +37240,14 @@
     "retailPrice": 97.44
   },
   {
+    "id": "УТ000054000",
+    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
+    "name": "ДИМА БОМБАСТИК 50 см РОЗА Кен/Куст. (KAREN)",
+    "wholesalePrice": 97.44,
+    "extraPrice": 102.31,
+    "retailPrice": 121.8
+  },
+  {
     "id": "УТ000022439",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "САЛИНЕРО 50 см РОЗА Кен/Куст. (RLR)",
@@ -50200,6 +50192,14 @@
     "retailPrice": 56.84
   },
   {
+    "id": "УТ000046053",
+    "category": ",Сортовой",
+    "name": "МЕРИДИАН СОРТОВОЙ 50 см РОЗА Кения (MERIDIAN)",
+    "wholesalePrice": 38.16,
+    "extraPrice": 40.07,
+    "retailPrice": 47.71
+  },
+  {
     "id": "УТ000046057",
     "category": ",Сортовой",
     "name": "МЕРИДИАН СОРТОВОЙ 40 см РОЗА Кения (MERIDIAN)",
@@ -50448,12 +50448,28 @@
     "retailPrice": 127.89
   },
   {
+    "id": "УТ000045471",
+    "category": "..РОЗА КЕНИЯ",
+    "name": "МИКС 40 см РОЗА Кения (MERIDIAN)",
+    "wholesalePrice": 32.48,
+    "extraPrice": 34.1,
+    "retailPrice": 40.6
+  },
+  {
     "id": "УТ000045783",
     "category": "..РОЗА КЕНИЯ",
     "name": "МИКС 50 см РОЗА Кения (MERIDIAN)",
     "wholesalePrice": 38.16,
     "extraPrice": 40.07,
     "retailPrice": 47.71
+  },
+  {
+    "id": "УТ000045904",
+    "category": "..РОЗА КЕНИЯ",
+    "name": "МАДАМ РЕД 50 см РОЗА Кения (MERIDIAN)",
+    "wholesalePrice": 41.41,
+    "extraPrice": 43.48,
+    "retailPrice": 51.77
   },
   {
     "id": "УТ000049441",
@@ -50712,6 +50728,14 @@
     "retailPrice": 127.89
   },
   {
+    "id": "УТ000008690",
+    "category": "..РОЗА КЕНИЯ",
+    "name": "АФИНА 40 см РОЗА Кения (SUBATI)",
+    "wholesalePrice": 47.91,
+    "extraPrice": 50.3,
+    "retailPrice": 59.89
+  },
+  {
     "id": "УТ000008692",
     "category": "..РОЗА КЕНИЯ",
     "name": "АФИНА 50 см РОЗА Кения (SUBATI)",
@@ -50878,6 +50902,14 @@
     "wholesalePrice": 64.96,
     "extraPrice": 68.21,
     "retailPrice": 81.2
+  },
+  {
+    "id": "УТ000019127",
+    "category": "..РОЗА КЕНИЯ",
+    "name": "ДЖУМИЛИЯ 60 см РОЗА Кения (SUBATI)",
+    "wholesalePrice": 103.12,
+    "extraPrice": 108.28,
+    "retailPrice": 128.91
   },
   {
     "id": "УТ000026586",
