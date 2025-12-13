@@ -20752,14 +20752,6 @@
     "retailPrice": 117.22
   },
   {
-    "id": "УТ000039644",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "АЛЬТАМИРА - 70см ANNI ROSES.LRA.QLS.ATC.SPPH.ALLGF.EVR.RLH.TURS.GWFW.VDS.RDF.FDS 2.CNV.MON",
-    "wholesalePrice": 110.18,
-    "extraPrice": 115.69,
-    "retailPrice": 137.73
-  },
-  {
     "id": "УТ000039649",
     "category": "..РОЗА ЭКВАДОР",
     "name": "АНГАЖЕМЕНТ - 60см ANNI ROSES.LRA.QLS.ATC.SPPH.ALLGF.EVR.RLH.TURS.GWFW.VDS.RDF.FDS 2.CNV.MON",
@@ -26934,6 +26926,14 @@
     "wholesalePrice": 349.16,
     "extraPrice": 366.62,
     "retailPrice": 436.45
+  },
+  {
+    "id": "УТ000013830",
+    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
+    "name": "ТИЛЛАНДСИЯ ЭКЗОТИКА",
+    "wholesalePrice": 535.92,
+    "extraPrice": 562.72,
+    "retailPrice": 669.9
   },
   {
     "id": "УТ000013847",
@@ -50566,6 +50566,14 @@
     "wholesalePrice": 89.32,
     "extraPrice": 93.79,
     "retailPrice": 111.65
+  },
+  {
+    "id": "УТ000023723",
+    "category": "..РОЗА КЕНИЯ",
+    "name": "МИКС 40 см РОЗА Кения (MT ELGON)",
+    "wholesalePrice": 31.67,
+    "extraPrice": 33.25,
+    "retailPrice": 39.59
   },
   {
     "id": "УТ000024365",
