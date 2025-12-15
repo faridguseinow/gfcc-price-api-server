@@ -32,12 +32,28 @@
     "retailPrice": 318.42
   },
   {
+    "id": "УТ000032956",
+    "category": "..,РОЗА ,МЕСТНАЯ",
+    "name": "ПОДМОСКВА ОДНО  70 см на воде ",
+    "wholesalePrice": 90,
+    "extraPrice": 94.5,
+    "retailPrice": 112.5
+  },
+  {
     "id": "УТ000034885",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЛИНИЯ РОЗА ОДНОГОЛОВАЯ.. 70 СМ",
     "wholesalePrice": 108.13,
     "extraPrice": 113.53,
     "retailPrice": 135.16
+  },
+  {
+    "id": "УТ000035750",
+    "category": "..,РОЗА ,МЕСТНАЯ",
+    "name": "ПОДМОСКВА ОДНО  60 см на воде",
+    "wholesalePrice": 86,
+    "extraPrice": 90.3,
+    "retailPrice": 107.5
   },
   {
     "id": "УТ000039231",
@@ -54,14 +70,6 @@
     "wholesalePrice": 101.63,
     "extraPrice": 106.71,
     "retailPrice": 127.04
-  },
-  {
-    "id": "УТ000039234",
-    "category": "..,РОЗА ,МЕСТНАЯ",
-    "name": "ЧЕХОВСКИЙ САД КУСТОВАЯ  50 см",
-    "wholesalePrice": 149.13,
-    "extraPrice": 156.59,
-    "retailPrice": 186.41
   },
   {
     "id": "УТ000039385",
@@ -158,6 +166,46 @@
     "wholesalePrice": 222,
     "extraPrice": 233.1,
     "retailPrice": 277.5
+  },
+  {
+    "id": "УТ000047276",
+    "category": "..,РОЗА ,МЕСТНАЯ",
+    "name": "ПОДМОСКВА ОДНО  50 см на воде",
+    "wholesalePrice": 75,
+    "extraPrice": 78.75,
+    "retailPrice": 93.75
+  },
+  {
+    "id": "УТ000047277",
+    "category": "..,РОЗА ,МЕСТНАЯ",
+    "name": "ПОДМОСКВА ОДНО  80 см на воде ",
+    "wholesalePrice": 100,
+    "extraPrice": 105,
+    "retailPrice": 125
+  },
+  {
+    "id": "УТ000048558",
+    "category": "..,РОЗА ,МЕСТНАЯ",
+    "name": "ПОДМОСКВА КУСТ 60 СМ",
+    "wholesalePrice": 150,
+    "extraPrice": 157.5,
+    "retailPrice": 187.49
+  },
+  {
+    "id": "УТ000048559",
+    "category": "..,РОЗА ,МЕСТНАЯ",
+    "name": "ПОДМОСКВА КУСТ 70 СМ",
+    "wholesalePrice": 160,
+    "extraPrice": 168,
+    "retailPrice": 200
+  },
+  {
+    "id": "УТ000048562",
+    "category": "..,РОЗА ,МЕСТНАЯ",
+    "name": "ПОДМОСКВА КУСТ 50 СМ",
+    "wholesalePrice": 139.99,
+    "extraPrice": 146.99,
+    "retailPrice": 174.99
   },
   {
     "id": "УТ000052405",
@@ -47984,6 +48032,14 @@
     "retailPrice": 151.88
   },
   {
+    "id": "УТ000038388",
+    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
+    "name": "ГУД МУД 70 см куст на воде",
+    "wholesalePrice": 186.3,
+    "extraPrice": 195.62,
+    "retailPrice": 232.88
+  },
+  {
     "id": "УТ000038396",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "ПУРПЛ ГУЕН 70 см куст на воде",
@@ -48118,6 +48174,14 @@
     "wholesalePrice": 129.6,
     "extraPrice": 136.08,
     "retailPrice": 162
+  },
+  {
+    "id": "УТ000041640",
+    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
+    "name": "ХОЛИ 60 см куст на воде",
+    "wholesalePrice": 137.7,
+    "extraPrice": 144.59,
+    "retailPrice": 172.13
   },
   {
     "id": "УТ000041641",
@@ -53926,6 +53990,22 @@
     "wholesalePrice": 162,
     "extraPrice": 170.1,
     "retailPrice": 202.5
+  },
+  {
+    "id": "УТ000049456",
+    "category": "..,РОЗА ,НА ВОДЕ",
+    "name": "МИКС 50 см одног на воде",
+    "wholesalePrice": 119.72,
+    "extraPrice": 125.7,
+    "retailPrice": 149.65
+  },
+  {
+    "id": "УТ000049458",
+    "category": "..,РОЗА ,НА ВОДЕ",
+    "name": "МИКС 70 см одног на воде",
+    "wholesalePrice": 194.4,
+    "extraPrice": 204.12,
+    "retailPrice": 243
   },
   {
     "id": "УТ000011262",
