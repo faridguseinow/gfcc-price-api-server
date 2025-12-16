@@ -20472,14 +20472,6 @@
     "retailPrice": 128.37
   },
   {
-    "id": "УТ000037839",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ЭКСПЛОРЕР (РОЗАПРИМА)- 80см",
-    "wholesalePrice": 118.2,
-    "extraPrice": 124.11,
-    "retailPrice": 147.75
-  },
-  {
     "id": "УТ000037848",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ЭСПЕРАНСА (РОЗАПРИМА)-60см ",
@@ -21494,14 +21486,6 @@
     "wholesalePrice": 129.23,
     "extraPrice": 135.69,
     "retailPrice": 161.54
-  },
-  {
-    "id": "УТ000039948",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "МЕДЖИК ТАЙМ-  50см ANNI ROSES.LRA.QLS.ATC.SPPH.ALLGF.EVR.RLH.TURS.GWFW.VDS.RDF.FDS 2.CNV.MON",
-    "wholesalePrice": 81.49,
-    "extraPrice": 85.57,
-    "retailPrice": 101.86
   },
   {
     "id": "УТ000039949",
@@ -26368,6 +26352,14 @@
     "retailPrice": 4337.63
   },
   {
+    "id": "УТ000004849",
+    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
+    "name": "ДРАЦЕНА МАРГИНАТА 24/140 СМ",
+    "wholesalePrice": 3550.8,
+    "extraPrice": 3728.34,
+    "retailPrice": 4438.5
+  },
+  {
     "id": "УТ000004878",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
     "name": "ДРАЦЕНА МИКС 17 СМ",
@@ -26694,6 +26686,14 @@
     "wholesalePrice": 807,
     "extraPrice": 847.35,
     "retailPrice": 1008.75
+  },
+  {
+    "id": "УТ000007521",
+    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
+    "name": "МИРТ 15 СМ",
+    "wholesalePrice": 1614,
+    "extraPrice": 1694.7,
+    "retailPrice": 2017.5
   },
   {
     "id": "УТ000007529",
@@ -54792,14 +54792,6 @@
     "retailPrice": 98.86
   },
   {
-    "id": "УТ000032358",
-    "category": "..ХРИЗАНТЕМА",
-    "name": ".ХРИЗ. ДЕКО КАЛИМБА",
-    "wholesalePrice": 129.12,
-    "extraPrice": 135.58,
-    "retailPrice": 161.4
-  },
-  {
     "id": "УТ000032434",
     "category": "..ХРИЗАНТЕМА",
     "name": "ЛЕТИТБЕ",
@@ -54891,14 +54883,6 @@
     "id": "УТ000036163",
     "category": "..ХРИЗАНТЕМА",
     "name": "НЬЮТОН",
-    "wholesalePrice": 74.25,
-    "extraPrice": 77.96,
-    "retailPrice": 92.82
-  },
-  {
-    "id": "УТ000036165",
-    "category": "..ХРИЗАНТЕМА",
-    "name": "КОМАНДИР",
     "wholesalePrice": 74.25,
     "extraPrice": 77.96,
     "retailPrice": 92.82
@@ -55136,14 +55120,6 @@
     "retailPrice": 92.82
   },
   {
-    "id": "УТ000051607",
-    "category": "..ХРИЗАНТЕМА",
-    "name": "РЕСК КРЕМ",
-    "wholesalePrice": 74.25,
-    "extraPrice": 77.96,
-    "retailPrice": 92.82
-  },
-  {
     "id": "УТ000051617",
     "category": "..ХРИЗАНТЕМА",
     "name": "РЕСК ЛЮСИ",
@@ -55347,22 +55323,6 @@
     "id": "УТ000014874",
     "category": "..ХРИЗАНТЕМА",
     "name": "ОПТИМИСТ РОЗОВЫЙ",
-    "wholesalePrice": 74.25,
-    "extraPrice": 77.96,
-    "retailPrice": 92.82
-  },
-  {
-    "id": "УТ000014888",
-    "category": "..ХРИЗАНТЕМА",
-    "name": "РАДОСТЬ",
-    "wholesalePrice": 74.25,
-    "extraPrice": 77.96,
-    "retailPrice": 92.82
-  },
-  {
-    "id": "УТ000014891",
-    "category": "..ХРИЗАНТЕМА",
-    "name": "РАДОСТЬ КРЕМ",
     "wholesalePrice": 74.25,
     "extraPrice": 77.96,
     "retailPrice": 92.82
