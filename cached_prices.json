@@ -10136,14 +10136,6 @@
     "retailPrice": 324.82
   },
   {
-    "id": "УТ000048226",
-    "category": "НОВЫЙ ГОД",
-    "name": "ЕЛОЧНЫЕ ШАРЫ № 2701",
-    "wholesalePrice": 300.2,
-    "extraPrice": 315.21,
-    "retailPrice": 375.26
-  },
-  {
     "id": "УТ000048227",
     "category": "НОВЫЙ ГОД",
     "name": "ЕЛОЧНЫЕ ШАРЫ № 2707",
@@ -10358,6 +10350,14 @@
     "wholesalePrice": 171.89,
     "extraPrice": 180.49,
     "retailPrice": 214.86
+  },
+  {
+    "id": "УТ000053056",
+    "category": "НОВЫЙ ГОД",
+    "name": "ЕЛОЧНЫЕ ШАРЫ № 23618",
+    "wholesalePrice": 98.45,
+    "extraPrice": 103.38,
+    "retailPrice": 123.07
   },
   {
     "id": "УТ000053057",
@@ -52179,9 +52179,9 @@
     "id": "УТ000033807",
     "category": "..,РАЗНОЕ",
     "name": "АЛЬСТРОМЕРИЯ  ПОДМОСКОВЬЕ 80 см",
-    "wholesalePrice": 58.91,
-    "extraPrice": 61.86,
-    "retailPrice": 73.64
+    "wholesalePrice": 77.07,
+    "extraPrice": 80.92,
+    "retailPrice": 96.34
   },
   {
     "id": "УТ000033968",
@@ -54947,6 +54947,14 @@
     "id": "УТ000043587",
     "category": "..ХРИЗАНТЕМА",
     "name": "КАТИНКА САЛМОН",
+    "wholesalePrice": 74.25,
+    "extraPrice": 77.96,
+    "retailPrice": 92.82
+  },
+  {
+    "id": "УТ000043758",
+    "category": "..ХРИЗАНТЕМА",
+    "name": "РЕСК",
     "wholesalePrice": 74.25,
     "extraPrice": 77.96,
     "retailPrice": 92.82
