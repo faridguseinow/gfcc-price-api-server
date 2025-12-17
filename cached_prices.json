@@ -47832,12 +47832,28 @@
     "retailPrice": 421.66
   },
   {
+    "id": "УТ000046880",
+    "category": "..,ЛИЛИЯ",
+    "name": "ЛИЛИЯ ОР ДУ АМИСТАД",
+    "wholesalePrice": 359.92,
+    "extraPrice": 377.92,
+    "retailPrice": 449.9
+  },
+  {
     "id": "УТ000047004",
     "category": "..,ЛИЛИЯ",
     "name": "ЛИЛИЯ ОТ ИНВИКТУС",
     "wholesalePrice": 444.66,
     "extraPrice": 466.89,
     "retailPrice": 555.82
+  },
+  {
+    "id": "УТ000047137",
+    "category": "..,ЛИЛИЯ",
+    "name": "ЛИЛИЯ ЛА НЭШВИЛЛ",
+    "wholesalePrice": 86.35,
+    "extraPrice": 90.67,
+    "retailPrice": 107.94
   },
   {
     "id": "УТ000047138",
@@ -48750,6 +48766,14 @@
     "wholesalePrice": 121.05,
     "extraPrice": 127.1,
     "retailPrice": 151.31
+  },
+  {
+    "id": "УТ000011446",
+    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
+    "name": "БОМБАСТИК 70 см куст на воде",
+    "wholesalePrice": 145.26,
+    "extraPrice": 152.52,
+    "retailPrice": 181.58
   },
   {
     "id": "УТ000011449",
@@ -51336,14 +51360,6 @@
     "retailPrice": 55.48
   },
   {
-    "id": "УТ000040856",
-    "category": "..РОЗА КЕНИЯ",
-    "name": "ДЖУМИЛИЯ 50 см РОЗА Кения (BARAKA)",
-    "wholesalePrice": 54.07,
-    "extraPrice": 56.77,
-    "retailPrice": 67.59
-  },
-  {
     "id": "УТ000040861",
     "category": "..РОЗА КЕНИЯ",
     "name": "ЭСПЕРАНС 50 см РОЗА Кения (BARAKA)",
@@ -51352,12 +51368,12 @@
     "retailPrice": 63.55
   },
   {
-    "id": "УТ000040862",
+    "id": "УТ000040963",
     "category": "..РОЗА КЕНИЯ",
-    "name": "КОНФИДЕНТАЛ 50 см РОЗА Кения (BARAKA)",
-    "wholesalePrice": 50.84,
-    "extraPrice": 53.38,
-    "retailPrice": 63.55
+    "name": "МАДАМ РЕД 50 см РОЗА Кения (BARAKA)",
+    "wholesalePrice": 45.19,
+    "extraPrice": 47.45,
+    "retailPrice": 56.49
   },
   {
     "id": "УТ000042639",
@@ -51536,6 +51552,14 @@
     "retailPrice": 102.89
   },
   {
+    "id": "УТ000051324",
+    "category": "..РОЗА КЕНИЯ",
+    "name": "ЭВЕР РЕД 60 см РОЗА Кения (AZALI)",
+    "wholesalePrice": 66.98,
+    "extraPrice": 70.33,
+    "retailPrice": 83.73
+  },
+  {
     "id": "УТ000051325",
     "category": "..РОЗА КЕНИЯ",
     "name": "АФИНА 60 см РОЗА Кения (AZALI)",
@@ -51566,6 +51590,14 @@
     "wholesalePrice": 62.14,
     "extraPrice": 65.25,
     "retailPrice": 77.67
+  },
+  {
+    "id": "УТ000051614",
+    "category": "..РОЗА КЕНИЯ",
+    "name": "ДЖУМИЛИЯ 60 см РОЗА Кения (AZALI)",
+    "wholesalePrice": 66.98,
+    "extraPrice": 70.33,
+    "retailPrice": 83.73
   },
   {
     "id": "УТ000052217",
