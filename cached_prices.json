@@ -13392,14 +13392,6 @@
     "retailPrice": 1215.84
   },
   {
-    "id": "УТ000049018",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ КИТАЙ",
-    "name": "ФИКУС ГИНСЕНГ 33/100 СМ КИТАЙ",
-    "wholesalePrice": 6656.11,
-    "extraPrice": 6988.92,
-    "retailPrice": 8320.14
-  },
-  {
     "id": "УТ000049020",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ КИТАЙ",
     "name": "АГЛАОНЕМА 14 СМ КИТАЙ",
@@ -13568,14 +13560,6 @@
     "retailPrice": 1804.38
   },
   {
-    "id": "УТ000052708",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ КИТАЙ",
-    "name": "КРОТОН МИКС 25 СМ КИТАЙ",
-    "wholesalePrice": 1263.98,
-    "extraPrice": 1327.18,
-    "retailPrice": 1579.98
-  },
-  {
     "id": "УТ000052709",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ КИТАЙ",
     "name": "МУРАЯ 14 СМ  КИТАЙ",
@@ -13598,6 +13582,14 @@
     "wholesalePrice": 385.97,
     "extraPrice": 405.27,
     "retailPrice": 482.46
+  },
+  {
+    "id": "УТ000052712",
+    "category": ".КОМНАТНЫЕ РАСТЕНИЯ КИТАЙ",
+    "name": "САНСЕВИЕРИЯ 18 СМ КИТАЙ",
+    "wholesalePrice": 1250.11,
+    "extraPrice": 1312.62,
+    "retailPrice": 1562.64
   },
   {
     "id": "УТ000052718",
@@ -13846,14 +13838,6 @@
     "wholesalePrice": 10045.78,
     "extraPrice": 10548.06,
     "retailPrice": 12557.22
-  },
-  {
-    "id": "УТ000054125",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ КИТАЙ",
-    "name": "ПАХИРА КЕРАМИКА 12 СМ КИТАЙ",
-    "wholesalePrice": 997.97,
-    "extraPrice": 1047.87,
-    "retailPrice": 1247.46
   },
   {
     "id": "УТ000054126",
@@ -19710,14 +19694,6 @@
     "wholesalePrice": 87.84,
     "extraPrice": 92.23,
     "retailPrice": 109.8
-  },
-  {
-    "id": "УТ000033352",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "СВАН -  70см",
-    "wholesalePrice": 104.53,
-    "extraPrice": 109.76,
-    "retailPrice": 130.66
   },
   {
     "id": "УТ000033406",
@@ -34664,14 +34640,6 @@
     "retailPrice": 912.9
   },
   {
-    "id": "УТ000046388",
-    "category": "ВАЗЫ И КЕРАМИКА",
-    "name": "ВАЗА № 1323",
-    "wholesalePrice": 448.8,
-    "extraPrice": 471.24,
-    "retailPrice": 561
-  },
-  {
     "id": "УТ000046394",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 1699",
@@ -38342,14 +38310,6 @@
     "wholesalePrice": 163.2,
     "extraPrice": 171.36,
     "retailPrice": 204
-  },
-  {
-    "id": "УТ000018912",
-    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
-    "name": "ФУРУСАТО 60 см РОЗА Кен/Куст. (RLR)",
-    "wholesalePrice": 184.42,
-    "extraPrice": 193.64,
-    "retailPrice": 230.52
   },
   {
     "id": "УТ000019066",
@@ -47952,14 +47912,6 @@
     "retailPrice": 265.2
   },
   {
-    "id": "УТ000026617",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "ФЕМКА  60 см куст на воде",
-    "wholesalePrice": 143.53,
-    "extraPrice": 150.71,
-    "retailPrice": 179.42
-  },
-  {
     "id": "УТ000027410",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "ФЕМКА  70 см куст на воде",
@@ -51056,6 +51008,14 @@
     "retailPrice": 86.7
   },
   {
+    "id": "УТ000033934",
+    "category": ",Сортовой",
+    "name": "РЕД ЛАНДС 60 см СОРТОВОЙ РОЗА Кения (RLR)",
+    "wholesalePrice": 79.97,
+    "extraPrice": 83.97,
+    "retailPrice": 99.96
+  },
+  {
     "id": "УТ000033940",
     "category": ",Сортовой",
     "name": "СУБАТИ 50 см СОРТОВОЙ РОЗА Кения (SUBATI)",
@@ -51478,14 +51438,6 @@
     "wholesalePrice": 2.45,
     "extraPrice": 2.57,
     "retailPrice": 3.06
-  },
-  {
-    "id": "УТ000045423",
-    "category": "..РОЗА КЕНИЯ",
-    "name": "РЕВИВАЛЬ 50 см РОЗА Кения (BARAKA)",
-    "wholesalePrice": 51.41,
-    "extraPrice": 53.98,
-    "retailPrice": 64.26
   },
   {
     "id": "УТ000045461",
