@@ -17280,14 +17280,6 @@
     "retailPrice": 104.19
   },
   {
-    "id": "УТ000028976",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "НИНА -  80 см",
-    "wholesalePrice": 96.23,
-    "extraPrice": 101.04,
-    "retailPrice": 120.29
-  },
-  {
     "id": "УТ000028980",
     "category": "..РОЗА ЭКВАДОР",
     "name": "НОВИА -  50 см",
@@ -18086,6 +18078,14 @@
     "wholesalePrice": 127.83,
     "extraPrice": 134.23,
     "retailPrice": 159.79
+  },
+  {
+    "id": "УТ000029513",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "БРАЙТОН- 50см (СТАР,КОРОЗОН,МАТИЗ,ЭКО РОЗ,БЕЛЛА РОЗА,ЧАРМИНГ,СОФИ,ДАВИНЧИ.РОЯЛ)",
+    "wholesalePrice": 75.95,
+    "extraPrice": 79.74,
+    "retailPrice": 94.93
   },
   {
     "id": "УТ000029514",
@@ -55832,6 +55832,14 @@
     "retailPrice": 93.16
   },
   {
+    "id": "УТ000014773",
+    "category": "..ХРИЗАНТЕМА",
+    "name": "БАКАРДИ РОЗОВЫЙ",
+    "wholesalePrice": 74.53,
+    "extraPrice": 78.25,
+    "retailPrice": 93.16
+  },
+  {
     "id": "УТ000014774",
     "category": "..ХРИЗАНТЕМА",
     "name": "БАЛТИКА",
@@ -56046,6 +56054,14 @@
     "wholesalePrice": 162,
     "extraPrice": 170.1,
     "retailPrice": 202.5
+  },
+  {
+    "id": "УТ000015016",
+    "category": "..ХРИЗАНТЕМА",
+    "name": ".ХРИЗ. ДЕКО РОССАНО",
+    "wholesalePrice": 129.6,
+    "extraPrice": 136.08,
+    "retailPrice": 162
   },
   {
     "id": "УТ000015027",
