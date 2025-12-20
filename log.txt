@@ -29982,3 +29982,58 @@ Error: Missing credentials for "PLAIN"
 }
 
 Node.js v24.12.0
+warning: in the working copy of 'log.txt', LF will be replaced by CRLF the next time Git touches it
+[main d6dcb77e] ╨Р╨▓╤В╨╛╨╛╨▒╨╜╨╛╨▓╨╗╨╡╨╜╨╕╨╡ ╨┐╤А╨░╨╣╤Б-╨╗╨╕╤Б╤В╨░
+ 2 files changed, 56 insertions(+)
+ delete mode 100644 price-api-server.rar
+To https://github.com/faridguseinow/gfcc-price-api-server.git
+   78c82f3c..d6dcb77e  main -> main
+20.12.2025 22:22:34,42 
+Обновление завершено. 
+FTP connect...
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7) {
+  code: 'ECONNREFUSED',
+  message: ' (control socket)',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:21
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -4078,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 21
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:21
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -4078,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 21
+    }
+  ]
+}
+C:\Users\farid\Desktop\myProjects\price-api-server\node_modules\nodemailer\lib\smtp-connection\index.js:809
+            err = new Error(message);
+                  ^
+
+Error: Missing credentials for "PLAIN"
+    at SMTPConnection._formatError (C:\Users\farid\Desktop\myProjects\price-api-server\node_modules\nodemailer\lib\smtp-connection\index.js:809:19)
+    at SMTPConnection.login (C:\Users\farid\Desktop\myProjects\price-api-server\node_modules\nodemailer\lib\smtp-connection\index.js:454:38)
+    at C:\Users\farid\Desktop\myProjects\price-api-server\node_modules\nodemailer\lib\smtp-transport\index.js:272:32
+    at SMTPConnection.<anonymous> (C:\Users\farid\Desktop\myProjects\price-api-server\node_modules\nodemailer\lib\smtp-connection\index.js:215:17)
+    at Object.onceWrapper (node:events:622:28)
+    at SMTPConnection.emit (node:events:508:28)
+    at SMTPConnection._actionEHLO (C:\Users\farid\Desktop\myProjects\price-api-server\node_modules\nodemailer\lib\smtp-connection\index.js:1371:14)
+    at SMTPConnection._processResponse (C:\Users\farid\Desktop\myProjects\price-api-server\node_modules\nodemailer\lib\smtp-connection\index.js:993:20)
+    at SMTPConnection._onData (C:\Users\farid\Desktop\myProjects\price-api-server\node_modules\nodemailer\lib\smtp-connection\index.js:774:14)
+    at SMTPConnection._onSocketData (C:\Users\farid\Desktop\myProjects\price-api-server\node_modules\nodemailer\lib\smtp-connection\index.js:195:44) {
+  code: 'EAUTH',
+  command: 'API'
+}
+
+Node.js v24.12.0
