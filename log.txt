@@ -28998,3 +28998,53 @@ warning: in the working copy of 'log.txt', LF will be replaced by CRLF the next 
 🔄 Подключение к FTP...
 📥 Скачивание XML...
 ✅Прайс обновлён.Сохранено: $ { normalized.length } позиций
+warning: in the working copy of 'cached_prices.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'farid_gold.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'log.txt', LF will be replaced by CRLF the next time Git touches it
+[main fbd9cd06] ╨Р╨▓╤В╨╛╨╛╨▒╨╜╨╛╨▓╨╗╨╡╨╜╨╕╨╡ ╨┐╤А╨░╨╣╤Б-╨╗╨╕╤Б╤В╨░
+ 1 file changed, 11 insertions(+)
+To https://github.com/faridguseinow/gfcc-price-api-server.git
+   475e1070..fbd9cd06  main -> main
+20.12.2025 13:18:30,83 
+Обновление завершено. 
+FTP connect...
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7) {
+  code: 'ECONNREFUSED',
+  message: ' (control socket)',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:21
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -4078,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 21
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:21
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -4078,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 21
+    }
+  ]
+}
+node:internal/dns/callback_resolver:45
+    this.callback(new DNSException(err, this.bindingName, this.hostname));
+                  ^
+
+Error: queryA EBADRESP smtp.yandex.ru
+    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/callback_resolver:45:19) {
+  errno: undefined,
+  code: 'EDNS',
+  syscall: 'queryA',
+  hostname: 'smtp.yandex.ru',
+  command: 'CONN'
+}
+
+Node.js v24.12.0
