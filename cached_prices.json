@@ -80,6 +80,14 @@
     "retailPrice": 127.35
   },
   {
+    "id": "УТ000039234",
+    "category": "..,РОЗА ,МЕСТНАЯ",
+    "name": "ЧЕХОВСКИЙ САД КУСТОВАЯ  50 см",
+    "wholesalePrice": 149.5,
+    "extraPrice": 156.97,
+    "retailPrice": 186.87
+  },
+  {
     "id": "УТ000039341",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЧЕХОВСКИЙ САД КУСТОВАЯ  40 см",
@@ -13114,7 +13122,7 @@
   {
     "id": "УТ000053286",
     "category": " ..ЦВЕТЫ КИТАЙ",
-    "name": "АКАЦИЯ КИТАЙ ПАЦКА ",
+    "name": "АКАЦИЯ КИТАЙ ПАЧКА ",
     "wholesalePrice": 682.89,
     "extraPrice": 717.04,
     "retailPrice": 853.62
@@ -17136,22 +17144,6 @@
     "retailPrice": 132.14
   },
   {
-    "id": "УТ000028895",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ЛУСИАНА -  60 см",
-    "wholesalePrice": 79.76,
-    "extraPrice": 83.75,
-    "retailPrice": 99.7
-  },
-  {
-    "id": "УТ000028896",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ЛУСИАНА -  70 см",
-    "wholesalePrice": 96.36,
-    "extraPrice": 101.18,
-    "retailPrice": 120.45
-  },
-  {
     "id": "УТ000028901",
     "category": "..РОЗА ЭКВАДОР",
     "name": "КАХАЛА-   50см",
@@ -20824,14 +20816,6 @@
     "retailPrice": 103.85
   },
   {
-    "id": "УТ000039502",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ЭППЛ ДЖЕК -  60см ",
-    "wholesalePrice": 95.2,
-    "extraPrice": 99.96,
-    "retailPrice": 119
-  },
-  {
     "id": "УТ000039503",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ЭППЛ ДЖЕК -  70см ",
@@ -21846,14 +21830,6 @@
     "wholesalePrice": 118.12,
     "extraPrice": 124.03,
     "retailPrice": 147.65
-  },
-  {
-    "id": "УТ000040058",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ЭППЛ ДЖЕК-  50см ANNI ROSES.LRA.QLS.ATC.SPPH.ALLGF.EVR.RLH.TURS.GWFW.VDS.RDF.FDS 2.CNV.MON",
-    "wholesalePrice": 86.76,
-    "extraPrice": 91.1,
-    "retailPrice": 108.45
   },
   {
     "id": "УТ000040060",
@@ -24198,14 +24174,6 @@
     "wholesalePrice": 113.74,
     "extraPrice": 119.42,
     "retailPrice": 142.17
-  },
-  {
-    "id": "УТ000017758",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "НЕНА (ТЕССА)-60 см ",
-    "wholesalePrice": 96.4,
-    "extraPrice": 101.22,
-    "retailPrice": 120.5
   },
   {
     "id": "УТ000018109",
@@ -44232,6 +44200,14 @@
     "retailPrice": 2388.3
   },
   {
+    "id": "УТ000052060",
+    "category": "КОРЗИНА",
+    "name": "Корзина - 21A213603",
+    "wholesalePrice": 1796.63,
+    "extraPrice": 1886.46,
+    "retailPrice": 2245.79
+  },
+  {
     "id": "УТ000052061",
     "category": "КОРЗИНА",
     "name": "Корзина - 21A214203",
@@ -48296,30 +48272,6 @@
     "retailPrice": 371.49
   },
   {
-    "id": "УТ000021316",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "РОМА VOORN-ROSES 60 см куст на воде",
-    "wholesalePrice": 139.26,
-    "extraPrice": 146.22,
-    "retailPrice": 174.07
-  },
-  {
-    "id": "УТ000021363",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "РОМА VOORN-ROSES 70 см куст на воде",
-    "wholesalePrice": 158.58,
-    "extraPrice": 166.51,
-    "retailPrice": 198.23
-  },
-  {
-    "id": "УТ000021550",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "СВИТ БАБЫЛС VOORN-ROSES 50 см куст на воде",
-    "wholesalePrice": 124.89,
-    "extraPrice": 131.13,
-    "retailPrice": 156.11
-  },
-  {
     "id": "УТ000021651",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "ФЛОУ 70 см куст на воде",
@@ -48334,30 +48286,6 @@
     "wholesalePrice": 203,
     "extraPrice": 213.15,
     "retailPrice": 253.75
-  },
-  {
-    "id": "УТ000026559",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "ПАРТИ ТРАНДСЕТТЕР VOORN-ROSES 50 см куст на воде",
-    "wholesalePrice": 136.5,
-    "extraPrice": 143.32,
-    "retailPrice": 170.62
-  },
-  {
-    "id": "УТ000026570",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "КОРАЛ БАБЫЛС VOORN-ROSES 50 см куст на воде",
-    "wholesalePrice": 111.41,
-    "extraPrice": 116.98,
-    "retailPrice": 139.26
-  },
-  {
-    "id": "УТ000026571",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "КОРАЛ БАБЫЛС VOORN-ROSES 70 см куст на воде",
-    "wholesalePrice": 194.88,
-    "extraPrice": 204.62,
-    "retailPrice": 243.6
   },
   {
     "id": "УТ000026617",
@@ -48400,22 +48328,6 @@
     "retailPrice": 162.4
   },
   {
-    "id": "УТ000030795",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "ЧИМО 60 см куст на воде",
-    "wholesalePrice": 112.38,
-    "extraPrice": 118,
-    "retailPrice": 140.48
-  },
-  {
-    "id": "УТ000030882",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "ЛЕЙЛА 50 см куст на воде",
-    "wholesalePrice": 97.44,
-    "extraPrice": 102.31,
-    "retailPrice": 121.8
-  },
-  {
     "id": "УТ000030891",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "ЛЕЙЛА 70 см куст на воде",
@@ -48430,14 +48342,6 @@
     "wholesalePrice": 129.92,
     "extraPrice": 136.42,
     "retailPrice": 162.4
-  },
-  {
-    "id": "УТ000031521",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "РОСАНЕЛЛА  50 см куст на воде",
-    "wholesalePrice": 97.44,
-    "extraPrice": 102.31,
-    "retailPrice": 121.8
   },
   {
     "id": "УТ000031892",
@@ -48464,28 +48368,12 @@
     "retailPrice": 191.43
   },
   {
-    "id": "УТ000033229",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "СОФИА  50 см куст на воде",
-    "wholesalePrice": 121.8,
-    "extraPrice": 127.89,
-    "retailPrice": 152.25
-  },
-  {
     "id": "УТ000033380",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "САММЕР ДАНС 40 см куст на воде",
     "wholesalePrice": 65.04,
     "extraPrice": 68.29,
     "retailPrice": 81.3
-  },
-  {
-    "id": "УТ000033425",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "СПИК БЛОССОМ 70 см куст на воде",
-    "wholesalePrice": 146.16,
-    "extraPrice": 153.47,
-    "retailPrice": 182.7
   },
   {
     "id": "УТ000034213",
@@ -48512,60 +48400,12 @@
     "retailPrice": 213.05
   },
   {
-    "id": "УТ000035157",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "ЛИМУЗИН 60 см куст на воде",
-    "wholesalePrice": 121.8,
-    "extraPrice": 127.89,
-    "retailPrice": 152.25
-  },
-  {
-    "id": "УТ000035258",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "ЛИМУЗИН 50 см куст на воде",
-    "wholesalePrice": 96.47,
-    "extraPrice": 101.29,
-    "retailPrice": 120.58
-  },
-  {
-    "id": "УТ000035259",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "ОРАНЖ ГУИН 50 см куст на воде",
-    "wholesalePrice": 143.24,
-    "extraPrice": 150.4,
-    "retailPrice": 179.05
-  },
-  {
-    "id": "УТ000036324",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "ГУД МУД 60 см куст на воде",
-    "wholesalePrice": 164.75,
-    "extraPrice": 172.99,
-    "retailPrice": 205.94
-  },
-  {
-    "id": "УТ000036422",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "СВИТ ДЖУЛИА 60 см куст на воде",
-    "wholesalePrice": 109.7,
-    "extraPrice": 115.19,
-    "retailPrice": 137.13
-  },
-  {
     "id": "УТ000036467",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "ГУД МУД 50 см куст на воде",
     "wholesalePrice": 116.2,
     "extraPrice": 122.01,
     "retailPrice": 145.25
-  },
-  {
-    "id": "УТ000036516",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "ПИНК ПРОМАЙС  50 см куст на воде",
-    "wholesalePrice": 123.75,
-    "extraPrice": 129.94,
-    "retailPrice": 154.69
   },
   {
     "id": "УТ000036872",
@@ -48592,22 +48432,6 @@
     "retailPrice": 191.43
   },
   {
-    "id": "УТ000036984",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "СВИТ ПОРСЕЛИНА 60  см куст",
-    "wholesalePrice": 124.32,
-    "extraPrice": 130.53,
-    "retailPrice": 155.4
-  },
-  {
-    "id": "УТ000037879",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "СВИТ ДЖУЛИА 70 см куст на воде",
-    "wholesalePrice": 141.13,
-    "extraPrice": 148.18,
-    "retailPrice": 176.41
-  },
-  {
     "id": "УТ000038191",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "СИЛВА ПИНК   (SUPER-HOLLAND)  50 см куст на воде",
@@ -48630,14 +48454,6 @@
     "wholesalePrice": 200.56,
     "extraPrice": 210.59,
     "retailPrice": 250.71
-  },
-  {
-    "id": "УТ000038194",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "МИЛК-УЕЙ  50 см куст на воде",
-    "wholesalePrice": 73.08,
-    "extraPrice": 76.73,
-    "retailPrice": 91.35
   },
   {
     "id": "УТ000038196",
@@ -48672,14 +48488,6 @@
     "retailPrice": 292.83
   },
   {
-    "id": "УТ000038381",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "ПУРПЛ ГУЕН 50 см куст на воде",
-    "wholesalePrice": 131.14,
-    "extraPrice": 137.69,
-    "retailPrice": 163.92
-  },
-  {
     "id": "УТ000038382",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "ПУРПЛ ГУЕН 60 см куст на воде",
@@ -48688,28 +48496,12 @@
     "retailPrice": 233.45
   },
   {
-    "id": "УТ000038384",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "СЕВЕРИНА 70 см куст на воде",
-    "wholesalePrice": 138.04,
-    "extraPrice": 144.94,
-    "retailPrice": 172.55
-  },
-  {
     "id": "УТ000038388",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "ГУД МУД 70 см куст на воде",
     "wholesalePrice": 186.76,
     "extraPrice": 196.1,
     "retailPrice": 233.45
-  },
-  {
-    "id": "УТ000038396",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "ПУРПЛ ГУЕН 70 см куст на воде",
-    "wholesalePrice": 200.73,
-    "extraPrice": 210.76,
-    "retailPrice": 250.91
   },
   {
     "id": "УТ000038397",
@@ -48728,44 +48520,12 @@
     "retailPrice": 208.38
   },
   {
-    "id": "УТ000038415",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "ЛЕЙЛА 80 см куст на воде",
-    "wholesalePrice": 138.04,
-    "extraPrice": 144.94,
-    "retailPrice": 172.55
-  },
-  {
     "id": "УТ000038890",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "РЕД ТРЕНСЕТТЕР 70 см куст на воде",
     "wholesalePrice": 216.24,
     "extraPrice": 227.05,
     "retailPrice": 270.29
-  },
-  {
-    "id": "УТ000038993",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "УИТНИ 50 см куст на воде",
-    "wholesalePrice": 123.1,
-    "extraPrice": 129.25,
-    "retailPrice": 153.87
-  },
-  {
-    "id": "УТ000038994",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "УИТНИ 60 см куст на воде",
-    "wholesalePrice": 138.04,
-    "extraPrice": 144.94,
-    "retailPrice": 172.55
-  },
-  {
-    "id": "УТ000038995",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "УИТНИ 70 см куст на воде",
-    "wholesalePrice": 146.32,
-    "extraPrice": 153.64,
-    "retailPrice": 182.9
   },
   {
     "id": "УТ000040033",
@@ -48782,14 +48542,6 @@
     "wholesalePrice": 153.14,
     "extraPrice": 160.8,
     "retailPrice": 191.43
-  },
-  {
-    "id": "УТ000040650",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "ТРАЛАЛА  70  см куст на воде",
-    "wholesalePrice": 175.72,
-    "extraPrice": 184.5,
-    "retailPrice": 219.65
   },
   {
     "id": "УТ000040817",
@@ -48816,36 +48568,12 @@
     "retailPrice": 111.65
   },
   {
-    "id": "УТ000041104",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "МОТОУН 60 см куст на воде",
-    "wholesalePrice": 125.94,
-    "extraPrice": 132.24,
-    "retailPrice": 157.43
-  },
-  {
     "id": "УТ000041105",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "МОТОУН 70 см куст на воде",
     "wholesalePrice": 154.28,
     "extraPrice": 161.99,
     "retailPrice": 192.85
-  },
-  {
-    "id": "УТ000041260",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "ТРАЛАЛА  60  см куст на воде",
-    "wholesalePrice": 154.44,
-    "extraPrice": 162.16,
-    "retailPrice": 193.05
-  },
-  {
-    "id": "УТ000041480",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "САНДИАЛ  60 см куст на воде",
-    "wholesalePrice": 115.14,
-    "extraPrice": 120.9,
-    "retailPrice": 143.93
   },
   {
     "id": "УТ000041481",
@@ -48856,49 +48584,9 @@
     "retailPrice": 209.39
   },
   {
-    "id": "УТ000041489",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "ПИКАНТО 60 см куст на воде",
-    "wholesalePrice": 149.98,
-    "extraPrice": 157.48,
-    "retailPrice": 187.47
-  },
-  {
-    "id": "УТ000041620",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "ХОЛИ 50 см куст на воде",
-    "wholesalePrice": 108.16,
-    "extraPrice": 113.57,
-    "retailPrice": 135.2
-  },
-  {
     "id": "УТ000041621",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "ЛАТОЯ 70 см куст на воде",
-    "wholesalePrice": 146.16,
-    "extraPrice": 153.47,
-    "retailPrice": 182.7
-  },
-  {
-    "id": "УТ000041640",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "ХОЛИ 60 см куст на воде",
-    "wholesalePrice": 138.04,
-    "extraPrice": 144.94,
-    "retailPrice": 172.55
-  },
-  {
-    "id": "УТ000041641",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "ХОЛИ 70 см куст на воде",
-    "wholesalePrice": 147.78,
-    "extraPrice": 155.17,
-    "retailPrice": 184.73
-  },
-  {
-    "id": "УТ000041642",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "СЛИВИАНА 70 см куст на воде",
     "wholesalePrice": 146.16,
     "extraPrice": 153.47,
     "retailPrice": 182.7
@@ -48910,38 +48598,6 @@
     "wholesalePrice": 167.68,
     "extraPrice": 176.06,
     "retailPrice": 209.6
-  },
-  {
-    "id": "УТ000042008",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "СЛИВИАНА 60 см куст на воде",
-    "wholesalePrice": 125.94,
-    "extraPrice": 132.24,
-    "retailPrice": 157.43
-  },
-  {
-    "id": "УТ000042147",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "ЛАТОЯ 50 см куст на воде",
-    "wholesalePrice": 92.08,
-    "extraPrice": 96.68,
-    "retailPrice": 115.1
-  },
-  {
-    "id": "УТ000043915",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "СУШИ  50 см куст на воде",
-    "wholesalePrice": 105.56,
-    "extraPrice": 110.84,
-    "retailPrice": 131.95
-  },
-  {
-    "id": "УТ000044139",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "ТРАЛАЛА  50  см куст на воде",
-    "wholesalePrice": 112.06,
-    "extraPrice": 117.66,
-    "retailPrice": 140.07
   },
   {
     "id": "УТ000044501",
@@ -49000,14 +48656,6 @@
     "retailPrice": 204.32
   },
   {
-    "id": "УТ000046432",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "ЭМИЛЬЯ  50 см куст на воде",
-    "wholesalePrice": 121.8,
-    "extraPrice": 127.89,
-    "retailPrice": 152.25
-  },
-  {
     "id": "УТ000046692",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "АЯЛА (VOORN-ROSES) 70 см куст на воде",
@@ -49024,28 +48672,12 @@
     "retailPrice": 141.59
   },
   {
-    "id": "УТ000051278",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "РОЗА АКЦИЯ ",
-    "wholesalePrice": 30.18,
-    "extraPrice": 31.69,
-    "retailPrice": 37.73
-  },
-  {
     "id": "УТ000048904",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "БУУМ РОЗОВЫЙ 70 см куст на воде",
     "wholesalePrice": 136.82,
     "extraPrice": 143.66,
     "retailPrice": 171.03
-  },
-  {
-    "id": "УТ000049263",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "СВИТ КАПЛИС 60 см куст на воде",
-    "wholesalePrice": 112.38,
-    "extraPrice": 118,
-    "retailPrice": 140.48
   },
   {
     "id": "УТ000049392",
@@ -49064,20 +48696,12 @@
     "retailPrice": 121.8
   },
   {
-    "id": "УТ000050409",
+    "id": "УТ000050551",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "СВЕТЙ VOORN-ROSES 60  см куст на воде",
-    "wholesalePrice": 163.37,
-    "extraPrice": 171.54,
-    "retailPrice": 204.22
-  },
-  {
-    "id": "УТ000051241",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "БЭБИ ПИНК ЙО-ЙО  60 см куст на воде",
-    "wholesalePrice": 121.8,
-    "extraPrice": 127.89,
-    "retailPrice": 152.25
+    "name": "ВЕНЕССА 60 см куст на воде",
+    "wholesalePrice": 129.92,
+    "extraPrice": 136.42,
+    "retailPrice": 162.4
   },
   {
     "id": "УТ000051242",
@@ -49096,12 +48720,12 @@
     "retailPrice": 277.91
   },
   {
-    "id": "УТ000052630",
+    "id": "УТ000052606",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "ПОЛА СЕНСЕШН 60 см куст на воде",
-    "wholesalePrice": 81.2,
-    "extraPrice": 85.26,
-    "retailPrice": 101.5
+    "name": "ДЖЕССИ 60 см на воде",
+    "wholesalePrice": 142.91,
+    "extraPrice": 150.06,
+    "retailPrice": 178.64
   },
   {
     "id": "УТ000052631",
@@ -49128,22 +48752,6 @@
     "retailPrice": 294.35
   },
   {
-    "id": "УТ000052942",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "СНОУ  ДРИФТ 50 см куст на воде",
-    "wholesalePrice": 125.94,
-    "extraPrice": 132.24,
-    "retailPrice": 157.43
-  },
-  {
-    "id": "УТ000052943",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "СНОУ  ДРИФТ 60 см куст на воде",
-    "wholesalePrice": 154.28,
-    "extraPrice": 161.99,
-    "retailPrice": 192.85
-  },
-  {
     "id": "УТ000052944",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "СНОУ  ДРИФТ 70 см куст на воде",
@@ -49160,28 +48768,12 @@
     "retailPrice": 120.38
   },
   {
-    "id": "УТ000053334",
+    "id": "УТ000054264",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "ДЖЕССИ 70 см на воде",
-    "wholesalePrice": 155.66,
-    "extraPrice": 163.44,
-    "retailPrice": 194.58
-  },
-  {
-    "id": "УТ000053710",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "ТРАЛАЛА  80  см куст на воде",
-    "wholesalePrice": 209.25,
-    "extraPrice": 219.72,
-    "retailPrice": 261.57
-  },
-  {
-    "id": "УТ000015683",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "СМЭШИНГ 70 см куст на воде",
-    "wholesalePrice": 132.76,
-    "extraPrice": 139.4,
-    "retailPrice": 165.95
+    "name": "ВЕНЕССА 70 см куст на воде",
+    "wholesalePrice": 154.52,
+    "extraPrice": 162.25,
+    "retailPrice": 193.15
   },
   {
     "id": "УТ000023807",
@@ -49192,36 +48784,12 @@
     "retailPrice": 213.56
   },
   {
-    "id": "УТ000023810",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "ДЖАСТИН VOORN-ROSES 50 см куст на воде",
-    "wholesalePrice": 106.21,
-    "extraPrice": 111.52,
-    "retailPrice": 132.76
-  },
-  {
     "id": "УТ000024175",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "АЭРОБИК VOORN-ROSES 60  см куст на воде",
     "wholesalePrice": 166.38,
     "extraPrice": 174.7,
     "retailPrice": 207.97
-  },
-  {
-    "id": "УТ000024787",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "КАТА-ЛИН  50 см куст на воде",
-    "wholesalePrice": 113.68,
-    "extraPrice": 119.36,
-    "retailPrice": 142.1
-  },
-  {
-    "id": "УТ000025506",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "ЛЕЙЛА 60 см куст на воде",
-    "wholesalePrice": 122.61,
-    "extraPrice": 128.74,
-    "retailPrice": 153.27
   },
   {
     "id": "УТ000025522",
@@ -49288,14 +48856,6 @@
     "retailPrice": 182.7
   },
   {
-    "id": "УТ000011449",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "БАНДАЛЕРО 50 см куст на воде",
-    "wholesalePrice": 86.56,
-    "extraPrice": 90.89,
-    "retailPrice": 108.2
-  },
-  {
     "id": "УТ000011450",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "БАНДАЛЕРО 60 см куст на воде",
@@ -49304,60 +48864,12 @@
     "retailPrice": 151.13
   },
   {
-    "id": "УТ000011451",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "БАНДАЛЕРО 70 см куст на воде",
-    "wholesalePrice": 163.37,
-    "extraPrice": 171.54,
-    "retailPrice": 204.22
-  },
-  {
-    "id": "УТ000011456",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "БРАЙДАЛ ФЛОУ (VOORN-ROSES) 50 см куст на воде",
-    "wholesalePrice": 159.96,
-    "extraPrice": 167.96,
-    "retailPrice": 199.96
-  },
-  {
-    "id": "УТ000011475",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "ВЕДИНГ ПАРТИ VOORN-ROSES 50 см куст на воде",
-    "wholesalePrice": 142.1,
-    "extraPrice": 149.21,
-    "retailPrice": 177.63
-  },
-  {
-    "id": "УТ000011496",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "ГРИН ГЛОУ  50 см куст на воде",
-    "wholesalePrice": 113.68,
-    "extraPrice": 119.36,
-    "retailPrice": 142.1
-  },
-  {
-    "id": "УТ000011497",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "ГРИН ГЛОУ  60 см куст на воде",
-    "wholesalePrice": 166.46,
-    "extraPrice": 174.78,
-    "retailPrice": 208.08
-  },
-  {
     "id": "УТ000011498",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "ГРИН ГЛОУ  70 см куст на воде",
     "wholesalePrice": 190.82,
     "extraPrice": 200.36,
     "retailPrice": 238.53
-  },
-  {
-    "id": "УТ000011505",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "ДЖОЗЕФИНА VOORN-ROSES 50 см куст на воде",
-    "wholesalePrice": 146.32,
-    "extraPrice": 153.64,
-    "retailPrice": 182.9
   },
   {
     "id": "УТ000011506",
@@ -49376,28 +48888,12 @@
     "retailPrice": 233.45
   },
   {
-    "id": "УТ000011542",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "ЛАТОЯ 60 см куст на воде",
-    "wholesalePrice": 111.24,
-    "extraPrice": 116.81,
-    "retailPrice": 139.06
-  },
-  {
     "id": "УТ000011544",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "КОРАЛ БАБЫЛС VOORN-ROSES 60 см куст на воде",
     "wholesalePrice": 170.52,
     "extraPrice": 179.05,
     "retailPrice": 213.15
-  },
-  {
-    "id": "УТ000011571",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "ЛИАННА 50 см куст на воде",
-    "wholesalePrice": 98.82,
-    "extraPrice": 103.76,
-    "retailPrice": 123.53
   },
   {
     "id": "УТ000011572",
@@ -49414,22 +48910,6 @@
     "wholesalePrice": 147.95,
     "extraPrice": 155.34,
     "retailPrice": 184.93
-  },
-  {
-    "id": "УТ000011576",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "ЛИДИЯ 50 см куст на воде",
-    "wholesalePrice": 97.44,
-    "extraPrice": 102.31,
-    "retailPrice": 121.8
-  },
-  {
-    "id": "УТ000011577",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "ЛИДИЯ 60 см куст на воде",
-    "wholesalePrice": 117.09,
-    "extraPrice": 122.94,
-    "retailPrice": 146.36
   },
   {
     "id": "УТ000011578",
@@ -49464,52 +48944,12 @@
     "retailPrice": 233.45
   },
   {
-    "id": "УТ000011595",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "МИСС БОМБАСТИК БЕЛАЯ 70 см куст на воде",
-    "wholesalePrice": 117.76,
-    "extraPrice": 123.64,
-    "retailPrice": 147.2
-  },
-  {
     "id": "УТ000011601",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "МИСТИ БАБЫЛС 50 см куст на воде",
     "wholesalePrice": 138.04,
     "extraPrice": 144.94,
     "retailPrice": 172.55
-  },
-  {
-    "id": "УТ000011607",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "МИКС куст 60 см куст на воде",
-    "wholesalePrice": 129.92,
-    "extraPrice": 136.42,
-    "retailPrice": 162.4
-  },
-  {
-    "id": "УТ000011610",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "МИКС куст 80 см куст на воде",
-    "wholesalePrice": 154.28,
-    "extraPrice": 161.99,
-    "retailPrice": 192.85
-  },
-  {
-    "id": "УТ000011618",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "МИРАБЕЛ 60 см куст на воде",
-    "wholesalePrice": 147.46,
-    "extraPrice": 154.83,
-    "retailPrice": 184.32
-  },
-  {
-    "id": "УТ000011625",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "НЬЮ ЛУК VOORN-ROSES  60 см куст на воде",
-    "wholesalePrice": 154.28,
-    "extraPrice": 161.99,
-    "retailPrice": 192.85
   },
   {
     "id": "УТ000011636",
@@ -49520,36 +48960,12 @@
     "retailPrice": 172.55
   },
   {
-    "id": "УТ000011639",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "ПАРТИ ТРАНДСЕТТЕР VOORN-ROSES 60 см куст на воде",
-    "wholesalePrice": 211.93,
-    "extraPrice": 222.53,
-    "retailPrice": 264.92
-  },
-  {
-    "id": "УТ000011645",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "ПИАНО 60 см куст на воде",
-    "wholesalePrice": 203,
-    "extraPrice": 213.15,
-    "retailPrice": 253.75
-  },
-  {
     "id": "УТ000011661",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "ПИНК ЙО-ЙО  60 см куст на воде",
     "wholesalePrice": 121.8,
     "extraPrice": 127.89,
     "retailPrice": 152.25
-  },
-  {
-    "id": "УТ000011689",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "РЕФЛЕКС 60 см куст на воде",
-    "wholesalePrice": 125.29,
-    "extraPrice": 131.56,
-    "retailPrice": 156.61
   },
   {
     "id": "УТ000011690",
@@ -49568,28 +48984,12 @@
     "retailPrice": 147.99
   },
   {
-    "id": "УТ000011713",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "САЛИНЕРО 50 см куст на воде",
-    "wholesalePrice": 89.32,
-    "extraPrice": 93.79,
-    "retailPrice": 111.65
-  },
-  {
     "id": "УТ000011714",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "САЛИНЕРО 70 см куст на воде",
     "wholesalePrice": 148.6,
     "extraPrice": 156.03,
     "retailPrice": 185.75
-  },
-  {
-    "id": "УТ000011717",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "САММЕР ДАНС 50 см куст на воде",
-    "wholesalePrice": 97.44,
-    "extraPrice": 102.31,
-    "retailPrice": 121.8
   },
   {
     "id": "УТ000011718",
@@ -49624,14 +49024,6 @@
     "retailPrice": 186.76
   },
   {
-    "id": "УТ000011734",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "СВИТ БАБЫЛС VOORN-ROSES 60 см куст на воде",
-    "wholesalePrice": 129.92,
-    "extraPrice": 136.42,
-    "retailPrice": 162.4
-  },
-  {
     "id": "УТ000011754",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "СМЭШИНГ 60 см куст на воде",
@@ -49646,14 +49038,6 @@
     "wholesalePrice": 121.8,
     "extraPrice": 127.89,
     "retailPrice": 152.25
-  },
-  {
-    "id": "УТ000011759",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "СНОУ  ФЛЕЙК 70 см куст на воде",
-    "wholesalePrice": 116.12,
-    "extraPrice": 121.92,
-    "retailPrice": 145.15
   },
   {
     "id": "УТ000011761",
@@ -49686,14 +49070,6 @@
     "wholesalePrice": 153.14,
     "extraPrice": 160.8,
     "retailPrice": 191.43
-  },
-  {
-    "id": "УТ000011794",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "ТАНЯ VOORN-ROSES 60 см куст на воде",
-    "wholesalePrice": 180.35,
-    "extraPrice": 189.36,
-    "retailPrice": 225.43
   },
   {
     "id": "УТ000011800",
@@ -49736,30 +49112,6 @@
     "retailPrice": 149
   },
   {
-    "id": "УТ000018910",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "ТРИНИТИ 70 см куст на воде",
-    "wholesalePrice": 129.92,
-    "extraPrice": 136.42,
-    "retailPrice": 162.4
-  },
-  {
-    "id": "УТ000019122",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "СМЭШИНГ 80 см куст на воде",
-    "wholesalePrice": 170.52,
-    "extraPrice": 179.05,
-    "retailPrice": 213.15
-  },
-  {
-    "id": "УТ000020001",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "РОМА VOORN-ROSES 50 см куст на воде",
-    "wholesalePrice": 119.2,
-    "extraPrice": 125.16,
-    "retailPrice": 149
-  },
-  {
     "id": "УТ000020018",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "ГУИНСИ 60 см куст на воде",
@@ -49792,20 +49144,12 @@
     "retailPrice": 171.03
   },
   {
-    "id": "УТ000026188",
+    "id": "УТ000026176",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "ТАНЯ VOORN-ROSES 50 см куст на воде",
-    "wholesalePrice": 123.26,
-    "extraPrice": 129.42,
-    "retailPrice": 154.08
-  },
-  {
-    "id": "УТ000022623",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "ЛУНА ТРЕНДСЕТТЕР (VOORN-ROSES) 50 см куст на воде",
-    "wholesalePrice": 134.14,
-    "extraPrice": 140.85,
-    "retailPrice": 167.68
+    "name": "ФЕМКА  50 см куст на воде",
+    "wholesalePrice": 89.32,
+    "extraPrice": 93.79,
+    "retailPrice": 111.65
   },
   {
     "id": "УТ000024382",
