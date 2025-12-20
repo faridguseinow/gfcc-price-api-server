@@ -1,5 +1,5 @@
 @echo off
-cd /d "C:\Users\farid\Desktop\price-api-server"
+cd /d "C:\Users\farid\Desktop\myProjects\price-api-server"
 
 REM Обновление прайса
 node update-price.js >> log.txt 2>&1
