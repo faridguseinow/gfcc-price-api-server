@@ -43,8 +43,10 @@
     <Priority>7</Priority>
   </Settings>
   <Actions Context="Author">
-    <Exec>
-      <Command>C:\Users\farid\Desktop\myProjects\price-api-server\auto-push.bat</Command>
-    </Exec>
-  </Actions>
+  <Exec>
+    <Command>C:\Windows\System32\cmd.exe</Command>
+    <Arguments>/c "C:\Users\farid\Desktop\myProjects\price-api-server\auto-push.bat"</Arguments>
+    <WorkingDirectory>C:\Users\farid\Desktop\myProjects\price-api-server</WorkingDirectory>
+  </Exec>
+</Actions>
 </Task>
