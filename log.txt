@@ -28965,3 +28965,16 @@ warning: in the working copy of 'log.txt', LF will be replaced by CRLF the next 
 ^C🔄 Подключение к FTP...
 📥 Скачивание XML...
 ✅Прайс обновлён.Сохранено: $ { normalized.length } позиций
+warning: in the working copy of 'auto-push.bat', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'cached_prices.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'farid_gold.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'log.txt', LF will be replaced by CRLF the next time Git touches it
+[main 475e1070] ╨Р╨▓╤В╨╛╨╛╨▒╨╜╨╛╨▓╨╗╨╡╨╜╨╕╨╡ ╨┐╤А╨░╨╣╤Б-╨╗╨╕╤Б╤В╨░
+ 3 files changed, 10 insertions(+), 2 deletions(-)
+To https://github.com/faridguseinow/gfcc-price-api-server.git
+   a0420e44..475e1070  main -> main
+20.12.2025 13:10:18,03 
+Обновление завершено. 
+🔄 Подключение к FTP...
+📥 Скачивание XML...
+✅Прайс обновлён.Сохранено: $ { normalized.length } позиций
