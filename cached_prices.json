@@ -12216,6 +12216,14 @@
     "retailPrice": 1173
   },
   {
+    "id": "УТ000017976",
+    "category": "КОРЗИНА",
+    "name": "Корзина - 8844703",
+    "wholesalePrice": 962.4,
+    "extraPrice": 1010.52,
+    "retailPrice": 1203
+  },
+  {
     "id": "УТ000017977",
     "category": "КОРЗИНА",
     "name": "Корзина - 8845003",
@@ -23824,6 +23832,14 @@
     "retailPrice": 188.6
   },
   {
+    "id": "УТ000032818",
+    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
+    "name": "СОФИЕ VOORN-ROSES 60 см куст на воде",
+    "wholesalePrice": 244.56,
+    "extraPrice": 256.79,
+    "retailPrice": 305.7
+  },
+  {
     "id": "УТ000032830",
     "category": ".УПАКОВКА",
     "name": "ПРОБИРКА 2,8*11 СМ (ПАЧКА - 50 ШТ)",
@@ -23955,9 +23971,9 @@
     "id": "УТ000032956",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ПОДМОСКВА ОДНО  70 см на воде",
-    "wholesalePrice": 88.89,
-    "extraPrice": 93.33,
-    "retailPrice": 111.11
+    "wholesalePrice": 75,
+    "extraPrice": 78.75,
+    "retailPrice": 93.75
   },
   {
     "id": "УТ000032985",
@@ -27475,9 +27491,9 @@
     "id": "УТ000035750",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ПОДМОСКВА ОДНО  60 см на воде",
-    "wholesalePrice": 84.94,
-    "extraPrice": 89.18,
-    "retailPrice": 106.17
+    "wholesalePrice": 67,
+    "extraPrice": 70.35,
+    "retailPrice": 83.75
   },
   {
     "id": "УТ000035759",
@@ -31830,6 +31846,14 @@
     "wholesalePrice": 27.2,
     "extraPrice": 28.56,
     "retailPrice": 34
+  },
+  {
+    "id": "УТ000039372",
+    "category": ",Сортовой",
+    "name": "ЭВЕР ФЛОРА СОРТОВОЙ 35 см РОЗА Кения (EVERFLORA)",
+    "wholesalePrice": 18.4,
+    "extraPrice": 19.32,
+    "retailPrice": 23
   },
   {
     "id": "УТ000039385",
@@ -41419,9 +41443,9 @@
     "id": "УТ000047277",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ПОДМОСКВА ОДНО  80 см на воде",
-    "wholesalePrice": 98.77,
-    "extraPrice": 103.71,
-    "retailPrice": 123.46
+    "wholesalePrice": 80,
+    "extraPrice": 84,
+    "retailPrice": 100
   },
   {
     "id": "УТ000047278",
@@ -42224,14 +42248,6 @@
     "retailPrice": 200
   },
   {
-    "id": "УТ000048230",
-    "category": "НОВЫЙ ГОД",
-    "name": "ЕЛОЧНЫЕ ШАРЫ № 2770",
-    "wholesalePrice": 156.8,
-    "extraPrice": 164.64,
-    "retailPrice": 196
-  },
-  {
     "id": "УТ000048231",
     "category": "НОВЫЙ ГОД",
     "name": "ЕЛОЧНЫЕ ШАРЫ № 2805",
@@ -42931,17 +42947,17 @@
     "id": "УТ000048558",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ПОДМОСКВА КУСТ 60 СМ",
-    "wholesalePrice": 148.14,
-    "extraPrice": 155.55,
-    "retailPrice": 185.18
+    "wholesalePrice": 150,
+    "extraPrice": 157.5,
+    "retailPrice": 187.5
   },
   {
     "id": "УТ000048559",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ПОДМОСКВА КУСТ 70 СМ",
-    "wholesalePrice": 158.02,
-    "extraPrice": 165.93,
-    "retailPrice": 197.53
+    "wholesalePrice": 175,
+    "extraPrice": 183.75,
+    "retailPrice": 218.75
   },
   {
     "id": "УТ000048562",
