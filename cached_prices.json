@@ -2472,6 +2472,14 @@
     "retailPrice": 208
   },
   {
+    "id": "УТ000005217",
+    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
+    "name": "БАНДАЛЕРО 50 см РОЗА Кен/Куст. (RLR)",
+    "wholesalePrice": 130.4,
+    "extraPrice": 136.92,
+    "retailPrice": 163
+  },
+  {
     "id": "УТ000005220",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "БАНДАЛЕРО 60 см РОЗА Кен/Куст. (RLR)",
@@ -2542,14 +2550,6 @@
     "wholesalePrice": 176,
     "extraPrice": 184.8,
     "retailPrice": 220
-  },
-  {
-    "id": "УТ000005284",
-    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
-    "name": "ДЖОЗЕФИН 50 см РОЗА Кен/Куст. (RLR)",
-    "wholesalePrice": 134.4,
-    "extraPrice": 141.12,
-    "retailPrice": 168
   },
   {
     "id": "УТ000005285",
@@ -9918,14 +9918,6 @@
     "wholesalePrice": 57.91,
     "extraPrice": 60.81,
     "retailPrice": 72.39
-  },
-  {
-    "id": "УТ000013898",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "АД РЕМ  ТЮЛЬПАН энкл.",
-    "wholesalePrice": 53.37,
-    "extraPrice": 56.04,
-    "retailPrice": 66.71
   },
   {
     "id": "УТ000013909",
@@ -26848,6 +26840,14 @@
     "retailPrice": 90
   },
   {
+    "id": "УТ000035391",
+    "category": "..ТЮЛЬПАНЫ",
+    "name": "ПРЕТТИ ПРИНЦЕСС  ТЮЛЬПАН энкл.",
+    "wholesalePrice": 53.37,
+    "extraPrice": 56.04,
+    "retailPrice": 66.71
+  },
+  {
     "id": "УТ000035414",
     "category": ".УПАКОВКА",
     "name": "КОРОБКА № Y050-6",
@@ -29366,14 +29366,6 @@
     "wholesalePrice": 83.56,
     "extraPrice": 87.74,
     "retailPrice": 104.45
-  },
-  {
-    "id": "УТ000037789",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ХАЙ ЕЛЛОУ (РОЗАПРИМА)- 70см",
-    "wholesalePrice": 100.1,
-    "extraPrice": 105.1,
-    "retailPrice": 125.12
   },
   {
     "id": "УТ000037794",
