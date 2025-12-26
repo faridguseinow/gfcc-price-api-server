@@ -7888,14 +7888,6 @@
     "retailPrice": 441.23
   },
   {
-    "id": "УТ000009712",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "ПАХИРА 27/160 СМ",
-    "wholesalePrice": 5034.74,
-    "extraPrice": 5286.47,
-    "retailPrice": 6293.42
-  },
-  {
     "id": "УТ000009726",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
     "name": "ПЕПЕРОМИЯ 12 СМ ЛИЛИЯ",
@@ -8062,6 +8054,14 @@
     "wholesalePrice": 437.25,
     "extraPrice": 459.11,
     "retailPrice": 546.56
+  },
+  {
+    "id": "УТ000010046",
+    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
+    "name": "ПУАНСЕТТИЯ 12 СМ",
+    "wholesalePrice": 309.22,
+    "extraPrice": 324.68,
+    "retailPrice": 386.53
   },
   {
     "id": "УТ000010066",
@@ -8779,9 +8779,9 @@
     "id": "УТ000010496",
     "category": "..,ПИОНЫ",
     "name": "САРА БЕРНАРД ПИОНЫ",
-    "wholesalePrice": 233.73,
-    "extraPrice": 245.42,
-    "retailPrice": 292.16
+    "wholesalePrice": 193.19,
+    "extraPrice": 202.84,
+    "retailPrice": 241.48
   },
   {
     "id": "УТ000010525",
@@ -10600,14 +10600,6 @@
     "retailPrice": 4176.73
   },
   {
-    "id": "УТ000014489",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "ФИКУС БЕНДЖАМИНА МИКС 14 СМ",
-    "wholesalePrice": 914.25,
-    "extraPrice": 959.96,
-    "retailPrice": 1142.81
-  },
-  {
     "id": "УТ000014510",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
     "name": "ФИКУС ЭЛАСТИКА НА СТВОЛЕ 27/130 СМ",
@@ -10971,14 +10963,6 @@
     "id": "УТ000014888",
     "category": "..ХРИЗАНТЕМА",
     "name": "РАДОСТЬ",
-    "wholesalePrice": 77.12,
-    "extraPrice": 80.97,
-    "retailPrice": 96.39
-  },
-  {
-    "id": "УТ000014891",
-    "category": "..ХРИЗАНТЕМА",
-    "name": "РАДОСТЬ КРЕМ",
     "wholesalePrice": 77.12,
     "extraPrice": 80.97,
     "retailPrice": 96.39
@@ -13422,14 +13406,6 @@
     "wholesalePrice": 100.97,
     "extraPrice": 106.01,
     "retailPrice": 126.21
-  },
-  {
-    "id": "УТ000019160",
-    "category": "КОРЗИНА",
-    "name": "Корзина - 8789304",
-    "wholesalePrice": 923,
-    "extraPrice": 969.14,
-    "retailPrice": 1153.74
   },
   {
     "id": "УТ000019165",
@@ -19736,6 +19712,14 @@
     "retailPrice": 129.16
   },
   {
+    "id": "УТ000028779",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "КАРУСЕЛЬ-   50см",
+    "wholesalePrice": 62.76,
+    "extraPrice": 65.9,
+    "retailPrice": 78.45
+  },
+  {
     "id": "УТ000028780",
     "category": "..РОЗА ЭКВАДОР",
     "name": "КАРУСЕЛЬ-   60см",
@@ -23558,6 +23542,14 @@
     "wholesalePrice": 69.17,
     "extraPrice": 72.62,
     "retailPrice": 86.46
+  },
+  {
+    "id": "УТ000032284",
+    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
+    "name": "ХОВЕЯ 17 СМ",
+    "wholesalePrice": 2385,
+    "extraPrice": 2504.25,
+    "retailPrice": 2981.25
   },
   {
     "id": "УТ000032321",
@@ -28800,14 +28792,6 @@
     "retailPrice": 1728.13
   },
   {
-    "id": "УТ000036817",
-    "category": "МЯГКАЯ ИГРУШКА",
-    "name": "Мягкая игрушка № LB-094",
-    "wholesalePrice": 1326.06,
-    "extraPrice": 1392.36,
-    "retailPrice": 1657.58
-  },
-  {
     "id": "УТ000036820",
     "category": "МЯГКАЯ ИГРУШКА",
     "name": "Мягкая игрушка № LKp60-065",
@@ -33456,6 +33440,14 @@
     "retailPrice": 107.25
   },
   {
+    "id": "УТ000040060",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "ЭППЛ ДЖЕК-  60см ANNI ROSES.LRA.QLS.ATC.SPPH.ALLGF.EVR.RLH.TURS.GWFW.VDS.RDF.FDS 2.CNV.MON",
+    "wholesalePrice": 99.66,
+    "extraPrice": 104.64,
+    "retailPrice": 124.58
+  },
+  {
     "id": "УТ000040061",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ОПАЛА-  50см ANNI ROSES.LRA.QLS.ATC.SPPH.ALLGF.EVR.RLH.TURS.GWFW.VDS.RDF.FDS 2.CNV.MON",
@@ -35542,14 +35534,6 @@
     "wholesalePrice": 228.96,
     "extraPrice": 240.41,
     "retailPrice": 286.2
-  },
-  {
-    "id": "УТ000041296",
-    "category": "ВАЗЫ И КЕРАМИКА",
-    "name": "ВАЗА № 2571",
-    "wholesalePrice": 341.85,
-    "extraPrice": 358.94,
-    "retailPrice": 427.31
   },
   {
     "id": "УТ000041297",
@@ -40864,6 +40848,14 @@
     "retailPrice": 1987.5
   },
   {
+    "id": "УТ000046418",
+    "category": "..ЦВЕТЫ КИТАЙ",
+    "name": "ГВОЗДИКА ЗЕЛЕНАЯ КИТАЙ ПАЧКА",
+    "wholesalePrice": 667.01,
+    "extraPrice": 700.36,
+    "retailPrice": 833.76
+  },
+  {
     "id": "УТ000046420",
     "category": "..ЦВЕТЫ КИТАЙ",
     "name": "ГОРТЕНЗИЯ КИТАЙ",
@@ -40998,14 +40990,6 @@
     "wholesalePrice": 604.2,
     "extraPrice": 634.41,
     "retailPrice": 755.25
-  },
-  {
-    "id": "УТ000046541",
-    "category": "МЯГКАЯ ИГРУШКА",
-    "name": "Мягкая игрушка № LB-130",
-    "wholesalePrice": 1326.06,
-    "extraPrice": 1392.36,
-    "retailPrice": 1657.58
   },
   {
     "id": "УТ000046558",
@@ -41656,28 +41640,12 @@
     "retailPrice": 508.8
   },
   {
-    "id": "УТ000047020",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "ФИНИК РОБЕЛИНИ 27/130 СМ",
-    "wholesalePrice": 6916.5,
-    "extraPrice": 7262.33,
-    "retailPrice": 8645.63
-  },
-  {
     "id": "УТ000047026",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
     "name": "САНСЕВИЕРИЯ ЦИЛИНДРИЧЕСКАЯ ( сп,ст ) 12 СМ",
     "wholesalePrice": 954,
     "extraPrice": 1001.7,
     "retailPrice": 1192.5
-  },
-  {
-    "id": "УТ000047038",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "МОНСТЕРА 15 СМ ВАРИЕГАТА",
-    "wholesalePrice": 2623.5,
-    "extraPrice": 2754.68,
-    "retailPrice": 3279.38
   },
   {
     "id": "УТ000047050",
@@ -44094,14 +44062,6 @@
     "wholesalePrice": 349.01,
     "extraPrice": 366.46,
     "retailPrice": 436.26
-  },
-  {
-    "id": "УТ000048997",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ КИТАЙ",
-    "name": "ПАХИРА 12 СМ КИТАЙ",
-    "wholesalePrice": 609.77,
-    "extraPrice": 640.25,
-    "retailPrice": 762.21
   },
   {
     "id": "УТ000049001",
@@ -51136,6 +51096,14 @@
     "retailPrice": 66.58
   },
   {
+    "id": "УТ000052538",
+    "category": "..РОЗА КЕНИЯ",
+    "name": "РЕВИВАЛЬ 50 см РОЗА Кения (WARIDI)",
+    "wholesalePrice": 50.09,
+    "extraPrice": 52.59,
+    "retailPrice": 62.61
+  },
+  {
     "id": "УТ000052540",
     "category": "..РОЗА КЕНИЯ",
     "name": "СВИТ РЕВИВАЛ 50 см РОЗА Кения (WARIDI)",
@@ -51318,14 +51286,6 @@
     "wholesalePrice": 78.6,
     "extraPrice": 82.53,
     "retailPrice": 98.25
-  },
-  {
-    "id": "УТ000052662",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "Амира - 70см",
-    "wholesalePrice": 83.98,
-    "extraPrice": 88.18,
-    "retailPrice": 104.98
   },
   {
     "id": "УТ000052678",
@@ -51926,14 +51886,6 @@
     "wholesalePrice": 4023.5,
     "extraPrice": 4224.67,
     "retailPrice": 5029.37
-  },
-  {
-    "id": "УТ000053041",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ КИТАЙ",
-    "name": "ДРАЦЕНА МИКС 32 КИТАЙ",
-    "wholesalePrice": 6172.38,
-    "extraPrice": 6481,
-    "retailPrice": 7715.48
   },
   {
     "id": "УТ000053042",
@@ -55592,14 +55544,6 @@
     "retailPrice": 147.88
   },
   {
-    "id": "УТ000053777",
-    "category": "НОВЫЙ ГОД",
-    "name": "НОВОГОДНИЕ JT25-WG141",
-    "wholesalePrice": 163.8,
-    "extraPrice": 171.99,
-    "retailPrice": 204.75
-  },
-  {
     "id": "УТ000053778",
     "category": "НОВЫЙ ГОД",
     "name": "НОВОГОДНИЕ JT25-WG148",
@@ -56302,14 +56246,6 @@
     "wholesalePrice": 3031.34,
     "extraPrice": 3182.9,
     "retailPrice": 3789.17
-  },
-  {
-    "id": "УТ000054124",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ КИТАЙ",
-    "name": "ЦИКАС РЕВОЛЮТА 35/120 СМ КИТАЙ",
-    "wholesalePrice": 9787.25,
-    "extraPrice": 10276.61,
-    "retailPrice": 12234.06
   },
   {
     "id": "УТ000054126",
