@@ -2288,14 +2288,6 @@
     "retailPrice": 920.31
   },
   {
-    "id": "УТ000005073",
-    "category": "..,ЗЕЛЕНЬ",
-    "name": "ФИЛАДЕНДРОН",
-    "wholesalePrice": 36.57,
-    "extraPrice": 38.4,
-    "retailPrice": 45.71
-  },
-  {
     "id": "УТ000005082",
     "category": "..,ЗЕЛЕНЬ",
     "name": "ХАМЕРОПСИС",
@@ -6395,17 +6387,17 @@
     "id": "УТ000007425",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЛИНИЯ РОЗА ОДНОГОЛОВАЯ.. 60 СМ",
-    "wholesalePrice": 73.43,
-    "extraPrice": 77.1,
-    "retailPrice": 91.78
+    "wholesalePrice": 60.09,
+    "extraPrice": 63.1,
+    "retailPrice": 75.12
   },
   {
     "id": "УТ000007427",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЛИНИЯ РОЗА КУСТОВАЯ. 70 СМ",
-    "wholesalePrice": 223.22,
-    "extraPrice": 234.38,
-    "retailPrice": 279.03
+    "wholesalePrice": 235.1,
+    "extraPrice": 246.85,
+    "retailPrice": 293.87
   },
   {
     "id": "УТ000007428",
@@ -8627,9 +8619,9 @@
     "id": "УТ000010355",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЛИНИЯ РОЗА КУСТОВАЯ. 50 СМ",
-    "wholesalePrice": 175.35,
-    "extraPrice": 184.11,
-    "retailPrice": 219.18
+    "wholesalePrice": 181.09,
+    "extraPrice": 190.15,
+    "retailPrice": 226.37
   },
   {
     "id": "УТ000010358",
@@ -10163,9 +10155,9 @@
     "id": "УТ000014022",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЛИНИЯ РОЗА КУСТОВАЯ. 60 СМ",
-    "wholesalePrice": 191.99,
-    "extraPrice": 201.59,
-    "retailPrice": 239.99
+    "wholesalePrice": 195.09,
+    "extraPrice": 204.85,
+    "retailPrice": 243.87
   },
   {
     "id": "УТ000014023",
@@ -21712,14 +21704,6 @@
     "retailPrice": 211.54
   },
   {
-    "id": "УТ000029663",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "МЕДЖИК ТАЙМ- 50см (СТАР,КОРОЗОН,МАТИЗ,ЭКО РОЗ,БЕЛЛА РОЗА,ЧАРМИНГ,СОФИ,ДАВИНЧИ.РОЯЛ)",
-    "wholesalePrice": 92.81,
-    "extraPrice": 97.45,
-    "retailPrice": 116.01
-  },
-  {
     "id": "УТ000029664",
     "category": "..РОЗА ЭКВАДОР",
     "name": "МЕДЖИК ТАЙМ- 60см (СТАР,КОРОЗОН,МАТИЗ,ЭКО РОЗ,БЕЛЛА РОЗА,ЧАРМИНГ,СОФИ,ДАВИНЧИ.РОЯЛ)",
@@ -23531,9 +23515,9 @@
     "id": "УТ000032102",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЛИНИЯ РОЗА КУСТОВАЯ. 80 СМ",
-    "wholesalePrice": 235.95,
-    "extraPrice": 247.75,
-    "retailPrice": 294.94
+    "wholesalePrice": 266.09,
+    "extraPrice": 279.4,
+    "retailPrice": 332.62
   },
   {
     "id": "УТ000032261",
@@ -26819,9 +26803,9 @@
     "id": "УТ000034885",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЛИНИЯ РОЗА ОДНОГОЛОВАЯ.. 70 СМ",
-    "wholesalePrice": 83.21,
-    "extraPrice": 87.37,
-    "retailPrice": 104.02
+    "wholesalePrice": 68.1,
+    "extraPrice": 71.5,
+    "retailPrice": 85.12
   },
   {
     "id": "УТ000034912",
@@ -47070,6 +47054,14 @@
     "wholesalePrice": 330.72,
     "extraPrice": 347.26,
     "retailPrice": 413.4
+  },
+  {
+    "id": "УТ000051133",
+    "category": "..РОЗА КЕНИЯ",
+    "name": "ТАКАЗЗИ 40 см РОЗА Кения (CREDIBLE)",
+    "wholesalePrice": 33.39,
+    "extraPrice": 35.06,
+    "retailPrice": 41.74
   },
   {
     "id": "УТ000051135",
