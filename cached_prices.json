@@ -6744,6 +6744,14 @@
     "retailPrice": 153.1
   },
   {
+    "id": "УТ000008690",
+    "category": "..РОЗА КЕНИЯ",
+    "name": "АФИНА 40 см РОЗА Кения (SUBATI)",
+    "wholesalePrice": 50.96,
+    "extraPrice": 53.51,
+    "retailPrice": 63.71
+  },
+  {
     "id": "УТ000008692",
     "category": "..РОЗА КЕНИЯ",
     "name": "АФИНА 50 см РОЗА Кения (SUBATI)",
@@ -12288,14 +12296,6 @@
     "retailPrice": 1335.75
   },
   {
-    "id": "УТ000020001",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "РОМА VOORN-ROSES 50 см куст на воде",
-    "wholesalePrice": 120.67,
-    "extraPrice": 126.7,
-    "retailPrice": 150.84
-  },
-  {
     "id": "УТ000020018",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "ГУИНСИ 60 см куст на воде",
@@ -15480,20 +15480,20 @@
     "retailPrice": 74.38
   },
   {
-    "id": "УТ000026571",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "КОРАЛ БАБЫЛС VOORN-ROSES 70 см куст на воде",
-    "wholesalePrice": 197.28,
-    "extraPrice": 207.14,
-    "retailPrice": 246.6
-  },
-  {
     "id": "УТ000026586",
     "category": "..,РАЗНОЕ",
     "name": "АЛЬСТРОМЕРИЯ КЕНИЯ 50 см",
     "wholesalePrice": 32.06,
     "extraPrice": 33.66,
     "retailPrice": 40.07
+  },
+  {
+    "id": "УТ000026589",
+    "category": "..ТЮЛЬПАНЫ",
+    "name": "ВОУГ ТЮЛЬПАН  дубл.",
+    "wholesalePrice": 59.5,
+    "extraPrice": 62.48,
+    "retailPrice": 74.38
   },
   {
     "id": "УТ000026590",
@@ -26395,9 +26395,9 @@
     "id": "УТ000036177",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "МЕНИ/МИСС КУСТОВАЯ  70 см",
-    "wholesalePrice": 220.85,
-    "extraPrice": 231.89,
-    "retailPrice": 276.06
+    "wholesalePrice": 216.24,
+    "extraPrice": 227.06,
+    "retailPrice": 270.3
   },
   {
     "id": "УТ000036180",
@@ -34784,14 +34784,6 @@
     "retailPrice": 80.9
   },
   {
-    "id": "УТ000043418",
-    "category": "..,ЛИЛИЯ",
-    "name": "ЛИЛИЯ ОР ДУ ШАРДОННАЙ",
-    "wholesalePrice": 331.27,
-    "extraPrice": 347.83,
-    "retailPrice": 414.08
-  },
-  {
     "id": "УТ000043446",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
     "name": "СТРЕЛИЦИЯ 17 СМ",
@@ -40576,14 +40568,6 @@
     "retailPrice": 192.66
   },
   {
-    "id": "УТ000048559",
-    "category": "..,РОЗА ,МЕСТНАЯ",
-    "name": "ПОДМОСКВА КУСТ 70 СМ",
-    "wholesalePrice": 179.81,
-    "extraPrice": 188.8,
-    "retailPrice": 224.77
-  },
-  {
     "id": "УТ000048562",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ПОДМОСКВА КУСТ 50 СМ",
@@ -41560,6 +41544,14 @@
     "retailPrice": 426.41
   },
   {
+    "id": "УТ000049152",
+    "category": "КОРЗИНА",
+    "name": "Корзина - N099205",
+    "wholesalePrice": 1968.69,
+    "extraPrice": 2067.12,
+    "retailPrice": 2460.86
+  },
+  {
     "id": "УТ000049153",
     "category": "КОРЗИНА",
     "name": "Корзина - N158602",
@@ -41766,6 +41758,14 @@
     "wholesalePrice": 978.18,
     "extraPrice": 1027.09,
     "retailPrice": 1222.73
+  },
+  {
+    "id": "УТ000049674",
+    "category": "КОРЗИНА",
+    "name": "Корзина - N093001",
+    "wholesalePrice": 364.97,
+    "extraPrice": 383.22,
+    "retailPrice": 456.21
   },
   {
     "id": "УТ000049676",
@@ -49318,14 +49318,6 @@
     "wholesalePrice": 446.35,
     "extraPrice": 468.66,
     "retailPrice": 557.93
-  },
-  {
-    "id": "УТ000053134",
-    "category": "..ЦВЕТЫ КИТАЙ",
-    "name": "БРАССИКА КИТАЙ ПАЧКА",
-    "wholesalePrice": 501.42,
-    "extraPrice": 526.49,
-    "retailPrice": 626.78
   },
   {
     "id": "УТ000053138",
