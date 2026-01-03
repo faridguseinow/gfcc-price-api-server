@@ -1648,6 +1648,14 @@
     "retailPrice": 443.16
   },
   {
+    "id": "УТ000004584",
+    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
+    "name": "ДЕНДРОБИУМ 12 СМ",
+    "wholesalePrice": 978,
+    "extraPrice": 1026.9,
+    "retailPrice": 1222.5
+  },
+  {
     "id": "УТ000004600",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ДЕРЖАТЕЛЬ ДЛЯ ОРХИДЕЙ",
@@ -28728,14 +28736,6 @@
     "retailPrice": 327.02
   },
   {
-    "id": "УТ000038617",
-    "category": "..,РАЗНОЕ",
-    "name": "АСТРАНЦИА БЕЛАЯ",
-    "wholesalePrice": 69.28,
-    "extraPrice": 72.74,
-    "retailPrice": 86.59
-  },
-  {
     "id": "УТ000038618",
     "category": "..,РАЗНОЕ",
     "name": "АСТРАНЦИА РОЗОВАЯ",
@@ -53115,6 +53115,14 @@
     "id": "УТ000053802",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "МИКС 60 см РОЗА Кен/Куст. (BARAKA)",
+    "wholesalePrice": 96.17,
+    "extraPrice": 100.98,
+    "retailPrice": 120.21
+  },
+  {
+    "id": "УТ000053803",
+    "category": ",Сортовой",
+    "name": "БАРАКА 60 см СОРТОВОЙ РОЗА Кен/Куст. (BARAKA)",
     "wholesalePrice": 96.17,
     "extraPrice": 100.98,
     "retailPrice": 120.21
