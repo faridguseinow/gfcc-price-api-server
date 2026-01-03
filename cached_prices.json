@@ -8640,14 +8640,6 @@
     "retailPrice": 226.26
   },
   {
-    "id": "УТ000011800",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "ФАЕВОРКС 50 см куст на воде",
-    "wholesalePrice": 73.35,
-    "extraPrice": 77.02,
-    "retailPrice": 91.69
-  },
-  {
     "id": "УТ000011801",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "ФАЕВОРКС 60 см куст на воде",
@@ -27094,14 +27086,6 @@
     "wholesalePrice": 154.85,
     "extraPrice": 162.59,
     "retailPrice": 193.56
-  },
-  {
-    "id": "УТ000036875",
-    "category": "..,РОЗА ,НА ВОДЕ",
-    "name": "ПРИСЦИЛЛА 70 см одног на воде",
-    "wholesalePrice": 134.23,
-    "extraPrice": 140.94,
-    "retailPrice": 167.79
   },
   {
     "id": "УТ000036876",
@@ -54158,5 +54142,13 @@
     "wholesalePrice": 2511.83,
     "extraPrice": 2637.42,
     "retailPrice": 3139.79
+  },
+  {
+    "id": "УТ000054451",
+    "category": "КОРЗИНА",
+    "name": "Корзина - N194105",
+    "wholesalePrice": 2211.91,
+    "extraPrice": 2322.51,
+    "retailPrice": 2764.89
   }
 ]
