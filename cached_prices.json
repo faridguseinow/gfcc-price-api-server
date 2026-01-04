@@ -1456,28 +1456,12 @@
     "retailPrice": 50.92
   },
   {
-    "id": "УТ000003902",
-    "category": "..,ГВОЗДИКА",
-    "name": "ГВОЗДИКА КОЛУМБИЯ FLOREGENE",
-    "wholesalePrice": 52.04,
-    "extraPrice": 54.64,
-    "retailPrice": 65.05
-  },
-  {
     "id": "УТ000003904",
     "category": "..,ГВОЗДИКА",
     "name": "ГВОЗДИКА ЭКВАДОР КУСТОВАЯ",
     "wholesalePrice": 44.95,
     "extraPrice": 47.19,
     "retailPrice": 56.18
-  },
-  {
-    "id": "УТ000003905",
-    "category": "..,ГВОЗДИКА",
-    "name": "ГВОЗДИКА ТУРЦИЯ",
-    "wholesalePrice": 36.76,
-    "extraPrice": 38.59,
-    "retailPrice": 45.95
   },
   {
     "id": "УТ000003929",
@@ -29267,9 +29251,9 @@
     "id": "УТ000038889",
     "category": "..,ГВОЗДИКА",
     "name": "ГВОЗДИКА КОЛУМБИЯ GEO FLORA КУСТОВАЯ",
-    "wholesalePrice": 43.24,
-    "extraPrice": 45.4,
-    "retailPrice": 54.04
+    "wholesalePrice": 44.95,
+    "extraPrice": 47.19,
+    "retailPrice": 56.18
   },
   {
     "id": "УТ000038890",
@@ -36547,9 +36531,9 @@
     "id": "УТ000044653",
     "category": "..,ЗЕЛЕНЬ",
     "name": "ЭВКАЛИПТ СОЧИ",
-    "wholesalePrice": 2013.05,
-    "extraPrice": 2113.7,
-    "retailPrice": 2516.31
+    "wholesalePrice": 1793,
+    "extraPrice": 1882.65,
+    "retailPrice": 2241.25
   },
   {
     "id": "УТ000044667",
@@ -38259,49 +38243,49 @@
     "id": "УТ000046096",
     "category": "..,ГВОЗДИКА",
     "name": "ГВОЗДИКА КИТАЙ КУСТОВАЯ",
-    "wholesalePrice": 35.05,
-    "extraPrice": 36.8,
-    "retailPrice": 43.81
+    "wholesalePrice": 35.86,
+    "extraPrice": 37.65,
+    "retailPrice": 44.83
   },
   {
     "id": "УТ000046097",
     "category": "..,ГВОЗДИКА",
     "name": "ГВОЗДИКА КИТАЙ",
-    "wholesalePrice": 26.9,
-    "extraPrice": 28.24,
-    "retailPrice": 33.62
+    "wholesalePrice": 28.53,
+    "extraPrice": 29.95,
+    "retailPrice": 35.66
   },
   {
     "id": "УТ000046100",
     "category": "..ЦВЕТЫ КИТАЙ",
     "name": "ГИПСОФИЛА КРАШ КИТАЙ ПАЧКА",
-    "wholesalePrice": 1141,
-    "extraPrice": 1198.05,
-    "retailPrice": 1426.25
+    "wholesalePrice": 1328.45,
+    "extraPrice": 1394.87,
+    "retailPrice": 1660.56
   },
   {
     "id": "УТ000046101",
     "category": "..ЦВЕТЫ КИТАЙ",
     "name": "ЛИМОНИУМ КИТАЙ ПАЧКА",
-    "wholesalePrice": 1142.63,
-    "extraPrice": 1199.76,
-    "retailPrice": 1428.29
+    "wholesalePrice": 1141,
+    "extraPrice": 1198.05,
+    "retailPrice": 1426.25
   },
   {
     "id": "УТ000046104",
     "category": "..ЦВЕТЫ КИТАЙ",
     "name": "ЭВКАЛИПТ ПОПУЛУС КИТАЙ",
-    "wholesalePrice": 456.4,
-    "extraPrice": 479.22,
-    "retailPrice": 570.5
+    "wholesalePrice": 489,
+    "extraPrice": 513.45,
+    "retailPrice": 611.25
   },
   {
     "id": "УТ000046105",
     "category": "..ЦВЕТЫ КИТАЙ",
     "name": "ЛИЗИАНТУС КИТАЙ ПАЧКА",
-    "wholesalePrice": 1092.1,
-    "extraPrice": 1146.71,
-    "retailPrice": 1365.13
+    "wholesalePrice": 1014.68,
+    "extraPrice": 1065.41,
+    "retailPrice": 1268.34
   },
   {
     "id": "УТ000046106",
@@ -38507,41 +38491,41 @@
     "id": "УТ000046409",
     "category": "..ЦВЕТЫ КИТАЙ",
     "name": "БАМБУК  КИТАЙ ПАЧКА",
-    "wholesalePrice": 140.18,
-    "extraPrice": 147.19,
-    "retailPrice": 175.23
+    "wholesalePrice": 939.7,
+    "extraPrice": 986.68,
+    "retailPrice": 1174.62
   },
   {
     "id": "УТ000046417",
     "category": "..ЦВЕТЫ КИТАЙ",
     "name": "ЛИЛИЯ КИТАЙ ПАЧКА",
-    "wholesalePrice": 1630,
-    "extraPrice": 1711.5,
-    "retailPrice": 2037.5
+    "wholesalePrice": 2037.5,
+    "extraPrice": 2139.38,
+    "retailPrice": 2546.88
   },
   {
     "id": "УТ000046418",
     "category": "..ЦВЕТЫ КИТАЙ",
     "name": "ГВОЗДИКА ЗЕЛЕНАЯ КИТАЙ ПАЧКА",
-    "wholesalePrice": 683.79,
-    "extraPrice": 717.97,
-    "retailPrice": 854.73
+    "wholesalePrice": 652,
+    "extraPrice": 684.6,
+    "retailPrice": 815
   },
   {
     "id": "УТ000046419",
     "category": "..ЦВЕТЫ КИТАЙ",
     "name": "СТАТИЦА  КИТАЙ  ПАЧКА",
-    "wholesalePrice": 830.49,
-    "extraPrice": 872.01,
-    "retailPrice": 1038.11
+    "wholesalePrice": 863.09,
+    "extraPrice": 906.24,
+    "retailPrice": 1078.86
   },
   {
     "id": "УТ000046420",
     "category": "..ЦВЕТЫ КИТАЙ",
     "name": "ГОРТЕНЗИЯ КИТАЙ",
-    "wholesalePrice": 485.74,
-    "extraPrice": 510.03,
-    "retailPrice": 607.18
+    "wholesalePrice": 517.53,
+    "extraPrice": 543.4,
+    "retailPrice": 646.91
   },
   {
     "id": "УТ000046421",
@@ -38563,9 +38547,9 @@
     "id": "УТ000046423",
     "category": "..ЦВЕТЫ КИТАЙ",
     "name": "ТАНАЦЕТУМ  КИТАЙ ПАЧКА",
-    "wholesalePrice": 493.08,
-    "extraPrice": 517.73,
-    "retailPrice": 616.34
+    "wholesalePrice": 407.5,
+    "extraPrice": 427.88,
+    "retailPrice": 509.38
   },
   {
     "id": "УТ000046427",
@@ -39419,17 +39403,17 @@
     "id": "УТ000047287",
     "category": "..ЦВЕТЫ КИТАЙ",
     "name": "РОЗА КУСТОВАЯ КИТАЙ ПАЧКА",
-    "wholesalePrice": 1276.29,
-    "extraPrice": 1340.1,
-    "retailPrice": 1595.36
+    "wholesalePrice": 1290.96,
+    "extraPrice": 1355.51,
+    "retailPrice": 1613.7
   },
   {
     "id": "УТ000047288",
     "category": "..ЦВЕТЫ КИТАЙ",
     "name": "РОЗА ОДНОГОЛОВАЯ КИТАЙ ПАЧКА",
-    "wholesalePrice": 832.12,
-    "extraPrice": 873.72,
-    "retailPrice": 1040.14
+    "wholesalePrice": 876.13,
+    "extraPrice": 919.93,
+    "retailPrice": 1095.16
   },
   {
     "id": "УТ000047292",
@@ -39643,9 +39627,9 @@
     "id": "УТ000047628",
     "category": "..ЦВЕТЫ КИТАЙ",
     "name": "ЭВКАЛИПТ ПАРВИФОЛИЯ КИТАЙ",
-    "wholesalePrice": 456.4,
-    "extraPrice": 479.22,
-    "retailPrice": 570.5
+    "wholesalePrice": 489,
+    "extraPrice": 513.45,
+    "retailPrice": 611.25
   },
   {
     "id": "УТ000047629",
@@ -39787,9 +39771,9 @@
     "id": "УТ000047792",
     "category": "..ЦВЕТЫ КИТАЙ",
     "name": "МОЛЮЦЕЛЛА  КИТАЙ ПАЧКА",
-    "wholesalePrice": 423.8,
-    "extraPrice": 444.99,
-    "retailPrice": 529.75
+    "wholesalePrice": 694.38,
+    "extraPrice": 729.1,
+    "retailPrice": 867.98
   },
   {
     "id": "УТ000047797",
@@ -39915,9 +39899,9 @@
     "id": "УТ000048159",
     "category": "..ЦВЕТЫ КИТАЙ",
     "name": "КАЛЛА  КИТАЙ ПАЧКА",
-    "wholesalePrice": 77.43,
-    "extraPrice": 81.3,
-    "retailPrice": 96.78
+    "wholesalePrice": 609.62,
+    "extraPrice": 640.1,
+    "retailPrice": 762.03
   },
   {
     "id": "УТ000048161",
@@ -39931,9 +39915,9 @@
     "id": "УТ000048162",
     "category": "..ЦВЕТЫ КИТАЙ",
     "name": "ОРНИТОГАЛУМ КИТАЙ ПАЧКА",
-    "wholesalePrice": 407.5,
-    "extraPrice": 427.88,
-    "retailPrice": 509.38
+    "wholesalePrice": 951.11,
+    "extraPrice": 998.66,
+    "retailPrice": 1188.88
   },
   {
     "id": "УТ000048163",
@@ -42363,9 +42347,9 @@
     "id": "УТ000049954",
     "category": "..ЦВЕТЫ КИТАЙ",
     "name": "ХАМЕЛАЦИУМ КИТАЙ ПАЧКА",
-    "wholesalePrice": 652,
-    "extraPrice": 684.6,
-    "retailPrice": 815
+    "wholesalePrice": 559.09,
+    "extraPrice": 587.04,
+    "retailPrice": 698.86
   },
   {
     "id": "УТ000049958",
@@ -45035,9 +45019,9 @@
     "id": "УТ000051295",
     "category": "..ЦВЕТЫ КИТАЙ",
     "name": "ГИПСОФИЛА КИТАЙ ПАЧКА",
-    "wholesalePrice": 1076.62,
-    "extraPrice": 1130.45,
-    "retailPrice": 1345.77
+    "wholesalePrice": 1059.5,
+    "extraPrice": 1112.48,
+    "retailPrice": 1324.38
   },
   {
     "id": "УТ000051302",
@@ -53747,9 +53731,9 @@
     "id": "УТ000053968",
     "category": "..ЦВЕТЫ КИТАЙ",
     "name": "РАНУНКУЛЮС КИТАЙ ПАЧКА",
-    "wholesalePrice": 606.36,
-    "extraPrice": 636.68,
-    "retailPrice": 757.95
+    "wholesalePrice": 590.06,
+    "extraPrice": 619.56,
+    "retailPrice": 737.58
   },
   {
     "id": "УТ000053969",
