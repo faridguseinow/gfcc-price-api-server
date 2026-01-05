@@ -2864,14 +2864,6 @@
     "retailPrice": 2363.25
   },
   {
-    "id": "УТ000005788",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "КАКТУС  8 СМ",
-    "wholesalePrice": 213.72,
-    "extraPrice": 224.41,
-    "retailPrice": 267.15
-  },
-  {
     "id": "УТ000005794",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
     "name": "КАКТУС ВЕРСИЕРД  5 СМ (КОРОБКА 20 ШТУК)",
@@ -6232,14 +6224,6 @@
     "retailPrice": 1027.5
   },
   {
-    "id": "УТ000007521",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "МИРТ 15 СМ",
-    "wholesalePrice": 1644,
-    "extraPrice": 1726.2,
-    "retailPrice": 2055
-  },
-  {
     "id": "УТ000007529",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
     "name": "МОНСТЕРА 14 СМ",
@@ -9448,6 +9432,14 @@
     "retailPrice": 77.39
   },
   {
+    "id": "УТ000013999",
+    "category": "..ТЮЛЬПАНЫ",
+    "name": "КАТИНКА  ТЮЛЬПАН дубл.",
+    "wholesalePrice": 61.91,
+    "extraPrice": 65.01,
+    "retailPrice": 77.39
+  },
+  {
     "id": "УТ000014006",
     "category": "..ТЮЛЬПАНЫ",
     "name": "КОЛУМБУС  ТЮЛЬПАН дубл.",
@@ -9734,6 +9726,14 @@
     "wholesalePrice": 1015.17,
     "extraPrice": 1065.93,
     "retailPrice": 1268.96
+  },
+  {
+    "id": "УТ000014303",
+    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
+    "name": "ФАЛЕНОПСИС 2 СТ. 12/70 СМ",
+    "wholesalePrice": 1352.19,
+    "extraPrice": 1419.8,
+    "retailPrice": 1690.24
   },
   {
     "id": "УТ000014318",
@@ -12558,6 +12558,14 @@
     "wholesalePrice": 312.36,
     "extraPrice": 327.98,
     "retailPrice": 390.45
+  },
+  {
+    "id": "УТ000019677",
+    "category": "..,РАЗНОЕ",
+    "name": "ЛИЗИАНТУС АЛИСА РОЗОВЫЙ",
+    "wholesalePrice": 181.66,
+    "extraPrice": 190.75,
+    "retailPrice": 227.08
   },
   {
     "id": "УТ000019745",
@@ -21672,6 +21680,14 @@
     "retailPrice": 1943
   },
   {
+    "id": "УТ000030477",
+    "category": "КОРЗИНА",
+    "name": "Корзина - 8883804",
+    "wholesalePrice": 1057.09,
+    "extraPrice": 1109.95,
+    "retailPrice": 1321.37
+  },
+  {
     "id": "УТ000030478",
     "category": "КОРЗИНА",
     "name": "Корзина - 8986302",
@@ -22246,14 +22262,6 @@
     "wholesalePrice": 1183.68,
     "extraPrice": 1242.86,
     "retailPrice": 1479.6
-  },
-  {
-    "id": "УТ000031648",
-    "category": "..,РАЗНОЕ",
-    "name": "ОРХИДЕЯ  1*6 КРАСНАЯ",
-    "wholesalePrice": 1290.54,
-    "extraPrice": 1355.07,
-    "retailPrice": 1613.18
   },
   {
     "id": "УТ000031725",
@@ -29126,14 +29134,6 @@
     "wholesalePrice": 167.69,
     "extraPrice": 176.07,
     "retailPrice": 209.61
-  },
-  {
-    "id": "УТ000038601",
-    "category": "..,РАЗНОЕ",
-    "name": "АГАПАНТУС СИНИЙ",
-    "wholesalePrice": 147.96,
-    "extraPrice": 155.36,
-    "retailPrice": 184.95
   },
   {
     "id": "УТ000038602",
