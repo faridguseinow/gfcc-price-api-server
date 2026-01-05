@@ -4712,6 +4712,14 @@
     "retailPrice": 1069.63
   },
   {
+    "id": "УТ000006728",
+    "category": "КОРЗИНА",
+    "name": "Корзина - 573203",
+    "wholesalePrice": 1333.28,
+    "extraPrice": 1399.95,
+    "retailPrice": 1666.61
+  },
+  {
     "id": "УТ000006730",
     "category": "КОРЗИНА",
     "name": "Корзина - 576003",
@@ -6766,6 +6774,14 @@
     "wholesalePrice": 46.03,
     "extraPrice": 48.33,
     "retailPrice": 57.54
+  },
+  {
+    "id": "УТ000008545",
+    "category": "..РОЗА КЕНИЯ",
+    "name": "МИКС 40 см РОЗА Кения (SUBATI)",
+    "wholesalePrice": 54.25,
+    "extraPrice": 56.96,
+    "retailPrice": 67.82
   },
   {
     "id": "УТ000008550",
@@ -9406,14 +9422,6 @@
     "wholesalePrice": 57.05,
     "extraPrice": 59.9,
     "retailPrice": 71.31
-  },
-  {
-    "id": "УТ000013973",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "ДУБЛЬ ПРАЙС  ТЮЛЬПАН дубл.",
-    "wholesalePrice": 61.91,
-    "extraPrice": 65.01,
-    "retailPrice": 77.39
   },
   {
     "id": "УТ000013974",
@@ -14696,28 +14704,12 @@
     "retailPrice": 163.37
   },
   {
-    "id": "УТ000024954",
-    "category": "..РОЗА КЕНИЯ",
-    "name": "КОРАЛ РЕВА 60 см РОЗА Кения (RLR)",
-    "wholesalePrice": 140.56,
-    "extraPrice": 147.59,
-    "retailPrice": 175.7
-  },
-  {
     "id": "УТ000024978",
     "category": "..РОЗА ЭКВАДОР",
     "name": "КАНТРИ БЛЮЗ (ТЕССА)- 50см",
     "wholesalePrice": 127.23,
     "extraPrice": 133.59,
     "retailPrice": 159.04
-  },
-  {
-    "id": "УТ000025248",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ФРИДОМ (САЧА)- 60см",
-    "wholesalePrice": 89.72,
-    "extraPrice": 94.21,
-    "retailPrice": 112.15
   },
   {
     "id": "УТ000025249",
@@ -19568,14 +19560,6 @@
     "retailPrice": 94.83
   },
   {
-    "id": "УТ000029126",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "БЕЛЫЙ ШОКОЛАД -  70см",
-    "wholesalePrice": 91.25,
-    "extraPrice": 95.81,
-    "retailPrice": 114.06
-  },
-  {
     "id": "УТ000029127",
     "category": "..РОЗА ЭКВАДОР",
     "name": "БЕЛЫЙ ШОКОЛАД -  80см",
@@ -20854,14 +20838,6 @@
     "wholesalePrice": 128.23,
     "extraPrice": 134.64,
     "retailPrice": 160.29
-  },
-  {
-    "id": "УТ000029790",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ПОМАРОСА- 80см (СТАР,КОРОЗОН,МАТИЗ,ЭКО РОЗ,БЕЛЛА РОЗА,ЧАРМИНГ,СОФИ,ДАВИНЧИ.РОЯЛ)",
-    "wholesalePrice": 144.56,
-    "extraPrice": 151.78,
-    "retailPrice": 180.7
   },
   {
     "id": "УТ000029795",
@@ -49174,6 +49150,14 @@
     "wholesalePrice": 427.44,
     "extraPrice": 448.81,
     "retailPrice": 534.3
+  },
+  {
+    "id": "УТ000052606",
+    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
+    "name": "ДЖЕССИ 60 см на воде",
+    "wholesalePrice": 123.3,
+    "extraPrice": 129.47,
+    "retailPrice": 154.13
   },
   {
     "id": "УТ000052607",
