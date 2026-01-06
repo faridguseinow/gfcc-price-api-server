@@ -2776,14 +2776,6 @@
     "retailPrice": 216.3
   },
   {
-    "id": "УТ000005713",
-    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
-    "name": "ФАБИОЛА 70 см РОЗА Кен/Куст. (RLR)",
-    "wholesalePrice": 190.34,
-    "extraPrice": 199.86,
-    "retailPrice": 237.93
-  },
-  {
     "id": "УТ000005720",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "ФАЕВОРКС 50 см РОЗА Кен/Куст. (GOLDEN)",
@@ -8112,6 +8104,14 @@
     "retailPrice": 110.33
   },
   {
+    "id": "УТ000010393",
+    "category": "..,РАЗНОЕ",
+    "name": "ОРНИТОГАЛУМ БОЛЬШОЙ",
+    "wholesalePrice": 82.4,
+    "extraPrice": 86.52,
+    "retailPrice": 103
+  },
+  {
     "id": "УТ000010395",
     "category": "..,РАЗНОЕ",
     "name": "ОРХИДЕЯ  1*6  МИКС",
@@ -8470,14 +8470,6 @@
     "wholesalePrice": 144.2,
     "extraPrice": 151.41,
     "retailPrice": 180.25
-  },
-  {
-    "id": "УТ000011497",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "ГРИН ГЛОУ  60 см куст на воде",
-    "wholesalePrice": 131.84,
-    "extraPrice": 138.43,
-    "retailPrice": 164.8
   },
   {
     "id": "УТ000011498",
@@ -16416,14 +16408,6 @@
     "retailPrice": 118.82
   },
   {
-    "id": "УТ000027920",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "МОНДИАЛЬ -  90 см",
-    "wholesalePrice": 111.17,
-    "extraPrice": 116.72,
-    "retailPrice": 138.96
-  },
-  {
     "id": "УТ000027922",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ПИОНОВИДНАЯ  40 см-Давид Аустин",
@@ -23376,14 +23360,6 @@
     "retailPrice": 109.62
   },
   {
-    "id": "УТ000033352",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "СВАН -  70см",
-    "wholesalePrice": 104.37,
-    "extraPrice": 109.59,
-    "retailPrice": 130.46
-  },
-  {
     "id": "УТ000033373",
     "category": "КОРЗИНА",
     "name": "Корзина - 8267503",
@@ -27944,14 +27920,6 @@
     "retailPrice": 76.22
   },
   {
-    "id": "УТ000037211",
-    "category": "..,РАЗНОЕ",
-    "name": "ВАНДА ТАИЛАНД",
-    "wholesalePrice": 778.68,
-    "extraPrice": 817.61,
-    "retailPrice": 973.35
-  },
-  {
     "id": "УТ000037247",
     "category": "..РОЗА КЕНИЯ",
     "name": "СОФИ ЛОРЕН 40 см РОЗА Кения (MZURRIE)",
@@ -32494,14 +32462,6 @@
     "wholesalePrice": 258.74,
     "extraPrice": 271.67,
     "retailPrice": 323.42
-  },
-  {
-    "id": "УТ000040484",
-    "category": "ГРУНТ И УДОБРЕНИЯ",
-    "name": "СПРЕЙ ПРОТИВ ВРЕДИТЕЛЕЙ (ШАХКОАЛ 500 МЛ)",
-    "wholesalePrice": 214.24,
-    "extraPrice": 224.95,
-    "retailPrice": 267.8
   },
   {
     "id": "УТ000040485",
@@ -39739,9 +39699,9 @@
     "id": "УТ000047269",
     "category": "..ЦВЕТЫ КИТАЙ",
     "name": "ЭВКАЛИПТ БЭЙБИ БЛЮ КИТАЙ",
-    "wholesalePrice": 1112.4,
-    "extraPrice": 1168.02,
-    "retailPrice": 1390.5
+    "wholesalePrice": 1030,
+    "extraPrice": 1081.5,
+    "retailPrice": 1287.5
   },
   {
     "id": "УТ000047276",
