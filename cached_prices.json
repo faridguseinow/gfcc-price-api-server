@@ -1920,14 +1920,6 @@
     "retailPrice": 174.89
   },
   {
-    "id": "УТ000005006",
-    "category": "..,ЗЕЛЕНЬ",
-    "name": "НОБИЛИС",
-    "wholesalePrice": 1851.75,
-    "extraPrice": 1944.34,
-    "retailPrice": 2314.69
-  },
-  {
     "id": "УТ000005017",
     "category": "..,ЗЕЛЕНЬ",
     "name": "ПАПОРОТНИК",
@@ -14912,14 +14904,6 @@
     "retailPrice": 246.9
   },
   {
-    "id": "УТ000025471",
-    "category": "..,ЗЕЛЕНЬ",
-    "name": "ЗЕЛЕНЬ КРАСНОДАР",
-    "wholesalePrice": 485.57,
-    "extraPrice": 509.85,
-    "retailPrice": 606.96
-  },
-  {
     "id": "УТ000025506",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "ЛЕЙЛА 60 см куст на воде",
@@ -22360,14 +22344,6 @@
     "retailPrice": 1437.16
   },
   {
-    "id": "УТ000032349",
-    "category": "..,ЗЕЛЕНЬ",
-    "name": "РУСКУС КРАСНОДАР  МИНИ",
-    "wholesalePrice": 169.54,
-    "extraPrice": 178.01,
-    "retailPrice": 211.92
-  },
-  {
     "id": "УТ000032357",
     "category": "..РОЗА КЕНИЯ",
     "name": "НОВИА 60 см РОЗА Кения (RLR)",
@@ -23942,6 +23918,14 @@
     "wholesalePrice": 37.86,
     "extraPrice": 39.75,
     "retailPrice": 47.32
+  },
+  {
+    "id": "УТ000033928",
+    "category": ",Сортовой",
+    "name": "БАХАТИ МЗУРИ СОРТОВОЙ 40 см (MZURRIE)",
+    "wholesalePrice": 37.04,
+    "extraPrice": 38.89,
+    "retailPrice": 46.29
   },
   {
     "id": "УТ000033931",
@@ -29136,14 +29120,6 @@
     "retailPrice": 1309.6
   },
   {
-    "id": "УТ000038596",
-    "category": "..,ЗЕЛЕНЬ",
-    "name": "РУСКУС КРАСНОДАР  СРЕДНИЙ",
-    "wholesalePrice": 280.64,
-    "extraPrice": 294.68,
-    "retailPrice": 350.8
-  },
-  {
     "id": "УТ000038597",
     "category": ".УПАКОВКА",
     "name": "ВИКТОРИЯ КИРПИЧ (КОРОБКА-20 ШТ)",
@@ -33040,14 +33016,6 @@
     "retailPrice": 306.46
   },
   {
-    "id": "УТ000040797",
-    "category": "..,ЗЕЛЕНЬ",
-    "name": "ЁЛКА - ГОЛДЕН",
-    "wholesalePrice": 403.27,
-    "extraPrice": 423.43,
-    "retailPrice": 504.09
-  },
-  {
     "id": "УТ000040798",
     "category": "..ТЮЛЬПАНЫ",
     "name": "СИНА САМОУКО  ТЮЛЬПАН энкл.",
@@ -35635,9 +35603,9 @@
     "id": "УТ000043792",
     "category": ".УПАКОВКА",
     "name": "КОРОБКА ДЛЯ ЦВЕТОВ № M (10 ШТ)",
-    "wholesalePrice": 1529.13,
-    "extraPrice": 1605.59,
-    "retailPrice": 1911.42
+    "wholesalePrice": 1695.38,
+    "extraPrice": 1780.15,
+    "retailPrice": 2119.23
   },
   {
     "id": "УТ000043793",
@@ -35691,9 +35659,9 @@
     "id": "УТ000043800",
     "category": ".УПАКОВКА",
     "name": "КОРОБКА ДЛЯ ЦВЕТОВ № M1 (10 ШТ)",
-    "wholesalePrice": 1354.66,
-    "extraPrice": 1422.39,
-    "retailPrice": 1693.32
+    "wholesalePrice": 1444.37,
+    "extraPrice": 1516.58,
+    "retailPrice": 1805.46
   },
   {
     "id": "УТ000043802",
@@ -37102,14 +37070,6 @@
     "wholesalePrice": 65.84,
     "extraPrice": 69.13,
     "retailPrice": 82.3
-  },
-  {
-    "id": "УТ000044688",
-    "category": "..,ЗЕЛЕНЬ",
-    "name": "РУСКУС КРАСНОДАР  БОЛЬШОЙ",
-    "wholesalePrice": 497.09,
-    "extraPrice": 521.95,
-    "retailPrice": 621.37
   },
   {
     "id": "УТ000044696",
@@ -38566,14 +38526,6 @@
     "wholesalePrice": 106.99,
     "extraPrice": 112.34,
     "retailPrice": 133.74
-  },
-  {
-    "id": "УТ000045853",
-    "category": "..,РАЗНОЕ",
-    "name": "АНТУРИУМ ТЕКИЛА *12",
-    "wholesalePrice": 261.71,
-    "extraPrice": 274.8,
-    "retailPrice": 327.14
   },
   {
     "id": "УТ000045900",
@@ -40064,14 +40016,6 @@
     "retailPrice": 1285.94
   },
   {
-    "id": "УТ000047628",
-    "category": "..ЦВЕТЫ КИТАЙ",
-    "name": "ЭВКАЛИПТ ПАРВИФОЛИЯ КИТАЙ",
-    "wholesalePrice": 493.8,
-    "extraPrice": 518.49,
-    "retailPrice": 617.25
-  },
-  {
     "id": "УТ000047629",
     "category": "..ЦВЕТЫ КИТАЙ",
     "name": "ПОДСОЛНУХ КИТАЙ ПАЧКА",
@@ -40918,14 +40862,6 @@
     "wholesalePrice": 1728.3,
     "extraPrice": 1814.72,
     "retailPrice": 2160.38
-  },
-  {
-    "id": "УТ000048293",
-    "category": "..,ЗЕЛЕНЬ",
-    "name": "КИПАРИС КРАСНОДАР",
-    "wholesalePrice": 590.91,
-    "extraPrice": 620.46,
-    "retailPrice": 738.64
   },
   {
     "id": "УТ000048383",
