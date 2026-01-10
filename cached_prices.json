@@ -10808,14 +10808,6 @@
     "retailPrice": 577.71
   },
   {
-    "id": "УТ000016072",
-    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
-    "name": "СИЛЬВЕР ШЭДОУ 60 см РОЗА Кен/Куст.(RLR)",
-    "wholesalePrice": 160.33,
-    "extraPrice": 168.34,
-    "retailPrice": 200.41
-  },
-  {
     "id": "УТ000016085",
     "category": "ОТКРЫТКИ",
     "name": "ОТКРЫТКА РУЧНАЯ РАБОТА",
@@ -11446,6 +11438,14 @@
     "wholesalePrice": 179.14,
     "extraPrice": 188.1,
     "retailPrice": 223.93
+  },
+  {
+    "id": "УТ000017758",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "НЕНА (ТЕССА)-60 см",
+    "wholesalePrice": 92.72,
+    "extraPrice": 97.36,
+    "retailPrice": 115.9
   },
   {
     "id": "УТ000017813",
@@ -20840,14 +20840,6 @@
     "retailPrice": 127.2
   },
   {
-    "id": "УТ000029749",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ПИНК МОНДИАЛЬ- 70см (СТАР,КОРОЗОН,МАТИЗ,ЭКО РОЗ,БЕЛЛА РОЗА,ЧАРМИНГ,СОФИ,ДАВИНЧИ.РОЯЛ)",
-    "wholesalePrice": 120.77,
-    "extraPrice": 126.81,
-    "retailPrice": 150.96
-  },
-  {
     "id": "УТ000029753",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ПИНК ФЛОЙД- 50см (СТАР,КОРОЗОН,МАТИЗ,ЭКО РОЗ,БЕЛЛА РОЗА,ЧАРМИНГ,СОФИ,ДАВИНЧИ.РОЯЛ)",
@@ -21110,14 +21102,6 @@
     "wholesalePrice": 121.54,
     "extraPrice": 127.62,
     "retailPrice": 151.92
-  },
-  {
-    "id": "УТ000029838",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ХОТ СПОТ  80см (СТАР,КОРОЗОН,МАТИЗ,ЭКО РОЗ,БЕЛЛА РОЗА,ЧАРМИНГ,СОФИ,ДАВИНЧИ.РОЯЛ)",
-    "wholesalePrice": 136.59,
-    "extraPrice": 143.42,
-    "retailPrice": 170.74
   },
   {
     "id": "УТ000029839",
@@ -22870,6 +22854,14 @@
     "wholesalePrice": 126.79,
     "extraPrice": 133.13,
     "retailPrice": 158.49
+  },
+  {
+    "id": "УТ000032770",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "ОПАЛА -  60см",
+    "wholesalePrice": 79.08,
+    "extraPrice": 83.03,
+    "retailPrice": 98.85
   },
   {
     "id": "УТ000032771",
@@ -25672,6 +25664,14 @@
     "retailPrice": 139.27
   },
   {
+    "id": "УТ000034865",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "МИЯ  90см (СТАР,КОРОЗОН,МАТИЗ,ЭКО РОЗ,БЕЛЛА РОЗА,ЧАРМИНГ,СОФИ,ДАВИНЧИ.РОЯЛ)",
+    "wholesalePrice": 141.77,
+    "extraPrice": 148.86,
+    "retailPrice": 177.21
+  },
+  {
     "id": "УТ000034885",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЛИНИЯ РОЗА ОДНОГОЛОВАЯ.. 70 СМ",
@@ -26979,9 +26979,9 @@
     "id": "УТ000036177",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "МЕНИ/МИСС КУСТОВАЯ  70 см",
-    "wholesalePrice": 215.19,
-    "extraPrice": 225.95,
-    "retailPrice": 268.99
+    "wholesalePrice": 219.99,
+    "extraPrice": 230.99,
+    "retailPrice": 274.99
   },
   {
     "id": "УТ000036180",
@@ -28390,6 +28390,14 @@
     "wholesalePrice": 197.01,
     "extraPrice": 206.86,
     "retailPrice": 246.26
+  },
+  {
+    "id": "УТ000037633",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "ПИНК ЭКСПРЕШН (РОЗАПРИМА)-70см",
+    "wholesalePrice": 217.83,
+    "extraPrice": 228.72,
+    "retailPrice": 272.28
   },
   {
     "id": "УТ000037639",
@@ -31198,6 +31206,14 @@
     "wholesalePrice": 121.02,
     "extraPrice": 127.07,
     "retailPrice": 151.28
+  },
+  {
+    "id": "УТ000039680",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "БЛЮЗ - 70см ANNI ROSES.LRA.QLS.ATC.SPPH.ALLGF.EVR.RLH.TURS.GWFW.VDS.RDF.FDS 2.CNV.MON",
+    "wholesalePrice": 109.32,
+    "extraPrice": 114.78,
+    "retailPrice": 136.65
   },
   {
     "id": "УТ000039691",
