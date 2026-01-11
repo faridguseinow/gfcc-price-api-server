@@ -6139,25 +6139,25 @@
     "id": "УТ000007422",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЛИНИЯ РОЗА ОДНОГОЛОВАЯ.. 50 СМ",
-    "wholesalePrice": 40.5,
-    "extraPrice": 42.52,
-    "retailPrice": 50.62
+    "wholesalePrice": 52.09,
+    "extraPrice": 54.7,
+    "retailPrice": 65.12
   },
   {
     "id": "УТ000007425",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЛИНИЯ РОЗА ОДНОГОЛОВАЯ.. 60 СМ",
-    "wholesalePrice": 59.27,
-    "extraPrice": 62.23,
-    "retailPrice": 74.08
+    "wholesalePrice": 62.1,
+    "extraPrice": 65.2,
+    "retailPrice": 77.62
   },
   {
     "id": "УТ000007427",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЛИНИЯ РОЗА КУСТОВАЯ. 70 СМ",
-    "wholesalePrice": 222.37,
-    "extraPrice": 233.49,
-    "retailPrice": 277.96
+    "wholesalePrice": 203,
+    "extraPrice": 213.15,
+    "retailPrice": 253.75
   },
   {
     "id": "УТ000007428",
@@ -8147,9 +8147,9 @@
     "id": "УТ000010355",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЛИНИЯ РОЗА КУСТОВАЯ. 50 СМ",
-    "wholesalePrice": 138.4,
-    "extraPrice": 145.32,
-    "retailPrice": 173
+    "wholesalePrice": 119.99,
+    "extraPrice": 125.99,
+    "retailPrice": 149.99
   },
   {
     "id": "УТ000010358",
@@ -8475,9 +8475,9 @@
     "id": "УТ000010833",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЛИНИЯ РОЗА ОДНОГОЛОВАЯ..80 СМ",
-    "wholesalePrice": 79.03,
-    "extraPrice": 82.98,
-    "retailPrice": 98.79
+    "wholesalePrice": 84.1,
+    "extraPrice": 88.3,
+    "retailPrice": 105.12
   },
   {
     "id": "УТ000011262",
@@ -9547,9 +9547,9 @@
     "id": "УТ000014022",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЛИНИЯ РОЗА КУСТОВАЯ. 60 СМ",
-    "wholesalePrice": 187.79,
-    "extraPrice": 197.18,
-    "retailPrice": 234.74
+    "wholesalePrice": 165.09,
+    "extraPrice": 173.35,
+    "retailPrice": 206.37
   },
   {
     "id": "УТ000014048",
@@ -10291,6 +10291,14 @@
     "id": "УТ000015014",
     "category": "..ХРИЗАНТЕМА",
     "name": ".ХРИЗ. ДЕКО ПИП",
+    "wholesalePrice": 127.3,
+    "extraPrice": 133.66,
+    "retailPrice": 159.12
+  },
+  {
+    "id": "УТ000015016",
+    "category": "..ХРИЗАНТЕМА",
+    "name": ".ХРИЗ. ДЕКО РОССАНО",
     "wholesalePrice": 127.3,
     "extraPrice": 133.66,
     "retailPrice": 159.12
@@ -16134,6 +16142,14 @@
     "wholesalePrice": 32.64,
     "extraPrice": 34.27,
     "retailPrice": 40.8
+  },
+  {
+    "id": "УТ000026588",
+    "category": "..ХРИЗАНТЕМА",
+    "name": ".ХРИЗ. ДЕКО РОКСО",
+    "wholesalePrice": 127.3,
+    "extraPrice": 133.66,
+    "retailPrice": 159.12
   },
   {
     "id": "УТ000026590",
@@ -22539,9 +22555,9 @@
     "id": "УТ000032102",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЛИНИЯ РОЗА КУСТОВАЯ. 80 СМ",
-    "wholesalePrice": 246.97,
-    "extraPrice": 259.32,
-    "retailPrice": 308.71
+    "wholesalePrice": 230,
+    "extraPrice": 241.5,
+    "retailPrice": 287.5
   },
   {
     "id": "УТ000032261",
@@ -25803,9 +25819,9 @@
     "id": "УТ000034885",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЛИНИЯ РОЗА ОДНОГОЛОВАЯ.. 70 СМ",
-    "wholesalePrice": 69.15,
-    "extraPrice": 72.61,
-    "retailPrice": 86.43
+    "wholesalePrice": 70.09,
+    "extraPrice": 73.6,
+    "retailPrice": 87.62
   },
   {
     "id": "УТ000034912",
@@ -35390,6 +35406,14 @@
     "wholesalePrice": 134.64,
     "extraPrice": 141.37,
     "retailPrice": 168.3
+  },
+  {
+    "id": "УТ000043187",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "АЛЬОХА -  50см",
+    "wholesalePrice": 75.06,
+    "extraPrice": 78.81,
+    "retailPrice": 93.82
   },
   {
     "id": "УТ000043188",
@@ -49974,6 +49998,14 @@
     "wholesalePrice": 174.22,
     "extraPrice": 182.93,
     "retailPrice": 217.77
+  },
+  {
+    "id": "УТ000052878",
+    "category": "..ХРИЗАНТЕМА",
+    "name": "КОМАНДИР ЖЕЛТЫЙ",
+    "wholesalePrice": 73.53,
+    "extraPrice": 77.21,
+    "retailPrice": 91.91
   },
   {
     "id": "УТ000052880",
