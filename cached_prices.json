@@ -2856,6 +2856,14 @@
     "retailPrice": 2328.7
   },
   {
+    "id": "УТ000005788",
+    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
+    "name": "КАКТУС  8 СМ",
+    "wholesalePrice": 208.78,
+    "extraPrice": 219.22,
+    "retailPrice": 260.98
+  },
+  {
     "id": "УТ000005794",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
     "name": "КАКТУС ВЕРСИЕРД  5 СМ (КОРОБКА 20 ШТУК)",
@@ -8184,14 +8192,6 @@
     "retailPrice": 90.34
   },
   {
-    "id": "УТ000010394",
-    "category": "..,РАЗНОЕ",
-    "name": "ОРНИТОГАЛУМ МАЛЫЙ",
-    "wholesalePrice": 77.09,
-    "extraPrice": 80.94,
-    "retailPrice": 96.36
-  },
-  {
     "id": "УТ000010395",
     "category": "..,РАЗНОЕ",
     "name": "ОРХИДЕЯ  1*6  МИКС",
@@ -10870,14 +10870,6 @@
     "wholesalePrice": 264.99,
     "extraPrice": 278.24,
     "retailPrice": 331.24
-  },
-  {
-    "id": "УТ000015926",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "ДЕНДРОБИУМ  9 СМ",
-    "wholesalePrice": 578.16,
-    "extraPrice": 607.07,
-    "retailPrice": 722.7
   },
   {
     "id": "УТ000015961",
@@ -25374,14 +25366,6 @@
     "wholesalePrice": 872.06,
     "extraPrice": 915.66,
     "retailPrice": 1090.07
-  },
-  {
-    "id": "УТ000034531",
-    "category": "КОРЗИНА",
-    "name": "Корзина - 19A200103",
-    "wholesalePrice": 1521.69,
-    "extraPrice": 1597.77,
-    "retailPrice": 1902.11
   },
   {
     "id": "УТ000034532",
@@ -49614,6 +49598,14 @@
     "wholesalePrice": 1389.19,
     "extraPrice": 1458.65,
     "retailPrice": 1736.49
+  },
+  {
+    "id": "УТ000052565",
+    "category": "КОРЗИНА",
+    "name": "Корзина - N108003",
+    "wholesalePrice": 734.75,
+    "extraPrice": 771.48,
+    "retailPrice": 918.43
   },
   {
     "id": "УТ000052583",
