@@ -1816,14 +1816,6 @@
     "retailPrice": 2107.88
   },
   {
-    "id": "УТ000004805",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "ДРАЦЕНА ГОЛДЕН КОСТ 24/160 СМ",
-    "wholesalePrice": 7227,
-    "extraPrice": 7588.35,
-    "retailPrice": 9033.75
-  },
-  {
     "id": "УТ000004841",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
     "name": "ДРАЦЕНА МАРГИНАТА 11 СМ",
@@ -1854,14 +1846,6 @@
     "wholesalePrice": 1866.98,
     "extraPrice": 1960.32,
     "retailPrice": 2333.72
-  },
-  {
-    "id": "УТ000004914",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "ДРАЦЕНА ЦИНТО 24/140 СМ",
-    "wholesalePrice": 7227,
-    "extraPrice": 7588.35,
-    "retailPrice": 9033.75
   },
   {
     "id": "УТ000004918",
@@ -8822,6 +8806,14 @@
     "wholesalePrice": 164.29,
     "extraPrice": 172.51,
     "retailPrice": 205.37
+  },
+  {
+    "id": "УТ000011723",
+    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
+    "name": "САНСЕРРА 50 см куст на воде",
+    "wholesalePrice": 88.33,
+    "extraPrice": 92.75,
+    "retailPrice": 110.41
   },
   {
     "id": "УТ000011724",
@@ -21910,6 +21902,14 @@
     "wholesalePrice": 123.94,
     "extraPrice": 130.14,
     "retailPrice": 154.93
+  },
+  {
+    "id": "УТ000030464",
+    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
+    "name": "АЛОЭ ТИКИ ТАКИ  9 СМ",
+    "wholesalePrice": 361.35,
+    "extraPrice": 379.42,
+    "retailPrice": 451.69
   },
   {
     "id": "УТ000030474",
@@ -40488,14 +40488,6 @@
     "retailPrice": 602.25
   },
   {
-    "id": "УТ000047629",
-    "category": "..ЦВЕТЫ КИТАЙ",
-    "name": "ПОДСОЛНУХ КИТАЙ ПАЧКА",
-    "wholesalePrice": 963.6,
-    "extraPrice": 1011.78,
-    "retailPrice": 1204.5
-  },
-  {
     "id": "УТ000047715",
     "category": "..РОЗА ЭКВАДОР",
     "name": "МАМА МИЯ -  50см",
@@ -40598,6 +40590,14 @@
     "wholesalePrice": 2569.6,
     "extraPrice": 2698.08,
     "retailPrice": 3212
+  },
+  {
+    "id": "УТ000047761",
+    "category": "..ЦВЕТЫ КИТАЙ",
+    "name": "АСПЛЕНИУМ 12 СМ КИТАЙ",
+    "wholesalePrice": 358.94,
+    "extraPrice": 376.89,
+    "retailPrice": 448.68
   },
   {
     "id": "УТ000047775",
