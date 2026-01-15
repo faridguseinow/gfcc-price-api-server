@@ -8216,14 +8216,6 @@
     "retailPrice": 189.53
   },
   {
-    "id": "УТ000010354",
-    "category": "..,РОЗА ,МЕСТНАЯ",
-    "name": "ЛИНИЯ РОЗА КУСТОВАЯ. 40 СМ",
-    "wholesalePrice": 115.93,
-    "extraPrice": 121.72,
-    "retailPrice": 144.91
-  },
-  {
     "id": "УТ000010355",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЛИНИЯ РОЗА КУСТОВАЯ. 50 СМ",
@@ -8302,6 +8294,14 @@
     "wholesalePrice": 1117.2,
     "extraPrice": 1173.06,
     "retailPrice": 1396.5
+  },
+  {
+    "id": "УТ000010396",
+    "category": "..,РАЗНОЕ",
+    "name": "ОРХИДЕЯ  1*6  КРАШЕНАЯ",
+    "wholesalePrice": 1276.8,
+    "extraPrice": 1340.64,
+    "retailPrice": 1596
   },
   {
     "id": "УТ000010402",
@@ -8803,14 +8803,6 @@
     "id": "УТ000011607",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "МИКС куст 60 см куст на воде",
-    "wholesalePrice": 111.72,
-    "extraPrice": 117.31,
-    "retailPrice": 139.65
-  },
-  {
-    "id": "УТ000011618",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "МИРАБЕЛ 60 см куст на воде",
     "wholesalePrice": 111.72,
     "extraPrice": 117.31,
     "retailPrice": 139.65
