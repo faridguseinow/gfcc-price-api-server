@@ -6272,6 +6272,14 @@
     "retailPrice": 1800
   },
   {
+    "id": "УТ000007552",
+    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
+    "name": "МУСКАРИ  9 СМ",
+    "wholesalePrice": 140,
+    "extraPrice": 147,
+    "retailPrice": 175
+  },
+  {
     "id": "УТ000007581",
     "category": "МЯГКАЯ ИГРУШКА",
     "name": "Мягкая игрушка № 1322949",
@@ -8248,14 +8256,6 @@
     "retailPrice": 1600
   },
   {
-    "id": "УТ000010402",
-    "category": "..,РАЗНОЕ",
-    "name": "ОРХИДЕЯ 1*15",
-    "wholesalePrice": 520,
-    "extraPrice": 546,
-    "retailPrice": 650
-  },
-  {
     "id": "УТ000010416",
     "category": "..,РАЗНОЕ",
     "name": "ПАНИКУМ",
@@ -8414,14 +8414,6 @@
     "wholesalePrice": 227.2,
     "extraPrice": 238.56,
     "retailPrice": 284
-  },
-  {
-    "id": "УТ000010606",
-    "category": "..,РАЗНОЕ",
-    "name": "ТАНАЦЕТУМ",
-    "wholesalePrice": 48,
-    "extraPrice": 50.4,
-    "retailPrice": 60
   },
   {
     "id": "УТ000010611",
@@ -9558,14 +9550,6 @@
     "wholesalePrice": 53.62,
     "extraPrice": 56.3,
     "retailPrice": 67.02
-  },
-  {
-    "id": "УТ000013973",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "ДУБЛЬ ПРАЙС  ТЮЛЬПАН дубл.",
-    "wholesalePrice": 58.16,
-    "extraPrice": 61.07,
-    "retailPrice": 72.7
   },
   {
     "id": "УТ000014006",
@@ -20608,6 +20592,14 @@
     "retailPrice": 87.04
   },
   {
+    "id": "УТ000029640",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "ЛОЛА- 60см (СТАР,КОРОЗОН,МАТИЗ,ЭКО РОЗ,БЕЛЛА РОЗА,ЧАРМИНГ,СОФИ,ДАВИНЧИ.РОЯЛ)",
+    "wholesalePrice": 101.15,
+    "extraPrice": 106.21,
+    "retailPrice": 126.44
+  },
+  {
     "id": "УТ000029641",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ЛОЛА- 70см (СТАР,КОРОЗОН,МАТИЗ,ЭКО РОЗ,БЕЛЛА РОЗА,ЧАРМИНГ,СОФИ,ДАВИНЧИ.РОЯЛ)",
@@ -23254,6 +23246,14 @@
     "wholesalePrice": 347.2,
     "extraPrice": 364.56,
     "retailPrice": 434
+  },
+  {
+    "id": "УТ000033104",
+    "category": "ВАЗЫ И КЕРАМИКА",
+    "name": "ВАЗА № 2943",
+    "wholesalePrice": 560,
+    "extraPrice": 588,
+    "retailPrice": 700
   },
   {
     "id": "УТ000033106",
@@ -27350,6 +27350,14 @@
     "wholesalePrice": 635.2,
     "extraPrice": 666.96,
     "retailPrice": 794
+  },
+  {
+    "id": "УТ000036357",
+    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
+    "name": "СОФИЕ VOORN-ROSES 70 см куст на воде",
+    "wholesalePrice": 189.04,
+    "extraPrice": 198.49,
+    "retailPrice": 236.3
   },
   {
     "id": "УТ000036364",
