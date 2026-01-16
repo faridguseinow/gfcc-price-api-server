@@ -8072,6 +8072,14 @@
     "retailPrice": 38.9
   },
   {
+    "id": "УТ000010257",
+    "category": "..,РАЗНОЕ",
+    "name": "ИРИС  КАСАБЛАНКА",
+    "wholesalePrice": 43.89,
+    "extraPrice": 46.08,
+    "retailPrice": 54.86
+  },
+  {
     "id": "УТ000010258",
     "category": "..,РАЗНОЕ",
     "name": "ИРИС ЖЕЛТЫЙ",
@@ -20448,6 +20456,14 @@
     "retailPrice": 154.43
   },
   {
+    "id": "УТ000029575",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "КАНТРИ БЛЮЗ- 70см (СТАР,КОРОЗОН,МАТИЗ,ЭКО РОЗ,БЕЛЛА РОЗА,ЧАРМИНГ,СОФИ,ДАВИНЧИ.РОЯЛ)",
+    "wholesalePrice": 144.23,
+    "extraPrice": 151.44,
+    "retailPrice": 180.29
+  },
+  {
     "id": "УТ000029576",
     "category": "..РОЗА ЭКВАДОР",
     "name": "КАНТРИ БЛЮЗ- 80см (СТАР,КОРОЗОН,МАТИЗ,ЭКО РОЗ,БЕЛЛА РОЗА,ЧАРМИНГ,СОФИ,ДАВИНЧИ.РОЯЛ)",
@@ -23854,14 +23870,6 @@
     "wholesalePrice": 96.64,
     "extraPrice": 101.47,
     "retailPrice": 120.8
-  },
-  {
-    "id": "УТ000033628",
-    "category": "..ХРИЗАНТЕМА",
-    "name": ".ХРИЗ. ДЕКО ПАРКЕР",
-    "wholesalePrice": 127.68,
-    "extraPrice": 134.06,
-    "retailPrice": 159.6
   },
   {
     "id": "УТ000033629",
@@ -36150,14 +36158,6 @@
     "wholesalePrice": 718.2,
     "extraPrice": 754.11,
     "retailPrice": 897.75
-  },
-  {
-    "id": "УТ000043948",
-    "category": "..РОЗА КЕНИЯ",
-    "name": "ЭСПЕРАНС 60 см РОЗА Кения (BARAKA)",
-    "wholesalePrice": 63.84,
-    "extraPrice": 67.03,
-    "retailPrice": 79.8
   },
   {
     "id": "УТ000043951",
@@ -54904,33 +54904,9 @@
     "retailPrice": 278.3
   },
   {
-    "id": "УТ000054370",
-    "category": "..РОЗА КЕНИЯ",
-    "name": "МАНДАЛА  70 см РОЗА Кения  (BARAKA)",
-    "wholesalePrice": 73.42,
-    "extraPrice": 77.09,
-    "retailPrice": 91.77
-  },
-  {
     "id": "УТ000054371",
     "category": "..РОЗА КЕНИЯ",
     "name": "АФИНА 60 см РОЗА Кения (BARAKA)",
-    "wholesalePrice": 63.84,
-    "extraPrice": 67.03,
-    "retailPrice": 79.8
-  },
-  {
-    "id": "УТ000054372",
-    "category": "..РОЗА КЕНИЯ",
-    "name": "КОНФИДЕНТАЛ 60 см РОЗА Кения (BARAKA)",
-    "wholesalePrice": 63.84,
-    "extraPrice": 67.03,
-    "retailPrice": 79.8
-  },
-  {
-    "id": "УТ000054374",
-    "category": "..РОЗА КЕНИЯ",
-    "name": "СВИТ РЕВИВАЛ 60 см РОЗА Кения (BARAKA)",
     "wholesalePrice": 63.84,
     "extraPrice": 67.03,
     "retailPrice": 79.8
@@ -54942,14 +54918,6 @@
     "wholesalePrice": 63.84,
     "extraPrice": 67.03,
     "retailPrice": 79.8
-  },
-  {
-    "id": "УТ000054377",
-    "category": "..РОЗА КЕНИЯ",
-    "name": "РЕВИВАЛЬ 70 см РОЗА Кения (BARAKA)",
-    "wholesalePrice": 73.42,
-    "extraPrice": 77.09,
-    "retailPrice": 91.77
   },
   {
     "id": "УТ000054378",
@@ -54982,30 +54950,6 @@
     "wholesalePrice": 82.19,
     "extraPrice": 86.3,
     "retailPrice": 102.74
-  },
-  {
-    "id": "УТ000054457",
-    "category": "..РОЗА КЕНИЯ",
-    "name": "РОЯЛ КЛАСС 70 см РОЗА Кения (BARAKA)",
-    "wholesalePrice": 73.42,
-    "extraPrice": 77.09,
-    "retailPrice": 91.77
-  },
-  {
-    "id": "УТ000054458",
-    "category": "..РОЗА КЕНИЯ",
-    "name": "НЮ ОРЛЕАНС 60 см РОЗА Кения (BARAKA)",
-    "wholesalePrice": 63.84,
-    "extraPrice": 67.03,
-    "retailPrice": 79.8
-  },
-  {
-    "id": "УТ000054459",
-    "category": "..РОЗА КЕНИЯ",
-    "name": "НЮ ОРЛЕАНС 70 см РОЗА Кения (BARAKA)",
-    "wholesalePrice": 73.42,
-    "extraPrice": 77.09,
-    "retailPrice": 91.77
   },
   {
     "id": "УТ000054460",
