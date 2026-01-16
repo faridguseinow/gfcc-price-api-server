@@ -2344,14 +2344,6 @@
     "retailPrice": 289.28
   },
   {
-    "id": "УТ000005294",
-    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
-    "name": "ДЖУЛЬЕТТА 80 см РОЗА Кен/Куст. (RLR)",
-    "wholesalePrice": 253.76,
-    "extraPrice": 266.45,
-    "retailPrice": 317.21
-  },
-  {
     "id": "УТ000005296",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "ДЖУЛЬЕТТА ЦЕРИС 50 см РОЗА Кен/Куст.  (RLR)",
@@ -2670,14 +2662,6 @@
     "wholesalePrice": 169.18,
     "extraPrice": 177.63,
     "retailPrice": 211.47
-  },
-  {
-    "id": "УТ000005603",
-    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
-    "name": "ЗАДИК 80 см РОЗА Кен/Куст. (RLR)",
-    "wholesalePrice": 189.13,
-    "extraPrice": 198.58,
-    "retailPrice": 236.41
   },
   {
     "id": "УТ000005613",
@@ -7587,9 +7571,9 @@
     "id": "УТ000009634",
     "category": "ОТКРЫТКИ",
     "name": "ОТКРЫТКА",
-    "wholesalePrice": 146.83,
-    "extraPrice": 154.17,
-    "retailPrice": 183.54
+    "wholesalePrice": 151.62,
+    "extraPrice": 159.2,
+    "retailPrice": 189.53
   },
   {
     "id": "УТ000009655",
@@ -8086,14 +8070,6 @@
     "wholesalePrice": 31.12,
     "extraPrice": 32.68,
     "retailPrice": 38.9
-  },
-  {
-    "id": "УТ000010257",
-    "category": "..,РАЗНОЕ",
-    "name": "ИРИС  КАСАБЛАНКА",
-    "wholesalePrice": 43.89,
-    "extraPrice": 46.08,
-    "retailPrice": 54.86
   },
   {
     "id": "УТ000010258",
@@ -8878,6 +8854,14 @@
     "wholesalePrice": 163.27,
     "extraPrice": 171.43,
     "retailPrice": 204.09
+  },
+  {
+    "id": "УТ000011720",
+    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
+    "name": "САММЕР ДАНС 80 см куст на воде",
+    "wholesalePrice": 175.72,
+    "extraPrice": 184.51,
+    "retailPrice": 219.65
   },
   {
     "id": "УТ000011723",
@@ -10875,9 +10859,9 @@
     "id": "УТ000016085",
     "category": "ОТКРЫТКИ",
     "name": "ОТКРЫТКА РУЧНАЯ РАБОТА",
-    "wholesalePrice": 67.83,
-    "extraPrice": 71.22,
-    "retailPrice": 84.79
+    "wholesalePrice": 71.82,
+    "extraPrice": 75.41,
+    "retailPrice": 89.78
   },
   {
     "id": "УТ000016434",
@@ -31192,6 +31176,14 @@
     "retailPrice": 125.93
   },
   {
+    "id": "УТ000039593",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "ЭКВ.  МИКС   (КОРОБКА)40 см (ОХА ВЕРДЕ+ДЖОЙ ГАРДЕН+ФЛОР МАРЕ+ТЕССА)",
+    "wholesalePrice": 73.06,
+    "extraPrice": 76.72,
+    "retailPrice": 91.33
+  },
+  {
     "id": "УТ000039594",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ЭКВ.  МИКС   (КОРОБКА)50 см (ОХА ВЕРДЕ+ДЖОЙ ГАРДЕН+ФЛОР МАРЕ+ТЕССА)",
@@ -38408,6 +38400,14 @@
     "retailPrice": 469.82
   },
   {
+    "id": "УТ000045224",
+    "category": "..ТЮЛЬПАНЫ",
+    "name": "ФОРТАЛЕЗА КОАС ТЮЛЬПАН дубл.",
+    "wholesalePrice": 94.16,
+    "extraPrice": 98.87,
+    "retailPrice": 117.71
+  },
+  {
     "id": "УТ000045231",
     "category": "..ТЮЛЬПАНЫ",
     "name": "АНТАРКТИКА СУН  ТЮЛЬПАН энкл.",
@@ -38742,6 +38742,14 @@
     "wholesalePrice": 146.83,
     "extraPrice": 154.17,
     "retailPrice": 183.54
+  },
+  {
+    "id": "УТ000045647",
+    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
+    "name": "КАПУЧИНО ТРОСС 60 см куст на воде",
+    "wholesalePrice": 143.64,
+    "extraPrice": 150.82,
+    "retailPrice": 179.55
   },
   {
     "id": "УТ000045657",
@@ -39864,6 +39872,14 @@
     "retailPrice": 361.1
   },
   {
+    "id": "УТ000046914",
+    "category": "..,РОЗА ,МЕСТНАЯ",
+    "name": "МИКС КУСТ 60 см АРТ РОССЕ",
+    "wholesalePrice": 204.86,
+    "extraPrice": 215.11,
+    "retailPrice": 256.08
+  },
+  {
     "id": "УТ000046916",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ПЛАСТИК ГОРШОК № 012",
@@ -40054,6 +40070,14 @@
     "wholesalePrice": 957.6,
     "extraPrice": 1005.48,
     "retailPrice": 1197
+  },
+  {
+    "id": "УТ000047050",
+    "category": "..,РОЗА ,МЕСТНАЯ",
+    "name": "МИКС КУСТ 70 см АРТ РОССЕ",
+    "wholesalePrice": 214.61,
+    "extraPrice": 225.34,
+    "retailPrice": 268.27
   },
   {
     "id": "УТ000047101",
@@ -54880,14 +54904,6 @@
     "retailPrice": 278.3
   },
   {
-    "id": "УТ000054368",
-    "category": "..РОЗА КЕНИЯ",
-    "name": "ЭСПЕРАНС 70 см РОЗА Кения (BARAKA)",
-    "wholesalePrice": 73.42,
-    "extraPrice": 77.09,
-    "retailPrice": 91.77
-  },
-  {
     "id": "УТ000054370",
     "category": "..РОЗА КЕНИЯ",
     "name": "МАНДАЛА  70 см РОЗА Кения  (BARAKA)",
@@ -54912,28 +54928,12 @@
     "retailPrice": 79.8
   },
   {
-    "id": "УТ000054373",
-    "category": "..РОЗА КЕНИЯ",
-    "name": "КОНФИДЕНТАЛ 70 см РОЗА Кения (BARAKA)",
-    "wholesalePrice": 73.42,
-    "extraPrice": 77.09,
-    "retailPrice": 91.77
-  },
-  {
     "id": "УТ000054374",
     "category": "..РОЗА КЕНИЯ",
     "name": "СВИТ РЕВИВАЛ 60 см РОЗА Кения (BARAKA)",
     "wholesalePrice": 63.84,
     "extraPrice": 67.03,
     "retailPrice": 79.8
-  },
-  {
-    "id": "УТ000054375",
-    "category": "..РОЗА КЕНИЯ",
-    "name": "СВИТ РЕВИВАЛ 70 см РОЗА Кения (BARAKA)",
-    "wholesalePrice": 73.42,
-    "extraPrice": 77.09,
-    "retailPrice": 91.77
   },
   {
     "id": "УТ000054376",
