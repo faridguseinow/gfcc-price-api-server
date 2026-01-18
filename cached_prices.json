@@ -6211,25 +6211,25 @@
     "id": "УТ000007422",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЛИНИЯ РОЗЫ ОДНОГОЛОВАЯ.. 50 СМ",
-    "wholesalePrice": 50.82,
-    "extraPrice": 53.36,
-    "retailPrice": 63.52
+    "wholesalePrice": 56,
+    "extraPrice": 58.8,
+    "retailPrice": 70
   },
   {
     "id": "УТ000007425",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЛИНИЯ РОЗЫ ОДНОГОЛОВАЯ.. 60 СМ",
-    "wholesalePrice": 60.58,
-    "extraPrice": 63.6,
-    "retailPrice": 75.72
+    "wholesalePrice": 66,
+    "extraPrice": 69.3,
+    "retailPrice": 82.5
   },
   {
     "id": "УТ000007427",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЛИНИЯ РОЗЫ КУСТОВАЯ. 70 СМ",
-    "wholesalePrice": 198.02,
-    "extraPrice": 207.92,
-    "retailPrice": 247.53
+    "wholesalePrice": 209.55,
+    "extraPrice": 220.02,
+    "retailPrice": 261.93
   },
   {
     "id": "УТ000007428",
@@ -6738,10 +6738,10 @@
   {
     "id": "УТ000008416",
     "category": "..,РОЗА ,МЕСТНАЯ",
-    "name": "ЛИНИЯ РОЗА ОДНОГОЛОВАЯ. 40 СМ",
-    "wholesalePrice": 36.62,
-    "extraPrice": 38.45,
-    "retailPrice": 45.77
+    "name": "ЛИНИЯ РОЗЫ ОДНОГОЛОВАЯ. 40 СМ",
+    "wholesalePrice": 45,
+    "extraPrice": 47.25,
+    "retailPrice": 56.25
   },
   {
     "id": "УТ000008417",
@@ -8266,18 +8266,18 @@
   {
     "id": "УТ000010354",
     "category": "..,РОЗА ,МЕСТНАЯ",
-    "name": "ЛИНИЯ РОЗА КУСТОВАЯ. 40 СМ",
-    "wholesalePrice": 115.63,
-    "extraPrice": 121.42,
-    "retailPrice": 144.54
+    "name": "ЛИНИЯ РОЗЫ КУСТОВАЯ. 40 СМ",
+    "wholesalePrice": 107.95,
+    "extraPrice": 113.34,
+    "retailPrice": 134.93
   },
   {
     "id": "УТ000010355",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЛИНИЯ РОЗЫ КУСТОВАЯ. 50 СМ",
-    "wholesalePrice": 117.05,
-    "extraPrice": 122.9,
-    "retailPrice": 146.31
+    "wholesalePrice": 152,
+    "extraPrice": 159.6,
+    "retailPrice": 190
   },
   {
     "id": "УТ000010358",
@@ -8651,9 +8651,9 @@
     "id": "УТ000010833",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЛИНИЯ РОЗЫ ОДНОГОЛОВАЯ..80 СМ",
-    "wholesalePrice": 82.04,
-    "extraPrice": 86.14,
-    "retailPrice": 102.54
+    "wholesalePrice": 115.99,
+    "extraPrice": 121.79,
+    "retailPrice": 144.99
   },
   {
     "id": "УТ000011262",
@@ -9763,9 +9763,9 @@
     "id": "УТ000014022",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЛИНИЯ РОЗЫ КУСТОВАЯ. 60 СМ",
-    "wholesalePrice": 161.05,
-    "extraPrice": 169.1,
-    "retailPrice": 201.31
+    "wholesalePrice": 190,
+    "extraPrice": 199.5,
+    "retailPrice": 237.5
   },
   {
     "id": "УТ000014048",
@@ -22787,9 +22787,9 @@
     "id": "УТ000032102",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЛИНИЯ РОЗЫ КУСТОВАЯ. 80 СМ",
-    "wholesalePrice": 224.36,
-    "extraPrice": 235.58,
-    "retailPrice": 280.45
+    "wholesalePrice": 243.84,
+    "extraPrice": 256.03,
+    "retailPrice": 304.8
   },
   {
     "id": "УТ000032258",
@@ -26083,9 +26083,9 @@
     "id": "УТ000034885",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЛИНИЯ РОЗЫ ОДНОГОЛОВАЯ.. 70 СМ",
-    "wholesalePrice": 68.38,
-    "extraPrice": 71.8,
-    "retailPrice": 85.47
+    "wholesalePrice": 75.99,
+    "extraPrice": 79.79,
+    "retailPrice": 94.99
   },
   {
     "id": "УТ000034912",
@@ -30038,6 +30038,14 @@
     "wholesalePrice": 160.79,
     "extraPrice": 168.83,
     "retailPrice": 200.99
+  },
+  {
+    "id": "УТ000038706",
+    "category": "..,РАЗНОЕ",
+    "name": "КАЛЛА  РОЗОВАЯ 50 СМ",
+    "wholesalePrice": 103.48,
+    "extraPrice": 108.65,
+    "retailPrice": 129.35
   },
   {
     "id": "УТ000038707",
@@ -43840,14 +43848,6 @@
     "retailPrice": 74.63
   },
   {
-    "id": "УТ000050128",
-    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
-    "name": "ГУД МУД  60 см РОЗА Кен/Куст. (ZEE FLORA)",
-    "wholesalePrice": 76.42,
-    "extraPrice": 80.24,
-    "retailPrice": 95.52
-  },
-  {
     "id": "УТ000050149",
     "category": ".УПАКОВКА",
     "name": "ДЕРЖАТЕЛЬ ПАЧКА 80 ШТ",
@@ -53366,6 +53366,14 @@
     "wholesalePrice": 145.72,
     "extraPrice": 153,
     "retailPrice": 182.14
+  },
+  {
+    "id": "УТ000053547",
+    "category": ".УПАКОВКА",
+    "name": "РОЛИК ТОНИРОВКА МАТОВЫЙ 400 ГР",
+    "wholesalePrice": 119.4,
+    "extraPrice": 125.37,
+    "retailPrice": 149.25
   },
   {
     "id": "УТ000053578",
