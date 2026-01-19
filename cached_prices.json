@@ -2280,6 +2280,14 @@
     "retailPrice": 199
   },
   {
+    "id": "УТ000005246",
+    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
+    "name": "БОМБАСТИК 60 см РОЗА Кен/Куст. (RLR)",
+    "wholesalePrice": 179.1,
+    "extraPrice": 188.06,
+    "retailPrice": 223.88
+  },
+  {
     "id": "УТ000005271",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "ГОЛДИЛОК 50 см РОЗА Кен/Куст. (RLR)",
@@ -9094,14 +9102,6 @@
     "wholesalePrice": 135.32,
     "extraPrice": 142.09,
     "retailPrice": 169.15
-  },
-  {
-    "id": "УТ000011717",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "САММЕР ДАНС 50 см куст на воде",
-    "wholesalePrice": 79.6,
-    "extraPrice": 83.58,
-    "retailPrice": 99.5
   },
   {
     "id": "УТ000011718",
@@ -39568,14 +39568,6 @@
     "retailPrice": 133.33
   },
   {
-    "id": "УТ000045783",
-    "category": "..РОЗА КЕНИЯ",
-    "name": "МИКС 50 см РОЗА Кения (MERIDIAN)",
-    "wholesalePrice": 37.41,
-    "extraPrice": 39.28,
-    "retailPrice": 46.77
-  },
-  {
     "id": "УТ000045786",
     "category": "КОРЗИНА",
     "name": "Корзина - N000102",
@@ -40886,6 +40878,30 @@
     "wholesalePrice": 433.82,
     "extraPrice": 455.51,
     "retailPrice": 542.28
+  },
+  {
+    "id": "УТ000047280",
+    "category": "ОТКРЫТКИ",
+    "name": "КОНВЕРТ ДЛЯ ДЕНЕГ АРТИКУЛ 5КХ",
+    "wholesalePrice": 7.96,
+    "extraPrice": 8.36,
+    "retailPrice": 9.95
+  },
+  {
+    "id": "УТ000047281",
+    "category": "ОТКРЫТКИ",
+    "name": "6 ФК ОТКРЫТКА-ФОТОКАРТОЧКА",
+    "wholesalePrice": 6.51,
+    "extraPrice": 6.84,
+    "retailPrice": 8.14
+  },
+  {
+    "id": "УТ000047283",
+    "category": "ОТКРЫТКИ",
+    "name": "МИНИ ОТКРЫТКА В БУКЕТ АРТ МБ",
+    "wholesalePrice": 2.79,
+    "extraPrice": 2.93,
+    "retailPrice": 3.48
   },
   {
     "id": "УТ000047286",
