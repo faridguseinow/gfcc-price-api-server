@@ -9768,14 +9768,6 @@
     "retailPrice": 49.38
   },
   {
-    "id": "УТ000013897",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "АВАНГАРД  ТЮЛЬПАН дубл.",
-    "wholesalePrice": 59.13,
-    "extraPrice": 62.09,
-    "retailPrice": 73.91
-  },
-  {
     "id": "УТ000013898",
     "category": "..ТЮЛЬПАНЫ",
     "name": "АД РЕМ  ТЮЛЬПАН энкл.",
@@ -9910,14 +9902,6 @@
     "wholesalePrice": 54.51,
     "extraPrice": 57.24,
     "retailPrice": 68.14
-  },
-  {
-    "id": "УТ000014117",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "СУПЕР ПАРОТ  ТЮЛЬПАН дубл.",
-    "wholesalePrice": 59.13,
-    "extraPrice": 62.09,
-    "retailPrice": 73.91
   },
   {
     "id": "УТ000014120",
@@ -11158,6 +11142,14 @@
     "wholesalePrice": 450.3,
     "extraPrice": 472.82,
     "retailPrice": 562.88
+  },
+  {
+    "id": "УТ000016072",
+    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
+    "name": "СИЛЬВЕР ШЭДОУ 60 см РОЗА Кен/Куст.(RLR)",
+    "wholesalePrice": 154.84,
+    "extraPrice": 162.58,
+    "retailPrice": 193.55
   },
   {
     "id": "УТ000016085",
@@ -12670,14 +12662,6 @@
     "wholesalePrice": 211.66,
     "extraPrice": 222.25,
     "retailPrice": 264.58
-  },
-  {
-    "id": "УТ000018853",
-    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
-    "name": "НЮ СТАР 50 см РОЗА Кен/Куст. (RLR)",
-    "wholesalePrice": 122.45,
-    "extraPrice": 128.57,
-    "retailPrice": 153.06
   },
   {
     "id": "УТ000018878",
@@ -27216,14 +27200,6 @@
     "retailPrice": 170.84
   },
   {
-    "id": "УТ000035776",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "ПУЛТАЙЗЕР  ТЮЛЬПАН энкл.",
-    "wholesalePrice": 54.51,
-    "extraPrice": 57.24,
-    "retailPrice": 68.14
-  },
-  {
     "id": "УТ000035780",
     "category": "ГРУНТ И УДОБРЕНИЯ",
     "name": "ФОРТЕ ПРОФЕСИОНАЛ 1 Л (ВЕДРО)",
@@ -34632,14 +34608,6 @@
     "retailPrice": 119.49
   },
   {
-    "id": "УТ000041184",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "СТРОНГ ГОЛД КОАС ТЮЛЬПАН энкл.",
-    "wholesalePrice": 54.51,
-    "extraPrice": 57.24,
-    "retailPrice": 68.14
-  },
-  {
     "id": "УТ000041185",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 1468",
@@ -35358,14 +35326,6 @@
     "wholesalePrice": 977.23,
     "extraPrice": 1026.09,
     "retailPrice": 1221.54
-  },
-  {
-    "id": "УТ000042040",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "ДРИМЕР КОАС ТЮЛЬПАН дубл.",
-    "wholesalePrice": 95.59,
-    "extraPrice": 100.37,
-    "retailPrice": 119.49
   },
   {
     "id": "УТ000042047",
@@ -39288,6 +39248,14 @@
     "retailPrice": 117.51
   },
   {
+    "id": "УТ000045613",
+    "category": "..,ЛИЛИЯ",
+    "name": "ЛИЛИЯ ОР ДУ ОЛИМПИЯ",
+    "wholesalePrice": 316,
+    "extraPrice": 331.8,
+    "retailPrice": 395
+  },
+  {
     "id": "УТ000045642",
     "category": "..,РАЗНОЕ",
     "name": "ЛИЗИАНТУС  КОРИЧНЕВЫЙ",
@@ -39315,14 +39283,6 @@
     "id": "УТ000045663",
     "category": "..ТЮЛЬПАНЫ",
     "name": "КРОССОВЕР ТЮЛЬПАН энкл.",
-    "wholesalePrice": 54.51,
-    "extraPrice": 57.24,
-    "retailPrice": 68.14
-  },
-  {
-    "id": "УТ000045691",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "РЕД СТОУН ТЮЛЬПАН энкл.",
     "wholesalePrice": 54.51,
     "extraPrice": 57.24,
     "retailPrice": 68.14
@@ -41168,14 +41128,6 @@
     "retailPrice": 124.43
   },
   {
-    "id": "УТ000047941",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "ИРЕН ПАРРОТ  ТЮЛЬПАН дубл.",
-    "wholesalePrice": 59.13,
-    "extraPrice": 62.09,
-    "retailPrice": 73.91
-  },
-  {
     "id": "УТ000047957",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "ГУД МУД  50 см РОЗА Кен/Куст. (KAРЕН)",
@@ -42336,14 +42288,6 @@
     "retailPrice": 438.45
   },
   {
-    "id": "УТ000048823",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "ХЛ ТУЛИПС",
-    "wholesalePrice": 138.22,
-    "extraPrice": 145.13,
-    "retailPrice": 172.77
-  },
-  {
     "id": "УТ000048826",
     "category": "ГРУНТ И УДОБРЕНИЯ",
     "name": "ДЖОЙ - БИОЭКСПРЕТ ОТ ВРЕДИТЕЛЕЙ 250 МЛ",
@@ -43328,14 +43272,6 @@
     "retailPrice": 128.38
   },
   {
-    "id": "УТ000049254",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "СУПЕР ЭСКЕЙП  ТЮЛЬПАН энкл.",
-    "wholesalePrice": 54.51,
-    "extraPrice": 57.24,
-    "retailPrice": 68.14
-  },
-  {
     "id": "УТ000049263",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "СВИТ КАПЛИС 60 см куст на воде",
@@ -43702,14 +43638,6 @@
     "wholesalePrice": 948,
     "extraPrice": 995.4,
     "retailPrice": 1185
-  },
-  {
-    "id": "УТ000049938",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "ПИНК ФОКСТРОД КОАС ТЮЛЬПАН дубл.",
-    "wholesalePrice": 95.59,
-    "extraPrice": 100.37,
-    "retailPrice": 119.49
   },
   {
     "id": "УТ000049954",
