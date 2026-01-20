@@ -2288,14 +2288,6 @@
     "retailPrice": 159.98
   },
   {
-    "id": "УТ000005272",
-    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
-    "name": "ГОЛДИЛОК 60 см РОЗА Кен/Куст. (RLR)",
-    "wholesalePrice": 158,
-    "extraPrice": 165.9,
-    "retailPrice": 197.5
-  },
-  {
     "id": "УТ000005276",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "ГУЕН 50 РОЗА Кен/Куст. (RLR)",
@@ -6920,6 +6912,14 @@
     "retailPrice": 49.38
   },
   {
+    "id": "УТ000008540",
+    "category": "..РОЗА КЕНИЯ",
+    "name": "МЗУРИ 40 см РОЗА Кения (MZURRIE)",
+    "wholesalePrice": 27.65,
+    "extraPrice": 29.03,
+    "retailPrice": 34.56
+  },
+  {
     "id": "УТ000008543",
     "category": "..РОЗА КЕНИЯ",
     "name": "МИКС 40 см РОЗА Кения (LAUREL)",
@@ -8248,14 +8248,6 @@
     "retailPrice": 56.29
   },
   {
-    "id": "УТ000010258",
-    "category": "..,РАЗНОЕ",
-    "name": "ИРИС ЖЕЛТЫЙ",
-    "wholesalePrice": 35.55,
-    "extraPrice": 37.33,
-    "retailPrice": 44.44
-  },
-  {
     "id": "УТ000010304",
     "category": "..,РАЗНОЕ",
     "name": "КЛЕМATИС",
@@ -8374,6 +8366,14 @@
     "wholesalePrice": 49.77,
     "extraPrice": 52.26,
     "retailPrice": 62.21
+  },
+  {
+    "id": "УТ000010376",
+    "category": "..,РАЗНОЕ",
+    "name": "МУСКАРИ",
+    "wholesalePrice": 31.6,
+    "extraPrice": 33.18,
+    "retailPrice": 39.5
   },
   {
     "id": "УТ000010377",
@@ -8878,14 +8878,6 @@
     "wholesalePrice": 173.8,
     "extraPrice": 182.49,
     "retailPrice": 217.25
-  },
-  {
-    "id": "УТ000011513",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "ДОМИНИКА  50 см куст на воде",
-    "wholesalePrice": 94.8,
-    "extraPrice": 99.54,
-    "retailPrice": 118.5
   },
   {
     "id": "УТ000011542",
@@ -12379,14 +12371,6 @@
     "id": "УТ000018199",
     "category": "КОРЗИНА",
     "name": "Корзина Травяная - 17B77-1",
-    "wholesalePrice": 208.56,
-    "extraPrice": 218.99,
-    "retailPrice": 260.7
-  },
-  {
-    "id": "УТ000018203",
-    "category": "КОРЗИНА",
-    "name": "Корзина Травяная - 17B79-1",
     "wholesalePrice": 208.56,
     "extraPrice": 218.99,
     "retailPrice": 260.7
@@ -21606,14 +21590,6 @@
     "wholesalePrice": 104.29,
     "extraPrice": 109.5,
     "retailPrice": 130.36
-  },
-  {
-    "id": "УТ000029844",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ХАЙ МЭДЖИК- 80см (СТАР,КОРОЗОН,МАТИЗ,ЭКО РОЗ,БЕЛЛА РОЗА,ЧАРМИНГ,СОФИ,ДАВИНЧИ.РОЯЛ)",
-    "wholesalePrice": 116.19,
-    "extraPrice": 122,
-    "retailPrice": 145.24
   },
   {
     "id": "УТ000029848",
@@ -31408,14 +31384,6 @@
     "retailPrice": 27.65
   },
   {
-    "id": "УТ000039385",
-    "category": "..,РОЗА ,МЕСТНАЯ",
-    "name": "ЧЕХОВСКИЙ САД ОДНОГ.  70 см",
-    "wholesalePrice": 110.68,
-    "extraPrice": 116.21,
-    "retailPrice": 138.35
-  },
-  {
     "id": "УТ000039400",
     "category": "..РОЗА КЕНИЯ",
     "name": "ЭКСПЛОРЕР 50 см РОЗА Кения (EVER FLORA)",
@@ -38592,14 +38560,6 @@
     "retailPrice": 88.98
   },
   {
-    "id": "УТ000045082",
-    "category": "..,РАЗНОЕ",
-    "name": "ГЕРБЕРА ДАЙМОНД ПАСТИНИ",
-    "wholesalePrice": 115.34,
-    "extraPrice": 121.11,
-    "retailPrice": 144.18
-  },
-  {
     "id": "УТ000045088",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 2003272431",
@@ -39544,28 +39504,12 @@
     "retailPrice": 119.49
   },
   {
-    "id": "УТ000045847",
-    "category": "..,РАЗНОЕ",
-    "name": "ГЕРБЕРА ДАЙМОНД СПАЙДЕР",
-    "wholesalePrice": 123.24,
-    "extraPrice": 129.4,
-    "retailPrice": 154.05
-  },
-  {
     "id": "УТ000045853",
     "category": "..,РАЗНОЕ",
     "name": "АНТУРИУМ ТЕКИЛА *12 (Anth A Tequlia)",
     "wholesalePrice": 276.5,
     "extraPrice": 290.33,
     "retailPrice": 345.63
-  },
-  {
-    "id": "УТ000045900",
-    "category": "..,РАЗНОЕ",
-    "name": "ГЕРБЕРА ДАЙМОНД",
-    "wholesalePrice": 97.96,
-    "extraPrice": 102.86,
-    "retailPrice": 122.45
   },
   {
     "id": "УТ000045904",
@@ -39790,14 +39734,6 @@
     "wholesalePrice": 790,
     "extraPrice": 829.5,
     "retailPrice": 987.5
-  },
-  {
-    "id": "УТ000046143",
-    "category": "..,РАЗНОЕ",
-    "name": "ГЕРБЕРА ДАЙМОНД ПОМПОНИ",
-    "wholesalePrice": 104.28,
-    "extraPrice": 109.49,
-    "retailPrice": 130.35
   },
   {
     "id": "УТ000046144",
@@ -55872,22 +55808,6 @@
     "retailPrice": 155.04
   },
   {
-    "id": "УТ000054519",
-    "category": "..СУХОЦВЕТЫ",
-    "name": "GA-1",
-    "wholesalePrice": 386.62,
-    "extraPrice": 405.95,
-    "retailPrice": 483.28
-  },
-  {
-    "id": "УТ000054520",
-    "category": "..СУХОЦВЕТЫ",
-    "name": "GA-2",
-    "wholesalePrice": 181.94,
-    "extraPrice": 191.03,
-    "retailPrice": 227.42
-  },
-  {
     "id": "УТ000054521",
     "category": "..СУХОЦВЕТЫ",
     "name": "GA-3",
@@ -55902,21 +55822,5 @@
     "wholesalePrice": 250.17,
     "extraPrice": 262.67,
     "retailPrice": 312.71
-  },
-  {
-    "id": "УТ000054523",
-    "category": "..СУХОЦВЕТЫ",
-    "name": "GA-6",
-    "wholesalePrice": 272.91,
-    "extraPrice": 286.55,
-    "retailPrice": 341.14
-  },
-  {
-    "id": "УТ000054524",
-    "category": "..СУХОЦВЕТЫ",
-    "name": "GA-5",
-    "wholesalePrice": 341.14,
-    "extraPrice": 358.19,
-    "retailPrice": 426.42
   }
 ]
