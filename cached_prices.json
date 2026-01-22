@@ -4339,9 +4339,9 @@
     "id": "УТ000006573",
     "category": "КОРЗИНА",
     "name": "Корзина - 2011",
-    "wholesalePrice": 196.86,
-    "extraPrice": 206.7,
-    "retailPrice": 246.08
+    "wholesalePrice": 186.82,
+    "extraPrice": 196.17,
+    "retailPrice": 233.53
   },
   {
     "id": "УТ000006576",
@@ -9126,14 +9126,6 @@
     "wholesalePrice": 108.08,
     "extraPrice": 113.48,
     "retailPrice": 135.1
-  },
-  {
-    "id": "УТ000011698",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "РОСАНЕЛЛА  70 см куст на воде",
-    "wholesalePrice": 131.24,
-    "extraPrice": 137.8,
-    "retailPrice": 164.05
   },
   {
     "id": "УТ000011712",
@@ -44040,36 +44032,52 @@
     "retailPrice": 96.5
   },
   {
+    "id": "УТ000050156",
+    "category": ".УПАКОВКА",
+    "name": "БАМБУКОВЫЕ ВСТАВКИ ПАЧКА 100 ШТ",
+    "wholesalePrice": 46.32,
+    "extraPrice": 48.64,
+    "retailPrice": 57.9
+  },
+  {
+    "id": "УТ000050157",
+    "category": "КОРЗИНА",
+    "name": "Корзина - 1003",
+    "wholesalePrice": 196.09,
+    "extraPrice": 205.89,
+    "retailPrice": 245.11
+  },
+  {
     "id": "УТ000050158",
     "category": "КОРЗИНА",
     "name": "Корзина - 1004",
-    "wholesalePrice": 206.9,
-    "extraPrice": 217.24,
-    "retailPrice": 258.62
+    "wholesalePrice": 196.09,
+    "extraPrice": 205.89,
+    "retailPrice": 245.11
   },
   {
     "id": "УТ000050159",
     "category": "КОРЗИНА",
     "name": "Корзина - 1005",
-    "wholesalePrice": 206.9,
-    "extraPrice": 217.24,
-    "retailPrice": 258.62
+    "wholesalePrice": 196.09,
+    "extraPrice": 205.89,
+    "retailPrice": 245.11
   },
   {
     "id": "УТ000050160",
     "category": "КОРЗИНА",
     "name": "Корзина - 1007",
-    "wholesalePrice": 216.16,
-    "extraPrice": 226.97,
-    "retailPrice": 270.2
+    "wholesalePrice": 194.54,
+    "extraPrice": 204.27,
+    "retailPrice": 243.18
   },
   {
     "id": "УТ000050161",
     "category": "КОРЗИНА",
     "name": "Корзина - 1009",
-    "wholesalePrice": 196.86,
-    "extraPrice": 206.7,
-    "retailPrice": 246.08
+    "wholesalePrice": 186.82,
+    "extraPrice": 196.17,
+    "retailPrice": 233.53
   },
   {
     "id": "УТ000050169",
