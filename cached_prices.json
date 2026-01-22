@@ -8328,22 +8328,6 @@
     "retailPrice": 37.64
   },
   {
-    "id": "УТ000010257",
-    "category": "..,РАЗНОЕ",
-    "name": "ИРИС  КАСАБЛАНКА",
-    "wholesalePrice": 44,
-    "extraPrice": 46.2,
-    "retailPrice": 55.01
-  },
-  {
-    "id": "УТ000010258",
-    "category": "..,РАЗНОЕ",
-    "name": "ИРИС ЖЕЛТЫЙ",
-    "wholesalePrice": 34.74,
-    "extraPrice": 36.48,
-    "retailPrice": 43.43
-  },
-  {
     "id": "УТ000010304",
     "category": "..,РАЗНОЕ",
     "name": "КЛЕМATИС",
@@ -9854,14 +9838,6 @@
     "wholesalePrice": 38.6,
     "extraPrice": 40.53,
     "retailPrice": 48.25
-  },
-  {
-    "id": "УТ000013897",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "АВАНГАРД  ТЮЛЬПАН дубл.",
-    "wholesalePrice": 57.78,
-    "extraPrice": 60.67,
-    "retailPrice": 72.23
   },
   {
     "id": "УТ000013898",
@@ -24464,6 +24440,14 @@
     "retailPrice": 92.16
   },
   {
+    "id": "УТ000033808",
+    "category": "..РОЗА КЕНИЯ",
+    "name": "МИКС 35 см РОЗА Кения (EVER FLORA)",
+    "wholesalePrice": 17.76,
+    "extraPrice": 18.64,
+    "retailPrice": 22.2
+  },
+  {
     "id": "УТ000033809",
     "category": "..РОЗА КЕНИЯ",
     "name": "МИКС 40 см РОЗА Кения (EVER FLORA)",
@@ -26302,6 +26286,14 @@
     "wholesalePrice": 41.69,
     "extraPrice": 43.77,
     "retailPrice": 52.11
+  },
+  {
+    "id": "УТ000034961",
+    "category": "..РОЗА КЕНИЯ",
+    "name": "МАДАМ РЕД 40 см РОЗА Кения (MZURRIE)",
+    "wholesalePrice": 31.65,
+    "extraPrice": 33.23,
+    "retailPrice": 39.57
   },
   {
     "id": "УТ000035057",
@@ -34864,14 +34856,6 @@
     "retailPrice": 66.59
   },
   {
-    "id": "УТ000041279",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "ПИНК СТОНЕ  ТЮЛЬПАН энкл.",
-    "wholesalePrice": 53.27,
-    "extraPrice": 55.93,
-    "retailPrice": 66.59
-  },
-  {
     "id": "УТ000041280",
     "category": "..ТЮЛЬПАНЫ",
     "name": "САЛМОН ПРАЙС  ТЮЛЬПАН дубл.",
@@ -36510,6 +36494,14 @@
     "wholesalePrice": 255.53,
     "extraPrice": 268.31,
     "retailPrice": 319.42
+  },
+  {
+    "id": "УТ000043597",
+    "category": "..,РАЗНОЕ",
+    "name": "ИРИС ПОДМОСКОВЬЕ",
+    "wholesalePrice": 37.06,
+    "extraPrice": 38.91,
+    "retailPrice": 46.32
   },
   {
     "id": "УТ000043598",
@@ -39616,28 +39608,12 @@
     "retailPrice": 116.77
   },
   {
-    "id": "УТ000045847",
-    "category": "..,РАЗНОЕ",
-    "name": "ГЕРБЕРА ДАЙМОНД СПАЙДЕР",
-    "wholesalePrice": 113.48,
-    "extraPrice": 119.16,
-    "retailPrice": 141.86
-  },
-  {
     "id": "УТ000045853",
     "category": "..,РАЗНОЕ",
     "name": "АНТУРИУМ ТЕКИЛА *12 (Anth A Tequlia)",
     "wholesalePrice": 270.2,
     "extraPrice": 283.71,
     "retailPrice": 337.75
-  },
-  {
-    "id": "УТ000045900",
-    "category": "..,РАЗНОЕ",
-    "name": "ГЕРБЕРА ДАЙМОНД",
-    "wholesalePrice": 113.48,
-    "extraPrice": 119.16,
-    "retailPrice": 141.86
   },
   {
     "id": "УТ000045904",
@@ -39854,14 +39830,6 @@
     "wholesalePrice": 772,
     "extraPrice": 810.6,
     "retailPrice": 965
-  },
-  {
-    "id": "УТ000046143",
-    "category": "..,РАЗНОЕ",
-    "name": "ГЕРБЕРА ДАЙМОНД ПОМПОНИ",
-    "wholesalePrice": 113.48,
-    "extraPrice": 119.16,
-    "retailPrice": 141.86
   },
   {
     "id": "УТ000046144",
@@ -42518,14 +42486,6 @@
     "wholesalePrice": 53.27,
     "extraPrice": 55.93,
     "retailPrice": 66.59
-  },
-  {
-    "id": "УТ000048841",
-    "category": "..,ЛИЛИЯ",
-    "name": "ЛИЛИЯ ЛА ДУКАТИ",
-    "wholesalePrice": 96.5,
-    "extraPrice": 101.33,
-    "retailPrice": 120.63
   },
   {
     "id": "УТ000048845",
