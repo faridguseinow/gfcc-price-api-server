@@ -2104,14 +2104,6 @@
     "retailPrice": 87.19
   },
   {
-    "id": "УТ000005064",
-    "category": "..,ЗЕЛЕНЬ",
-    "name": "ТРАХЕЛИУМ ЗЕЛЕНЫЙ",
-    "wholesalePrice": 105.4,
-    "extraPrice": 110.67,
-    "retailPrice": 131.75
-  },
-  {
     "id": "УТ000005066",
     "category": "..,ЗЕЛЕНЬ",
     "name": "ТРИФЕРН ВОДА",
@@ -9206,6 +9198,14 @@
     "wholesalePrice": 85.25,
     "extraPrice": 89.51,
     "retailPrice": 106.56
+  },
+  {
+    "id": "УТ000011724",
+    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
+    "name": "САНСЕРРА 60 см куст на воде",
+    "wholesalePrice": 108.5,
+    "extraPrice": 113.93,
+    "retailPrice": 135.63
   },
   {
     "id": "УТ000011735",
@@ -44211,9 +44211,9 @@
     "id": "УТ000050146",
     "category": "..ТЮЛЬПАНЫ",
     "name": "ИНОСЕНС СТЕНГС ТЮЛЬПАН дубл.",
-    "wholesalePrice": 58.01,
-    "extraPrice": 60.91,
-    "retailPrice": 72.51
+    "wholesalePrice": 69.75,
+    "extraPrice": 73.24,
+    "retailPrice": 87.19
   },
   {
     "id": "УТ000050149",
@@ -56086,6 +56086,14 @@
     "wholesalePrice": 121.68,
     "extraPrice": 127.76,
     "retailPrice": 152.09
+  },
+  {
+    "id": "УТ000054508",
+    "category": "..ТЮЛЬПАНЫ",
+    "name": "БРИНДИСИ СТЕНГС ТЮЛЬПАН дубл.",
+    "wholesalePrice": 69.75,
+    "extraPrice": 73.24,
+    "retailPrice": 87.19
   },
   {
     "id": "УТ000054520",
