@@ -6200,14 +6200,6 @@
     "retailPrice": 217.97
   },
   {
-    "id": "УТ000007226",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "КРОТОН АЙСТОН 19/70 СМ",
-    "wholesalePrice": 1782.5,
-    "extraPrice": 1871.63,
-    "retailPrice": 2228.13
-  },
-  {
     "id": "УТ000007254",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
     "name": "КРОТОН ЭКЗЕЛЕНТ 13 СМ",
@@ -10694,6 +10686,14 @@
     "wholesalePrice": 69.84,
     "extraPrice": 73.33,
     "retailPrice": 87.29
+  },
+  {
+    "id": "УТ000014972",
+    "category": "..ХРИЗАНТЕМА",
+    "name": ".ХРИЗ. ДЕКО АНТОНОВ",
+    "wholesalePrice": 121.68,
+    "extraPrice": 127.76,
+    "retailPrice": 152.09
   },
   {
     "id": "УТ000014976",
@@ -20974,14 +20974,6 @@
     "wholesalePrice": 91.45,
     "extraPrice": 96.02,
     "retailPrice": 114.31
-  },
-  {
-    "id": "УТ000029557",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ИГУАЗУ- 70см (СТАР,КОРОЗОН,МАТИЗ,ЭКО РОЗ,БЕЛЛА РОЗА,ЧАРМИНГ,СОФИ,ДАВИНЧИ.РОЯЛ)",
-    "wholesalePrice": 107.74,
-    "extraPrice": 113.13,
-    "retailPrice": 134.68
   },
   {
     "id": "УТ000029558",
@@ -40131,9 +40123,9 @@
     "id": "УТ000046105",
     "category": "..ЦВЕТЫ КИТАЙ",
     "name": "ЛИЗИАНТУС КИТАЙ ПАЧКА",
-    "wholesalePrice": 1065.63,
-    "extraPrice": 1118.91,
-    "retailPrice": 1332.03
+    "wholesalePrice": 1085,
+    "extraPrice": 1139.25,
+    "retailPrice": 1356.25
   },
   {
     "id": "УТ000046106",
@@ -41243,9 +41235,9 @@
     "id": "УТ000047269",
     "category": "..ЦВЕТЫ КИТАЙ",
     "name": "ЭВКАЛИПТ БЭЙБИ БЛЮ КИТАЙ",
-    "wholesalePrice": 968.75,
-    "extraPrice": 1017.19,
-    "retailPrice": 1210.94
+    "wholesalePrice": 1007.5,
+    "extraPrice": 1057.88,
+    "retailPrice": 1259.38
   },
   {
     "id": "УТ000047278",
@@ -41267,17 +41259,17 @@
     "id": "УТ000047287",
     "category": "..ЦВЕТЫ КИТАЙ",
     "name": "РОЗА КУСТОВАЯ КИТАЙ ПАЧКА",
-    "wholesalePrice": 1395,
-    "extraPrice": 1464.75,
-    "retailPrice": 1743.75
+    "wholesalePrice": 1433.75,
+    "extraPrice": 1505.44,
+    "retailPrice": 1792.19
   },
   {
     "id": "УТ000047288",
     "category": "..ЦВЕТЫ КИТАЙ",
     "name": "РОЗА ОДНОГОЛОВАЯ КИТАЙ ПАЧКА",
-    "wholesalePrice": 852.5,
-    "extraPrice": 895.13,
-    "retailPrice": 1065.63
+    "wholesalePrice": 891.25,
+    "extraPrice": 935.81,
+    "retailPrice": 1114.06
   },
   {
     "id": "УТ000047292",
