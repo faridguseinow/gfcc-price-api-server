@@ -8384,6 +8384,14 @@
     "retailPrice": 55.22
   },
   {
+    "id": "УТ000010258",
+    "category": "..,РАЗНОЕ",
+    "name": "ИРИС ЖЕЛТЫЙ",
+    "wholesalePrice": 34.88,
+    "extraPrice": 36.62,
+    "retailPrice": 43.59
+  },
+  {
     "id": "УТ000010304",
     "category": "..,РАЗНОЕ",
     "name": "КЛЕМATИС",
@@ -11998,14 +12006,6 @@
     "wholesalePrice": 238.7,
     "extraPrice": 250.64,
     "retailPrice": 298.38
-  },
-  {
-    "id": "УТ000017972",
-    "category": "КОРЗИНА",
-    "name": "Корзина - 8844303",
-    "wholesalePrice": 770.35,
-    "extraPrice": 808.87,
-    "retailPrice": 962.94
   },
   {
     "id": "УТ000017973",
@@ -28400,6 +28400,14 @@
     "retailPrice": 1851.28
   },
   {
+    "id": "УТ000036872",
+    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
+    "name": "ПИНК ПРОМАЙС  70 см куст на воде",
+    "wholesalePrice": 217,
+    "extraPrice": 227.85,
+    "retailPrice": 271.25
+  },
+  {
     "id": "УТ000036876",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "ПИНК ПРОМАЙС  60 см куст на воде",
@@ -30334,14 +30342,6 @@
     "wholesalePrice": 133.3,
     "extraPrice": 139.97,
     "retailPrice": 166.63
-  },
-  {
-    "id": "УТ000038662",
-    "category": "..,РАЗНОЕ",
-    "name": "ГОРТЕНЗИЯ 80 СМ РОЗОВАЯ",
-    "wholesalePrice": 496,
-    "extraPrice": 520.8,
-    "retailPrice": 620
   },
   {
     "id": "УТ000038674",
@@ -34962,7 +34962,7 @@
   {
     "id": "УТ000041181",
     "category": "..ТЮЛЬПАНЫ",
-    "name": "АЛИСОН БРЭДЛИ КОАС  ТЮЛЬПАН дубл.",
+    "name": "АЛИСОН БРЭДЛИ КОАС ТЮЛЬПАН дубл.",
     "wholesalePrice": 79.46,
     "extraPrice": 83.43,
     "retailPrice": 99.33
@@ -35154,7 +35154,7 @@
   {
     "id": "УТ000041405",
     "category": "..ТЮЛЬПАНЫ",
-    "name": "МЕРИЕДЖ  КОАС ТЮЛЬПАН дубл.",
+    "name": "МЕРИЕДЖ КОАС ТЮЛЬПАН дубл.",
     "wholesalePrice": 93.78,
     "extraPrice": 98.46,
     "retailPrice": 117.22
@@ -39770,7 +39770,7 @@
   {
     "id": "УТ000045660",
     "category": "..ТЮЛЬПАНЫ",
-    "name": "АГИТАТО КОАС  ТЮЛЬПАН дубл.",
+    "name": "АГИТАТО КОАС ТЮЛЬПАН дубл.",
     "wholesalePrice": 58.01,
     "extraPrice": 60.91,
     "retailPrice": 72.51
@@ -41203,6 +41203,14 @@
     "id": "УТ000047137",
     "category": "..,ЛИЛИЯ",
     "name": "ЛИЛИЯ ЛА НЭШВИЛЛ",
+    "wholesalePrice": 93,
+    "extraPrice": 97.65,
+    "retailPrice": 116.25
+  },
+  {
+    "id": "УТ000047138",
+    "category": "..,ЛИЛИЯ",
+    "name": "ЛИЛИЯ ЛА БРИНДИСИ",
     "wholesalePrice": 93,
     "extraPrice": 97.65,
     "retailPrice": 116.25
@@ -42920,14 +42928,6 @@
     "retailPrice": 66.84
   },
   {
-    "id": "УТ000048841",
-    "category": "..,ЛИЛИЯ",
-    "name": "ЛИЛИЯ ЛА ДУКАТИ",
-    "wholesalePrice": 96.88,
-    "extraPrice": 101.72,
-    "retailPrice": 121.09
-  },
-  {
     "id": "УТ000048845",
     "category": "ДЕКОР",
     "name": "ТМ 006",
@@ -43202,7 +43202,7 @@
   {
     "id": "УТ000048910",
     "category": "..ТЮЛЬПАНЫ",
-    "name": "ЭЧД САЛМОН СТЕНГС  ТЮЛЬПАН  дубл",
+    "name": "ЭЧД САЛМОН СТЕНГС ТЮЛЬПАН  дубл.",
     "wholesalePrice": 58.01,
     "extraPrice": 60.91,
     "retailPrice": 72.51
