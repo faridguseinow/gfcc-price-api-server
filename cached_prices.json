@@ -2680,6 +2680,14 @@
     "retailPrice": 197.63
   },
   {
+    "id": "УТ000005439",
+    "category": "..,РОЗА ,МЕСТНАЯ",
+    "name": "МИСС БОМБАСТИК 70 см АРТ РОССЕ",
+    "wholesalePrice": 228,
+    "extraPrice": 239.4,
+    "retailPrice": 285
+  },
+  {
     "id": "УТ000005441",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "МИСС БОМБАСТИК 70 см РОЗА Кен/Куст. (RLR)",
@@ -16830,6 +16838,14 @@
     "wholesalePrice": 599.85,
     "extraPrice": 629.84,
     "retailPrice": 749.81
+  },
+  {
+    "id": "УТ000027364",
+    "category": "..,РОЗА ,МЕСТНАЯ",
+    "name": "МИСС БОМБАСТИК 80 см АРТ РОССЕ",
+    "wholesalePrice": 228,
+    "extraPrice": 239.4,
+    "retailPrice": 285
   },
   {
     "id": "УТ000027382",
@@ -40947,9 +40963,17 @@
     "id": "УТ000046854",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "МИКС ОДНОГ.  80 см АРТ РОССЕ",
-    "wholesalePrice": 96.63,
-    "extraPrice": 101.47,
-    "retailPrice": 120.79
+    "wholesalePrice": 125,
+    "extraPrice": 131.25,
+    "retailPrice": 156.25
+  },
+  {
+    "id": "УТ000046855",
+    "category": "..,РОЗА ,МЕСТНАЯ",
+    "name": "МИКС ОДНОГ.  90 см АРТ РОССЕ",
+    "wholesalePrice": 125,
+    "extraPrice": 131.25,
+    "retailPrice": 156.25
   },
   {
     "id": "УТ000046880",
@@ -40963,17 +40987,17 @@
     "id": "УТ000046913",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "МИКС КУСТ 50 см АРТ РОССЕ",
-    "wholesalePrice": 188.3,
-    "extraPrice": 197.72,
-    "retailPrice": 235.38
+    "wholesalePrice": 221,
+    "extraPrice": 232.05,
+    "retailPrice": 276.25
   },
   {
     "id": "УТ000046914",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "МИКС КУСТ 60 см АРТ РОССЕ",
-    "wholesalePrice": 198.96,
-    "extraPrice": 208.91,
-    "retailPrice": 248.7
+    "wholesalePrice": 221,
+    "extraPrice": 232.05,
+    "retailPrice": 276.25
   },
   {
     "id": "УТ000046916",
@@ -41171,9 +41195,9 @@
     "id": "УТ000047050",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "МИКС КУСТ 70 см АРТ РОССЕ",
-    "wholesalePrice": 208.43,
-    "extraPrice": 218.85,
-    "retailPrice": 260.54
+    "wholesalePrice": 235,
+    "extraPrice": 246.75,
+    "retailPrice": 293.74
   },
   {
     "id": "УТ000047101",
@@ -41227,9 +41251,17 @@
     "id": "УТ000047152",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "МИКС КУСТ 80 см АРТ РОССЕ",
-    "wholesalePrice": 208.43,
-    "extraPrice": 218.85,
-    "retailPrice": 260.54
+    "wholesalePrice": 235,
+    "extraPrice": 246.75,
+    "retailPrice": 293.74
+  },
+  {
+    "id": "УТ000047153",
+    "category": "..,РОЗА ,МЕСТНАЯ",
+    "name": "МИКС КУСТ 90 см АРТ РОССЕ",
+    "wholesalePrice": 235,
+    "extraPrice": 246.75,
+    "retailPrice": 293.74
   },
   {
     "id": "УТ000047198",
