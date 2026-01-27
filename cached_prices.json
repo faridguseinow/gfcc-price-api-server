@@ -3192,14 +3192,6 @@
     "retailPrice": 635.38
   },
   {
-    "id": "УТ000006059",
-    "category": ".УПАКОВКА",
-    "name": "КЛЕЙ ДЛЯ ПИСОЛЕТА ( 7мм )",
-    "wholesalePrice": 585.72,
-    "extraPrice": 615,
-    "retailPrice": 732.15
-  },
-  {
     "id": "УТ000006081",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
     "name": "КЛИВИЯ 13 СМ",
@@ -10171,6 +10163,14 @@
     "id": "УТ000014113",
     "category": "..ТЮЛЬПАНЫ",
     "name": "СТРОНГ ГОЛД  ТЮЛЬПАН энкл.",
+    "wholesalePrice": 53.96,
+    "extraPrice": 56.66,
+    "retailPrice": 67.45
+  },
+  {
+    "id": "УТ000014120",
+    "category": "..ТЮЛЬПАНЫ",
+    "name": "ТАЙМ АУТ  ТЮЛЬПАН энкл.",
     "wholesalePrice": 53.96,
     "extraPrice": 56.66,
     "retailPrice": 67.45
