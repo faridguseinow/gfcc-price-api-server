@@ -51552,14 +51552,6 @@
     "retailPrice": 149.38
   },
   {
-    "id": "УТ000052943",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "СНОУ  ДРИФТ 60 см куст на воде",
-    "wholesalePrice": 145.3,
-    "extraPrice": 152.56,
-    "retailPrice": 181.62
-  },
-  {
     "id": "УТ000052944",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "СНОУ  ДРИФТ 70 см куст на воде",
@@ -57222,5 +57214,13 @@
     "wholesalePrice": 320.9,
     "extraPrice": 336.95,
     "retailPrice": 401.13
+  },
+  {
+    "id": "УТ000054611",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "МИКС-60см(ТЕССА)",
+    "wholesalePrice": 92.46,
+    "extraPrice": 97.09,
+    "retailPrice": 115.58
   }
 ]
