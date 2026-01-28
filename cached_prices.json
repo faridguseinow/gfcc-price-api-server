@@ -8808,14 +8808,6 @@
     "retailPrice": 321.48
   },
   {
-    "id": "УТ000010435",
-    "category": "..,ПИОНЫ",
-    "name": "БОУЛ ОФ КРЕМ ПИОНЫ",
-    "wholesalePrice": 302.25,
-    "extraPrice": 317.37,
-    "retailPrice": 377.82
-  },
-  {
     "id": "УТ000010479",
     "category": "..,ПИОНЫ",
     "name": "ОДИЛЬ ПИОНЫ",
@@ -12016,6 +12008,14 @@
     "retailPrice": 171.91
   },
   {
+    "id": "УТ000017440",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "ЛОЛА (ТЕССА)-60 см",
+    "wholesalePrice": 107.58,
+    "extraPrice": 112.96,
+    "retailPrice": 134.48
+  },
+  {
     "id": "УТ000017442",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ЛОЛА (ТЕССА)-70 см",
@@ -12078,14 +12078,6 @@
     "wholesalePrice": 138.69,
     "extraPrice": 145.62,
     "retailPrice": 173.36
-  },
-  {
-    "id": "УТ000017458",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ПИНК ФЛОЙД (ТЕССА)-60 см",
-    "wholesalePrice": 119.77,
-    "extraPrice": 125.76,
-    "retailPrice": 149.72
   },
   {
     "id": "УТ000017459",
@@ -15784,6 +15776,14 @@
     "retailPrice": 151.77
   },
   {
+    "id": "УТ000025248",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "ФРИДОМ (САЧА)- 60см",
+    "wholesalePrice": 85.63,
+    "extraPrice": 89.91,
+    "retailPrice": 107.03
+  },
+  {
     "id": "УТ000025249",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ФРИДОМ (САЧА)- 70см",
@@ -17472,6 +17472,14 @@
     "retailPrice": 179.13
   },
   {
+    "id": "УТ000027756",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "ПИНК ФЛОЙД (РОЯЛ) 90см",
+    "wholesalePrice": 157.85,
+    "extraPrice": 165.74,
+    "retailPrice": 197.31
+  },
+  {
     "id": "УТ000027772",
     "category": "..,РАЗНОЕ",
     "name": "ЛИЗИАНТУС  КРАСНЫЙ",
@@ -17550,14 +17558,6 @@
     "wholesalePrice": 104.9,
     "extraPrice": 110.14,
     "retailPrice": 131.12
-  },
-  {
-    "id": "УТ000027920",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "МОНДИАЛЬ -  90 см",
-    "wholesalePrice": 116.41,
-    "extraPrice": 122.23,
-    "retailPrice": 145.51
   },
   {
     "id": "УТ000027922",
@@ -19400,6 +19400,14 @@
     "retailPrice": 143.19
   },
   {
+    "id": "УТ000028731",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "АТОМИК -  50см",
+    "wholesalePrice": 66.6,
+    "extraPrice": 69.93,
+    "retailPrice": 83.26
+  },
+  {
     "id": "УТ000028732",
     "category": "..РОЗА ЭКВАДОР",
     "name": "АТОМИК -  60см",
@@ -19736,14 +19744,6 @@
     "retailPrice": 74.66
   },
   {
-    "id": "УТ000028817",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ДИП ПЕРПЛ-   60см",
-    "wholesalePrice": 71.53,
-    "extraPrice": 75.11,
-    "retailPrice": 89.41
-  },
-  {
     "id": "УТ000028818",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ДИП ПЕРПЛ-   70см",
@@ -19894,14 +19894,6 @@
     "wholesalePrice": 86.41,
     "extraPrice": 90.73,
     "retailPrice": 108.01
-  },
-  {
-    "id": "УТ000028848",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ХАЙ МЭДЖИК-   80см",
-    "wholesalePrice": 96.7,
-    "extraPrice": 101.53,
-    "retailPrice": 120.87
   },
   {
     "id": "УТ000028853",
@@ -20192,14 +20184,6 @@
     "retailPrice": 191.03
   },
   {
-    "id": "УТ000028936",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "МЕДЖИК ТАЙМ -  50 см",
-    "wholesalePrice": 72.56,
-    "extraPrice": 76.18,
-    "retailPrice": 90.7
-  },
-  {
     "id": "УТ000028937",
     "category": "..РОЗА ЭКВАДОР",
     "name": "МЕДЖИК ТАЙМ -  60 см",
@@ -20222,6 +20206,14 @@
     "wholesalePrice": 113.43,
     "extraPrice": 119.1,
     "retailPrice": 141.78
+  },
+  {
+    "id": "УТ000028968",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "НАУТИКА 70 см",
+    "wholesalePrice": 90.85,
+    "extraPrice": 95.39,
+    "retailPrice": 113.56
   },
   {
     "id": "УТ000028969",
@@ -20856,6 +20848,22 @@
     "retailPrice": 129.98
   },
   {
+    "id": "УТ000029224",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "МУНСТОУН -  80 см",
+    "wholesalePrice": 116.99,
+    "extraPrice": 122.84,
+    "retailPrice": 146.24
+  },
+  {
+    "id": "УТ000029225",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "МУНСТОУН -  90 см",
+    "wholesalePrice": 135.14,
+    "extraPrice": 141.89,
+    "retailPrice": 168.92
+  },
+  {
     "id": "УТ000029228",
     "category": "..РОЗА ЭКВАДОР",
     "name": "БЛЮЗ -  50см",
@@ -21144,6 +21152,14 @@
     "retailPrice": 129.13
   },
   {
+    "id": "УТ000029496",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "БЕЛЫЙ ШОКОЛАД- 60см (СТАР,КОРОЗОН,МАТИЗ,ЭКО РОЗ,БЕЛЛА РОЗА,ЧАРМИНГ,СОФИ,ДАВИНЧИ.РОЯЛ)",
+    "wholesalePrice": 94.48,
+    "extraPrice": 99.2,
+    "retailPrice": 118.09
+  },
+  {
     "id": "УТ000029497",
     "category": "..РОЗА ЭКВАДОР",
     "name": "БЕЛЫЙ ШОКОЛАД- 70см (СТАР,КОРОЗОН,МАТИЗ,ЭКО РОЗ,БЕЛЛА РОЗА,ЧАРМИНГ,СОФИ,ДАВИНЧИ.РОЯЛ)",
@@ -21366,6 +21382,14 @@
     "wholesalePrice": 87.86,
     "extraPrice": 92.26,
     "retailPrice": 109.83
+  },
+  {
+    "id": "УТ000029563",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "КАБАРЕТ- 70см (СТАР,КОРОЗОН,МАТИЗ,ЭКО РОЗ,БЕЛЛА РОЗА,ЧАРМИНГ,СОФИ,ДАВИНЧИ.РОЯЛ)",
+    "wholesalePrice": 106.21,
+    "extraPrice": 111.52,
+    "retailPrice": 132.76
   },
   {
     "id": "УТ000029568",
@@ -21736,6 +21760,14 @@
     "retailPrice": 154.09
   },
   {
+    "id": "УТ000029679",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "МОНДИАЛЬ- 90 см (СТАР,КОРОЗОН,МАТИЗ,ЭКО РОЗ,БЕЛЛА РОЗА,ЧАРМИНГ,СОФИ,ДАВИНЧИ.РОЯЛ)",
+    "wholesalePrice": 137.08,
+    "extraPrice": 143.93,
+    "retailPrice": 171.35
+  },
+  {
     "id": "УТ000029682",
     "category": "..РОЗА ЭКВАДОР",
     "name": "МУНСТОУН- 60 см (СТАР,КОРОЗОН,МАТИЗ,ЭКО РОЗ,БЕЛЛА РОЗА,ЧАРМИНГ,СОФИ,ДАВИНЧИ.РОЯЛ)",
@@ -21766,6 +21798,14 @@
     "wholesalePrice": 130.43,
     "extraPrice": 136.96,
     "retailPrice": 163.04
+  },
+  {
+    "id": "УТ000029690",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "МУНСТОУН (ТЕССА) 80см",
+    "wholesalePrice": 148.27,
+    "extraPrice": 155.69,
+    "retailPrice": 185.34
   },
   {
     "id": "УТ000029700",
@@ -22062,6 +22102,14 @@
     "wholesalePrice": 163.87,
     "extraPrice": 172.06,
     "retailPrice": 204.84
+  },
+  {
+    "id": "УТ000029812",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "ШИММЕР- 60см (СТАР,КОРОЗОН,МАТИЗ,ЭКО РОЗ,БЕЛЛА РОЗА,ЧАРМИНГ,СОФИ,ДАВИНЧИ.РОЯЛ)",
+    "wholesalePrice": 99.56,
+    "extraPrice": 104.54,
+    "retailPrice": 124.46
   },
   {
     "id": "УТ000029813",
@@ -22718,6 +22766,14 @@
     "wholesalePrice": 73.66,
     "extraPrice": 77.34,
     "retailPrice": 92.07
+  },
+  {
+    "id": "УТ000030372",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "ОПАЛА- 60см (СТАР,КОРОЗОН,МАТИЗ,ЭКО РОЗ,БЕЛЛА РОЗА,ЧАРМИНГ,СОФИ,ДАВИНЧИ.РОЯЛ)",
+    "wholesalePrice": 94.48,
+    "extraPrice": 99.2,
+    "retailPrice": 118.09
   },
   {
     "id": "УТ000030373",
@@ -24662,6 +24718,14 @@
     "wholesalePrice": 105.04,
     "extraPrice": 110.29,
     "retailPrice": 131.3
+  },
+  {
+    "id": "УТ000033407",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "ОПАЛА (ТЕССА) 70см",
+    "wholesalePrice": 121.19,
+    "extraPrice": 127.25,
+    "retailPrice": 151.49
   },
   {
     "id": "УТ000033410",
@@ -29600,6 +29664,14 @@
     "retailPrice": 124.46
   },
   {
+    "id": "УТ000037620",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "ПИНК МОНДИАЛЬ (РОЗАПРИМА)-70см",
+    "wholesalePrice": 117.82,
+    "extraPrice": 123.72,
+    "retailPrice": 147.28
+  },
+  {
     "id": "УТ000037625",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ПИНК ФЛОЙД (РОЗАПРИМА)-50см",
@@ -29750,6 +29822,14 @@
     "wholesalePrice": 94.92,
     "extraPrice": 99.66,
     "retailPrice": 118.65
+  },
+  {
+    "id": "УТ000037729",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "СИЛАНТОЙ (РОЗАПРИМА)-70см",
+    "wholesalePrice": 111.22,
+    "extraPrice": 116.78,
+    "retailPrice": 139.02
   },
   {
     "id": "УТ000037770",
@@ -32424,6 +32504,14 @@
     "retailPrice": 111.74
   },
   {
+    "id": "УТ000039515",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "ЭППЛ ДЖЕК-70см (СТАР,КОРОЗОН,МАТИЗ,ЭКО РОЗ,БЕЛЛА РОЗА,ЧАРМИНГ,СОФИ,ДАВИНЧИ.РОЯЛ)",
+    "wholesalePrice": 119.51,
+    "extraPrice": 125.49,
+    "retailPrice": 149.39
+  },
+  {
     "id": "УТ000039551",
     "category": "..РОЗА ЭКВАДОР",
     "name": "КЭНДИ ЭКСПРЕШН (РОЗАПРИМА)-70см",
@@ -33128,14 +33216,6 @@
     "retailPrice": 108.97
   },
   {
-    "id": "УТ000039919",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ЛУСИАНА-  60см ANNI ROSES.LRA.QLS.ATC.SPPH.ALLGF.EVR.RLH.TURS.GWFW.VDS.RDF.FDS 2.CNV.MON",
-    "wholesalePrice": 78.91,
-    "extraPrice": 82.86,
-    "retailPrice": 98.64
-  },
-  {
     "id": "УТ000039920",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ЛУСИАНА-  70см ANNI ROSES.LRA.QLS.ATC.SPPH.ALLGF.EVR.RLH.TURS.GWFW.VDS.RDF.FDS 2.CNV.MON",
@@ -33720,6 +33800,14 @@
     "retailPrice": 127.92
   },
   {
+    "id": "УТ000040171",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "ХОТ СПОТ-80см ANNI ROSES.LRA.QLS.ATC.SPPH.ALLGF.EVR.RLH.TURS.GWFW.VDS.RDF.FDS 2.CNV.MON",
+    "wholesalePrice": 115.13,
+    "extraPrice": 120.88,
+    "retailPrice": 143.91
+  },
+  {
     "id": "УТ000040183",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ХАРТС-  70см ANNI ROSES.LRA.QLS.ATC.SPPH.ALLGF.EVR.RLH.TURS.GWFW.VDS.RDF.FDS 2.CNV.MON",
@@ -33798,6 +33886,14 @@
     "wholesalePrice": 63.19,
     "extraPrice": 66.34,
     "retailPrice": 78.98
+  },
+  {
+    "id": "УТ000040231",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "ФРИДОМ-  70см ANNI ROSES.LRA.QLS.ATC.SPPH.ALLGF.EVR.RLH.TURS.GWFW.VDS.RDF.FDS 2.CNV.MON",
+    "wholesalePrice": 71.79,
+    "extraPrice": 75.38,
+    "retailPrice": 89.73
   },
   {
     "id": "УТ000040233",
@@ -34182,6 +34278,14 @@
     "wholesalePrice": 104.88,
     "extraPrice": 110.12,
     "retailPrice": 131.1
+  },
+  {
+    "id": "УТ000040467",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "ПАНДОРА-  70см ANNI ROSES.LRA.QLS.ATC.SPPH.ALLGF.EVR.RLH.TURS.GWFW.VDS.RDF.FDS 2.CNV.MON",
+    "wholesalePrice": 94.22,
+    "extraPrice": 98.93,
+    "retailPrice": 117.77
   },
   {
     "id": "УТ000040470",
@@ -40808,6 +40912,14 @@
     "retailPrice": 102.07
   },
   {
+    "id": "УТ000046167",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "АЛЬОХА - 70см (СТАР,КОРОЗОН,МАТИЗ,ЭКО РОЗ,БЕЛЛА РОЗА,ЧАРМИНГ,СОФИ,ДАВИНЧИ.РОЯЛ)",
+    "wholesalePrice": 109.22,
+    "extraPrice": 114.68,
+    "retailPrice": 136.52
+  },
+  {
     "id": "УТ000046194",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "ЭМИЛЬЯ  70 см куст на воде",
@@ -45318,6 +45430,14 @@
     "wholesalePrice": 616.94,
     "extraPrice": 647.78,
     "retailPrice": 771.17
+  },
+  {
+    "id": "УТ000050225",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "Фатима-  50см ANNI ROSES.LRA.QLS.ATC.SPPH.ALLGF.EVR.RLH.TURS.GWFW.VDS.RDF.FDS 2.CNV.MON",
+    "wholesalePrice": 96.12,
+    "extraPrice": 100.93,
+    "retailPrice": 120.15
   },
   {
     "id": "УТ000050275",
@@ -51126,6 +51246,14 @@
     "wholesalePrice": 1087.8,
     "extraPrice": 1142.19,
     "retailPrice": 1359.75
+  },
+  {
+    "id": "УТ000052333",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "Фатима- 80см  (СТАР,КОРОЗОН,МАТИЗ,ЭКО РОЗ,БЕЛЛА РОЗА,ЧАРМИНГ,СОФИ,ДАВИНЧИ.РОЯЛ)",
+    "wholesalePrice": 141.76,
+    "extraPrice": 148.84,
+    "retailPrice": 177.19
   },
   {
     "id": "УТ000052389",
@@ -57424,11 +57552,35 @@
     "retailPrice": 401.13
   },
   {
-    "id": "УТ000054611",
+    "id": "УТ000054609",
     "category": "..РОЗА ЭКВАДОР",
-    "name": "МИКС-60см(ТЕССА)",
-    "wholesalePrice": 92.46,
-    "extraPrice": 97.09,
-    "retailPrice": 115.58
+    "name": "МИКС-40см(ТЕССА)",
+    "wholesalePrice": 78.48,
+    "extraPrice": 82.4,
+    "retailPrice": 98.1
+  },
+  {
+    "id": "УТ000054610",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "МИКС-50см (ТЕССА)",
+    "wholesalePrice": 84.69,
+    "extraPrice": 88.93,
+    "retailPrice": 105.87
+  },
+  {
+    "id": "УТ000054612",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "МИКС-70см (ТЕССА)",
+    "wholesalePrice": 103.34,
+    "extraPrice": 108.51,
+    "retailPrice": 129.18
+  },
+  {
+    "id": "УТ000054613",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "МИКС-80см (ТЕССА)",
+    "wholesalePrice": 108,
+    "extraPrice": 113.4,
+    "retailPrice": 135
   }
 ]
