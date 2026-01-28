@@ -192,14 +192,6 @@
     "retailPrice": 2428.13
   },
   {
-    "id": "УТ000002607",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "АЛОКАЗИЯ ПОЛЛИ 12 СМ",
-    "wholesalePrice": 481.74,
-    "extraPrice": 505.83,
-    "retailPrice": 602.18
-  },
-  {
     "id": "УТ000002617",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
     "name": "АЛОЭ 12 СМ",
@@ -310,14 +302,6 @@
     "wholesalePrice": 5089.35,
     "extraPrice": 5343.82,
     "retailPrice": 6361.69
-  },
-  {
-    "id": "УТ000002807",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "АРЕКА 35/200 СМ",
-    "wholesalePrice": 19756,
-    "extraPrice": 20743.8,
-    "retailPrice": 24695
   },
   {
     "id": "УТ000002822",
@@ -3182,14 +3166,6 @@
     "wholesalePrice": 334.11,
     "extraPrice": 350.82,
     "retailPrice": 417.64
-  },
-  {
-    "id": "УТ000005823",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "КАЛАНДИВА МИКС 23 СМ",
-    "wholesalePrice": 1153.85,
-    "extraPrice": 1211.54,
-    "retailPrice": 1442.31
   },
   {
     "id": "УТ000005858",
@@ -9768,6 +9744,14 @@
     "retailPrice": 2316.43
   },
   {
+    "id": "УТ000013545",
+    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
+    "name": "САНСЕВИЕРИЯ 27 СМ",
+    "wholesalePrice": 7536.9,
+    "extraPrice": 7913.75,
+    "retailPrice": 9421.13
+  },
+  {
     "id": "УТ000013572",
     "category": "ГРУНТ И УДОБРЕНИЯ",
     "name": "СЕЛИТРА 1 КГ (JOY)",
@@ -14270,6 +14254,14 @@
     "wholesalePrice": 25.9,
     "extraPrice": 27.19,
     "retailPrice": 32.37
+  },
+  {
+    "id": "УТ000021280",
+    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
+    "name": "СТРЕЛИЦИЯ 30/150 СМ",
+    "wholesalePrice": 11655,
+    "extraPrice": 12237.75,
+    "retailPrice": 14568.75
   },
   {
     "id": "УТ000021282",
@@ -19688,14 +19680,6 @@
     "retailPrice": 108.01
   },
   {
-    "id": "УТ000028819",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ДИП ПЕРПЛ-   80см",
-    "wholesalePrice": 96.7,
-    "extraPrice": 101.53,
-    "retailPrice": 120.87
-  },
-  {
     "id": "УТ000028823",
     "category": "..РОЗА ЭКВАДОР",
     "name": "АНГАЖЕМЕНТ -  50см",
@@ -23390,6 +23374,14 @@
     "wholesalePrice": 107.21,
     "extraPrice": 112.57,
     "retailPrice": 134.01
+  },
+  {
+    "id": "УТ000031891",
+    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
+    "name": "САНСЕВИЕРИЯ 24/100 СМ",
+    "wholesalePrice": 5672.1,
+    "extraPrice": 5955.71,
+    "retailPrice": 7090.13
   },
   {
     "id": "УТ000031892",
@@ -28088,14 +28080,6 @@
     "retailPrice": 1648.21
   },
   {
-    "id": "УТ000036182",
-    "category": "КОРЗИНА",
-    "name": "Корзина - 20A800503",
-    "wholesalePrice": 1347.32,
-    "extraPrice": 1414.68,
-    "retailPrice": 1684.15
-  },
-  {
     "id": "УТ000036183",
     "category": "КОРЗИНА",
     "name": "Корзина - 20A800003",
@@ -32294,6 +32278,14 @@
     "wholesalePrice": 125.78,
     "extraPrice": 132.07,
     "retailPrice": 157.23
+  },
+  {
+    "id": "УТ000039513",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "ЭППЛ ДЖЕК-50см (СТАР,КОРОЗОН,МАТИЗ,ЭКО РОЗ,БЕЛЛА РОЗА,ЧАРМИНГ,СОФИ,ДАВИНЧИ.РОЯЛ)",
+    "wholesalePrice": 89.39,
+    "extraPrice": 93.86,
+    "retailPrice": 111.74
   },
   {
     "id": "УТ000039551",
@@ -40902,14 +40894,6 @@
     "wholesalePrice": 155.4,
     "extraPrice": 163.17,
     "retailPrice": 194.25
-  },
-  {
-    "id": "УТ000046505",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "АНТУРИУМ РЕЙНБОУ 14 СМ",
-    "wholesalePrice": 1149.96,
-    "extraPrice": 1207.46,
-    "retailPrice": 1437.45
   },
   {
     "id": "УТ000046506",
@@ -50752,12 +50736,12 @@
     "retailPrice": 1523.89
   },
   {
-    "id": "УТ000052185",
+    "id": "УТ000052180",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ КИТАЙ",
-    "name": "АСПАРАГУС 12 СМ КИТАЙ",
-    "wholesalePrice": 345.77,
-    "extraPrice": 363.05,
-    "retailPrice": 432.21
+    "name": "СТРЕЛИЦИЯ 33/150 СМ КИТАЙ",
+    "wholesalePrice": 8694.63,
+    "extraPrice": 9129.36,
+    "retailPrice": 10868.29
   },
   {
     "id": "УТ000052189",
@@ -51334,6 +51318,14 @@
     "wholesalePrice": 163.17,
     "extraPrice": 171.33,
     "retailPrice": 203.96
+  },
+  {
+    "id": "УТ000052694",
+    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
+    "name": "СИ Ю СУН 70 см РОЗА Кен/Куст. (RLR)",
+    "wholesalePrice": 178.71,
+    "extraPrice": 187.65,
+    "retailPrice": 223.39
   },
   {
     "id": "УТ000052700",
@@ -52238,6 +52230,14 @@
     "wholesalePrice": 922.98,
     "extraPrice": 969.13,
     "retailPrice": 1153.73
+  },
+  {
+    "id": "УТ000053179",
+    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
+    "name": "ГОЛУБАЯ ЕЛЬ 30/100 СМ",
+    "wholesalePrice": 5982.9,
+    "extraPrice": 6282.05,
+    "retailPrice": 7478.63
   },
   {
     "id": "УТ000053182",
