@@ -1960,14 +1960,6 @@
     "retailPrice": 696.91
   },
   {
-    "id": "УТ000004875",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "ДРАЦЕНА МИКС 12/25 СМ",
-    "wholesalePrice": 511.39,
-    "extraPrice": 536.95,
-    "retailPrice": 639.23
-  },
-  {
     "id": "УТ000004901",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
     "name": "ДРАЦЕНА САНРЕЙ 17/80 СМ",
@@ -3200,22 +3192,6 @@
     "retailPrice": 413.34
   },
   {
-    "id": "УТ000005820",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "КАЛАНДИВА МИКС 15 СМ",
-    "wholesalePrice": 592.13,
-    "extraPrice": 621.74,
-    "retailPrice": 740.16
-  },
-  {
-    "id": "УТ000005823",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "КАЛАНДИВА МИКС 23 СМ",
-    "wholesalePrice": 1141.97,
-    "extraPrice": 1199.06,
-    "retailPrice": 1427.46
-  },
-  {
     "id": "УТ000005858",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
     "name": "КАЛАТЕЯ КРОКАТА 14 СМ",
@@ -3238,22 +3214,6 @@
     "wholesalePrice": 999.7,
     "extraPrice": 1049.69,
     "retailPrice": 1249.63
-  },
-  {
-    "id": "УТ000005922",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "КАМЕЛИЯ 17 СМ",
-    "wholesalePrice": 1461.1,
-    "extraPrice": 1534.16,
-    "retailPrice": 1826.38
-  },
-  {
-    "id": "УТ000005940",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "КАМПАНУЛА 11 СМ",
-    "wholesalePrice": 298.37,
-    "extraPrice": 313.29,
-    "retailPrice": 372.97
   },
   {
     "id": "УТ000005964",
@@ -8368,14 +8328,6 @@
     "retailPrice": 326.83
   },
   {
-    "id": "УТ000010125",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "АНТУРИУМ БАНДЕРОЛА  9 СМ",
-    "wholesalePrice": 645.96,
-    "extraPrice": 678.26,
-    "retailPrice": 807.45
-  },
-  {
     "id": "УТ000010137",
     "category": "..СУХОЦВЕТЫ",
     "name": "БАНКСИЯ",
@@ -11414,14 +11366,6 @@
     "wholesalePrice": 151.22,
     "extraPrice": 158.78,
     "retailPrice": 189.02
-  },
-  {
-    "id": "УТ000015375",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "КУСТОВАЯ ЭКВАДОР 60 см",
-    "wholesalePrice": 122.33,
-    "extraPrice": 128.45,
-    "retailPrice": 152.92
   },
   {
     "id": "УТ000015386",
@@ -14854,14 +14798,6 @@
     "wholesalePrice": 86.9,
     "extraPrice": 91.24,
     "retailPrice": 108.62
-  },
-  {
-    "id": "УТ000022220",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "ЭУФОРБИЯ КРИСТАТА 11 СМ",
-    "wholesalePrice": 709.79,
-    "extraPrice": 745.28,
-    "retailPrice": 887.23
   },
   {
     "id": "УТ000022272",
@@ -20960,14 +20896,6 @@
     "retailPrice": 140.29
   },
   {
-    "id": "УТ000029265",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "КВИН КРАУН (ТЕССА)- 70см",
-    "wholesalePrice": 132.76,
-    "extraPrice": 139.4,
-    "retailPrice": 165.95
-  },
-  {
     "id": "УТ000029291",
     "category": "..РОЗА ЭКВАДОР",
     "name": "СВИТНЕСС (ТЕССА)- 50см",
@@ -21184,14 +21112,6 @@
     "retailPrice": 136
   },
   {
-    "id": "УТ000029503",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "БЛЮЗ- 70см (СТАР,КОРОЗОН,МАТИЗ,ЭКО РОЗ,БЕЛЛА РОЗА,ЧАРМИНГ,СОФИ,ДАВИНЧИ.РОЯЛ)",
-    "wholesalePrice": 127.73,
-    "extraPrice": 134.12,
-    "retailPrice": 159.66
-  },
-  {
     "id": "УТ000029513",
     "category": "..РОЗА ЭКВАДОР",
     "name": "БРАЙТОН- 50см (СТАР,КОРОЗОН,МАТИЗ,ЭКО РОЗ,БЕЛЛА РОЗА,ЧАРМИНГ,СОФИ,ДАВИНЧИ.РОЯЛ)",
@@ -21278,6 +21198,14 @@
     "wholesalePrice": 145.37,
     "extraPrice": 152.64,
     "retailPrice": 181.71
+  },
+  {
+    "id": "УТ000029543",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "ГОТЧА- 50см (СТАР,КОРОЗОН,МАТИЗ,ЭКО РОЗ,БЕЛЛА РОЗА,ЧАРМИНГ,СОФИ,ДАВИНЧИ.РОЯЛ)",
+    "wholesalePrice": 116.84,
+    "extraPrice": 122.68,
+    "retailPrice": 146.05
   },
   {
     "id": "УТ000029544",
@@ -23278,14 +23206,6 @@
     "wholesalePrice": 86.27,
     "extraPrice": 90.59,
     "retailPrice": 107.84
-  },
-  {
-    "id": "УТ000031314",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "МИЯ 70см",
-    "wholesalePrice": 102.8,
-    "extraPrice": 107.94,
-    "retailPrice": 128.5
   },
   {
     "id": "УТ000031328",
@@ -29560,20 +29480,20 @@
     "retailPrice": 137.06
   },
   {
-    "id": "УТ000037421",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "КАХАЛА (РОЗАПРИМА)- 60см",
-    "wholesalePrice": 122.16,
-    "extraPrice": 128.26,
-    "retailPrice": 152.69
-  },
-  {
     "id": "УТ000037422",
     "category": "..РОЗА ЭКВАДОР",
     "name": "КАХАЛА (РОЗАПРИМА)- 70см",
     "wholesalePrice": 138.6,
     "extraPrice": 145.53,
     "retailPrice": 173.25
+  },
+  {
+    "id": "УТ000037423",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "КАХАЛА (РОЗАПРИМА)- 80см",
+    "wholesalePrice": 151.03,
+    "extraPrice": 158.58,
+    "retailPrice": 188.79
   },
   {
     "id": "УТ000037474",
@@ -29702,6 +29622,14 @@
     "wholesalePrice": 105.44,
     "extraPrice": 110.71,
     "retailPrice": 131.8
+  },
+  {
+    "id": "УТ000037620",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "ПИНК МОНДИАЛЬ (РОЗАПРИМА)-70см",
+    "wholesalePrice": 124.77,
+    "extraPrice": 131.01,
+    "retailPrice": 155.96
   },
   {
     "id": "УТ000037625",
@@ -33224,14 +33152,6 @@
     "retailPrice": 125.95
   },
   {
-    "id": "УТ000039930",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "МАНДАЛА-  50см ANNI ROSES.LRA.QLS.ATC.SPPH.ALLGF.EVR.RLH.TURS.GWFW.VDS.RDF.FDS 2.CNV.MON",
-    "wholesalePrice": 98.37,
-    "extraPrice": 103.29,
-    "retailPrice": 122.96
-  },
-  {
     "id": "УТ000039931",
     "category": "..РОЗА ЭКВАДОР",
     "name": "МАНДАЛА-  60см ANNI ROSES.LRA.QLS.ATC.SPPH.ALLGF.EVR.RLH.TURS.GWFW.VDS.RDF.FDS 2.CNV.MON",
@@ -36624,14 +36544,6 @@
     "retailPrice": 605.59
   },
   {
-    "id": "УТ000042426",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "АСТРОФИТУМ 10 СМ",
-    "wholesalePrice": 646.73,
-    "extraPrice": 679.07,
-    "retailPrice": 808.41
-  },
-  {
     "id": "УТ000042486",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
     "name": "ФИКУС ШРИВЕРИАНА 12 СМ",
@@ -37406,14 +37318,6 @@
     "wholesalePrice": 254.54,
     "extraPrice": 267.27,
     "retailPrice": 318.17
-  },
-  {
-    "id": "УТ000043593",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "ГИМНОКАЛИЦИУМ 10 СМ",
-    "wholesalePrice": 1076.6,
-    "extraPrice": 1130.43,
-    "retailPrice": 1345.75
   },
   {
     "id": "УТ000043597",
@@ -40072,14 +39976,6 @@
     "retailPrice": 66.33
   },
   {
-    "id": "УТ000045294",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "АНТУРИУМ ЗИЗОУ 12 СМ",
-    "wholesalePrice": 1025.08,
-    "extraPrice": 1076.33,
-    "retailPrice": 1281.35
-  },
-  {
     "id": "УТ000045306",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 1328",
@@ -40206,14 +40102,6 @@
     "wholesalePrice": 1309.61,
     "extraPrice": 1375.09,
     "retailPrice": 1637.01
-  },
-  {
-    "id": "УТ000045434",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "АНТУРИУМ ЛИЛЛИ  7  СМ",
-    "wholesalePrice": 469.09,
-    "extraPrice": 492.54,
-    "retailPrice": 586.36
   },
   {
     "id": "УТ000045441",
@@ -40720,14 +40608,6 @@
     "retailPrice": 10573.75
   },
   {
-    "id": "УТ000046030",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "НЕФРОЛЕПИС  6 СМ (КОРОБКА 12 ШТУК)",
-    "wholesalePrice": 1461.1,
-    "extraPrice": 1534.16,
-    "retailPrice": 1826.38
-  },
-  {
     "id": "УТ000046033",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 1228",
@@ -41216,14 +41096,6 @@
     "retailPrice": 192.25
   },
   {
-    "id": "УТ000046505",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "АНТУРИУМ РЕЙНБОУ 14 СМ",
-    "wholesalePrice": 1138.12,
-    "extraPrice": 1195.03,
-    "retailPrice": 1422.65
-  },
-  {
     "id": "УТ000046506",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
     "name": "АНТУРИУМ ЛИВИУМ 12 СМ",
@@ -41254,14 +41126,6 @@
     "wholesalePrice": 595.98,
     "extraPrice": 625.77,
     "retailPrice": 744.97
-  },
-  {
-    "id": "УТ000046525",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "АНТУРИУМ МИКС  7 СМ",
-    "wholesalePrice": 411.42,
-    "extraPrice": 431.99,
-    "retailPrice": 514.27
   },
   {
     "id": "УТ000046558",
@@ -42848,14 +42712,6 @@
     "retailPrice": 373.93
   },
   {
-    "id": "УТ000048244",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "АМАРИЛЛИС ПРОПОЛИС (ОАЗИС)",
-    "wholesalePrice": 999.7,
-    "extraPrice": 1049.69,
-    "retailPrice": 1249.63
-  },
-  {
     "id": "УТ000048245",
     "category": "ГРУНТ И УДОБРЕНИЯ",
     "name": "СПРЕЙ ДЛЯ РОЗ ПИОНОВ ШАХКОАЛ 500 МЛ",
@@ -43038,14 +42894,6 @@
     "wholesalePrice": 765.16,
     "extraPrice": 803.41,
     "retailPrice": 956.44
-  },
-  {
-    "id": "УТ000048289",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "ЗАМИОКУЛЬКАС ЗЕНЗИ 17 СМ",
-    "wholesalePrice": 1737.94,
-    "extraPrice": 1824.84,
-    "retailPrice": 2172.43
   },
   {
     "id": "УТ000048290",
