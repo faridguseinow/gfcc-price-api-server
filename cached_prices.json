@@ -6264,14 +6264,6 @@
     "retailPrice": 552.19
   },
   {
-    "id": "УТ000007182",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "КРАССУЛА 17 СМ",
-    "wholesalePrice": 1395,
-    "extraPrice": 1464.75,
-    "retailPrice": 1743.75
-  },
-  {
     "id": "УТ000007183",
     "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
     "name": "КРАССУЛА 29/50 СМ",
@@ -7179,17 +7171,17 @@
     "id": "УТ000008571",
     "category": "..РОЗА КЕНИЯ",
     "name": "СИЕРРА МИКС 40 см РОЗА Кения (SIERRA)",
-    "wholesalePrice": 33.33,
-    "extraPrice": 34.99,
-    "retailPrice": 41.66
+    "wholesalePrice": 34.88,
+    "extraPrice": 36.62,
+    "retailPrice": 43.59
   },
   {
     "id": "УТ000008572",
     "category": "..РОЗА КЕНИЯ",
     "name": "СИЕРРА МИКС 50 см РОЗА Кения (SIERRA)",
-    "wholesalePrice": 43.4,
-    "extraPrice": 45.57,
-    "retailPrice": 54.25
+    "wholesalePrice": 45.73,
+    "extraPrice": 48.01,
+    "retailPrice": 57.16
   },
   {
     "id": "УТ000008624",
@@ -16979,9 +16971,9 @@
     "id": "УТ000026642",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "МЭНСФИЛД ПАРК 50 см РОЗА Кен/Куст. (FLORA OLA)",
-    "wholesalePrice": 103.85,
-    "extraPrice": 109.04,
-    "retailPrice": 129.81
+    "wholesalePrice": 109.28,
+    "extraPrice": 114.74,
+    "retailPrice": 136.59
   },
   {
     "id": "УТ000026653",
@@ -23083,25 +23075,25 @@
     "id": "УТ000030963",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "БОМБАСТИК 60 см РОЗА Кен/Куст. (FLORA OLA)",
-    "wholesalePrice": 88.35,
-    "extraPrice": 92.77,
-    "retailPrice": 110.44
+    "wholesalePrice": 93,
+    "extraPrice": 97.65,
+    "retailPrice": 116.25
   },
   {
     "id": "УТ000030964",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "МАДАМ БОМБАСТИК 50 см РОЗА Кен/Куст. (FLORA OLA)",
-    "wholesalePrice": 80.6,
-    "extraPrice": 84.63,
-    "retailPrice": 100.75
+    "wholesalePrice": 84.48,
+    "extraPrice": 88.7,
+    "retailPrice": 105.59
   },
   {
     "id": "УТ000030965",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "МАДАМ БОМБАСТИК 60 см РОЗА Кен/Куст. (FLORA OLA)",
-    "wholesalePrice": 88.35,
-    "extraPrice": 92.77,
-    "retailPrice": 110.44
+    "wholesalePrice": 93,
+    "extraPrice": 97.65,
+    "retailPrice": 116.25
   },
   {
     "id": "УТ000030999",
@@ -24995,9 +24987,9 @@
     "id": "УТ000033764",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "СИЛВА ПИНК 50 см РОЗА Кен/Куст. (FLORAOLA)",
-    "wholesalePrice": 97.65,
-    "extraPrice": 102.53,
-    "retailPrice": 122.06
+    "wholesalePrice": 102.3,
+    "extraPrice": 107.42,
+    "retailPrice": 127.88
   },
   {
     "id": "УТ000033783",
@@ -27035,17 +27027,17 @@
     "id": "УТ000035209",
     "category": "..РОЗА КЕНИЯ",
     "name": "РОСЕТО МИКС 40 см РОЗА Кения (ROSETO)",
-    "wholesalePrice": 33.33,
-    "extraPrice": 34.99,
-    "retailPrice": 41.66
+    "wholesalePrice": 34.88,
+    "extraPrice": 36.62,
+    "retailPrice": 43.59
   },
   {
     "id": "УТ000035210",
     "category": "..РОЗА КЕНИЯ",
     "name": "РОСЕТО МИКС 50 см РОЗА Кения (ROSETO)",
-    "wholesalePrice": 43.4,
-    "extraPrice": 45.57,
-    "retailPrice": 54.25
+    "wholesalePrice": 45.73,
+    "extraPrice": 48.01,
+    "retailPrice": 57.16
   },
   {
     "id": "УТ000035255",
@@ -32411,33 +32403,33 @@
     "id": "УТ000039473",
     "category": ",Сортовой",
     "name": "РОСЕТО СОРТОВОЙ 40 см (ROSETO)",
-    "wholesalePrice": 33.33,
-    "extraPrice": 34.99,
-    "retailPrice": 41.66
+    "wholesalePrice": 34.88,
+    "extraPrice": 36.62,
+    "retailPrice": 43.59
   },
   {
     "id": "УТ000039474",
     "category": ",Сортовой",
     "name": "РОСЕТО СОРТОВОЙ 50 см (ROSETO)",
-    "wholesalePrice": 43.4,
-    "extraPrice": 45.57,
-    "retailPrice": 54.25
+    "wholesalePrice": 45.73,
+    "extraPrice": 48.01,
+    "retailPrice": 57.16
   },
   {
     "id": "УТ000039475",
     "category": ",Сортовой",
     "name": "СИЕРРА СОРТОВОЙ 40 см (SIERRA)",
-    "wholesalePrice": 33.33,
-    "extraPrice": 34.99,
-    "retailPrice": 41.66
+    "wholesalePrice": 34.88,
+    "extraPrice": 36.62,
+    "retailPrice": 43.59
   },
   {
     "id": "УТ000039476",
     "category": ",Сортовой",
     "name": "СИЕРРА СОРТОВОЙ 50 см (SIERRA)",
-    "wholesalePrice": 43.4,
-    "extraPrice": 45.57,
-    "retailPrice": 54.25
+    "wholesalePrice": 45.73,
+    "extraPrice": 48.01,
+    "retailPrice": 57.16
   },
   {
     "id": "УТ000039502",
@@ -37891,9 +37883,9 @@
     "id": "УТ000044039",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "ДЖУЛЬЕТТА 60 см РОЗА Кен/Куст.  (FLORA OLA)",
-    "wholesalePrice": 130.2,
-    "extraPrice": 136.71,
-    "retailPrice": 162.75
+    "wholesalePrice": 136.4,
+    "extraPrice": 143.22,
+    "retailPrice": 170.5
   },
   {
     "id": "УТ000044058",
@@ -40696,14 +40688,6 @@
     "retailPrice": 35.84
   },
   {
-    "id": "УТ000046100",
-    "category": "..ЦВЕТЫ КИТАЙ",
-    "name": "ГИПСОФИЛА КРАШ КИТАЙ ПАЧКА",
-    "wholesalePrice": 1162.5,
-    "extraPrice": 1220.63,
-    "retailPrice": 1453.13
-  },
-  {
     "id": "УТ000046101",
     "category": "..ЦВЕТЫ КИТАЙ",
     "name": "ЛИМОНИУМ КИТАЙ ПАЧКА",
@@ -40960,14 +40944,6 @@
     "retailPrice": 65.88
   },
   {
-    "id": "УТ000046416",
-    "category": "..ЦВЕТЫ КИТАЙ",
-    "name": "РУСКУС  КИТАЙ ПАЧКА",
-    "wholesalePrice": 147.15,
-    "extraPrice": 154.51,
-    "retailPrice": 183.94
-  },
-  {
     "id": "УТ000046417",
     "category": "..ЦВЕТЫ КИТАЙ",
     "name": "ЛИЛИЯ КИТАЙ ПАЧКА",
@@ -40990,38 +40966,6 @@
     "wholesalePrice": 826.93,
     "extraPrice": 868.27,
     "retailPrice": 1033.66
-  },
-  {
-    "id": "УТ000046420",
-    "category": "..ЦВЕТЫ КИТАЙ",
-    "name": "ГОРТЕНЗИЯ КИТАЙ",
-    "wholesalePrice": 492.13,
-    "extraPrice": 516.73,
-    "retailPrice": 615.16
-  },
-  {
-    "id": "УТ000046422",
-    "category": "..ЦВЕТЫ КИТАЙ",
-    "name": "ФИСТАШКА КИТАЙ ПАЧКА",
-    "wholesalePrice": 468.88,
-    "extraPrice": 492.32,
-    "retailPrice": 586.09
-  },
-  {
-    "id": "УТ000046427",
-    "category": "..ЦВЕТЫ КИТАЙ",
-    "name": ".ХРИЗ. ДЕКО КИТАЙ ПАЧКА",
-    "wholesalePrice": 671.15,
-    "extraPrice": 704.71,
-    "retailPrice": 838.94
-  },
-  {
-    "id": "УТ000046428",
-    "category": "..ЦВЕТЫ КИТАЙ",
-    "name": "ХРИЗАНТЕМА КУСТОВАЯ КИТАЙ ПАЧКА",
-    "wholesalePrice": 532.43,
-    "extraPrice": 559.05,
-    "retailPrice": 665.53
   },
   {
     "id": "УТ000046432",
@@ -42088,14 +42032,6 @@
     "retailPrice": 1259.38
   },
   {
-    "id": "УТ000047629",
-    "category": "..ЦВЕТЫ КИТАЙ",
-    "name": "ПОДСОЛНУХ КИТАЙ ПАЧКА",
-    "wholesalePrice": 930,
-    "extraPrice": 976.5,
-    "retailPrice": 1162.5
-  },
-  {
     "id": "УТ000047715",
     "category": "..РОЗА ЭКВАДОР",
     "name": "МАМА МИЯ -  50см",
@@ -42200,14 +42136,6 @@
     "retailPrice": 3100
   },
   {
-    "id": "УТ000047761",
-    "category": "..ЦВЕТЫ КИТАЙ",
-    "name": "АСПЛЕНИУМ 12 СМ КИТАЙ",
-    "wholesalePrice": 346.43,
-    "extraPrice": 363.75,
-    "retailPrice": 433.03
-  },
-  {
     "id": "УТ000047775",
     "category": "МЯГКАЯ ИГРУШКА",
     "name": "Мягкая игрушка № LK24-104",
@@ -42230,14 +42158,6 @@
     "wholesalePrice": 1627.5,
     "extraPrice": 1708.88,
     "retailPrice": 2034.38
-  },
-  {
-    "id": "УТ000047792",
-    "category": "..ЦВЕТЫ КИТАЙ",
-    "name": "МОЛЮЦЕЛЛА  КИТАЙ ПАЧКА",
-    "wholesalePrice": 747.1,
-    "extraPrice": 784.46,
-    "retailPrice": 933.88
   },
   {
     "id": "УТ000047797",
@@ -42358,22 +42278,6 @@
     "wholesalePrice": 930,
     "extraPrice": 976.5,
     "retailPrice": 1162.5
-  },
-  {
-    "id": "УТ000048157",
-    "category": "..ЦВЕТЫ КИТАЙ",
-    "name": "ТАНАЦЕТУМ КИТАЙ  ПАЧКА",
-    "wholesalePrice": 396.03,
-    "extraPrice": 415.83,
-    "retailPrice": 495.03
-  },
-  {
-    "id": "УТ000048162",
-    "category": "..ЦВЕТЫ КИТАЙ",
-    "name": "ОРНИТОГАЛУМ КИТАЙ ПАЧКА",
-    "wholesalePrice": 775,
-    "extraPrice": 813.75,
-    "retailPrice": 968.75
   },
   {
     "id": "УТ000048163",
@@ -44840,14 +44744,6 @@
     "retailPrice": 117.22
   },
   {
-    "id": "УТ000049954",
-    "category": "..ЦВЕТЫ КИТАЙ",
-    "name": "ХАМЕЛАЦИУМ КИТАЙ ПАЧКА",
-    "wholesalePrice": 542.5,
-    "extraPrice": 569.63,
-    "retailPrice": 678.13
-  },
-  {
     "id": "УТ000049958",
     "category": "СИЛИКОНОВЫЕ ЦВЕТЫ",
     "name": "МЕ-1283691",
@@ -44902,14 +44798,6 @@
     "wholesalePrice": 426.25,
     "extraPrice": 447.56,
     "retailPrice": 532.81
-  },
-  {
-    "id": "УТ000049985",
-    "category": "..ЦВЕТЫ КИТАЙ",
-    "name": "ОЗОТАМНУС КИТАЙ ПАЧКА",
-    "wholesalePrice": 632.4,
-    "extraPrice": 664.02,
-    "retailPrice": 790.5
   },
   {
     "id": "УТ000049986",
@@ -47390,14 +47278,6 @@
     "wholesalePrice": 110.19,
     "extraPrice": 115.7,
     "retailPrice": 137.74
-  },
-  {
-    "id": "УТ000051185",
-    "category": "..ЦВЕТЫ КИТАЙ",
-    "name": "ГЛАДИОЛУС КИТАЙ ПАЧКА",
-    "wholesalePrice": 800.58,
-    "extraPrice": 840.6,
-    "retailPrice": 1000.72
   },
   {
     "id": "УТ000051191",
@@ -52288,14 +52168,6 @@
     "retailPrice": 1745.69
   },
   {
-    "id": "УТ000053112",
-    "category": "..ЦВЕТЫ КИТАЙ",
-    "name": "ПАНИКУМ КИТАЙ ПАЧКА",
-    "wholesalePrice": 237.15,
-    "extraPrice": 249.01,
-    "retailPrice": 296.44
-  },
-  {
     "id": "УТ000053115",
     "category": ".УПАКОВКА",
     "name": "ПАКЕТ № 24430 ПАЧКА 10 ШТ",
@@ -53278,22 +53150,6 @@
     "wholesalePrice": 125.78,
     "extraPrice": 132.07,
     "retailPrice": 157.22
-  },
-  {
-    "id": "УТ000053286",
-    "category": "..ЦВЕТЫ КИТАЙ",
-    "name": "АКАЦИЯ КИТАЙ ПАЧКА",
-    "wholesalePrice": 651.78,
-    "extraPrice": 684.36,
-    "retailPrice": 814.72
-  },
-  {
-    "id": "УТ000053288",
-    "category": "..ЦВЕТЫ КИТАЙ",
-    "name": "СЕНЕКИО   КИТАЙ  ПАЧКА",
-    "wholesalePrice": 582.8,
-    "extraPrice": 611.94,
-    "retailPrice": 728.5
   },
   {
     "id": "УТ000053290",
@@ -56470,14 +56326,6 @@
     "wholesalePrice": 437.21,
     "extraPrice": 459.07,
     "retailPrice": 546.51
-  },
-  {
-    "id": "УТ000053968",
-    "category": "..ЦВЕТЫ КИТАЙ",
-    "name": "РАНУНКУЛЮС КИТАЙ ПАЧКА",
-    "wholesalePrice": 561.1,
-    "extraPrice": 589.16,
-    "retailPrice": 701.38
   },
   {
     "id": "УТ000053999",
