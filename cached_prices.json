@@ -29328,14 +29328,6 @@
     "retailPrice": 303.42
   },
   {
-    "id": "УТ000036467",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "ГУД МУД 50 см куст на воде",
-    "wholesalePrice": 119.81,
-    "extraPrice": 125.8,
-    "retailPrice": 149.77
-  },
-  {
     "id": "УТ000036471",
     "category": "ТАРА",
     "name": "БОЧОК ПОДСТАВКА ЗЕЛЁНЫЙ",
@@ -32219,6 +32211,14 @@
     "id": "УТ000038930",
     "category": ".УПАКОВКА",
     "name": "СУМКА № 4 ПАЧКА 10 ШТ",
+    "wholesalePrice": 214.73,
+    "extraPrice": 225.46,
+    "retailPrice": 268.41
+  },
+  {
+    "id": "УТ000038931",
+    "category": ".УПАКОВКА",
+    "name": "СУМКА № 5 ПАЧКА 10 ШТ",
     "wholesalePrice": 214.73,
     "extraPrice": 225.46,
     "retailPrice": 268.41
