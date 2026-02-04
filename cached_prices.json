@@ -2088,14 +2088,6 @@
     "retailPrice": 95.55
   },
   {
-    "id": "УТ000005006",
-    "category": "..,ЗЕЛЕНЬ",
-    "name": "НОБИЛИС",
-    "wholesalePrice": 1755,
-    "extraPrice": 1842.75,
-    "retailPrice": 2193.75
-  },
-  {
     "id": "УТ000005017",
     "category": "..,ЗЕЛЕНЬ",
     "name": "ПАПОРОТНИК",
@@ -11334,14 +11326,6 @@
     "wholesalePrice": 84.93,
     "extraPrice": 89.18,
     "retailPrice": 106.17
-  },
-  {
-    "id": "УТ000014776",
-    "category": "..ХРИЗАНТЕМА",
-    "name": "БАЛТИКА КРАШЕНАЯ",
-    "wholesalePrice": 96.9,
-    "extraPrice": 101.74,
-    "retailPrice": 121.12
   },
   {
     "id": "УТ000014777",
@@ -37072,6 +37056,14 @@
     "retailPrice": 106.17
   },
   {
+    "id": "УТ000041619",
+    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
+    "name": "ФЛИНДЕР ЛЕЙН 70 см куст на воде",
+    "wholesalePrice": 124.8,
+    "extraPrice": 131.04,
+    "retailPrice": 156
+  },
+  {
     "id": "УТ000041620",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "ХОЛИ 50 см куст на воде",
@@ -38710,14 +38702,6 @@
     "wholesalePrice": 258.18,
     "extraPrice": 271.09,
     "retailPrice": 322.73
-  },
-  {
-    "id": "УТ000043597",
-    "category": "..,РАЗНОЕ",
-    "name": "ИРИС ПОДМОСКОВЬЕ",
-    "wholesalePrice": 37.44,
-    "extraPrice": 39.31,
-    "retailPrice": 46.8
   },
   {
     "id": "УТ000043598",
@@ -59502,14 +59486,6 @@
     "wholesalePrice": 58.38,
     "extraPrice": 61.3,
     "retailPrice": 72.98
-  },
-  {
-    "id": "УТ000054590",
-    "category": ".КОМНАТНЫЕ РАСТЕНИЯ",
-    "name": "ФИКУС ЭЛАСТИКА НА СТВОЛЕ 30/160 СМ",
-    "wholesalePrice": 14430,
-    "extraPrice": 15151.5,
-    "retailPrice": 18037.5
   },
   {
     "id": "УТ000054591",
