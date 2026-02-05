@@ -35760,14 +35760,6 @@
     "retailPrice": 164.44
   },
   {
-    "id": "УТ000040535",
-    "category": "МЯГКАЯ ИГРУШКА",
-    "name": "Мягкая игрушка № 2336/20",
-    "wholesalePrice": 709.47,
-    "extraPrice": 744.94,
-    "retailPrice": 886.84
-  },
-  {
     "id": "УТ000040536",
     "category": "МЯГКАЯ ИГРУШКА",
     "name": "Мягкая игрушка № 2301-175/32",
@@ -36123,9 +36115,9 @@
     "id": "УТ000040758",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЧЕХОВСКИЙ САД КУСТОВАЯ  70 см",
-    "wholesalePrice": 181.76,
-    "extraPrice": 190.85,
-    "retailPrice": 227.2
+    "wholesalePrice": 182,
+    "extraPrice": 191.1,
+    "retailPrice": 227.5
   },
   {
     "id": "УТ000040760",
@@ -36987,9 +36979,9 @@
     "id": "УТ000041189",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЧЕХОВСКИЙ САД КУСТОВАЯ  80 см",
-    "wholesalePrice": 204.97,
-    "extraPrice": 215.21,
-    "retailPrice": 256.21
+    "wholesalePrice": 182,
+    "extraPrice": 191.1,
+    "retailPrice": 227.5
   },
   {
     "id": "УТ000041193",
@@ -41907,9 +41899,9 @@
     "id": "УТ000045471",
     "category": "..РОЗА КЕНИЯ",
     "name": "МИКС 40 см РОЗА Кения (MERIDIAN)",
-    "wholesalePrice": 30.88,
-    "extraPrice": 32.42,
-    "retailPrice": 38.6
+    "wholesalePrice": 32.42,
+    "extraPrice": 34.05,
+    "retailPrice": 40.53
   },
   {
     "id": "УТ000045513",
@@ -42331,9 +42323,9 @@
     "id": "УТ000045783",
     "category": "..РОЗА КЕНИЯ",
     "name": "МИКС 50 см РОЗА Кения (MERIDIAN)",
-    "wholesalePrice": 36.28,
-    "extraPrice": 38.1,
-    "retailPrice": 45.36
+    "wholesalePrice": 37.83,
+    "extraPrice": 39.72,
+    "retailPrice": 47.29
   },
   {
     "id": "УТ000045786",
@@ -42403,17 +42395,17 @@
     "id": "УТ000045904",
     "category": "..РОЗА КЕНИЯ",
     "name": "МАДАМ РЕД 50 см РОЗА Кения (MERIDIAN)",
-    "wholesalePrice": 39.37,
-    "extraPrice": 41.34,
-    "retailPrice": 49.22
+    "wholesalePrice": 40.92,
+    "extraPrice": 42.96,
+    "retailPrice": 51.15
   },
   {
     "id": "УТ000045905",
     "category": "..РОЗА КЕНИЯ",
     "name": "ДЖУМИЛИЯ 50 см РОЗА Кения (MERIDIAN)",
-    "wholesalePrice": 47.86,
-    "extraPrice": 50.26,
-    "retailPrice": 59.83
+    "wholesalePrice": 49.41,
+    "extraPrice": 51.88,
+    "retailPrice": 61.76
   },
   {
     "id": "УТ000045918",
@@ -42427,9 +42419,9 @@
     "id": "УТ000045941",
     "category": "..РОЗА КЕНИЯ",
     "name": "МАДАМ РЕД 40 см РОЗА Кения (MERIDIAN)",
-    "wholesalePrice": 31.65,
-    "extraPrice": 33.23,
-    "retailPrice": 39.57
+    "wholesalePrice": 33.2,
+    "extraPrice": 34.86,
+    "retailPrice": 41.5
   },
   {
     "id": "УТ000045951",
@@ -42523,17 +42515,17 @@
     "id": "УТ000046053",
     "category": ",Сортовой",
     "name": "МЕРИДИАН СОРТОВОЙ 50 см РОЗА Кения (MERIDIAN)",
-    "wholesalePrice": 36.28,
-    "extraPrice": 38.1,
-    "retailPrice": 45.36
+    "wholesalePrice": 37.83,
+    "extraPrice": 39.72,
+    "retailPrice": 47.29
   },
   {
     "id": "УТ000046057",
     "category": ",Сортовой",
     "name": "МЕРИДИАН СОРТОВОЙ 40 см РОЗА Кения (MERIDIAN)",
-    "wholesalePrice": 30.88,
-    "extraPrice": 32.42,
-    "retailPrice": 38.6
+    "wholesalePrice": 32.42,
+    "extraPrice": 34.05,
+    "retailPrice": 40.53
   },
   {
     "id": "УТ000046096",
@@ -53560,14 +53552,6 @@
     "retailPrice": 60.8
   },
   {
-    "id": "УТ000052543",
-    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
-    "name": "РЕД ЛЕЙС 50 см РОЗА Кен/Куст. (WARIDI)",
-    "wholesalePrice": 74.11,
-    "extraPrice": 77.82,
-    "retailPrice": 92.64
-  },
-  {
     "id": "УТ000052544",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "РЕД ЛЕЙС 60 см РОЗА Кен/Куст. (WARIDI)",
@@ -59635,9 +59619,9 @@
     "id": "УТ000054565",
     "category": "..РОЗА КЕНИЯ",
     "name": "МАДАМ РЕД 60 см РОЗА Кения (MERIDIAN)",
-    "wholesalePrice": 48.64,
-    "extraPrice": 51.07,
-    "retailPrice": 60.8
+    "wholesalePrice": 50.18,
+    "extraPrice": 52.69,
+    "retailPrice": 62.73
   },
   {
     "id": "УТ000054566",
@@ -59918,6 +59902,14 @@
     "wholesalePrice": 53.27,
     "extraPrice": 55.93,
     "retailPrice": 66.59
+  },
+  {
+    "id": "УТ000054622",
+    "category": "..РОЗА КЕНИЯ",
+    "name": "РЕД БЕНТЛИ 60 см РОЗА Кения (MERIDIAN)",
+    "wholesalePrice": 57.9,
+    "extraPrice": 60.8,
+    "retailPrice": 72.38
   },
   {
     "id": "УТ000054626",
