@@ -12592,14 +12592,6 @@
     "retailPrice": 202
   },
   {
-    "id": "УТ000017451",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "КАХАЛА (ТЕССА)- 80см",
-    "wholesalePrice": 176.04,
-    "extraPrice": 184.85,
-    "retailPrice": 220.06
-  },
-  {
     "id": "УТ000017452",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ШИММЕР (ТЕССА)-70 см",
@@ -15934,14 +15926,6 @@
     "wholesalePrice": 228.36,
     "extraPrice": 239.78,
     "retailPrice": 285.45
-  },
-  {
-    "id": "УТ000024225",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "МАМА МИА  ТЮЛЬПАН дубл.",
-    "wholesalePrice": 58.16,
-    "extraPrice": 61.07,
-    "retailPrice": 72.7
   },
   {
     "id": "УТ000024230",
@@ -38480,14 +38464,6 @@
     "retailPrice": 360.33
   },
   {
-    "id": "УТ000043061",
-    "category": "..РОЗА КЕНИЯ",
-    "name": "АЛЬБАТРОС 60 см РОЗА Кения (UHURU)",
-    "wholesalePrice": 83.92,
-    "extraPrice": 88.11,
-    "retailPrice": 104.9
-  },
-  {
     "id": "УТ000043062",
     "category": "..РОЗА КЕНИЯ",
     "name": "АЛЬБАТРОС 50 см РОЗА Кения (UHURU)",
@@ -42056,14 +42032,6 @@
     "retailPrice": 155.4
   },
   {
-    "id": "УТ000045595",
-    "category": "..РОЗА КЕНИЯ",
-    "name": "АФИНА 40 см РОЗА Кения (BARAKA)",
-    "wholesalePrice": 35.74,
-    "extraPrice": 37.53,
-    "retailPrice": 44.68
-  },
-  {
     "id": "УТ000045613",
     "category": "..,ЛИЛИЯ",
     "name": "ЛИЛИЯ ОР ДУ ОЛИМПИЯ",
@@ -44318,6 +44286,14 @@
     "wholesalePrice": 132.09,
     "extraPrice": 138.69,
     "retailPrice": 165.11
+  },
+  {
+    "id": "УТ000048009",
+    "category": ",Сортовой",
+    "name": "ГРООВЕ 70 см СОРТОВОЙ РОЗА Кен/Куст. (GROOVE)",
+    "wholesalePrice": 159.29,
+    "extraPrice": 167.25,
+    "retailPrice": 199.11
   },
   {
     "id": "УТ000048014",
@@ -49531,9 +49507,9 @@
     "id": "УТ000051145",
     "category": ".УПАКОВКА",
     "name": "ЯЩИК № 501",
-    "wholesalePrice": 243.98,
-    "extraPrice": 256.18,
-    "retailPrice": 304.97
+    "wholesalePrice": 251.75,
+    "extraPrice": 264.34,
+    "retailPrice": 314.69
   },
   {
     "id": "УТ000051146",
@@ -50211,9 +50187,9 @@
     "id": "УТ000051575",
     "category": ".УПАКОВКА",
     "name": "ТОППЕР ПАЧКА 5 ШТ",
-    "wholesalePrice": 108.78,
-    "extraPrice": 114.22,
-    "retailPrice": 135.98
+    "wholesalePrice": 104.9,
+    "extraPrice": 110.14,
+    "retailPrice": 131.12
   },
   {
     "id": "УТ000051576",
@@ -54606,6 +54582,14 @@
     "wholesalePrice": 421.91,
     "extraPrice": 443.01,
     "retailPrice": 527.39
+  },
+  {
+    "id": "УТ000053131",
+    "category": ".УПАКОВКА",
+    "name": "ЯЩИК № 535",
+    "wholesalePrice": 251.75,
+    "extraPrice": 264.34,
+    "retailPrice": 314.69
   },
   {
     "id": "УТ000053138",
@@ -59291,17 +59275,17 @@
     "id": "УТ000054362",
     "category": ".УПАКОВКА",
     "name": "ЯЩИК № 530",
-    "wholesalePrice": 203.57,
-    "extraPrice": 213.75,
-    "retailPrice": 254.47
+    "wholesalePrice": 209.79,
+    "extraPrice": 220.28,
+    "retailPrice": 262.24
   },
   {
     "id": "УТ000054363",
     "category": ".УПАКОВКА",
     "name": "ЯЩИК № 531",
-    "wholesalePrice": 256.41,
-    "extraPrice": 269.23,
-    "retailPrice": 320.51
+    "wholesalePrice": 251.75,
+    "extraPrice": 264.34,
+    "retailPrice": 314.69
   },
   {
     "id": "УТ000054365",
@@ -59310,6 +59294,14 @@
     "wholesalePrice": 194.25,
     "extraPrice": 203.96,
     "retailPrice": 242.81
+  },
+  {
+    "id": "УТ000054366",
+    "category": ".УПАКОВКА",
+    "name": "ЯЩИК № 534",
+    "wholesalePrice": 223.78,
+    "extraPrice": 234.96,
+    "retailPrice": 279.72
   },
   {
     "id": "УТ000054368",
@@ -59814,14 +59806,6 @@
     "wholesalePrice": 386.95,
     "extraPrice": 406.29,
     "retailPrice": 483.68
-  },
-  {
-    "id": "УТ000054565",
-    "category": "..РОЗА КЕНИЯ",
-    "name": "МАДАМ РЕД 60 см РОЗА Кения (MERIDIAN)",
-    "wholesalePrice": 50.51,
-    "extraPrice": 53.03,
-    "retailPrice": 63.13
   },
   {
     "id": "УТ000054566",
@@ -60358,5 +60342,13 @@
     "wholesalePrice": 1303.03,
     "extraPrice": 1368.18,
     "retailPrice": 1628.79
+  },
+  {
+    "id": "УТ000054725",
+    "category": ".УПАКОВКА",
+    "name": "ЯЩИК № 539",
+    "wholesalePrice": 223.78,
+    "extraPrice": 234.96,
+    "retailPrice": 279.72
   }
 ]
