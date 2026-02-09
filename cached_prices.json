@@ -7016,14 +7016,6 @@
     "retailPrice": 459.4
   },
   {
-    "id": "УТ000008179",
-    "category": "МЯГКАЯ ИГРУШКА",
-    "name": "Мягкая игрушка № OS065/15F",
-    "wholesalePrice": 602.95,
-    "extraPrice": 633.1,
-    "retailPrice": 753.69
-  },
-  {
     "id": "УТ000008181",
     "category": "МЯГКАЯ ИГРУШКА",
     "name": "Мягкая игрушка № OS065/20C",
@@ -30400,6 +30392,14 @@
     "retailPrice": 240.08
   },
   {
+    "id": "УТ000037130",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "ВИ-ПИНК- 60см (СТАР,КОРОЗОН,МАТИЗ,ЭКО РОЗ,БЕЛЛА РОЗА,ЧАРМИНГ,СОФИ,ДАВИНЧИ.РОЯЛ)",
+    "wholesalePrice": 142.02,
+    "extraPrice": 149.12,
+    "retailPrice": 177.53
+  },
+  {
     "id": "УТ000037131",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ВИ-ПИНК- 70см (СТАР,КОРОЗОН,МАТИЗ,ЭКО РОЗ,БЕЛЛА РОЗА,ЧАРМИНГ,СОФИ,ДАВИНЧИ.РОЯЛ)",
@@ -33914,7 +33914,7 @@
   {
     "id": "УТ000039626",
     "category": "..РОЗА ЭКВАДОР",
-    "name": "3Д - 70см ANNI ROSES.LRA.QLS.ATC.SPPH.ALLGF.EVR.RLH.TURS.GWFW.VDS.RDF.FDS 2.CNV.MON",
+    "name": "3Д - 70см (ANNI ROSES,ALLEGRIA,QUALISA,ALTAS,SAPFIR,ALLEGRO,EVERY BLOOM,RED LINE,TU ROSES,MILLION,VALDESOL,KING,FLEURANDES,CANENVALLE,MONTEROSES)",
     "wholesalePrice": 109.53,
     "extraPrice": 115,
     "retailPrice": 136.91
@@ -42790,6 +42790,14 @@
     "wholesalePrice": 56.72,
     "extraPrice": 59.56,
     "retailPrice": 70.9
+  },
+  {
+    "id": "УТ000046417",
+    "category": "..ЦВЕТЫ КИТАЙ",
+    "name": "ЛИЛИЯ КИТАЙ ПАЧКА",
+    "wholesalePrice": 1752.14,
+    "extraPrice": 1839.74,
+    "retailPrice": 2190.17
   },
   {
     "id": "УТ000046418",
