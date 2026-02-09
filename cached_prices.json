@@ -25784,6 +25784,14 @@
     "retailPrice": 123.57
   },
   {
+    "id": "УТ000033352",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "СВАН -  70см",
+    "wholesalePrice": 117.66,
+    "extraPrice": 123.54,
+    "retailPrice": 147.07
+  },
+  {
     "id": "УТ000033373",
     "category": "КОРЗИНА",
     "name": "Корзина - 8267503",
@@ -42462,6 +42470,14 @@
     "wholesalePrice": 468,
     "extraPrice": 491.4,
     "retailPrice": 585
+  },
+  {
+    "id": "УТ000046105",
+    "category": "..ЦВЕТЫ КИТАЙ",
+    "name": "ЛИЗИАНТУС КИТАЙ ПАЧКА",
+    "wholesalePrice": 1053,
+    "extraPrice": 1105.65,
+    "retailPrice": 1316.25
   },
   {
     "id": "УТ000046106",
@@ -60126,5 +60142,13 @@
     "wholesalePrice": 90.03,
     "extraPrice": 94.53,
     "retailPrice": 112.53
+  },
+  {
+    "id": "УТ000054747",
+    "category": ".УПАКОВКА",
+    "name": "КИРПИЧ АСПАК (КОРОБКА-20 ШТ)",
+    "wholesalePrice": 1131,
+    "extraPrice": 1187.55,
+    "retailPrice": 1413.75
   }
 ]
