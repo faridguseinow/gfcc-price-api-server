@@ -41736,14 +41736,6 @@
     "retailPrice": 1224.22
   },
   {
-    "id": "УТ000045423",
-    "category": "..РОЗА КЕНИЯ",
-    "name": "РЕВИВАЛЬ 50 см РОЗА Кения (BARAKA)",
-    "wholesalePrice": 50.77,
-    "extraPrice": 53.3,
-    "retailPrice": 63.46
-  },
-  {
     "id": "УТ000045425",
     "category": "КОРЗИНА",
     "name": "Корзина - N055904",
@@ -60198,5 +60190,13 @@
     "wholesalePrice": 828.64,
     "extraPrice": 870.07,
     "retailPrice": 1035.8
+  },
+  {
+    "id": "УТ000054766",
+    "category": "..,РАЗНОЕ",
+    "name": "МАГНОЛИЯ 160 СМ",
+    "wholesalePrice": 570.13,
+    "extraPrice": 598.64,
+    "retailPrice": 712.66
   }
 ]
