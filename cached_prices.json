@@ -8968,14 +8968,6 @@
     "retailPrice": 155.8
   },
   {
-    "id": "УТ000010535",
-    "category": "..,РАЗНОЕ",
-    "name": "ПРОТЕЯ  БЕЛАЯ",
-    "wholesalePrice": 1480.1,
-    "extraPrice": 1554.11,
-    "retailPrice": 1850.13
-  },
-  {
     "id": "УТ000010536",
     "category": "..,РАЗНОЕ",
     "name": "ПРОТЕЯ  БУКЕТ",
@@ -12742,14 +12734,6 @@
     "wholesalePrice": 70.11,
     "extraPrice": 73.62,
     "retailPrice": 87.64
-  },
-  {
-    "id": "УТ000017746",
-    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
-    "name": "ХЭППИ ЧАППИ 60 см РОЗА Кен/Куст. (RLR)",
-    "wholesalePrice": 193.19,
-    "extraPrice": 202.85,
-    "retailPrice": 241.49
   },
   {
     "id": "УТ000017756",
@@ -30832,14 +30816,6 @@
     "retailPrice": 121.76
   },
   {
-    "id": "УТ000037578",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "НИНА (РОЗАПРИМА)-70см",
-    "wholesalePrice": 111.19,
-    "extraPrice": 116.75,
-    "retailPrice": 138.98
-  },
-  {
     "id": "УТ000037583",
     "category": "..РОЗА ЭКВАДОР",
     "name": "НОВИА (РОЗАПРИМА)-60см",
@@ -32150,6 +32126,14 @@
     "wholesalePrice": 140.22,
     "extraPrice": 147.23,
     "retailPrice": 175.28
+  },
+  {
+    "id": "УТ000038688",
+    "category": "..,РАЗНОЕ",
+    "name": "КАЛЛА  РОЗОВАЯ 40 СМ",
+    "wholesalePrice": 70.11,
+    "extraPrice": 73.62,
+    "retailPrice": 87.64
   },
   {
     "id": "УТ000038689",
@@ -33870,6 +33854,14 @@
     "wholesalePrice": 102.3,
     "extraPrice": 107.41,
     "retailPrice": 127.87
+  },
+  {
+    "id": "УТ000039589",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "ЭКВ.МИКС (КОРОБКА) 70 СМ (СТАР,КОРОЗОН,МАТИЗ,ЭКО РОЗ,БЕЛЛА РОЗА,ЧАРМИНГ,СОФИ,ДАВИНЧИ.РОЯЛ)",
+    "wholesalePrice": 114.86,
+    "extraPrice": 120.61,
+    "retailPrice": 143.58
   },
   {
     "id": "УТ000039593",
@@ -38990,6 +38982,14 @@
     "wholesalePrice": 257.85,
     "extraPrice": 270.74,
     "retailPrice": 322.31
+  },
+  {
+    "id": "УТ000043590",
+    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
+    "name": "СТРЕЛИЦИЯ 24/150 СМ",
+    "wholesalePrice": 7175.37,
+    "extraPrice": 7534.14,
+    "retailPrice": 8969.21
   },
   {
     "id": "УТ000043597",
@@ -59838,6 +59838,14 @@
     "wholesalePrice": 321.73,
     "extraPrice": 337.81,
     "retailPrice": 402.16
+  },
+  {
+    "id": "УТ000054592",
+    "category": "..,РАЗНОЕ",
+    "name": "МАГНОЛИЯ 150 СМ",
+    "wholesalePrice": 295.24,
+    "extraPrice": 310,
+    "retailPrice": 369.05
   },
   {
     "id": "УТ000054603",
