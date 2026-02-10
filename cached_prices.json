@@ -7104,14 +7104,6 @@
     "retailPrice": 2629.13
   },
   {
-    "id": "УТ000008495",
-    "category": "..РОЗА КЕНИЯ",
-    "name": "ПЕНТА 35 см РОЗА Кения (PENTA)",
-    "wholesalePrice": 22.59,
-    "extraPrice": 23.72,
-    "retailPrice": 28.24
-  },
-  {
     "id": "УТ000008496",
     "category": "..РОЗА КЕНИЯ",
     "name": "ПЕНТА 40 см РОЗА Кения (PENTA)",
@@ -15646,6 +15638,14 @@
     "wholesalePrice": 911.43,
     "extraPrice": 957,
     "retailPrice": 1139.29
+  },
+  {
+    "id": "УТ000023601",
+    "category": "..,РАЗНОЕ",
+    "name": "ФРЕЗИЯ БЕЛАЯ",
+    "wholesalePrice": 80.24,
+    "extraPrice": 84.25,
+    "retailPrice": 100.3
   },
   {
     "id": "УТ000023610",
@@ -46382,14 +46382,6 @@
     "wholesalePrice": 116.85,
     "extraPrice": 122.69,
     "retailPrice": 146.06
-  },
-  {
-    "id": "УТ000049343",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "АНГЕЛС ШЕР  ТЮЛЬПАН энкл.",
-    "wholesalePrice": 53.75,
-    "extraPrice": 56.44,
-    "retailPrice": 67.19
   },
   {
     "id": "УТ000049346",
