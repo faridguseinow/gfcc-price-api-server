@@ -200,14 +200,6 @@
     "retailPrice": 2535
   },
   {
-    "id": "УТ000002601",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "АКАЦИЯ 15 СМ",
-    "wholesalePrice": 1755,
-    "extraPrice": 1842.75,
-    "retailPrice": 2193.75
-  },
-  {
     "id": "УТ000002607",
     "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
     "name": "АЛОКАЗИЯ ПОЛЛИ 12 СМ",
@@ -3078,6 +3070,14 @@
     "wholesalePrice": 139.62,
     "extraPrice": 146.6,
     "retailPrice": 174.53
+  },
+  {
+    "id": "УТ000005712",
+    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
+    "name": "ФАБИОЛА 60 см РОЗА Кен/Куст. (RLR)",
+    "wholesalePrice": 172.38,
+    "extraPrice": 181,
+    "retailPrice": 215.48
   },
   {
     "id": "УТ000005713",
@@ -9792,6 +9792,14 @@
     "retailPrice": 156
   },
   {
+    "id": "УТ000011753",
+    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
+    "name": "СМЭШИНГ 50 см куст на воде",
+    "wholesalePrice": 78,
+    "extraPrice": 81.9,
+    "retailPrice": 97.5
+  },
+  {
     "id": "УТ000011754",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "СМЭШИНГ 60 см куст на воде",
@@ -11150,14 +11158,6 @@
     "wholesalePrice": 245.7,
     "extraPrice": 257.99,
     "retailPrice": 307.13
-  },
-  {
-    "id": "УТ000014713",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "ХЕДЕРА  9 СМ",
-    "wholesalePrice": 152.1,
-    "extraPrice": 159.71,
-    "retailPrice": 190.13
   },
   {
     "id": "УТ000014714",
