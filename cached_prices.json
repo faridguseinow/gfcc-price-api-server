@@ -464,14 +464,6 @@
     "retailPrice": 312.98
   },
   {
-    "id": "УТ000003032",
-    "category": ".УПАКОВКА",
-    "name": "БУМАГА КРАФТ 3 КГ РОССИЯ",
-    "wholesalePrice": 702,
-    "extraPrice": 737.1,
-    "retailPrice": 877.5
-  },
-  {
     "id": "УТ000003037",
     "category": ".УПАКОВКА",
     "name": "ПЛЕНКА МАТОВАЯ",
@@ -13502,14 +13494,6 @@
     "wholesalePrice": 124.48,
     "extraPrice": 130.7,
     "retailPrice": 155.6
-  },
-  {
-    "id": "УТ000018853",
-    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
-    "name": "НЮ СТАР 50 см РОЗА Кен/Куст. (RLR)",
-    "wholesalePrice": 133.38,
-    "extraPrice": 140.05,
-    "retailPrice": 166.73
   },
   {
     "id": "УТ000018869",
@@ -27768,6 +27752,14 @@
     "retailPrice": 1275.3
   },
   {
+    "id": "УТ000034806",
+    "category": ".УПАКОВКА",
+    "name": "ПАКЕТ № 076 ПАЧКА 10 ШТ",
+    "wholesalePrice": 390,
+    "extraPrice": 409.5,
+    "retailPrice": 487.5
+  },
+  {
     "id": "УТ000034809",
     "category": ".УПАКОВКА",
     "name": "ПАКЕТ № 12119 ПАЧКА 10 ШТ",
@@ -31888,6 +31880,14 @@
     "retailPrice": 97.5
   },
   {
+    "id": "УТ000038680",
+    "category": "..,РАЗНОЕ",
+    "name": "ГИПЕРИКУМ 60 СМ КРАСНЫЙ",
+    "wholesalePrice": 132.6,
+    "extraPrice": 139.23,
+    "retailPrice": 165.75
+  },
+  {
     "id": "УТ000038681",
     "category": "..,РАЗНОЕ",
     "name": "ГИПЕРИКУМ 50 СМ КРАСНЫЙ",
@@ -32110,14 +32110,6 @@
     "wholesalePrice": 114.66,
     "extraPrice": 120.39,
     "retailPrice": 143.33
-  },
-  {
-    "id": "УТ000038744",
-    "category": "..,РАЗНОЕ",
-    "name": "ПРОТЕЯ КРАСНАЯ",
-    "wholesalePrice": 709.8,
-    "extraPrice": 745.29,
-    "retailPrice": 887.25
   },
   {
     "id": "УТ000038745",
@@ -38678,6 +38670,14 @@
     "wholesalePrice": 7184.58,
     "extraPrice": 7543.81,
     "retailPrice": 8980.73
+  },
+  {
+    "id": "УТ000043597",
+    "category": "..,РАЗНОЕ",
+    "name": "ИРИС ПОДМОСКОВЬЕ",
+    "wholesalePrice": 40.56,
+    "extraPrice": 42.59,
+    "retailPrice": 50.7
   },
   {
     "id": "УТ000043598",
