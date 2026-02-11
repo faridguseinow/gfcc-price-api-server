@@ -7208,14 +7208,6 @@
     "retailPrice": 55.5
   },
   {
-    "id": "УТ000008545",
-    "category": "..РОЗА КЕНИЯ",
-    "name": "МИКС 40 см РОЗА Кения (SUBATI)",
-    "wholesalePrice": 51.41,
-    "extraPrice": 53.98,
-    "retailPrice": 64.27
-  },
-  {
     "id": "УТ000008550",
     "category": "..РОЗА КЕНИЯ",
     "name": "МИКС 50 см РОЗА Кения (LAUREL)",
@@ -7710,6 +7702,14 @@
     "wholesalePrice": 70.11,
     "extraPrice": 73.62,
     "retailPrice": 87.64
+  },
+  {
+    "id": "УТ000009477",
+    "category": "..РОЗА КЕНИЯ",
+    "name": "ЭКСПЛОРЕР 60 см РОЗА Кения (SUBATI)",
+    "wholesalePrice": 87.25,
+    "extraPrice": 91.61,
+    "retailPrice": 109.06
   },
   {
     "id": "УТ000009504",
@@ -25870,6 +25870,14 @@
     "wholesalePrice": 172.16,
     "extraPrice": 180.77,
     "retailPrice": 215.2
+  },
+  {
+    "id": "УТ000033427",
+    "category": "..РОЗА КЕНИЯ",
+    "name": "ДЖУМИЛИЯ 50 см РОЗА Кения (HERITAGE)",
+    "wholesalePrice": 51.41,
+    "extraPrice": 53.98,
+    "retailPrice": 64.27
   },
   {
     "id": "УТ000033456",
@@ -49678,6 +49686,14 @@
     "wholesalePrice": 226.69,
     "extraPrice": 238.02,
     "retailPrice": 283.36
+  },
+  {
+    "id": "УТ000051231",
+    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
+    "name": "МЭНСФИЛД ПАРК 50 см РОЗА Кен/Куст. (RLR)",
+    "wholesalePrice": 184.62,
+    "extraPrice": 193.85,
+    "retailPrice": 230.78
   },
   {
     "id": "УТ000051234",
