@@ -128,14 +128,6 @@
     "retailPrice": 192.41
   },
   {
-    "id": "УТ000002540",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "АГЛАОНЕМА 12 СМ",
-    "wholesalePrice": 1029.53,
-    "extraPrice": 1081,
-    "retailPrice": 1286.91
-  },
-  {
     "id": "УТ000002542",
     "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
     "name": "АГЛАОНЕМА 14 СМ",
@@ -20230,6 +20222,14 @@
     "wholesalePrice": 70.46,
     "extraPrice": 73.98,
     "retailPrice": 88.07
+  },
+  {
+    "id": "УТ000028817",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "ДИП ПЕРПЛ-   60см",
+    "wholesalePrice": 84.37,
+    "extraPrice": 88.59,
+    "retailPrice": 105.47
   },
   {
     "id": "УТ000028818",
@@ -48790,6 +48790,14 @@
     "wholesalePrice": 60.12,
     "extraPrice": 63.13,
     "retailPrice": 75.16
+  },
+  {
+    "id": "УТ000051047",
+    "category": "..ХРИЗАНТЕМА",
+    "name": "САНТИНИ PIZARRO",
+    "wholesalePrice": 77.7,
+    "extraPrice": 81.59,
+    "retailPrice": 97.13
   },
   {
     "id": "УТ000051048",
