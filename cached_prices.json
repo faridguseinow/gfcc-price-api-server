@@ -2376,14 +2376,6 @@
     "retailPrice": 214.65
   },
   {
-    "id": "УТ000005242",
-    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
-    "name": "БОМБАСТИК 50 см РОЗА Кен/Куст. (SUBATI)",
-    "wholesalePrice": 104.9,
-    "extraPrice": 110.14,
-    "retailPrice": 131.12
-  },
-  {
     "id": "УТ000005245",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "БОМБАСТИК 60 см РОЗА Кен/Куст. (SUBATI)",
@@ -9894,6 +9886,14 @@
     "wholesalePrice": 256.41,
     "extraPrice": 269.23,
     "retailPrice": 320.51
+  },
+  {
+    "id": "УТ000013484",
+    "category": ".УПАКОВКА",
+    "name": "РОЛИК ПРОЗРАЧНЫЙ 400 ГР",
+    "wholesalePrice": 108.78,
+    "extraPrice": 114.22,
+    "retailPrice": 135.98
   },
   {
     "id": "УТ000013490",
@@ -56534,6 +56534,14 @@
     "wholesalePrice": 169.46,
     "extraPrice": 177.93,
     "retailPrice": 211.82
+  },
+  {
+    "id": "УТ000053547",
+    "category": ".УПАКОВКА",
+    "name": "РОЛИК ТОНИРОВКА МАТОВЫЙ 400 ГР",
+    "wholesalePrice": 116.55,
+    "extraPrice": 122.38,
+    "retailPrice": 145.69
   },
   {
     "id": "УТ000053578",
