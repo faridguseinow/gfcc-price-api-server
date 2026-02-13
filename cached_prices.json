@@ -8984,6 +8984,14 @@
     "retailPrice": 37.05
   },
   {
+    "id": "УТ000010579",
+    "category": "..,РАЗНОЕ",
+    "name": "СИРЕНЬ БОЛЬШОЙ",
+    "wholesalePrice": 441.48,
+    "extraPrice": 463.55,
+    "retailPrice": 551.85
+  },
+  {
     "id": "УТ000010582",
     "category": "..,РАЗНОЕ",
     "name": "СКАБИОЗА",
@@ -25262,14 +25270,6 @@
     "wholesalePrice": 96.41,
     "extraPrice": 101.23,
     "retailPrice": 120.51
-  },
-  {
-    "id": "УТ000033133",
-    "category": "..ХРИЗАНТЕМА",
-    "name": "САНТИНИ КРАШЕНЫЙ",
-    "wholesalePrice": 70.28,
-    "extraPrice": 73.79,
-    "retailPrice": 87.85
   },
   {
     "id": "УТ000033136",
@@ -48590,6 +48590,22 @@
     "wholesalePrice": 799.98,
     "extraPrice": 839.98,
     "retailPrice": 999.98
+  },
+  {
+    "id": "УТ000051047",
+    "category": "..ХРИЗАНТЕМА",
+    "name": "САНТИНИ PIZARRO",
+    "wholesalePrice": 78,
+    "extraPrice": 81.9,
+    "retailPrice": 97.5
+  },
+  {
+    "id": "УТ000051048",
+    "category": "..ХРИЗАНТЕМА",
+    "name": "САНТИНИ MAD LINDI WHITE",
+    "wholesalePrice": 63.18,
+    "extraPrice": 66.34,
+    "retailPrice": 78.98
   },
   {
     "id": "УТ000051073",
