@@ -2600,14 +2600,6 @@
     "retailPrice": 214.65
   },
   {
-    "id": "УТ000005352",
-    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
-    "name": "ЛЕДИ БОМБАСТИК  50 см РОЗА Кен/Куст. (SUBATI)",
-    "wholesalePrice": 104.9,
-    "extraPrice": 110.14,
-    "retailPrice": 131.12
-  },
-  {
     "id": "УТ000005377",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "ЛИРИКА 50 см РОЗА Кен/Куст. (RLR)",
@@ -2678,14 +2670,6 @@
     "wholesalePrice": 212.12,
     "extraPrice": 222.73,
     "retailPrice": 265.15
-  },
-  {
-    "id": "УТ000005411",
-    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
-    "name": "МИРАБЕЛЬ 50 см РОЗА Кен/Куст. (RLR)",
-    "wholesalePrice": 139.08,
-    "extraPrice": 146.04,
-    "retailPrice": 173.85
   },
   {
     "id": "УТ000005417",
@@ -3112,28 +3096,12 @@
     "retailPrice": 145.69
   },
   {
-    "id": "УТ000005740",
-    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
-    "name": "ФАЕВОРКС 70 см РОЗА Кен/Куст. (RLR)",
-    "wholesalePrice": 192.7,
-    "extraPrice": 202.33,
-    "retailPrice": 240.87
-  },
-  {
     "id": "УТ000005746",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "ФАЕВОРКС 80 см РОЗА Кен/Куст. (RLR)",
     "wholesalePrice": 212.12,
     "extraPrice": 222.73,
     "retailPrice": 265.15
-  },
-  {
-    "id": "УТ000005778",
-    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
-    "name": "ХЭППИ ЧАППИ 50 см РОЗА Кен/Куст. (RLR)",
-    "wholesalePrice": 171.72,
-    "extraPrice": 180.3,
-    "retailPrice": 214.65
   },
   {
     "id": "УТ000005779",
@@ -7134,6 +7102,14 @@
     "wholesalePrice": 28.75,
     "extraPrice": 30.19,
     "retailPrice": 35.94
+  },
+  {
+    "id": "УТ000008543",
+    "category": "..РОЗА КЕНИЯ",
+    "name": "МИКС 40 см РОЗА Кения (LAUREL)",
+    "wholesalePrice": 44.29,
+    "extraPrice": 46.5,
+    "retailPrice": 55.36
   },
   {
     "id": "УТ000008545",
@@ -23296,6 +23272,14 @@
     "retailPrice": 178.71
   },
   {
+    "id": "УТ000029970",
+    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
+    "name": "МАЙ БЮТИ 60 см РОЗА Кен/Куст. (RLR)",
+    "wholesalePrice": 174.83,
+    "extraPrice": 183.57,
+    "retailPrice": 218.53
+  },
+  {
     "id": "УТ000029971",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "МАЙ БЮТИ 50 см РОЗА Кен/Куст. (RLR)",
@@ -25750,6 +25734,14 @@
     "wholesalePrice": 171.72,
     "extraPrice": 180.3,
     "retailPrice": 214.65
+  },
+  {
+    "id": "УТ000033427",
+    "category": "..РОЗА КЕНИЯ",
+    "name": "ДЖУМИЛИЯ 50 см РОЗА Кения (HERITAGE)",
+    "wholesalePrice": 51.28,
+    "extraPrice": 53.85,
+    "retailPrice": 64.1
   },
   {
     "id": "УТ000033456",
@@ -30168,14 +30160,6 @@
     "retailPrice": 104.9
   },
   {
-    "id": "УТ000037104",
-    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
-    "name": "САЛИНЕРО 60 см РОЗА Кен/Куст. (PJDAVE)",
-    "wholesalePrice": 83.92,
-    "extraPrice": 88.11,
-    "retailPrice": 104.9
-  },
-  {
     "id": "УТ000037111",
     "category": ".УПАКОВКА",
     "name": "ЯЩИК № 125",
@@ -30382,14 +30366,6 @@
     "wholesalePrice": 435.12,
     "extraPrice": 456.88,
     "retailPrice": 543.9
-  },
-  {
-    "id": "УТ000037210",
-    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
-    "name": "МИКС 40 см РОЗА Кен/Куст. (SUBATI)",
-    "wholesalePrice": 57.5,
-    "extraPrice": 60.37,
-    "retailPrice": 71.87
   },
   {
     "id": "УТ000037211",
@@ -36088,6 +36064,14 @@
     "retailPrice": 126.26
   },
   {
+    "id": "УТ000040856",
+    "category": "..РОЗА КЕНИЯ",
+    "name": "ДЖУМИЛИЯ 50 см РОЗА Кения (BARAKA)",
+    "wholesalePrice": 53.61,
+    "extraPrice": 56.29,
+    "retailPrice": 67.02
+  },
+  {
     "id": "УТ000040861",
     "category": "..РОЗА КЕНИЯ",
     "name": "ЭСПЕРАНС 50 см РОЗА Кения (BARAKA)",
@@ -37456,14 +37440,6 @@
     "retailPrice": 94.21
   },
   {
-    "id": "УТ000041772",
-    "category": "..РОЗА КЕНИЯ",
-    "name": "ЭВЕР РЕД 70 см РОЗА Кения (BARAKA)",
-    "wholesalePrice": 73.04,
-    "extraPrice": 76.69,
-    "retailPrice": 91.3
-  },
-  {
     "id": "УТ000041794",
     "category": "КОРЗИНА",
     "name": "Корзина - 304003",
@@ -38590,14 +38566,6 @@
     "wholesalePrice": 681.06,
     "extraPrice": 715.12,
     "retailPrice": 851.33
-  },
-  {
-    "id": "УТ000043317",
-    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
-    "name": "ЭЛИСАНА 40 см РОЗА Кен/Куст. (RLR)",
-    "wholesalePrice": 106.45,
-    "extraPrice": 111.77,
-    "retailPrice": 133.06
   },
   {
     "id": "УТ000043396",
@@ -39934,6 +39902,14 @@
     "wholesalePrice": 187.26,
     "extraPrice": 196.62,
     "retailPrice": 234.07
+  },
+  {
+    "id": "УТ000044449",
+    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
+    "name": "ГЕОРГИ ПИЧ 50 см РОЗА Кен/Куст. (RLR)",
+    "wholesalePrice": 171.72,
+    "extraPrice": 180.3,
+    "retailPrice": 214.65
   },
   {
     "id": "УТ000044451",
@@ -41384,12 +41360,12 @@
     "retailPrice": 1217.95
   },
   {
-    "id": "УТ000045423",
-    "category": "..РОЗА КЕНИЯ",
-    "name": "РЕВИВАЛЬ 50 см РОЗА Кения (BARAKA)",
-    "wholesalePrice": 50.51,
-    "extraPrice": 53.03,
-    "retailPrice": 63.13
+    "id": "УТ000045384",
+    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
+    "name": "ДИНАРА 60 см РОЗА Кен/Куст. (PJDAVE)",
+    "wholesalePrice": 83.92,
+    "extraPrice": 88.11,
+    "retailPrice": 104.9
   },
   {
     "id": "УТ000045425",
@@ -48928,14 +48904,6 @@
     "retailPrice": 56.33
   },
   {
-    "id": "УТ000051136",
-    "category": "..РОЗА КЕНИЯ",
-    "name": "КОНФИДЕНТАЛ 50 см РОЗА Кения (CREDIBLE)",
-    "wholesalePrice": 45.07,
-    "extraPrice": 47.32,
-    "retailPrice": 56.33
-  },
-  {
     "id": "УТ000051137",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "БЕЛЛА ЛИНДА ЦЕРИС 70 см РОЗА Кен/Куст. (KAREN)",
@@ -49160,12 +49128,12 @@
     "retailPrice": 282.63
   },
   {
-    "id": "УТ000051232",
+    "id": "УТ000051231",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
-    "name": "МЭНСФИЛД ПАРК 60 см РОЗА Кен/Куст. (RLR)",
-    "wholesalePrice": 207.46,
-    "extraPrice": 217.83,
-    "retailPrice": 259.32
+    "name": "МЭНСФИЛД ПАРК 50 см РОЗА Кен/Куст. (RLR)",
+    "wholesalePrice": 184.15,
+    "extraPrice": 193.36,
+    "retailPrice": 230.19
   },
   {
     "id": "УТ000051234",
@@ -49190,14 +49158,6 @@
     "wholesalePrice": 192.7,
     "extraPrice": 202.33,
     "retailPrice": 240.87
-  },
-  {
-    "id": "УТ000051238",
-    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
-    "name": "ДЖУЛЬЕТТА ПРЭТТИ ПИНК 50 см РОЗА Кен/Куст.  (RLR)",
-    "wholesalePrice": 171.72,
-    "extraPrice": 180.3,
-    "retailPrice": 214.65
   },
   {
     "id": "УТ000051239",
@@ -58720,36 +58680,12 @@
     "retailPrice": 79.64
   },
   {
-    "id": "УТ000054370",
-    "category": "..РОЗА КЕНИЯ",
-    "name": "МАНДАЛА  70 см РОЗА Кения  (BARAKA)",
-    "wholesalePrice": 73.04,
-    "extraPrice": 76.69,
-    "retailPrice": 91.3
-  },
-  {
     "id": "УТ000054371",
     "category": "..РОЗА КЕНИЯ",
     "name": "АФИНА 60 см РОЗА Кения (BARAKA)",
     "wholesalePrice": 63.71,
     "extraPrice": 66.9,
     "retailPrice": 79.64
-  },
-  {
-    "id": "УТ000054372",
-    "category": "..РОЗА КЕНИЯ",
-    "name": "КОНФИДЕНТАЛ 60 см РОЗА Кения (BARAKA)",
-    "wholesalePrice": 63.71,
-    "extraPrice": 66.9,
-    "retailPrice": 79.64
-  },
-  {
-    "id": "УТ000054373",
-    "category": "..РОЗА КЕНИЯ",
-    "name": "КОНФИДЕНТАЛ 70 см РОЗА Кения (BARAKA)",
-    "wholesalePrice": 73.04,
-    "extraPrice": 76.69,
-    "retailPrice": 91.3
   },
   {
     "id": "УТ000054376",
@@ -58814,14 +58750,6 @@
     "wholesalePrice": 66.82,
     "extraPrice": 70.16,
     "retailPrice": 83.53
-  },
-  {
-    "id": "УТ000054459",
-    "category": "..РОЗА КЕНИЯ",
-    "name": "НЮ ОРЛЕАНС 70 см РОЗА Кения (BARAKA)",
-    "wholesalePrice": 73.04,
-    "extraPrice": 76.69,
-    "retailPrice": 91.3
   },
   {
     "id": "УТ000054460",
