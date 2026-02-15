@@ -10664,14 +10664,6 @@
     "retailPrice": 112.1
   },
   {
-    "id": "УТ000014888",
-    "category": "..ХРИЗАНТЕМА",
-    "name": "РАДОСТЬ",
-    "wholesalePrice": 89.68,
-    "extraPrice": 94.17,
-    "retailPrice": 112.1
-  },
-  {
     "id": "УТ000014891",
     "category": "..ХРИЗАНТЕМА",
     "name": "РАДОСТЬ КРЕМ",
@@ -22558,14 +22550,6 @@
     "wholesalePrice": 95.69,
     "extraPrice": 100.47,
     "retailPrice": 119.61
-  },
-  {
-    "id": "УТ000030065",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "МАТМАКЕР ТЮЛЬПАН энкл,",
-    "wholesalePrice": 53.61,
-    "extraPrice": 56.29,
-    "retailPrice": 67.02
   },
   {
     "id": "УТ000030182",
@@ -34456,14 +34440,6 @@
     "retailPrice": 56.33
   },
   {
-    "id": "УТ000040723",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "ЧИРЧУТ  ТЮЛЬПАН  энкл.",
-    "wholesalePrice": 53.61,
-    "extraPrice": 56.29,
-    "retailPrice": 67.02
-  },
-  {
     "id": "УТ000040738",
     "category": "..ТЮЛЬПАНЫ",
     "name": "ГУДОШНИК ХЛ  ТЮЛЬПАН дубл.",
@@ -36168,14 +36144,6 @@
     "retailPrice": 160.26
   },
   {
-    "id": "УТ000042014",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "СЕРИНЕ   ТЮЛЬПАН энкл.",
-    "wholesalePrice": 53.61,
-    "extraPrice": 56.29,
-    "retailPrice": 67.02
-  },
-  {
     "id": "УТ000042018",
     "category": "КОРЗИНА",
     "name": "Корзина - 016603",
@@ -36448,14 +36416,6 @@
     "retailPrice": 611.89
   },
   {
-    "id": "УТ000042453",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "ОВ КОАС ТЮЛЬПАН дубл.",
-    "wholesalePrice": 90.13,
-    "extraPrice": 94.64,
-    "retailPrice": 112.67
-  },
-  {
     "id": "УТ000042486",
     "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
     "name": "ФИКУС ШРИВЕРИАНА 12 СМ",
@@ -36542,14 +36502,6 @@
     "wholesalePrice": 222.22,
     "extraPrice": 233.33,
     "retailPrice": 277.78
-  },
-  {
-    "id": "УТ000042691",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "СЕЛИНА  ТЮЛЬПАН  дубл.",
-    "wholesalePrice": 58.28,
-    "extraPrice": 61.19,
-    "retailPrice": 72.84
   },
   {
     "id": "УТ000042717",
@@ -39728,14 +39680,6 @@
     "retailPrice": 514.76
   },
   {
-    "id": "УТ000045215",
-    "category": "..,ЛИЛИЯ",
-    "name": "АНГЕЛА ОР ДУ ЛИЛИЯ",
-    "wholesalePrice": 312.35,
-    "extraPrice": 327.97,
-    "retailPrice": 390.44
-  },
-  {
     "id": "УТ000045217",
     "category": "..ХРИЗАНТЕМА",
     "name": ".ХРИЗ. ДЕКО ПОКЕР",
@@ -41488,14 +41432,6 @@
     "retailPrice": 140.83
   },
   {
-    "id": "УТ000047138",
-    "category": "..,ЛИЛИЯ",
-    "name": "БРИНДИСИ ЛИЛИЯ ЛА",
-    "wholesalePrice": 112.67,
-    "extraPrice": 118.3,
-    "retailPrice": 140.83
-  },
-  {
     "id": "УТ000047139",
     "category": "..,ЛИЛИЯ",
     "name": "КОРТОНА ЛА ЛИЛИЯ",
@@ -41507,14 +41443,6 @@
     "id": "УТ000047140",
     "category": "..,ЛИЛИЯ",
     "name": "КОРЛЕОНЕ ЛА ЛИЛИЯ",
-    "wholesalePrice": 112.67,
-    "extraPrice": 118.3,
-    "retailPrice": 140.83
-  },
-  {
-    "id": "УТ000047141",
-    "category": "..,ЛИЛИЯ",
-    "name": "ЛИТУВЕН ЛА ЛИЛИЯ",
     "wholesalePrice": 112.67,
     "extraPrice": 118.3,
     "retailPrice": 140.83
@@ -43192,14 +43120,6 @@
     "retailPrice": 417.64
   },
   {
-    "id": "УТ000048821",
-    "category": "..,ЛИЛИЯ",
-    "name": "ПАЛАЦЦО ОТ ЛИЛИЯ",
-    "wholesalePrice": 236.99,
-    "extraPrice": 248.83,
-    "retailPrice": 296.23
-  },
-  {
     "id": "УТ000048823",
     "category": "..ТЮЛЬПАНЫ",
     "name": "ХЛ ТУЛИПС",
@@ -44795,14 +44715,6 @@
     "id": "УТ000049967",
     "category": "..ТЮЛЬПАНЫ",
     "name": "БРИНДИСИ КОАС ТЮЛЬПАН дубл.",
-    "wholesalePrice": 90.13,
-    "extraPrice": 94.64,
-    "retailPrice": 112.67
-  },
-  {
-    "id": "УТ000049968",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "БЕД ОФ РОЗЕС КОАС ТЮЛЬПАН дубл.",
     "wholesalePrice": 90.13,
     "extraPrice": 94.64,
     "retailPrice": 112.67
@@ -47054,6 +46966,14 @@
     "wholesalePrice": 159.61,
     "extraPrice": 167.59,
     "retailPrice": 199.51
+  },
+  {
+    "id": "УТ000051089",
+    "category": "..,ЛИЛИЯ",
+    "name": "ШАЙН ОН ОТ ЛИЛИЯ",
+    "wholesalePrice": 421.91,
+    "extraPrice": 443.01,
+    "retailPrice": 527.39
   },
   {
     "id": "УТ000051106",
@@ -51142,14 +51062,6 @@
     "wholesalePrice": 683.76,
     "extraPrice": 717.95,
     "retailPrice": 854.7
-  },
-  {
-    "id": "УТ000052791",
-    "category": "..,ЛИЛИЯ",
-    "name": "АЙМАКС ОР ЛИЛИЯ",
-    "wholesalePrice": 310.8,
-    "extraPrice": 326.34,
-    "retailPrice": 388.5
   },
   {
     "id": "УТ000052792",
