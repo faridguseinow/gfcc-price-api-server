@@ -10672,6 +10672,14 @@
     "retailPrice": 112.1
   },
   {
+    "id": "УТ000014888",
+    "category": "..ХРИЗАНТЕМА",
+    "name": "РАДОСТЬ",
+    "wholesalePrice": 89.68,
+    "extraPrice": 94.17,
+    "retailPrice": 112.1
+  },
+  {
     "id": "УТ000014891",
     "category": "..ХРИЗАНТЕМА",
     "name": "РАДОСТЬ КРЕМ",
@@ -23694,14 +23702,6 @@
     "wholesalePrice": 436.67,
     "extraPrice": 458.51,
     "retailPrice": 545.84
-  },
-  {
-    "id": "УТ000032432",
-    "category": "..,ЛИЛИЯ",
-    "name": "САРА БЕРНАРД ОР ДУ ЛИЛИЯ",
-    "wholesalePrice": 380.73,
-    "extraPrice": 399.77,
-    "retailPrice": 475.91
   },
   {
     "id": "УТ000032434",
@@ -39696,14 +39696,6 @@
     "retailPrice": 169.97
   },
   {
-    "id": "УТ000045221",
-    "category": "..,ЛИЛИЯ",
-    "name": "ТУМОРРОУ ОТ ЛИЛИЯ",
-    "wholesalePrice": 331.78,
-    "extraPrice": 348.37,
-    "retailPrice": 414.72
-  },
-  {
     "id": "УТ000045224",
     "category": "..ТЮЛЬПАНЫ",
     "name": "ФОРТАЛЕЗА КОАС ТЮЛЬПАН дубл.",
@@ -41184,14 +41176,6 @@
     "retailPrice": 126.26
   },
   {
-    "id": "УТ000046880",
-    "category": "..,ЛИЛИЯ",
-    "name": "АМИСТАД ОР ДУ ЛИЛИЯ",
-    "wholesalePrice": 404.04,
-    "extraPrice": 424.24,
-    "retailPrice": 505.05
-  },
-  {
     "id": "УТ000046888",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "ВИВИАНА  70 см куст на воде",
@@ -41430,30 +41414,6 @@
     "wholesalePrice": 41.96,
     "extraPrice": 44.06,
     "retailPrice": 52.45
-  },
-  {
-    "id": "УТ000047137",
-    "category": "..,ЛИЛИЯ",
-    "name": "НЭШВИЛЛ ЛА ЛИЛИЯ",
-    "wholesalePrice": 112.67,
-    "extraPrice": 118.3,
-    "retailPrice": 140.83
-  },
-  {
-    "id": "УТ000047139",
-    "category": "..,ЛИЛИЯ",
-    "name": "КОРТОНА ЛА ЛИЛИЯ",
-    "wholesalePrice": 112.67,
-    "extraPrice": 118.3,
-    "retailPrice": 140.83
-  },
-  {
-    "id": "УТ000047140",
-    "category": "..,ЛИЛИЯ",
-    "name": "КОРЛЕОНЕ ЛА ЛИЛИЯ",
-    "wholesalePrice": 112.67,
-    "extraPrice": 118.3,
-    "retailPrice": 140.83
   },
   {
     "id": "УТ000047152",
@@ -43166,14 +43126,6 @@
     "wholesalePrice": 53.61,
     "extraPrice": 56.29,
     "retailPrice": 67.02
-  },
-  {
-    "id": "УТ000048836",
-    "category": "..,ЛИЛИЯ",
-    "name": "СТРОНГ ЛАВ ОТ ЛИЛИЯ",
-    "wholesalePrice": 452.21,
-    "extraPrice": 474.82,
-    "retailPrice": 565.27
   },
   {
     "id": "УТ000048837",
@@ -46974,14 +46926,6 @@
     "wholesalePrice": 159.61,
     "extraPrice": 167.59,
     "retailPrice": 199.51
-  },
-  {
-    "id": "УТ000051089",
-    "category": "..,ЛИЛИЯ",
-    "name": "ШАЙН ОН ОТ ЛИЛИЯ",
-    "wholesalePrice": 421.91,
-    "extraPrice": 443.01,
-    "retailPrice": 527.39
   },
   {
     "id": "УТ000051106",
@@ -56336,22 +56280,6 @@
     "retailPrice": 87.41
   },
   {
-    "id": "УТ000054387",
-    "category": "..,ЛИЛИЯ",
-    "name": "ПАСИФИК ОШЕН ОР ЛИЛИЯ",
-    "wholesalePrice": 335.66,
-    "extraPrice": 352.45,
-    "retailPrice": 419.58
-  },
-  {
-    "id": "УТ000054388",
-    "category": "..,ЛИЛИЯ",
-    "name": "ЛАЙНГЕРИ ОР ЛИЛИЯ",
-    "wholesalePrice": 397.05,
-    "extraPrice": 416.9,
-    "retailPrice": 496.31
-  },
-  {
     "id": "УТ000054389",
     "category": "..ТЮЛЬПАНЫ",
     "name": "КРЕМ ПРИНЦ  ТЮЛЬПАН энкл.",
@@ -56926,14 +56854,6 @@
     "wholesalePrice": 186.48,
     "extraPrice": 195.8,
     "retailPrice": 233.1
-  },
-  {
-    "id": "УТ000054675",
-    "category": "..,ЛИЛИЯ",
-    "name": "ОРАКУЛ ОТ ЛИЛИЯ",
-    "wholesalePrice": 301.48,
-    "extraPrice": 316.55,
-    "retailPrice": 376.85
   },
   {
     "id": "УТ000054678",
