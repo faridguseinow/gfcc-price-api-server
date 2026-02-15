@@ -29432,14 +29432,6 @@
     "retailPrice": 173.73
   },
   {
-    "id": "УТ000037621",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ПИНК МОНДИАЛЬ (РОЗАПРИМА)-80см",
-    "wholesalePrice": 159.65,
-    "extraPrice": 167.63,
-    "retailPrice": 199.56
-  },
-  {
     "id": "УТ000037625",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ПИНК ФЛОЙД (РОЗАПРИМА)-50см",
@@ -57350,5 +57342,21 @@
     "wholesalePrice": 93.24,
     "extraPrice": 97.9,
     "retailPrice": 116.55
+  },
+  {
+    "id": "УТ000054794",
+    "category": "..ХРИЗАНТЕМА",
+    "name": "РЕСК ПЕАЦ",
+    "wholesalePrice": 116.59,
+    "extraPrice": 122.42,
+    "retailPrice": 145.74
+  },
+  {
+    "id": "УТ000054795",
+    "category": "..ХРИЗАНТЕМА",
+    "name": "РЕСК САЛМОН",
+    "wholesalePrice": 116.59,
+    "extraPrice": 122.42,
+    "retailPrice": 145.74
   }
 ]
