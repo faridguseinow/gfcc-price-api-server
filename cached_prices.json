@@ -15416,14 +15416,6 @@
     "retailPrice": 173.43
   },
   {
-    "id": "УТ000025248",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ФРИДОМ (САЧА)- 60см",
-    "wholesalePrice": 97.84,
-    "extraPrice": 102.73,
-    "retailPrice": 122.3
-  },
-  {
     "id": "УТ000025249",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ФРИДОМ (САЧА)- 70см",
@@ -23731,9 +23723,9 @@
     "id": "УТ000032321",
     "category": "КОРЗИНА",
     "name": "Корзина - 20A205903",
-    "wholesalePrice": 876.1,
-    "extraPrice": 919.91,
-    "retailPrice": 1095.13
+    "wholesalePrice": 952.93,
+    "extraPrice": 1000.57,
+    "retailPrice": 1191.16
   },
   {
     "id": "УТ000032322",
@@ -51136,6 +51128,14 @@
     "retailPrice": 497.61
   },
   {
+    "id": "УТ000052513",
+    "category": ",Сортовой",
+    "name": "БЛИС СОРТОВОЙ 50 см РОЗА Кения (BLISS)",
+    "wholesalePrice": 50.44,
+    "extraPrice": 52.96,
+    "retailPrice": 63.05
+  },
+  {
     "id": "УТ000052514",
     "category": ".УПАКОВКА",
     "name": "ПАКЕТ № 24083 ПАЧКА 10 ШТ",
@@ -57638,5 +57638,21 @@
     "wholesalePrice": 4371.21,
     "extraPrice": 4589.77,
     "retailPrice": 5464.01
+  },
+  {
+    "id": "УТ000054824",
+    "category": "КОРЗИНА",
+    "name": "Корзина - N197001",
+    "wholesalePrice": 374.81,
+    "extraPrice": 393.55,
+    "retailPrice": 468.51
+  },
+  {
+    "id": "УТ000054825",
+    "category": "КОРЗИНА",
+    "name": "Корзина - N169403",
+    "wholesalePrice": 793.85,
+    "extraPrice": 833.54,
+    "retailPrice": 992.31
   }
 ]
