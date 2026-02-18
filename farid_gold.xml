@@ -1,4 +1,4 @@
-<PriceList date="18.02.2026 3:55:40">
+<PriceList date="18.02.2026 4:50:30">
 	<GroupsOfGoods>
 		<Group ID="ÓÒ000028416" Name="ÑÓÕÈÅ ÐÎÇÛ" ParentID="" ParentName=""/>
 		<Group ID="ÓÒ000032724" Name="..,ÐÎÇÀ ,ÌÅÑÒÍÀß" ParentID="" ParentName=""/>
@@ -3870,6 +3870,7 @@
 		<Item ID="ÓÒ000052957" Name="ßÙÈÊ ¹ 512" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="239,32" PriceRetail="299,15" PriceExt="251,29" ParentID="ÓÒ000002210" ParentName=".ÓÏÀÊÎÂÊÀ"/>
 		<Item ID="ÓÒ000053115" Name="ÏÀÊÅÒ ¹ 24430 ÏÀ×ÊÀ 10 ØÒ " EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="378,28" PriceRetail="472,85" PriceExt="397,19" ParentID="ÓÒ000002210" ParentName=".ÓÏÀÊÎÂÊÀ"/>
 		<Item ID="ÓÒ000053131" Name="ßÙÈÊ ¹ 535" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="250,13" PriceRetail="312,66" PriceExt="262,63" ParentID="ÓÒ000002210" ParentName=".ÓÏÀÊÎÂÊÀ"/>
+		<Item ID="ÓÒ000053547" Name="ÐÎËÈÊ ÒÎÍÈÐÎÂÊÀ ÌÀÒÎÂÛÉ 400 ÃÐ" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="115,80" PriceRetail="144,75" PriceExt="121,59" ParentID="ÓÒ000002210" ParentName=".ÓÏÀÊÎÂÊÀ"/>
 		<Item ID="ÓÒ000053908" Name="ÌÈØÊÀ ¹ XH4740950" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="2283,02" PriceRetail="2853,78" PriceExt="2397,17" ParentID="ÓÒ000002210" ParentName=".ÓÏÀÊÎÂÊÀ"/>
 		<Item ID="ÓÒ000053999" Name="ßÙÈÊ ¹ 451" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="215,39" PriceRetail="269,24" PriceExt="226,16" ParentID="ÓÒ000002210" ParentName=".ÓÏÀÊÎÂÊÀ"/>
 		<Item ID="ÓÒ000054362" Name="ßÙÈÊ ¹ 530" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="208,44" PriceRetail="260,55" PriceExt="218,86" ParentID="ÓÒ000002210" ParentName=".ÓÏÀÊÎÂÊÀ"/>
@@ -8903,6 +8904,7 @@ S:D26xH11xHH31xB20" Price="839,94" PriceRetail="1049,92" PriceExt="881,93" Paren
 		<Item ID="ÓÒ000042961" Name="ÁÀÐÀÊÀ 50 ñì ÑÎÐÒÎÂÎÉ ÐÎÇÀ Êåíèÿ (BARAKA)" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="44,78" PriceRetail="55,97" PriceExt="47,01" ParentID="ÓÒ000034215" ParentName=",Ñîðòîâîé"/>
 		<Item ID="ÓÒ000046053" Name="ÌÅÐÈÄÈÀÍ ÑÎÐÒÎÂÎÉ 50 ñì ÐÎÇÀ Êåíèÿ (MERIDIAN)" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="37,83" PriceRetail="47,29" PriceExt="39,72" ParentID="ÓÒ000034215" ParentName=",Ñîðòîâîé"/>
 		<Item ID="ÓÒ000052481" Name="ÀÇÀËÈ 40 ñì ÑÎÐÒÎÂÎÉ ÐÎÇÀ Êåíèÿ (AZALI)" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="47,09" PriceRetail="58,87" PriceExt="49,45" ParentID="ÓÒ000034215" ParentName=",Ñîðòîâîé"/>
+		<Item ID="ÓÒ000052482" Name="ÀÇÀËÈ 50 ñì ÑÎÐÒÎÂÎÉ ÐÎÇÀ Êåíèÿ (AZALI)" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="54,81" PriceRetail="68,52" PriceExt="57,55" ParentID="ÓÒ000034215" ParentName=",Ñîðòîâîé"/>
 		<Item ID="ÓÒ000052513" Name="ÁËÈÑ ÑÎÐÒÎÂÎÉ 50 ñì ÐÎÇÀ Êåíèÿ (BLISS)" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="50,18" PriceRetail="62,73" PriceExt="52,69" ParentID="ÓÒ000034215" ParentName=",Ñîðòîâîé"/>
 		<Item ID="ÓÒ000008536" Name="ÌÀÓÍÒ ÝËÜÃÎÍ ÑÎÐÒÎÂÎÉ 40 ñì ÐÎÇÀ Êåíèÿ (MT ELGON)" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="30,11" PriceRetail="37,64" PriceExt="31,61" ParentID="ÓÒ000034215" ParentName=",Ñîðòîâîé"/>
 		<Item ID="ÓÒ000008537" Name="ÌÀÓÍÒ ÝËÜÃÎÍ ÑÎÐÒÎÂÎÉ 50 ñì ÐÎÇÀ Êåíèÿ (MT ELGON)" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="40,14" PriceRetail="50,18" PriceExt="42,15" ParentID="ÓÒ000034215" ParentName=",Ñîðòîâîé"/>
