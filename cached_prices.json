@@ -2752,14 +2752,6 @@
     "retailPrice": 213.27
   },
   {
-    "id": "УТ000005520",
-    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
-    "name": "ПИОНОВИДНАЯ 50 см РОЗА Кен/Куст. (SUBATI)",
-    "wholesalePrice": 104.22,
-    "extraPrice": 109.43,
-    "retailPrice": 130.28
-  },
-  {
     "id": "УТ000005524",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "ПИОНОВИДНАЯ 60 см РОЗА Кен/Куст. (RLR)",
@@ -7747,9 +7739,9 @@
     "id": "УТ000010071",
     "category": "..,РАЗНОЕ",
     "name": "АКАЦИЯ ИТАЛИЯ",
-    "wholesalePrice": 864.64,
-    "extraPrice": 907.87,
-    "retailPrice": 1080.8
+    "wholesalePrice": 926.4,
+    "extraPrice": 972.72,
+    "retailPrice": 1158
   },
   {
     "id": "УТ000010075",
@@ -8011,9 +8003,9 @@
     "id": "УТ000010177",
     "category": "..,РАЗНОЕ",
     "name": "ГЕНИСТА",
-    "wholesalePrice": 685.54,
-    "extraPrice": 719.81,
-    "retailPrice": 856.92
+    "wholesalePrice": 781.26,
+    "extraPrice": 820.33,
+    "retailPrice": 976.58
   },
   {
     "id": "УТ000010178",
@@ -8483,9 +8475,9 @@
     "id": "УТ000010546",
     "category": "..,РАЗНОЕ",
     "name": "РАНУНКУЛЮС  экстра",
-    "wholesalePrice": 241.64,
-    "extraPrice": 253.72,
-    "retailPrice": 302.05
+    "wholesalePrice": 253.22,
+    "extraPrice": 265.88,
+    "retailPrice": 316.52
   },
   {
     "id": "УТ000010559",
@@ -13339,9 +13331,9 @@
     "id": "УТ000019677",
     "category": "..,РАЗНОЕ",
     "name": "ЛИЗИАНТУС АЛИСА РОЗОВЫЙ",
-    "wholesalePrice": 216.16,
-    "extraPrice": 226.97,
-    "retailPrice": 270.2
+    "wholesalePrice": 218.48,
+    "extraPrice": 229.4,
+    "retailPrice": 273.1
   },
   {
     "id": "УТ000019726",
@@ -16584,6 +16576,14 @@
     "retailPrice": 170.81
   },
   {
+    "id": "УТ000026191",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "ПЛАЙЯ БЛАНКА (ТЕССА)-70 см",
+    "wholesalePrice": 164.5,
+    "extraPrice": 172.72,
+    "retailPrice": 205.62
+  },
+  {
     "id": "УТ000026192",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ПЛАЙЯ БЛАНКА (ТЕССА)-60 см",
@@ -17083,9 +17083,9 @@
     "id": "УТ000027742",
     "category": "..,РАЗНОЕ",
     "name": "ЛИЗИАНТУС  БЕЛО РОЗОВЫЙ",
-    "wholesalePrice": 177.56,
-    "extraPrice": 186.44,
-    "retailPrice": 221.95
+    "wholesalePrice": 179.1,
+    "extraPrice": 188.06,
+    "retailPrice": 223.88
   },
   {
     "id": "УТ000027743",
@@ -17099,33 +17099,33 @@
     "id": "УТ000027744",
     "category": "..,РАЗНОЕ",
     "name": "ЛИЗИАНТУС  ЛАВАНДОВЫЙ",
-    "wholesalePrice": 208.44,
-    "extraPrice": 218.86,
-    "retailPrice": 260.55
+    "wholesalePrice": 203.81,
+    "extraPrice": 214,
+    "retailPrice": 254.76
   },
   {
     "id": "УТ000027746",
     "category": "..,РАЗНОЕ",
     "name": "ЛИЗИАНТУС  БЕЛО СИНИЙ",
-    "wholesalePrice": 203.04,
-    "extraPrice": 213.19,
-    "retailPrice": 253.8
+    "wholesalePrice": 179.1,
+    "extraPrice": 188.06,
+    "retailPrice": 223.88
   },
   {
     "id": "УТ000027747",
     "category": "..,РАЗНОЕ",
     "name": "ЛИЗИАНТУС  ЗЕЛЕНЫЙ",
-    "wholesalePrice": 171.38,
-    "extraPrice": 179.95,
-    "retailPrice": 214.23
+    "wholesalePrice": 188.37,
+    "extraPrice": 197.79,
+    "retailPrice": 235.46
   },
   {
     "id": "УТ000027748",
     "category": "..,РАЗНОЕ",
     "name": "ЛИЗИАНТУС  БЕЛЫЙ",
-    "wholesalePrice": 187.6,
-    "extraPrice": 196.98,
-    "retailPrice": 234.5
+    "wholesalePrice": 178.33,
+    "extraPrice": 187.25,
+    "retailPrice": 222.92
   },
   {
     "id": "УТ000027752",
@@ -17179,9 +17179,9 @@
     "id": "УТ000027773",
     "category": "..,РАЗНОЕ",
     "name": "ЛИЗИАНТУС  СИНИЙ",
-    "wholesalePrice": 185.28,
-    "extraPrice": 194.54,
-    "retailPrice": 231.6
+    "wholesalePrice": 186.82,
+    "extraPrice": 196.17,
+    "retailPrice": 233.53
   },
   {
     "id": "УТ000027900",
@@ -21358,6 +21358,14 @@
     "wholesalePrice": 115.15,
     "extraPrice": 120.91,
     "retailPrice": 143.94
+  },
+  {
+    "id": "УТ000029554",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "ИГУАЗУ- 40см (СТАР,КОРОЗОН,МАТИЗ,ЭКО РОЗ,БЕЛЛА РОЗА,ЧАРМИНГ,СОФИ,ДАВИНЧИ.РОЯЛ)",
+    "wholesalePrice": 73.49,
+    "extraPrice": 77.17,
+    "retailPrice": 91.87
   },
   {
     "id": "УТ000029556",
@@ -27054,14 +27062,6 @@
     "wholesalePrice": 750.38,
     "extraPrice": 787.9,
     "retailPrice": 937.98
-  },
-  {
-    "id": "УТ000035309",
-    "category": "КОРЗИНА",
-    "name": "Корзина - 8653303",
-    "wholesalePrice": 707.15,
-    "extraPrice": 742.51,
-    "retailPrice": 883.94
   },
   {
     "id": "УТ000035310",
@@ -36947,9 +36947,9 @@
     "id": "УТ000043041",
     "category": "..,РАЗНОЕ",
     "name": "ЛИЗИАНТУС АЛИСА  ШАМПАН",
-    "wholesalePrice": 200.72,
-    "extraPrice": 210.76,
-    "retailPrice": 250.9
+    "wholesalePrice": 202.26,
+    "extraPrice": 212.38,
+    "retailPrice": 252.83
   },
   {
     "id": "УТ000043043",
@@ -51696,6 +51696,14 @@
     "retailPrice": 306.87
   },
   {
+    "id": "УТ000052691",
+    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
+    "name": "ЖЕССИ 50 см РОЗА Кен/Куст. (RLR)",
+    "wholesalePrice": 138.19,
+    "extraPrice": 145.1,
+    "retailPrice": 172.74
+  },
+  {
     "id": "УТ000052692",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "СИ Ю СУН 50 см РОЗА Кен/Куст. (RLR)",
@@ -52098,7 +52106,7 @@
   {
     "id": "УТ000052983",
     "category": "..РОЗА ЭКВАДОР",
-    "name": "Антониа Гарден - 50см",
+    "name": "Антониа Гарден - 70см",
     "wholesalePrice": 146.34,
     "extraPrice": 153.66,
     "retailPrice": 182.93
