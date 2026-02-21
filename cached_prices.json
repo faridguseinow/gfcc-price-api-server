@@ -1992,12 +1992,36 @@
     "retailPrice": 45.01
   },
   {
+    "id": "УТ000004960",
+    "category": "..,ЗЕЛЕНЬ",
+    "name": "АСПАРАГУС  ДЕНС МАЙЕРС",
+    "wholesalePrice": 50.44,
+    "extraPrice": 52.96,
+    "retailPrice": 63.05
+  },
+  {
+    "id": "УТ000004961",
+    "category": "..,ЗЕЛЕНЬ",
+    "name": "АСПАРАГУС ДЕНС ЦВЕБА",
+    "wholesalePrice": 46.56,
+    "extraPrice": 48.89,
+    "retailPrice": 58.2
+  },
+  {
     "id": "УТ000004965",
     "category": "..,ЗЕЛЕНЬ",
     "name": "АСПАРАГУС  СЕТАТУС",
     "wholesalePrice": 54.32,
     "extraPrice": 57.04,
     "retailPrice": 67.9
+  },
+  {
+    "id": "УТ000004966",
+    "category": "..,ЗЕЛЕНЬ",
+    "name": "АСПАРАГУС  ФАЛКАТУС",
+    "wholesalePrice": 40.35,
+    "extraPrice": 42.37,
+    "retailPrice": 50.44
   },
   {
     "id": "УТ000004967",
@@ -10536,6 +10560,14 @@
     "retailPrice": 262.16
   },
   {
+    "id": "УТ000014029",
+    "category": "..ТЮЛЬПАНЫ",
+    "name": "МАРГАРИТА  ТЮЛЬПАН дубл.",
+    "wholesalePrice": 58.2,
+    "extraPrice": 61.11,
+    "retailPrice": 72.75
+  },
+  {
     "id": "УТ000014030",
     "category": "..ТЮЛЬПАНЫ",
     "name": "МАРИО ЖО  ТЮЛЬПАН дубл.",
@@ -13622,6 +13654,14 @@
     "wholesalePrice": 192.45,
     "extraPrice": 202.07,
     "retailPrice": 240.56
+  },
+  {
+    "id": "УТ000018917",
+    "category": "..,РАЗНОЕ",
+    "name": "МАГНОЛИЯ 60 СМ",
+    "wholesalePrice": 131.92,
+    "extraPrice": 138.52,
+    "retailPrice": 164.9
   },
   {
     "id": "УТ000018946",
@@ -37184,6 +37224,14 @@
     "retailPrice": 67.42
   },
   {
+    "id": "УТ000041255",
+    "category": "..ТЮЛЬПАНЫ",
+    "name": "МЕМФИС  ТЮЛЬПАН энкл.",
+    "wholesalePrice": 53.93,
+    "extraPrice": 56.63,
+    "retailPrice": 67.42
+  },
+  {
     "id": "УТ000041260",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "ТРАЛАЛА  60  см куст на воде",
@@ -38166,6 +38214,14 @@
     "wholesalePrice": 53.93,
     "extraPrice": 56.63,
     "retailPrice": 67.42
+  },
+  {
+    "id": "УТ000042016",
+    "category": "..ТЮЛЬПАНЫ",
+    "name": "ПИНК ДЕЛАЙТ  ТЮЛЬПАН дубл.",
+    "wholesalePrice": 58.2,
+    "extraPrice": 61.11,
+    "retailPrice": 72.75
   },
   {
     "id": "УТ000042017",
@@ -42440,6 +42496,14 @@
     "retailPrice": 67.42
   },
   {
+    "id": "УТ000045684",
+    "category": "..ТЮЛЬПАНЫ",
+    "name": "ДИНАМО  ТЮЛЬПАН  энкл.",
+    "wholesalePrice": 53.93,
+    "extraPrice": 56.63,
+    "retailPrice": 67.42
+  },
+  {
     "id": "УТ000045690",
     "category": "..ТЮЛЬПАНЫ",
     "name": "МАРАХ БЬЮТИ ТЮЛЬПАН энкл.",
@@ -45670,6 +45734,14 @@
     "wholesalePrice": 53.93,
     "extraPrice": 56.63,
     "retailPrice": 67.42
+  },
+  {
+    "id": "УТ000048755",
+    "category": "..ТЮЛЬПАНЫ",
+    "name": "КРИККО  ТЮЛЬПАН дубл.",
+    "wholesalePrice": 58.2,
+    "extraPrice": 61.11,
+    "retailPrice": 72.75
   },
   {
     "id": "УТ000048758",
