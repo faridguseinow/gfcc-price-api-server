@@ -9152,14 +9152,6 @@
     "retailPrice": 168.53
   },
   {
-    "id": "УТ000011262",
-    "category": "..,РОЗА ,НА ВОДЕ",
-    "name": "ДЖУМИЛИЯ 60 см одног на воде",
-    "wholesalePrice": 108.8,
-    "extraPrice": 114.23,
-    "retailPrice": 135.99
-  },
-  {
     "id": "УТ000011381",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "КАТА-ЛИН  60 см куст на воде",
@@ -22288,6 +22280,14 @@
     "retailPrice": 109.74
   },
   {
+    "id": "УТ000029550",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "ДИП ПЕРПЛ- 60см (СТАР,КОРОЗОН,МАТИЗ,ЭКО РОЗ,БЕЛЛА РОЗА,ЧАРМИНГ,СОФИ,ДАВИНЧИ.РОЯЛ)",
+    "wholesalePrice": 103.84,
+    "extraPrice": 109.03,
+    "retailPrice": 129.8
+  },
+  {
     "id": "УТ000029551",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ДИП ПЕРПЛ- 70см (СТАР,КОРОЗОН,МАТИЗ,ЭКО РОЗ,БЕЛЛА РОЗА,ЧАРМИНГ,СОФИ,ДАВИНЧИ.РОЯЛ)",
@@ -35331,25 +35331,25 @@
     "id": "УТ000040175",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ХИЛУКС - 50см",
-    "wholesalePrice": 79.11,
-    "extraPrice": 83.06,
-    "retailPrice": 98.88
+    "wholesalePrice": 86.87,
+    "extraPrice": 91.21,
+    "retailPrice": 108.58
   },
   {
     "id": "УТ000040177",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ХИЛУКС - 70см",
-    "wholesalePrice": 113.33,
-    "extraPrice": 119,
-    "retailPrice": 141.67
+    "wholesalePrice": 121.09,
+    "extraPrice": 127.15,
+    "retailPrice": 151.37
   },
   {
     "id": "УТ000040178",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ХИЛУКС - 80см",
-    "wholesalePrice": 126.13,
-    "extraPrice": 132.44,
-    "retailPrice": 157.66
+    "wholesalePrice": 133.89,
+    "extraPrice": 140.59,
+    "retailPrice": 167.36
   },
   {
     "id": "УТ000040181",
@@ -38366,6 +38366,14 @@
     "wholesalePrice": 186.24,
     "extraPrice": 195.55,
     "retailPrice": 232.8
+  },
+  {
+    "id": "УТ000042198",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "АСПЕН - 40см",
+    "wholesalePrice": 72.73,
+    "extraPrice": 76.37,
+    "retailPrice": 90.92
   },
   {
     "id": "УТ000042211",
@@ -47376,6 +47384,14 @@
     "retailPrice": 281.3
   },
   {
+    "id": "УТ000049873",
+    "category": "..,РАЗНОЕ",
+    "name": "МАГНОЛИЯ 120 СМ",
+    "wholesalePrice": 395.76,
+    "extraPrice": 415.55,
+    "retailPrice": 494.7
+  },
+  {
     "id": "УТ000049919",
     "category": "СИЛИКОНОВЫЕ ЦВЕТЫ",
     "name": "МЕ-7772365",
@@ -53835,17 +53851,17 @@
     "id": "УТ000052406",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "МИР ЦВЕТОВ КУСТОВАЯ 60 СМ",
-    "wholesalePrice": 374.34,
-    "extraPrice": 393.06,
-    "retailPrice": 467.93
+    "wholesalePrice": 320,
+    "extraPrice": 336,
+    "retailPrice": 400
   },
   {
     "id": "УТ000052409",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "МИР ЦВЕТОВ ОДНОГОЛОВАЯ 60 СМ",
-    "wholesalePrice": 108.05,
-    "extraPrice": 113.45,
-    "retailPrice": 135.06
+    "wholesalePrice": 124.97,
+    "extraPrice": 131.22,
+    "retailPrice": 156.22
   },
   {
     "id": "УТ000052413",
@@ -60382,6 +60398,14 @@
     "wholesalePrice": 776,
     "extraPrice": 814.8,
     "retailPrice": 970
+  },
+  {
+    "id": "УТ000054777",
+    "category": ".УПАКОВКА",
+    "name": "КОРОБКА № 2114",
+    "wholesalePrice": 330.58,
+    "extraPrice": 347.1,
+    "retailPrice": 413.22
   },
   {
     "id": "УТ000054778",
