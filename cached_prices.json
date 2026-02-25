@@ -8112,14 +8112,6 @@
     "retailPrice": 483.75
   },
   {
-    "id": "УТ000009608",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "ОПУНЦИЯ 17/45 СМ",
-    "wholesalePrice": 1404.81,
-    "extraPrice": 1475.05,
-    "retailPrice": 1756.01
-  },
-  {
     "id": "УТ000009610",
     "category": ".УПАКОВКА",
     "name": "ОРГАНЗА 70 СМ*10 М",
@@ -15118,6 +15110,14 @@
     "wholesalePrice": 1366.88,
     "extraPrice": 1435.23,
     "retailPrice": 1708.61
+  },
+  {
+    "id": "УТ000021175",
+    "category": "КОРЗИНА",
+    "name": "Корзина - 018603",
+    "wholesalePrice": 847.38,
+    "extraPrice": 889.74,
+    "retailPrice": 1059.22
   },
   {
     "id": "УТ000021176",
@@ -40246,6 +40246,14 @@
     "wholesalePrice": 47.21,
     "extraPrice": 49.57,
     "retailPrice": 59.02
+  },
+  {
+    "id": "УТ000042965",
+    "category": "..ТЮЛЬПАНЫ",
+    "name": "ОВ 10 ШТУК КОАС ТЮЛЬПАН дубл.",
+    "wholesalePrice": 159.44,
+    "extraPrice": 167.42,
+    "retailPrice": 199.31
   },
   {
     "id": "УТ000042974",
