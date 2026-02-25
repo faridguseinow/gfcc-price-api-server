@@ -15352,6 +15352,14 @@
     "retailPrice": 7065
   },
   {
+    "id": "УТ000021315",
+    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
+    "name": "ФЛОУ 60 см куст на воде",
+    "wholesalePrice": 130.78,
+    "extraPrice": 137.32,
+    "retailPrice": 163.48
+  },
+  {
     "id": "УТ000021316",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "РОМА VOORN-ROSES 60 см куст на воде",
@@ -36792,6 +36800,14 @@
     "retailPrice": 100.66
   },
   {
+    "id": "УТ000040231",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "ФРИДОМ-  70см ANNI ROSES.LRA.QLS.ATC.SPPH.ALLGF.EVR.RLH.TURS.GWFW.VDS.RDF.FDS 2.CNV.MON",
+    "wholesalePrice": 91.48,
+    "extraPrice": 96.06,
+    "retailPrice": 114.35
+  },
+  {
     "id": "УТ000040233",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ФРИДОМ-  80см ANNI ROSES.LRA.QLS.ATC.SPPH.ALLGF.EVR.RLH.TURS.GWFW.VDS.RDF.FDS 2.CNV.MON",
@@ -44520,14 +44536,6 @@
     "retailPrice": 489.64
   },
   {
-    "id": "УТ000046035",
-    "category": "ВАЗЫ И КЕРАМИКА",
-    "name": "ВАЗА № 1234",
-    "wholesalePrice": 464.72,
-    "extraPrice": 487.96,
-    "retailPrice": 580.9
-  },
-  {
     "id": "УТ000046036",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 1260",
@@ -44542,14 +44550,6 @@
     "wholesalePrice": 921.59,
     "extraPrice": 967.67,
     "retailPrice": 1151.99
-  },
-  {
-    "id": "УТ000046038",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "ФИЛЕБОДИУМ 12 СМ",
-    "wholesalePrice": 588.75,
-    "extraPrice": 618.19,
-    "retailPrice": 735.94
   },
   {
     "id": "УТ000046041",
@@ -46163,9 +46163,17 @@
     "id": "УТ000047740",
     "category": "МЯГКАЯ ИГРУШКА",
     "name": "Мягкая игрушка № OT8021/33",
-    "wholesalePrice": 1263.85,
-    "extraPrice": 1327.04,
-    "retailPrice": 1579.81
+    "wholesalePrice": 1294.47,
+    "extraPrice": 1359.19,
+    "retailPrice": 1618.08
+  },
+  {
+    "id": "УТ000047741",
+    "category": "МЯГКАЯ ИГРУШКА",
+    "name": "Мягкая игрушка № OT8021/50",
+    "wholesalePrice": 2509.65,
+    "extraPrice": 2635.13,
+    "retailPrice": 3137.06
   },
   {
     "id": "УТ000047742",
@@ -48363,17 +48371,17 @@
     "id": "УТ000049132",
     "category": "МЯГКАЯ ИГРУШКА",
     "name": "Мягкая игрушка № OT8032/40",
-    "wholesalePrice": 1081.73,
-    "extraPrice": 1135.82,
-    "retailPrice": 1352.16
+    "wholesalePrice": 1117.06,
+    "extraPrice": 1172.91,
+    "retailPrice": 1396.32
   },
   {
     "id": "УТ000049133",
     "category": "МЯГКАЯ ИГРУШКА",
     "name": "Мягкая игрушка № OT8032/62",
-    "wholesalePrice": 1624.17,
-    "extraPrice": 1705.37,
-    "retailPrice": 2030.21
+    "wholesalePrice": 1677.55,
+    "extraPrice": 1761.42,
+    "retailPrice": 2096.93
   },
   {
     "id": "УТ000049139",
@@ -62960,49 +62968,9 @@
     "retailPrice": 1699.53
   },
   {
-    "id": "УТ000054952",
-    "category": "МЯГКАЯ ИГРУШКА",
-    "name": "Мягкая игрушка № OT8032/40",
-    "wholesalePrice": 1117.06,
-    "extraPrice": 1172.91,
-    "retailPrice": 1396.32
-  },
-  {
-    "id": "УТ000054953",
-    "category": "МЯГКАЯ ИГРУШКА",
-    "name": "Мягкая игрушка № OT8032/62",
-    "wholesalePrice": 1677.55,
-    "extraPrice": 1761.42,
-    "retailPrice": 2096.93
-  },
-  {
     "id": "УТ000054954",
     "category": "МЯГКАЯ ИГРУШКА",
     "name": "Мягкая игрушка № OT8018/70",
-    "wholesalePrice": 2509.65,
-    "extraPrice": 2635.13,
-    "retailPrice": 3137.06
-  },
-  {
-    "id": "УТ000054955",
-    "category": "МЯГКАЯ ИГРУШКА",
-    "name": "Мягкая игрушка № OT8021/25",
-    "wholesalePrice": 1079.38,
-    "extraPrice": 1133.34,
-    "retailPrice": 1349.22
-  },
-  {
-    "id": "УТ000054956",
-    "category": "МЯГКАЯ ИГРУШКА",
-    "name": "Мягкая игрушка № OT8021/33",
-    "wholesalePrice": 1294.47,
-    "extraPrice": 1359.19,
-    "retailPrice": 1618.08
-  },
-  {
-    "id": "УТ000054957",
-    "category": "МЯГКАЯ ИГРУШКА",
-    "name": "Мягкая игрушка № OT8021/50",
     "wholesalePrice": 2509.65,
     "extraPrice": 2635.13,
     "retailPrice": 3137.06
