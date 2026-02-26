@@ -2808,14 +2808,6 @@
     "retailPrice": 187.69
   },
   {
-    "id": "УТ000005434",
-    "category": "..,РОЗА ,МЕСТНАЯ",
-    "name": "МИСС БОМБАСТИК 60 см АРТ РОССЕ",
-    "wholesalePrice": 189.51,
-    "extraPrice": 198.98,
-    "retailPrice": 236.88
-  },
-  {
     "id": "УТ000005436",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "МИСС БОМБАСТИК 60 см РОЗА Кен/Куст. (RLR)",
@@ -2824,28 +2816,12 @@
     "retailPrice": 229.51
   },
   {
-    "id": "УТ000005439",
-    "category": "..,РОЗА ,МЕСТНАЯ",
-    "name": "МИСС БОМБАСТИК 70 см АРТ РОССЕ",
-    "wholesalePrice": 189.51,
-    "extraPrice": 198.98,
-    "retailPrice": 236.88
-  },
-  {
     "id": "УТ000005441",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "МИСС БОМБАСТИК 70 см РОЗА Кен/Куст. (RLR)",
     "wholesalePrice": 202.28,
     "extraPrice": 212.39,
     "retailPrice": 252.85
-  },
-  {
-    "id": "УТ000005442",
-    "category": "..,РОЗА ,МЕСТНАЯ",
-    "name": "МИСС БОМБАСТИК 90 см АРТ РОССЕ",
-    "wholesalePrice": 189.51,
-    "extraPrice": 198.98,
-    "retailPrice": 236.88
   },
   {
     "id": "УТ000005445",
@@ -6446,6 +6422,14 @@
     "wholesalePrice": 203.06,
     "extraPrice": 213.21,
     "retailPrice": 253.82
+  },
+  {
+    "id": "УТ000007320",
+    "category": ".УПАКОВКА",
+    "name": "БЕЛАТЕКС ЛЕНТА  ЛАКИРОВАННАЯ 2 СМ",
+    "wholesalePrice": 114.37,
+    "extraPrice": 120.08,
+    "retailPrice": 142.96
   },
   {
     "id": "УТ000007321",
@@ -18214,14 +18198,6 @@
     "wholesalePrice": 118.26,
     "extraPrice": 124.17,
     "retailPrice": 147.82
-  },
-  {
-    "id": "УТ000027364",
-    "category": "..,РОЗА ,МЕСТНАЯ",
-    "name": "МИСС БОМБАСТИК 80 см АРТ РОССЕ",
-    "wholesalePrice": 189.51,
-    "extraPrice": 198.98,
-    "retailPrice": 236.88
   },
   {
     "id": "УТ000027375",
@@ -44664,14 +44640,6 @@
     "retailPrice": 552.38
   },
   {
-    "id": "УТ000046034",
-    "category": "ВАЗЫ И КЕРАМИКА",
-    "name": "ВАЗА № 1229",
-    "wholesalePrice": 388.22,
-    "extraPrice": 407.63,
-    "retailPrice": 485.28
-  },
-  {
     "id": "УТ000046035",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 1234",
@@ -45592,22 +45560,6 @@
     "retailPrice": 106.98
   },
   {
-    "id": "УТ000046913",
-    "category": "..,РОЗА ,МЕСТНАЯ",
-    "name": "МИКС КУСТ 50 см АРТ РОССЕ",
-    "wholesalePrice": 250.74,
-    "extraPrice": 263.28,
-    "retailPrice": 313.43
-  },
-  {
-    "id": "УТ000046914",
-    "category": "..,РОЗА ,МЕСТНАЯ",
-    "name": "МИКС КУСТ 60 см АРТ РОССЕ",
-    "wholesalePrice": 255.75,
-    "extraPrice": 268.54,
-    "retailPrice": 319.69
-  },
-  {
     "id": "УТ000046916",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ПЛАСТИК ГОРШОК № 012",
@@ -45808,14 +45760,6 @@
     "retailPrice": 3209.25
   },
   {
-    "id": "УТ000047050",
-    "category": "..,РОЗА ,МЕСТНАЯ",
-    "name": "МИКС КУСТ 70 см АРТ РОССЕ",
-    "wholesalePrice": 275.81,
-    "extraPrice": 289.6,
-    "retailPrice": 344.76
-  },
-  {
     "id": "УТ000047101",
     "category": "..РОЗА КЕНИЯ",
     "name": "МАДАМ РЕД 50 см РОЗА Кения (HERITAGE)",
@@ -45862,22 +45806,6 @@
     "wholesalePrice": 126.04,
     "extraPrice": 132.34,
     "retailPrice": 157.55
-  },
-  {
-    "id": "УТ000047152",
-    "category": "..,РОЗА ,МЕСТНАЯ",
-    "name": "МИКС КУСТ 80 см АРТ РОССЕ",
-    "wholesalePrice": 275.81,
-    "extraPrice": 289.6,
-    "retailPrice": 344.76
-  },
-  {
-    "id": "УТ000047153",
-    "category": "..,РОЗА ,МЕСТНАЯ",
-    "name": "МИКС КУСТ 90 см АРТ РОССЕ",
-    "wholesalePrice": 275.81,
-    "extraPrice": 289.6,
-    "retailPrice": 344.76
   },
   {
     "id": "УТ000047198",
