@@ -10232,14 +10232,6 @@
     "retailPrice": 136.85
   },
   {
-    "id": "УТ000013488",
-    "category": ".УПАКОВКА",
-    "name": "РОЛИК ЦВЕТНОЙ 200 ГР",
-    "wholesalePrice": 86.02,
-    "extraPrice": 90.32,
-    "retailPrice": 107.53
-  },
-  {
     "id": "УТ000013490",
     "category": ".УПАКОВКА",
     "name": "КАРКАС РОТАНГОВЫЙ КРУГЛЫЙ БОЛЬШОЙ",
@@ -21142,6 +21134,14 @@
     "wholesalePrice": 125.25,
     "extraPrice": 131.51,
     "retailPrice": 156.56
+  },
+  {
+    "id": "УТ000028865",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "ХЭРМОСА 40см",
+    "wholesalePrice": 64.75,
+    "extraPrice": 67.99,
+    "retailPrice": 80.94
   },
   {
     "id": "УТ000028866",
@@ -51968,6 +51968,14 @@
     "retailPrice": 77.22
   },
   {
+    "id": "УТ000051222",
+    "category": "..РОЗА КЕНИЯ",
+    "name": "РЕВИВАЛЬ 60 см РОЗА Кения (AZALI)",
+    "wholesalePrice": 66.47,
+    "extraPrice": 69.79,
+    "retailPrice": 83.09
+  },
+  {
     "id": "УТ000051223",
     "category": "..РОЗА КЕНИЯ",
     "name": "АРКТИКА  50 см РОЗА Кения (AZALI)",
@@ -59318,14 +59326,6 @@
     "wholesalePrice": 182.39,
     "extraPrice": 191.51,
     "retailPrice": 227.98
-  },
-  {
-    "id": "УТ000053547",
-    "category": ".УПАКОВКА",
-    "name": "РОЛИК ТОНИРОВКА МАТОВЫЙ 400 ГР",
-    "wholesalePrice": 117.3,
-    "extraPrice": 123.17,
-    "retailPrice": 146.63
   },
   {
     "id": "УТ000053552",
