@@ -3208,14 +3208,6 @@
     "retailPrice": 243.35
   },
   {
-    "id": "УТ000005738",
-    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
-    "name": "ФАЕВОРКС 70 см РОЗА Кен/Куст. (GOLDEN)",
-    "wholesalePrice": 130.31,
-    "extraPrice": 136.83,
-    "retailPrice": 162.89
-  },
-  {
     "id": "УТ000005740",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "ФАЕВОРКС 70 см РОЗА Кен/Куст. (RLR)",
@@ -7312,14 +7304,6 @@
     "retailPrice": 110.88
   },
   {
-    "id": "УТ000008571",
-    "category": "..РОЗА КЕНИЯ",
-    "name": "СИЕРРА МИКС 40 см РОЗА Кения (SIERRA)",
-    "wholesalePrice": 38.47,
-    "extraPrice": 40.39,
-    "retailPrice": 48.08
-  },
-  {
     "id": "УТ000008572",
     "category": "..РОЗА КЕНИЯ",
     "name": "СИЕРРА МИКС 50 см РОЗА Кения (SIERRA)",
@@ -8907,9 +8891,9 @@
     "id": "УТ000010368",
     "category": "..,РАЗНОЕ",
     "name": "МИМОЗА АБХАЗИЯ",
-    "wholesalePrice": 4553,
-    "extraPrice": 4780.65,
-    "retailPrice": 5691.25
+    "wholesalePrice": 5200,
+    "extraPrice": 5460,
+    "retailPrice": 6500
   },
   {
     "id": "УТ000010373",
@@ -21312,6 +21296,14 @@
     "retailPrice": 178.45
   },
   {
+    "id": "УТ000028894",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "ЛУСИАНА -  50 см",
+    "wholesalePrice": 78.53,
+    "extraPrice": 82.46,
+    "retailPrice": 98.16
+  },
+  {
     "id": "УТ000028895",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ЛУСИАНА -  60 см",
@@ -22022,14 +22014,6 @@
     "wholesalePrice": 76.13,
     "extraPrice": 79.94,
     "retailPrice": 95.16
-  },
-  {
-    "id": "УТ000029110",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "САЛМА -  60 см",
-    "wholesalePrice": 91.15,
-    "extraPrice": 95.71,
-    "retailPrice": 113.94
   },
   {
     "id": "УТ000029111",
@@ -26448,14 +26432,6 @@
     "retailPrice": 628.98
   },
   {
-    "id": "УТ000033085",
-    "category": "ВАЗЫ И КЕРАМИКА",
-    "name": "ВАЗА № 1933",
-    "wholesalePrice": 633.5,
-    "extraPrice": 665.17,
-    "retailPrice": 791.87
-  },
-  {
     "id": "УТ000033091",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 2147",
@@ -27352,6 +27328,14 @@
     "retailPrice": 171.14
   },
   {
+    "id": "УТ000033922",
+    "category": ",Сортовой",
+    "name": "МЗУРИ СОРТОВОЙ 40 см (MZURRIE)",
+    "wholesalePrice": 32.19,
+    "extraPrice": 33.79,
+    "retailPrice": 40.23
+  },
+  {
     "id": "УТ000033925",
     "category": ",Сортовой",
     "name": "ХЕРИТАДЖ СОРТОВОЙ 40 см РОЗА Кения (HERITAGE)",
@@ -27502,6 +27486,14 @@
     "wholesalePrice": 109.9,
     "extraPrice": 115.4,
     "retailPrice": 137.38
+  },
+  {
+    "id": "УТ000033959",
+    "category": ",Сортовой",
+    "name": "ГОЛДЕН 70 см СОРТОВОЙ РОЗА Кен/Куст. (GOLDEN)",
+    "wholesalePrice": 130.31,
+    "extraPrice": 136.83,
+    "retailPrice": 162.89
   },
   {
     "id": "УТ000033968",
@@ -35736,14 +35728,6 @@
     "retailPrice": 165.63
   },
   {
-    "id": "УТ000039870",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "КОТТОН ЭКСПРЕШН - 50см ANNI ROSES.LRA.QLS.ATC.SPPH.ALLGF.EVR.RLH.TURS.GWFW.VDS.RDF.FDS 2.CNV.MON",
-    "wholesalePrice": 110.12,
-    "extraPrice": 115.63,
-    "retailPrice": 137.65
-  },
-  {
     "id": "УТ000039871",
     "category": "..РОЗА ЭКВАДОР",
     "name": "КОТТОН ЭКСПРЕШН - 60см ANNI ROSES.LRA.QLS.ATC.SPPH.ALLGF.EVR.RLH.TURS.GWFW.VDS.RDF.FDS 2.CNV.MON",
@@ -35846,14 +35830,6 @@
     "wholesalePrice": 95.82,
     "extraPrice": 100.62,
     "retailPrice": 119.78
-  },
-  {
-    "id": "УТ000039902",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ЛИМОНАД-  70см ANNI ROSES.LRA.QLS.ATC.SPPH.ALLGF.EVR.RLH.TURS.GWFW.VDS.RDF.FDS 2.CNV.MON",
-    "wholesalePrice": 115.45,
-    "extraPrice": 121.22,
-    "retailPrice": 144.31
   },
   {
     "id": "УТ000039906",
@@ -37182,14 +37158,6 @@
     "wholesalePrice": 66.3,
     "extraPrice": 69.62,
     "retailPrice": 82.88
-  },
-  {
-    "id": "УТ000040482",
-    "category": "..РОЗА КЕНИЯ",
-    "name": "ЭВЕР РЕД 50 см РОЗА Кения (EVER FLORA)",
-    "wholesalePrice": 46.32,
-    "extraPrice": 48.63,
-    "retailPrice": 57.89
   },
   {
     "id": "УТ000040483",
@@ -39400,14 +39368,6 @@
     "retailPrice": 73.59
   },
   {
-    "id": "УТ000041893",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "КАРПИ ДИЕМ  ТЮЛЬПАН энкл.",
-    "wholesalePrice": 54.56,
-    "extraPrice": 57.29,
-    "retailPrice": 68.2
-  },
-  {
     "id": "УТ000041895",
     "category": "..ТЮЛЬПАНЫ",
     "name": "САНДОР  ТЮЛЬПАН энкл.",
@@ -39942,6 +39902,14 @@
     "wholesalePrice": 494.55,
     "extraPrice": 519.28,
     "retailPrice": 618.19
+  },
+  {
+    "id": "УТ000042435",
+    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
+    "name": "ЮККА 27/145 СМ",
+    "wholesalePrice": 6565.74,
+    "extraPrice": 6894.03,
+    "retailPrice": 8207.18
   },
   {
     "id": "УТ000042453",
@@ -43720,22 +43688,6 @@
     "retailPrice": 160.93
   },
   {
-    "id": "УТ000045464",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ПАНДОРА (ТЕССА)-70см",
-    "wholesalePrice": 146.59,
-    "extraPrice": 153.92,
-    "retailPrice": 183.24
-  },
-  {
-    "id": "УТ000045468",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ПАНДОРА (ТЕССА)-80см",
-    "wholesalePrice": 158.76,
-    "extraPrice": 166.7,
-    "retailPrice": 198.45
-  },
-  {
     "id": "УТ000045471",
     "category": "..РОЗА КЕНИЯ",
     "name": "МИКС 40 см РОЗА Кения (MERIDIAN)",
@@ -44832,14 +44784,6 @@
     "retailPrice": 79.48
   },
   {
-    "id": "УТ000046409",
-    "category": "..ЦВЕТЫ КИТАЙ",
-    "name": "БАМБУК  КИТАЙ ПАЧКА",
-    "wholesalePrice": 1193.2,
-    "extraPrice": 1252.86,
-    "retailPrice": 1491.5
-  },
-  {
     "id": "УТ000046418",
     "category": "..ЦВЕТЫ КИТАЙ",
     "name": "ГВОЗДИКА ЗЕЛЕНАЯ КИТАЙ ПАЧКА",
@@ -45382,6 +45326,14 @@
     "wholesalePrice": 94.2,
     "extraPrice": 98.91,
     "retailPrice": 117.75
+  },
+  {
+    "id": "УТ000046863",
+    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
+    "name": "ПУШКИН 50 см куст на воде",
+    "wholesalePrice": 133.45,
+    "extraPrice": 140.12,
+    "retailPrice": 166.81
   },
   {
     "id": "УТ000046880",
@@ -46174,14 +46126,6 @@
     "wholesalePrice": 2509.65,
     "extraPrice": 2635.13,
     "retailPrice": 3137.06
-  },
-  {
-    "id": "УТ000047742",
-    "category": "МЯГКАЯ ИГРУШКА",
-    "name": "Мягкая игрушка № OT8019/25",
-    "wholesalePrice": 1089.58,
-    "extraPrice": 1144.06,
-    "retailPrice": 1361.98
   },
   {
     "id": "УТ000047743",
@@ -48966,14 +48910,6 @@
     "wholesalePrice": 204.1,
     "extraPrice": 214.31,
     "retailPrice": 255.13
-  },
-  {
-    "id": "УТ000049743",
-    "category": "ДЕКОР",
-    "name": "СВЕЧИ № 4528.",
-    "wholesalePrice": 355.39,
-    "extraPrice": 373.16,
-    "retailPrice": 444.24
   },
   {
     "id": "УТ000049746",
@@ -52192,14 +52128,6 @@
     "retailPrice": 13431.62
   },
   {
-    "id": "УТ000051295",
-    "category": "..ЦВЕТЫ КИТАЙ",
-    "name": "ГИПСОФИЛА КИТАЙ ПАЧКА",
-    "wholesalePrice": 1099,
-    "extraPrice": 1153.95,
-    "retailPrice": 1373.75
-  },
-  {
     "id": "УТ000051302",
     "category": "..РОЗА КЕНИЯ",
     "name": "РЕВИВАЛЬ 50 см РОЗА Кения (CREDIBLE)",
@@ -55334,6 +55262,14 @@
     "wholesalePrice": 236.29,
     "extraPrice": 248.1,
     "retailPrice": 295.36
+  },
+  {
+    "id": "УТ000052077",
+    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
+    "name": "ГИСЕЛЕ 70 см РОЗА Кен/Куст. (KAREN)",
+    "wholesalePrice": 154.65,
+    "extraPrice": 162.38,
+    "retailPrice": 193.31
   },
   {
     "id": "УТ000052078",
