@@ -499,9 +499,9 @@
     "id": "УТ000003066",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 1539",
-    "wholesalePrice": 431.75,
-    "extraPrice": 453.34,
-    "retailPrice": 539.69
+    "wholesalePrice": 549.5,
+    "extraPrice": 576.98,
+    "retailPrice": 686.88
   },
   {
     "id": "УТ000003067",
@@ -1051,9 +1051,9 @@
     "id": "УТ000003231",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 2039",
-    "wholesalePrice": 785,
-    "extraPrice": 824.25,
-    "retailPrice": 981.25
+    "wholesalePrice": 863.5,
+    "extraPrice": 906.68,
+    "retailPrice": 1079.38
   },
   {
     "id": "УТ000003233",
@@ -1275,17 +1275,17 @@
     "id": "УТ000003301",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 2294",
-    "wholesalePrice": 220.59,
-    "extraPrice": 231.61,
-    "retailPrice": 275.73
+    "wholesalePrice": 278.68,
+    "extraPrice": 292.61,
+    "retailPrice": 348.34
   },
   {
     "id": "УТ000003302",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 2295",
-    "wholesalePrice": 611.52,
-    "extraPrice": 642.09,
-    "retailPrice": 764.39
+    "wholesalePrice": 628,
+    "extraPrice": 659.4,
+    "retailPrice": 785
   },
   {
     "id": "УТ000003303",
@@ -1299,9 +1299,9 @@
     "id": "УТ000003305",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 2297",
-    "wholesalePrice": 946.71,
-    "extraPrice": 994.05,
-    "retailPrice": 1183.39
+    "wholesalePrice": 989.1,
+    "extraPrice": 1038.56,
+    "retailPrice": 1236.38
   },
   {
     "id": "УТ000003306",
@@ -13880,6 +13880,14 @@
     "retailPrice": 662.34
   },
   {
+    "id": "УТ000018702",
+    "category": "..ХРИЗАНТЕМА",
+    "name": "ЭББИ",
+    "wholesalePrice": 130.75,
+    "extraPrice": 137.29,
+    "retailPrice": 163.44
+  },
+  {
     "id": "УТ000018711",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ФРУТЕТТО (ТЕССА)- 60см",
@@ -18400,14 +18408,6 @@
     "retailPrice": 247.28
   },
   {
-    "id": "УТ000027746",
-    "category": "..,РАЗНОЕ",
-    "name": "ЛИЗИАНТУС  БЕЛО СИНИЙ",
-    "wholesalePrice": 215.09,
-    "extraPrice": 225.84,
-    "retailPrice": 268.86
-  },
-  {
     "id": "УТ000027747",
     "category": "..,РАЗНОЕ",
     "name": "ЛИЗИАНТУС  ЗЕЛЕНЫЙ",
@@ -21838,6 +21838,14 @@
     "wholesalePrice": 68.04,
     "extraPrice": 71.45,
     "retailPrice": 85.05
+  },
+  {
+    "id": "УТ000029042",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "ПИНК МОНДИАЛЬ -  50 см",
+    "wholesalePrice": 89.66,
+    "extraPrice": 94.15,
+    "retailPrice": 112.08
   },
   {
     "id": "УТ000029043",
@@ -33248,6 +33256,14 @@
     "retailPrice": 225.69
   },
   {
+    "id": "УТ000038656",
+    "category": "..,РАЗНОЕ",
+    "name": "ДЕЛЬФИНИУМ СИНИЙ  70 см",
+    "wholesalePrice": 157,
+    "extraPrice": 164.85,
+    "retailPrice": 196.25
+  },
+  {
     "id": "УТ000038657",
     "category": "..,РАЗНОЕ",
     "name": "ДЕЛЬФИНИУМ СИНИЙ  60 см",
@@ -36830,14 +36846,6 @@
     "wholesalePrice": 119.16,
     "extraPrice": 125.11,
     "retailPrice": 148.94
-  },
-  {
-    "id": "УТ000040352",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "САЛМА-  60см ANNI ROSES.LRA.QLS.ATC.SPPH.ALLGF.EVR.RLH.TURS.GWFW.VDS.RDF.FDS 2.CNV.MON",
-    "wholesalePrice": 95.82,
-    "extraPrice": 100.62,
-    "retailPrice": 119.78
   },
   {
     "id": "УТ000040353",
@@ -42531,9 +42539,9 @@
     "id": "УТ000044858",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 2306",
-    "wholesalePrice": 578.55,
-    "extraPrice": 607.47,
-    "retailPrice": 723.18
+    "wholesalePrice": 785,
+    "extraPrice": 824.25,
+    "retailPrice": 981.25
   },
   {
     "id": "УТ000044863",
@@ -62330,7 +62338,7 @@
   {
     "id": "УТ000054794",
     "category": "..ХРИЗАНТЕМА",
-    "name": "РЕСК ПЕАЦ",
+    "name": "РЕСК ПЕАЧ",
     "wholesalePrice": 130.75,
     "extraPrice": 137.29,
     "retailPrice": 163.44
