@@ -3320,14 +3320,6 @@
     "retailPrice": 1278.88
   },
   {
-    "id": "УТ000005914",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "КАМБРИЯ МИКС 12 СМ",
-    "wholesalePrice": 1259.2,
-    "extraPrice": 1322.16,
-    "retailPrice": 1574
-  },
-  {
     "id": "УТ000005924",
     "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
     "name": "КАМЕЛИЯ 15/50 СМ",
@@ -7758,14 +7750,6 @@
     "wholesalePrice": 113.33,
     "extraPrice": 118.99,
     "retailPrice": 141.66
-  },
-  {
-    "id": "УТ000009463",
-    "category": "..РОЗА КЕНИЯ",
-    "name": "ЭВЕР РЕД 80 см РОЗА Кения (SUBATI)",
-    "wholesalePrice": 124.35,
-    "extraPrice": 130.56,
-    "retailPrice": 155.43
   },
   {
     "id": "УТ000009468",
@@ -41072,14 +41056,6 @@
     "retailPrice": 885.38
   },
   {
-    "id": "УТ000043948",
-    "category": "..РОЗА КЕНИЯ",
-    "name": "ЭСПЕРАНС 60 см РОЗА Кения (BARAKA)",
-    "wholesalePrice": 70.83,
-    "extraPrice": 74.37,
-    "retailPrice": 88.54
-  },
-  {
     "id": "УТ000043951",
     "category": "МЯГКАЯ ИГРУШКА",
     "name": "Мягкая игрушка № OT8006/50",
@@ -43486,6 +43462,14 @@
     "wholesalePrice": 59.03,
     "extraPrice": 61.98,
     "retailPrice": 73.78
+  },
+  {
+    "id": "УТ000045382",
+    "category": "..РОЗА КЕНИЯ",
+    "name": "МАДАМ РЕД 70 см РОЗА Кения (BARAKA)",
+    "wholesalePrice": 70.04,
+    "extraPrice": 73.55,
+    "retailPrice": 87.55
   },
   {
     "id": "УТ000045384",
@@ -52448,14 +52432,6 @@
     "retailPrice": 196.07
   },
   {
-    "id": "УТ000051658",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "Фрост -60 см",
-    "wholesalePrice": 114.21,
-    "extraPrice": 119.92,
-    "retailPrice": 142.76
-  },
-  {
     "id": "УТ000051660",
     "category": "..РОЗА ЭКВАДОР",
     "name": "Фрост -70 см",
@@ -61384,28 +61360,12 @@
     "retailPrice": 102.31
   },
   {
-    "id": "УТ000054374",
-    "category": "..РОЗА КЕНИЯ",
-    "name": "СВИТ РЕВИВАЛ 60 см РОЗА Кения (BARAKA)",
-    "wholesalePrice": 70.83,
-    "extraPrice": 74.37,
-    "retailPrice": 88.54
-  },
-  {
     "id": "УТ000054376",
     "category": "..РОЗА КЕНИЯ",
     "name": "РЕВИВАЛЬ 60 см РОЗА Кения (BARAKA)",
     "wholesalePrice": 70.83,
     "extraPrice": 74.37,
     "retailPrice": 88.54
-  },
-  {
-    "id": "УТ000054377",
-    "category": "..РОЗА КЕНИЯ",
-    "name": "РЕВИВАЛЬ 70 см РОЗА Кения (BARAKA)",
-    "wholesalePrice": 81.85,
-    "extraPrice": 85.94,
-    "retailPrice": 102.31
   },
   {
     "id": "УТ000054378",
@@ -61446,14 +61406,6 @@
     "wholesalePrice": 93.65,
     "extraPrice": 98.34,
     "retailPrice": 117.07
-  },
-  {
-    "id": "УТ000054458",
-    "category": "..РОЗА КЕНИЯ",
-    "name": "НЮ ОРЛЕАНС 60 см РОЗА Кения (BARAKA)",
-    "wholesalePrice": 70.83,
-    "extraPrice": 74.37,
-    "retailPrice": 88.54
   },
   {
     "id": "УТ000054459",
