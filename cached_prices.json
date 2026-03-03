@@ -7536,14 +7536,6 @@
     "retailPrice": 121.68
   },
   {
-    "id": "УТ000009159",
-    "category": "..РОЗА КЕНИЯ",
-    "name": "РОДОС 70 см РОЗА Кения (SUBATI)",
-    "wholesalePrice": 118.54,
-    "extraPrice": 124.46,
-    "retailPrice": 148.17
-  },
-  {
     "id": "УТ000009190",
     "category": "..РОЗА КЕНИЯ",
     "name": "РЕВИВАЛЬ 40 см РОЗА Кения (LAUREL)",
@@ -10006,6 +9998,14 @@
     "wholesalePrice": 78.5,
     "extraPrice": 82.43,
     "retailPrice": 98.13
+  },
+  {
+    "id": "УТ000011754",
+    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
+    "name": "СМЭШИНГ 60 см куст на воде",
+    "wholesalePrice": 113.59,
+    "extraPrice": 119.27,
+    "retailPrice": 141.99
   },
   {
     "id": "УТ000011756",
@@ -16856,6 +16856,14 @@
     "retailPrice": 294.38
   },
   {
+    "id": "УТ000025469",
+    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
+    "name": "ТРИНИТИ 40 см куст на воде",
+    "wholesalePrice": 62.8,
+    "extraPrice": 65.94,
+    "retailPrice": 78.5
+  },
+  {
     "id": "УТ000025506",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "ЛЕЙЛА 60 см куст на воде",
@@ -16886,14 +16894,6 @@
     "wholesalePrice": 130.75,
     "extraPrice": 137.29,
     "retailPrice": 163.44
-  },
-  {
-    "id": "УТ000025534",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "БАРБАДОС 70 см куст на воде",
-    "wholesalePrice": 204.1,
-    "extraPrice": 214.31,
-    "retailPrice": 255.13
   },
   {
     "id": "УТ000025679",
@@ -21408,14 +21408,6 @@
     "retailPrice": 161.25
   },
   {
-    "id": "УТ000028939",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "МЕДЖИК ТАЙМ -  80 см",
-    "wholesalePrice": 144.55,
-    "extraPrice": 151.78,
-    "retailPrice": 180.69
-  },
-  {
     "id": "УТ000028967",
     "category": "..РОЗА ЭКВАДОР",
     "name": "НАУТИКА 60 см",
@@ -22848,6 +22840,14 @@
     "retailPrice": 102.99
   },
   {
+    "id": "УТ000029555",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "ИГУАЗУ- 50см (СТАР,КОРОЗОН,МАТИЗ,ЭКО РОЗ,БЕЛЛА РОЗА,ЧАРМИНГ,СОФИ,ДАВИНЧИ.РОЯЛ)",
+    "wholesalePrice": 99.48,
+    "extraPrice": 104.46,
+    "retailPrice": 124.35
+  },
+  {
     "id": "УТ000029556",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ИГУАЗУ- 60см (СТАР,КОРОЗОН,МАТИЗ,ЭКО РОЗ,БЕЛЛА РОЗА,ЧАРМИНГ,СОФИ,ДАВИНЧИ.РОЯЛ)",
@@ -23990,22 +23990,6 @@
     "wholesalePrice": 130.69,
     "extraPrice": 137.22,
     "retailPrice": 163.36
-  },
-  {
-    "id": "УТ000029873",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ФИНАЛИ - 60 см (ТЕССА)",
-    "wholesalePrice": 106.4,
-    "extraPrice": 111.72,
-    "retailPrice": 133
-  },
-  {
-    "id": "УТ000029874",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ФИНАЛИ - 70 см (ТЕССА)",
-    "wholesalePrice": 126.33,
-    "extraPrice": 132.65,
-    "retailPrice": 157.91
   },
   {
     "id": "УТ000029891",
@@ -36168,14 +36152,6 @@
     "retailPrice": 160.16
   },
   {
-    "id": "УТ000040055",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ЭСПЕРАНСА-  80см ANNI ROSES.LRA.QLS.ATC.SPPH.ALLGF.EVR.RLH.TURS.GWFW.VDS.RDF.FDS 2.CNV.MON",
-    "wholesalePrice": 141.68,
-    "extraPrice": 148.77,
-    "retailPrice": 177.11
-  },
-  {
     "id": "УТ000040056",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ЭСПЕРАНСА-  90см ANNI ROSES.LRA.QLS.ATC.SPPH.ALLGF.EVR.RLH.TURS.GWFW.VDS.RDF.FDS 2.CNV.MON",
@@ -40678,6 +40654,14 @@
     "wholesalePrice": 682.95,
     "extraPrice": 717.1,
     "retailPrice": 853.69
+  },
+  {
+    "id": "УТ000043643",
+    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
+    "name": "ДЖУДИ VOORN ROSES 60 см куст на воде",
+    "wholesalePrice": 217.45,
+    "extraPrice": 228.32,
+    "retailPrice": 271.81
   },
   {
     "id": "УТ000043646",
