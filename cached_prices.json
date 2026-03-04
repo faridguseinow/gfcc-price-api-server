@@ -11752,14 +11752,6 @@
     "retailPrice": 3960
   },
   {
-    "id": "УТ000015149",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "ЦИТРУС КОЛОМОНДИН 21 СМ",
-    "wholesalePrice": 3960,
-    "extraPrice": 4158,
-    "retailPrice": 4950
-  },
-  {
     "id": "УТ000015153",
     "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
     "name": "ЦИТРУС КОЛОМОНДИН 15 СМ",
@@ -23294,6 +23286,14 @@
     "wholesalePrice": 176.25,
     "extraPrice": 185.06,
     "retailPrice": 220.31
+  },
+  {
+    "id": "УТ000029682",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "МУНСТОУН- 60 см (СТАР,КОРОЗОН,МАТИЗ,ЭКО РОЗ,БЕЛЛА РОЗА,ЧАРМИНГ,СОФИ,ДАВИНЧИ.РОЯЛ)",
+    "wholesalePrice": 132.45,
+    "extraPrice": 139.07,
+    "retailPrice": 165.56
   },
   {
     "id": "УТ000029683",
@@ -36166,22 +36166,6 @@
     "wholesalePrice": 149.24,
     "extraPrice": 156.71,
     "retailPrice": 186.56
-  },
-  {
-    "id": "УТ000040065",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ОПАЛА-  70см ANNI ROSES.LRA.QLS.ATC.SPPH.ALLGF.EVR.RLH.TURS.GWFW.VDS.RDF.FDS 2.CNV.MON",
-    "wholesalePrice": 120.3,
-    "extraPrice": 126.32,
-    "retailPrice": 150.38
-  },
-  {
-    "id": "УТ000040067",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ОПАЛА-  80см ANNI ROSES.LRA.QLS.ATC.SPPH.ALLGF.EVR.RLH.TURS.GWFW.VDS.RDF.FDS 2.CNV.MON",
-    "wholesalePrice": 133.92,
-    "extraPrice": 140.62,
-    "retailPrice": 167.4
   },
   {
     "id": "УТ000040074",
