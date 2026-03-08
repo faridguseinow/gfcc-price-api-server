@@ -240,6 +240,14 @@
     "retailPrice": 1003.75
   },
   {
+    "id": "УТ000002716",
+    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
+    "name": "АНТУРИУМ СПИРИТ 14 СМ",
+    "wholesalePrice": 1232.61,
+    "extraPrice": 1294.24,
+    "retailPrice": 1540.76
+  },
+  {
     "id": "УТ000002721",
     "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
     "name": "АНТУРИУМ ЛИЛЛИ 14 СМ",
@@ -8686,22 +8694,6 @@
     "wholesalePrice": 32.92,
     "extraPrice": 34.57,
     "retailPrice": 41.15
-  },
-  {
-    "id": "УТ000010257",
-    "category": "..,РАЗНОЕ",
-    "name": "ИРИС  КАСАБЛАНКА",
-    "wholesalePrice": 44.97,
-    "extraPrice": 47.22,
-    "retailPrice": 56.21
-  },
-  {
-    "id": "УТ000010258",
-    "category": "..,РАЗНОЕ",
-    "name": "ИРИС ЖЕЛТЫЙ",
-    "wholesalePrice": 39.35,
-    "extraPrice": 41.31,
-    "retailPrice": 49.18
   },
   {
     "id": "УТ000010303",
@@ -25560,14 +25552,6 @@
     "retailPrice": 564.11
   },
   {
-    "id": "УТ000032432",
-    "category": "..,ЛИЛИЯ",
-    "name": "САРА БЕРНАРД ОР ДУ ЛИЛИЯ",
-    "wholesalePrice": 393.47,
-    "extraPrice": 413.14,
-    "retailPrice": 491.84
-  },
-  {
     "id": "УТ000032438",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "ГИСЕЛИ  50 см куст на воде",
@@ -26478,14 +26462,6 @@
     "wholesalePrice": 171.19,
     "extraPrice": 179.75,
     "retailPrice": 213.99
-  },
-  {
-    "id": "УТ000033343",
-    "category": "..РОЗА КЕНИЯ",
-    "name": "АЛЬБАТРОС 50 см РОЗА Кения (SUBATI)",
-    "wholesalePrice": 60.23,
-    "extraPrice": 63.24,
-    "retailPrice": 75.28
   },
   {
     "id": "УТ000033349",
@@ -40464,14 +40440,6 @@
     "retailPrice": 9245.54
   },
   {
-    "id": "УТ000043597",
-    "category": "..,РАЗНОЕ",
-    "name": "ИРИС ПОДМОСКОВЬЕ",
-    "wholesalePrice": 41.76,
-    "extraPrice": 43.84,
-    "retailPrice": 52.2
-  },
-  {
     "id": "УТ000043598",
     "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
     "name": "ЦИКЛОМЕН ЭКСКЛЮЗИВ 10 СМ",
@@ -42712,14 +42680,6 @@
     "retailPrice": 69.76
   },
   {
-    "id": "УТ000045082",
-    "category": "..,РАЗНОЕ",
-    "name": "ГЕРБЕРА ДАЙМОНД ПАСТИНИ",
-    "wholesalePrice": 123.66,
-    "extraPrice": 129.85,
-    "retailPrice": 154.58
-  },
-  {
     "id": "УТ000045088",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 2003272431",
@@ -43992,28 +43952,12 @@
     "retailPrice": 116.44
   },
   {
-    "id": "УТ000045847",
-    "category": "..,РАЗНОЕ",
-    "name": "ГЕРБЕРА ДАЙМОНД СПАЙДЕР",
-    "wholesalePrice": 123.66,
-    "extraPrice": 129.85,
-    "retailPrice": 154.58
-  },
-  {
     "id": "УТ000045853",
     "category": "..,РАЗНОЕ",
     "name": "АНТУРИУМ ТЕКИЛА *12                       (Anth A Tequlia)",
     "wholesalePrice": 297.11,
     "extraPrice": 311.97,
     "retailPrice": 371.39
-  },
-  {
-    "id": "УТ000045900",
-    "category": "..,РАЗНОЕ",
-    "name": "ГЕРБЕРА ДАЙМОНД",
-    "wholesalePrice": 114.83,
-    "extraPrice": 120.57,
-    "retailPrice": 143.54
   },
   {
     "id": "УТ000045905",
@@ -44238,14 +44182,6 @@
     "wholesalePrice": 797.38,
     "extraPrice": 837.25,
     "retailPrice": 996.72
-  },
-  {
-    "id": "УТ000046143",
-    "category": "..,РАЗНОЕ",
-    "name": "ГЕРБЕРА ДАЙМОНД ПОМПОНИ",
-    "wholesalePrice": 118.84,
-    "extraPrice": 124.79,
-    "retailPrice": 148.56
   },
   {
     "id": "УТ000046144",
@@ -45024,14 +44960,6 @@
     "retailPrice": 170.64
   },
   {
-    "id": "УТ000046880",
-    "category": "..,ЛИЛИЯ",
-    "name": "АМИСТАД ОР ДУ ЛИЛИЯ",
-    "wholesalePrice": 461.73,
-    "extraPrice": 484.81,
-    "retailPrice": 577.16
-  },
-  {
     "id": "УТ000046888",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "ВИВИАНА  70 см куст на воде",
@@ -45240,14 +45168,6 @@
     "retailPrice": 301.13
   },
   {
-    "id": "УТ000047004",
-    "category": "..,ЛИЛИЯ",
-    "name": "ИНВИКТУС ОТ ЛИЛИЯ",
-    "wholesalePrice": 449.68,
-    "extraPrice": 472.16,
-    "retailPrice": 562.1
-  },
-  {
     "id": "УТ000047026",
     "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
     "name": "САНСЕВИЕРИЯ ЦИЛИНДРИЧЕСКАЯ ( сп,ст ) 12 СМ",
@@ -45291,14 +45211,6 @@
     "id": "УТ000047137",
     "category": "..,ЛИЛИЯ",
     "name": "НЭШВИЛЛ ЛА ЛИЛИЯ",
-    "wholesalePrice": 130.09,
-    "extraPrice": 136.59,
-    "retailPrice": 162.61
-  },
-  {
-    "id": "УТ000047138",
-    "category": "..,ЛИЛИЯ",
-    "name": "БРИНДИСИ ЛА ЛИЛИЯ",
     "wholesalePrice": 130.09,
     "extraPrice": 136.59,
     "retailPrice": 162.61
@@ -51296,14 +51208,6 @@
     "retailPrice": 169.63
   },
   {
-    "id": "УТ000051108",
-    "category": "ВАЗЫ И КЕРАМИКА",
-    "name": "ГОРШОК  № 2514",
-    "wholesalePrice": 611.08,
-    "extraPrice": 641.64,
-    "retailPrice": 763.85
-  },
-  {
     "id": "УТ000051117",
     "category": "ГРУНТ И УДОБРЕНИЯ",
     "name": "ДЛЯ ГОЛУБИКИ 1 Л (ВЕДРО)",
@@ -55734,14 +55638,6 @@
     "wholesalePrice": 706.64,
     "extraPrice": 741.97,
     "retailPrice": 883.3
-  },
-  {
-    "id": "УТ000052791",
-    "category": "..,ЛИЛИЯ",
-    "name": "АЙМАКС ОР ЛИЛИЯ",
-    "wholesalePrice": 437.64,
-    "extraPrice": 459.52,
-    "retailPrice": 547.04
   },
   {
     "id": "УТ000052792",
