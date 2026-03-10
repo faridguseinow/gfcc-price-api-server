@@ -13600,14 +13600,6 @@
     "retailPrice": 240
   },
   {
-    "id": "УТ000019087",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "МЭНСФИЛД куст 50 см куст на воде (FLORA OLA)",
-    "wholesalePrice": 117.04,
-    "extraPrice": 122.89,
-    "retailPrice": 146.3
-  },
-  {
     "id": "УТ000019089",
     "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
     "name": "МОНСТЕРА 12 СМ МАНКИ",
@@ -60294,5 +60286,37 @@
     "wholesalePrice": 161.68,
     "extraPrice": 169.76,
     "retailPrice": 202.1
+  },
+  {
+    "id": "УТ000054991",
+    "category": "..СУХОЦВЕТЫ",
+    "name": "Роза Китай Короба мини",
+    "wholesalePrice": 694.47,
+    "extraPrice": 729.19,
+    "retailPrice": 868.09
+  },
+  {
+    "id": "УТ000054992",
+    "category": "..СУХОЦВЕТЫ",
+    "name": "Роза Китай Короба большой",
+    "wholesalePrice": 736.56,
+    "extraPrice": 773.39,
+    "retailPrice": 920.7
+  },
+  {
+    "id": "УТ000054993",
+    "category": "..СУХОЦВЕТЫ",
+    "name": "гортензия китай коробка",
+    "wholesalePrice": 1641.48,
+    "extraPrice": 1723.55,
+    "retailPrice": 2051.85
+  },
+  {
+    "id": "УТ000054994",
+    "category": "..СУХОЦВЕТЫ",
+    "name": "роза китай коробка эхтра",
+    "wholesalePrice": 849.57,
+    "extraPrice": 892.05,
+    "retailPrice": 1061.96
   }
 ]
