@@ -8656,6 +8656,14 @@
     "retailPrice": 41.1
   },
   {
+    "id": "УТ000010257",
+    "category": "..,РАЗНОЕ",
+    "name": "ИРИС  КАСАБЛАНКА",
+    "wholesalePrice": 44.91,
+    "extraPrice": 47.16,
+    "retailPrice": 56.14
+  },
+  {
     "id": "УТ000010303",
     "category": "..,РАЗНОЕ",
     "name": "КЛАРКИЯ",
@@ -41896,6 +41904,14 @@
     "retailPrice": 136.92
   },
   {
+    "id": "УТ000045082",
+    "category": "..,РАЗНОЕ",
+    "name": "ГЕРБЕРА ДАЙМОНД ПАСТИНИ",
+    "wholesalePrice": 123.51,
+    "extraPrice": 129.68,
+    "retailPrice": 154.39
+  },
+  {
     "id": "УТ000045088",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 2003272431",
@@ -42944,6 +42960,14 @@
     "retailPrice": 531.33
   },
   {
+    "id": "УТ000045847",
+    "category": "..,РАЗНОЕ",
+    "name": "ГЕРБЕРА ДАЙМОНД СПАЙДЕР",
+    "wholesalePrice": 123.51,
+    "extraPrice": 129.68,
+    "retailPrice": 154.39
+  },
+  {
     "id": "УТ000045853",
     "category": "..,РАЗНОЕ",
     "name": "АНТУРИУМ ТЕКИЛА *12                       (Anth A Tequlia)",
@@ -43158,6 +43182,14 @@
     "wholesalePrice": 796.39,
     "extraPrice": 836.21,
     "retailPrice": 995.48
+  },
+  {
+    "id": "УТ000046143",
+    "category": "..,РАЗНОЕ",
+    "name": "ГЕРБЕРА ДАЙМОНД ПОМПОНИ",
+    "wholesalePrice": 118.7,
+    "extraPrice": 124.63,
+    "retailPrice": 148.37
   },
   {
     "id": "УТ000046144",
@@ -44171,6 +44203,30 @@
     "id": "УТ000047137",
     "category": "..,ЛИЛИЯ",
     "name": "НЭШВИЛЛ ЛА ЛИЛИЯ",
+    "wholesalePrice": 129.92,
+    "extraPrice": 136.42,
+    "retailPrice": 162.41
+  },
+  {
+    "id": "УТ000047138",
+    "category": "..,ЛИЛИЯ",
+    "name": "БРИНДИСИ ЛА ЛИЛИЯ",
+    "wholesalePrice": 129.92,
+    "extraPrice": 136.42,
+    "retailPrice": 162.41
+  },
+  {
+    "id": "УТ000047139",
+    "category": "..,ЛИЛИЯ",
+    "name": "КОРТОНА ЛА ЛИЛИЯ",
+    "wholesalePrice": 129.92,
+    "extraPrice": 136.42,
+    "retailPrice": 162.41
+  },
+  {
+    "id": "УТ000047141",
+    "category": "..,ЛИЛИЯ",
+    "name": "ЛИТУВЕН ЛА ЛИЛИЯ",
     "wholesalePrice": 129.92,
     "extraPrice": 136.42,
     "retailPrice": 162.41
