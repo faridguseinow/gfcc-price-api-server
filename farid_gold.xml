@@ -1,5 +1,7 @@
-<PriceList date="12.03.2026 12:52:35">
+<PriceList date="12.03.2026 13:08:13">
 	<GroupsOfGoods>
+		<Group ID="ÓÒ000051051" Name="Àðõèâ ÁÓ" ParentID="           " ParentName=""/>
+		<Group ID="ÓÒ000002197" Name="ÄËß ÁÓÕÃÀËÒÅÐÈÈ" ParentID="ÓÒ000051051" ParentName="Àðõèâ ÁÓ"/>
 		<Group ID="ÓÒ000028416" Name="ÑÓÕÈÅ ÐÎÇÛ" ParentID="" ParentName=""/>
 		<Group ID="ÓÒ000032724" Name="..,ÐÎÇÀ ,ÌÅÑÒÍÀß" ParentID="" ParentName=""/>
 		<Group ID="ÓÒ000033204" Name="ÑÈËÈÊÎÍÎÂÛÅ ÖÂÅÒÛ" ParentID="" ParentName=""/>
@@ -3627,6 +3629,7 @@
 		<Item ID="ÓÒ000004707" Name="ÄÈÔÔÅÍÁÀÕÈß 12 ÑÌ" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="417,04" PriceRetail="521,30" PriceExt="437,89" ParentID="ÓÒ000002209" ParentName=".ÊÎÌÍÀÒÍÛÅ  ÐÀÑÒÅÍÈß"/>
 		<Item ID="ÓÒ000004711" Name="ÄÈÔÔÅÍÁÀÕÈß 17 ÑÌ" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="882,20" PriceRetail="1102,75" PriceExt="926,31" ParentID="ÓÒ000002209" ParentName=".ÊÎÌÍÀÒÍÛÅ  ÐÀÑÒÅÍÈß"/>
 		<Item ID="ÓÒ000004784" Name="ÄÐÀÖÅÍÀ ÁÈÊÎËÎÐ 11 ÑÌ" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="441,10" PriceRetail="551,38" PriceExt="463,16" ParentID="ÓÒ000002209" ParentName=".ÊÎÌÍÀÒÍÛÅ  ÐÀÑÒÅÍÈß"/>
+		<Item ID="ÓÒ000004785" Name="ÄÐÀÖÅÍÀ ÁÈÊÎËÎÐ 17/80 ÑÌ" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="1483,70" PriceRetail="1854,63" PriceExt="1557,89" ParentID="ÓÒ000002209" ParentName=".ÊÎÌÍÀÒÍÛÅ  ÐÀÑÒÅÍÈß"/>
 		<Item ID="ÓÒ000004800" Name="ÄÐÀÖÅÍÀ ÃÎËÄÅÍ ÊÎÑÒ 11 ÑÌ" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="493,23" PriceRetail="616,54" PriceExt="517,89" ParentID="ÓÒ000002209" ParentName=".ÊÎÌÍÀÒÍÛÅ  ÐÀÑÒÅÍÈß"/>
 		<Item ID="ÓÒ000004802" Name="ÄÐÀÖÅÍÀ ÃÎËÄÅÍ ÊÎÑÒ 17/80 ÑÌ" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="1764,40" PriceRetail="2205,50" PriceExt="1852,62" ParentID="ÓÒ000002209" ParentName=".ÊÎÌÍÀÒÍÛÅ  ÐÀÑÒÅÍÈß"/>
 		<Item ID="ÓÒ000004805" Name="ÄÐÀÖÅÍÀ ÃÎËÄÅÍ ÊÎÑÒ 24/160 ÑÌ" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="7458,60" PriceRetail="9323,25" PriceExt="7831,53" ParentID="ÓÒ000002209" ParentName=".ÊÎÌÍÀÒÍÛÅ  ÐÀÑÒÅÍÈß"/>
