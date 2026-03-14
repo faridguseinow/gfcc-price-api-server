@@ -2744,14 +2744,6 @@
     "retailPrice": 192.07
   },
   {
-    "id": "УТ000005411",
-    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
-    "name": "МИРАБЕЛЬ 50 см РОЗА Кен/Куст. (RLR)",
-    "wholesalePrice": 143.9,
-    "extraPrice": 151.1,
-    "retailPrice": 179.88
-  },
-  {
     "id": "УТ000005422",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "МИРАБЕЛЬ 70 см РОЗА Кен/Куст. (RLR)",
@@ -6467,25 +6459,25 @@
     "id": "УТ000007422",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЛИНИЯ РОЗЫ ОДНОГОЛОВАЯ.. 50 СМ",
-    "wholesalePrice": 104.87,
-    "extraPrice": 110.11,
-    "retailPrice": 131.09
+    "wholesalePrice": 70,
+    "extraPrice": 73.5,
+    "retailPrice": 87.5
   },
   {
     "id": "УТ000007425",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЛИНИЯ РОЗЫ ОДНОГОЛОВАЯ.. 60 СМ",
-    "wholesalePrice": 136.3,
-    "extraPrice": 143.11,
-    "retailPrice": 170.37
+    "wholesalePrice": 95,
+    "extraPrice": 99.75,
+    "retailPrice": 118.75
   },
   {
     "id": "УТ000007427",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЛИНИЯ РОЗЫ КУСТОВАЯ. 70 СМ",
-    "wholesalePrice": 292.72,
-    "extraPrice": 307.36,
-    "retailPrice": 365.9
+    "wholesalePrice": 243,
+    "extraPrice": 255.15,
+    "retailPrice": 303.75
   },
   {
     "id": "УТ000007428",
@@ -7035,9 +7027,9 @@
     "id": "УТ000008416",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЛИНИЯ РОЗЫ ОДНОГОЛОВАЯ. 40 СМ",
-    "wholesalePrice": 93.24,
-    "extraPrice": 97.91,
-    "retailPrice": 116.55
+    "wholesalePrice": 65.04,
+    "extraPrice": 68.29,
+    "retailPrice": 81.3
   },
   {
     "id": "УТ000008417",
@@ -9363,9 +9355,9 @@
     "id": "УТ000010833",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЛИНИЯ РОЗЫ ОДНОГОЛОВАЯ..80 СМ",
-    "wholesalePrice": 152.01,
-    "extraPrice": 159.62,
-    "retailPrice": 190.02
+    "wholesalePrice": 105,
+    "extraPrice": 110.25,
+    "retailPrice": 131.25
   },
   {
     "id": "УТ000011260",
@@ -10779,9 +10771,9 @@
     "id": "УТ000014022",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЛИНИЯ РОЗЫ КУСТОВАЯ. 60 СМ",
-    "wholesalePrice": 238.17,
-    "extraPrice": 250.08,
-    "retailPrice": 297.71
+    "wholesalePrice": 210,
+    "extraPrice": 220.5,
+    "retailPrice": 262.5
   },
   {
     "id": "УТ000014030",
@@ -25323,9 +25315,9 @@
     "id": "УТ000032102",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЛИНИЯ РОЗЫ КУСТОВАЯ. 80 СМ",
-    "wholesalePrice": 317.07,
-    "extraPrice": 332.92,
-    "retailPrice": 396.34
+    "wholesalePrice": 249,
+    "extraPrice": 261.45,
+    "retailPrice": 311.25
   },
   {
     "id": "УТ000032261",
@@ -28683,9 +28675,9 @@
     "id": "УТ000034885",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЛИНИЯ РОЗЫ ОДНОГОЛОВАЯ.. 70 СМ",
-    "wholesalePrice": 141.54,
-    "extraPrice": 148.61,
-    "retailPrice": 176.92
+    "wholesalePrice": 100,
+    "extraPrice": 105,
+    "retailPrice": 125
   },
   {
     "id": "УТ000034912",
@@ -34094,6 +34086,14 @@
     "wholesalePrice": 136.3,
     "extraPrice": 143.11,
     "retailPrice": 170.37
+  },
+  {
+    "id": "УТ000039234",
+    "category": "..,РОЗА ,МЕСТНАЯ",
+    "name": "ЧЕХОВСКИЙ САД КУСТОВАЯ  50 см",
+    "wholesalePrice": 235.12,
+    "extraPrice": 246.88,
+    "retailPrice": 293.9
   },
   {
     "id": "УТ000039237",
@@ -46896,220 +46896,12 @@
     "retailPrice": 653.45
   },
   {
-    "id": "УТ000048960",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "ХАМЕДОРЕЯ 9 СМ КИТАЙ",
-    "wholesalePrice": 194.31,
-    "extraPrice": 204.02,
-    "retailPrice": 242.88
-  },
-  {
-    "id": "УТ000048965",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "АГЛАОНЕМА 18 СМ КИТАЙ",
-    "wholesalePrice": 2141.44,
-    "extraPrice": 2248.51,
-    "retailPrice": 2676.8
-  },
-  {
     "id": "УТ000048968",
     "category": ".КОМНАТНЫЕ КИТАЙ",
     "name": "САНСЕВИЕРИЯ 11 СМ КИТАЙ",
     "wholesalePrice": 616.25,
     "extraPrice": 647.07,
     "retailPrice": 770.32
-  },
-  {
-    "id": "УТ000048970",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "СТРЕЛИЦИЯ 15 СМ КИТАЙ",
-    "wholesalePrice": 936.58,
-    "extraPrice": 983.4,
-    "retailPrice": 1170.72
-  },
-  {
-    "id": "УТ000048971",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "АЛОКАЗИЯ 15 СМ КИТАЙ",
-    "wholesalePrice": 1427.63,
-    "extraPrice": 1499.01,
-    "retailPrice": 1784.54
-  },
-  {
-    "id": "УТ000048972",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "АГЛАОНЕМА 16 СМ КИТАЙ",
-    "wholesalePrice": 1177.22,
-    "extraPrice": 1236.09,
-    "retailPrice": 1471.53
-  },
-  {
-    "id": "УТ000048973",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "ФИКУС ЛИРАТА 13/55 СМ КИТАЙ",
-    "wholesalePrice": 911.37,
-    "extraPrice": 956.94,
-    "retailPrice": 1139.22
-  },
-  {
-    "id": "УТ000048977",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "САНСЕВИЕРИЯ 23/75 СМ КИТАЙ",
-    "wholesalePrice": 1813.8,
-    "extraPrice": 1904.49,
-    "retailPrice": 2267.25
-  },
-  {
-    "id": "УТ000048979",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "СТРЕЛИЦИЯ 12 СМ КИТАЙ",
-    "wholesalePrice": 484.55,
-    "extraPrice": 508.78,
-    "retailPrice": 605.69
-  },
-  {
-    "id": "УТ000048980",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "БОНСАЙ 18 СМ КИТАЙ",
-    "wholesalePrice": 1453.64,
-    "extraPrice": 1526.33,
-    "retailPrice": 1817.06
-  },
-  {
-    "id": "УТ000048981",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "БАМБУК 12 СМ КИТАЙ",
-    "wholesalePrice": 804.06,
-    "extraPrice": 844.26,
-    "retailPrice": 1005.07
-  },
-  {
-    "id": "УТ000048984",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "АНТУРИУМ МИКС 12 СМ КИТАЙ",
-    "wholesalePrice": 481.3,
-    "extraPrice": 505.36,
-    "retailPrice": 601.62
-  },
-  {
-    "id": "УТ000048985",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "СПАТИФИЛЛИУМ 21 СМ КИТАЙ",
-    "wholesalePrice": 3378.83,
-    "extraPrice": 3547.77,
-    "retailPrice": 4223.54
-  },
-  {
-    "id": "УТ000048986",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "ФИКУС ЭЛАСТИКА МИКС 9 СМ КИТАЙ",
-    "wholesalePrice": 182.93,
-    "extraPrice": 192.07,
-    "retailPrice": 228.66
-  },
-  {
-    "id": "УТ000048992",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "АЛОКАЗИЯ ВАРИЕГАТА 12 СМ КИТАЙ",
-    "wholesalePrice": 709.75,
-    "extraPrice": 745.24,
-    "retailPrice": 887.19
-  },
-  {
-    "id": "УТ000048996",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "ПЕПЕРОМИЯ 11 СМ КИТАЙ",
-    "wholesalePrice": 356.91,
-    "extraPrice": 374.75,
-    "retailPrice": 446.13
-  },
-  {
-    "id": "УТ000049001",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "КАЛАТЕЯ МИКС 12 СМ КИТАЙ",
-    "wholesalePrice": 494.3,
-    "extraPrice": 519.02,
-    "retailPrice": 617.88
-  },
-  {
-    "id": "УТ000049004",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "РАДЕРМЕХЕРА 25/150 СМ КИТАЙ",
-    "wholesalePrice": 5226.78,
-    "extraPrice": 5488.12,
-    "retailPrice": 6533.47
-  },
-  {
-    "id": "УТ000049005",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "ФИКУС ШРИВЕРИАНА 9 СМ КИТАЙ",
-    "wholesalePrice": 244.71,
-    "extraPrice": 256.95,
-    "retailPrice": 305.89
-  },
-  {
-    "id": "УТ000049010",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "АЛОЕ 12 СМ КИТАЙ",
-    "wholesalePrice": 369.92,
-    "extraPrice": 388.41,
-    "retailPrice": 462.39
-  },
-  {
-    "id": "УТ000049011",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "ФИЛОДЕНДРОН БИРКИН 11 СМ КИТАЙ",
-    "wholesalePrice": 334.14,
-    "extraPrice": 350.85,
-    "retailPrice": 417.68
-  },
-  {
-    "id": "УТ000049013",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "РАДЕРМЕХЕРА 14 СМ КИТАЙ",
-    "wholesalePrice": 689.42,
-    "extraPrice": 723.9,
-    "retailPrice": 861.78
-  },
-  {
-    "id": "УТ000049014",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "АГЛАОНЕМА 12 СМ КИТАЙ",
-    "wholesalePrice": 793.49,
-    "extraPrice": 833.16,
-    "retailPrice": 991.86
-  },
-  {
-    "id": "УТ000049015",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "АЛОКАЗИЯ 11 СМ КИТАЙ",
-    "wholesalePrice": 439.83,
-    "extraPrice": 461.82,
-    "retailPrice": 549.79
-  },
-  {
-    "id": "УТ000049016",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "САНСЕВИЕРИЯ 14 СМ КИТАЙ",
-    "wholesalePrice": 969.1,
-    "extraPrice": 1017.55,
-    "retailPrice": 1211.37
-  },
-  {
-    "id": "УТ000049020",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "АГЛАОНЕМА 14 СМ КИТАЙ",
-    "wholesalePrice": 1028.45,
-    "extraPrice": 1079.87,
-    "retailPrice": 1285.56
-  },
-  {
-    "id": "УТ000049023",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "АСПЛЕНИУМ 9 СМ КИТАЙ",
-    "wholesalePrice": 233.33,
-    "extraPrice": 245,
-    "retailPrice": 291.66
   },
   {
     "id": "УТ000049088",
@@ -53960,86 +53752,6 @@
     "retailPrice": 176.34
   },
   {
-    "id": "УТ000052152",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "АГЛАОНЕМА 10 СМ КИТАЙ",
-    "wholesalePrice": 522.76,
-    "extraPrice": 548.9,
-    "retailPrice": 653.45
-  },
-  {
-    "id": "УТ000052153",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "АЛОКАЗИЯ 12 СМ КИТАЙ",
-    "wholesalePrice": 562.6,
-    "extraPrice": 590.73,
-    "retailPrice": 703.25
-  },
-  {
-    "id": "УТ000052161",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "ДРАЦЕНА МИКС 12 СМ КИТАЙ",
-    "wholesalePrice": 654.47,
-    "extraPrice": 687.19,
-    "retailPrice": 818.08
-  },
-  {
-    "id": "УТ000052168",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "РАДЕРМЕХЕРА 28/200 СМ КИТАЙ",
-    "wholesalePrice": 9824.29,
-    "extraPrice": 10315.51,
-    "retailPrice": 12280.37
-  },
-  {
-    "id": "УТ000052170",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "ПЕПЕРОМИЯ 14 СМ КИТАЙ",
-    "wholesalePrice": 515.44,
-    "extraPrice": 541.21,
-    "retailPrice": 644.3
-  },
-  {
-    "id": "УТ000052175",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "САНСЕВИЕРИЯ КОМПОЗИЦИЯ 18 СМ КИТАЙ",
-    "wholesalePrice": 1275.6,
-    "extraPrice": 1339.38,
-    "retailPrice": 1594.5
-  },
-  {
-    "id": "УТ000052180",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "СТРЕЛИЦИЯ 33/150 СМ КИТАЙ",
-    "wholesalePrice": 9097.47,
-    "extraPrice": 9552.34,
-    "retailPrice": 11371.84
-  },
-  {
-    "id": "УТ000052189",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "АСПЛЕНИУМ 16 СМ КИТАЙ",
-    "wholesalePrice": 714.63,
-    "extraPrice": 750.36,
-    "retailPrice": 893.28
-  },
-  {
-    "id": "УТ000052191",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "БОНСАЙ 22 СМ КИТАЙ (КЕРАМИКА)",
-    "wholesalePrice": 2727.62,
-    "extraPrice": 2864,
-    "retailPrice": 3409.52
-  },
-  {
-    "id": "УТ000052199",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "ПОРТУЛАКАРИЯ АФРА 14 СМ КИТАЙ",
-    "wholesalePrice": 681.29,
-    "extraPrice": 715.36,
-    "retailPrice": 851.62
-  },
-  {
     "id": "УТ000052205",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ВИКИ ГАРДЕНС 50",
@@ -54560,22 +54272,6 @@
     "retailPrice": 21.59
   },
   {
-    "id": "УТ000052684",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "АРЕКА 25/180 СМ КИТАЙ",
-    "wholesalePrice": 6500.75,
-    "extraPrice": 6825.79,
-    "retailPrice": 8125.94
-  },
-  {
-    "id": "УТ000052686",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "СУККУЛЕНТЫ 12 СМ КИТАЙ",
-    "wholesalePrice": 258.53,
-    "extraPrice": 271.46,
-    "retailPrice": 323.17
-  },
-  {
     "id": "УТ000052690",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "ЖЕССИ 60 см РОЗА Кен/Куст. (RLR)",
@@ -54624,14 +54320,6 @@
     "retailPrice": 138.8
   },
   {
-    "id": "УТ000052703",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "АГЛАОНЕМА 33/100 СМ КИТАЙ",
-    "wholesalePrice": 3689.39,
-    "extraPrice": 3873.86,
-    "retailPrice": 4611.74
-  },
-  {
     "id": "УТ000052704",
     "category": ".КОМНАТНЫЕ КИТАЙ",
     "name": "БАМБУК КОМПОЗИЦИЯ КИТАЙ",
@@ -54640,52 +54328,12 @@
     "retailPrice": 1797.75
   },
   {
-    "id": "УТ000052709",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "МУРАЯ 14 СМ  КИТАЙ",
-    "wholesalePrice": 385.36,
-    "extraPrice": 404.63,
-    "retailPrice": 481.7
-  },
-  {
-    "id": "УТ000052710",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "ПАХИРА КЕРАМИКА 22 СМ КИТАЙ",
-    "wholesalePrice": 1926,
-    "extraPrice": 2022.3,
-    "retailPrice": 2407.5
-  },
-  {
-    "id": "УТ000052711",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "СЕНЕКИО 11 СМ КИТАЙ",
-    "wholesalePrice": 384.55,
-    "extraPrice": 403.78,
-    "retailPrice": 480.69
-  },
-  {
     "id": "УТ000052712",
     "category": ".КОМНАТНЫЕ КИТАЙ",
     "name": "САНСЕВИЕРИЯ 18 СМ КИТАЙ",
     "wholesalePrice": 1245.52,
     "extraPrice": 1307.79,
     "retailPrice": 1556.9
-  },
-  {
-    "id": "УТ000052718",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "ШЛЮМБЕРГЕРА МИКС 14 СМ КИТАЙ",
-    "wholesalePrice": 511.38,
-    "extraPrice": 536.95,
-    "retailPrice": 639.22
-  },
-  {
-    "id": "УТ000052720",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "ПОРТУЛАКАРИЯ АФРА 12 СМ КИТАЙ",
-    "wholesalePrice": 650.4,
-    "extraPrice": 682.92,
-    "retailPrice": 813
   },
   {
     "id": "УТ000052729",
@@ -55128,62 +54776,6 @@
     "retailPrice": 178.74
   },
   {
-    "id": "УТ000053004",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "ДРАЦЕНА СОНГ ОФ ИНДИЯ 16 СМ КИТАЙ",
-    "wholesalePrice": 1677.22,
-    "extraPrice": 1761.08,
-    "retailPrice": 2096.52
-  },
-  {
-    "id": "УТ000053032",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "БАМБУК 14 СМ КИТАЙ",
-    "wholesalePrice": 1327.63,
-    "extraPrice": 1394.01,
-    "retailPrice": 1659.54
-  },
-  {
-    "id": "УТ000053035",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "САНСЕВИЕРИЯ 21 СМ КИТАЙ",
-    "wholesalePrice": 1956.08,
-    "extraPrice": 2053.88,
-    "retailPrice": 2445.1
-  },
-  {
-    "id": "УТ000053037",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "СПАТИФИЛЛИУМ 10 СМ КИТАЙ",
-    "wholesalePrice": 576.42,
-    "extraPrice": 605.24,
-    "retailPrice": 720.52
-  },
-  {
-    "id": "УТ000053040",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "БОНСАЙ 30 СМ КИТАЙ",
-    "wholesalePrice": 4114.59,
-    "extraPrice": 4320.32,
-    "retailPrice": 5143.24
-  },
-  {
-    "id": "УТ000053042",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "БАМБУК КЕРАМИКА 10 СМ КИТАЙ",
-    "wholesalePrice": 682.11,
-    "extraPrice": 716.21,
-    "retailPrice": 852.63
-  },
-  {
-    "id": "УТ000053043",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "ХОЯ 14 СМ КИТАЙ",
-    "wholesalePrice": 681.29,
-    "extraPrice": 715.36,
-    "retailPrice": 851.62
-  },
-  {
     "id": "УТ000053051",
     "category": "НОВЫЙ ГОД",
     "name": "ЕЛОЧНЫЕ ШАРЫ № 24112",
@@ -55390,14 +54982,6 @@
     "wholesalePrice": 164.13,
     "extraPrice": 172.33,
     "retailPrice": 205.16
-  },
-  {
-    "id": "УТ000053130",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "САНСЕВИЕРИЯ КРАШ 12 СМ КИТАЙ",
-    "wholesalePrice": 441.46,
-    "extraPrice": 463.53,
-    "retailPrice": 551.82
   },
   {
     "id": "УТ000053131",
@@ -57888,38 +57472,6 @@
     "retailPrice": 630.08
   },
   {
-    "id": "УТ000053579",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "АДЕНИУМ 14 СМ КИТАЙ",
-    "wholesalePrice": 755.28,
-    "extraPrice": 793.04,
-    "retailPrice": 944.1
-  },
-  {
-    "id": "УТ000053580",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "АДЕНИУМ 12 СМ КИТАЙ",
-    "wholesalePrice": 541.46,
-    "extraPrice": 568.53,
-    "retailPrice": 676.82
-  },
-  {
-    "id": "УТ000053581",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "ФИКУС ЛИРАТА 11 СМ КИТАЙ",
-    "wholesalePrice": 234.96,
-    "extraPrice": 246.7,
-    "retailPrice": 293.7
-  },
-  {
-    "id": "УТ000053582",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "БОНСАЙ ПОДАКАРПУС 12 СМ КИТАЙ",
-    "wholesalePrice": 739.83,
-    "extraPrice": 776.82,
-    "retailPrice": 924.79
-  },
-  {
     "id": "УТ000053583",
     "category": ".КОМНАТНЫЕ КИТАЙ",
     "name": "ПАХИРА КЕРАМИКА 38 СМ КИТАЙ",
@@ -57936,28 +57488,12 @@
     "retailPrice": 165.96
   },
   {
-    "id": "УТ000053585",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "АРЕКА 32/200СМ КИТАЙ",
-    "wholesalePrice": 8414.55,
-    "extraPrice": 8835.28,
-    "retailPrice": 10518.19
-  },
-  {
     "id": "УТ000053586",
     "category": "СИЛИКОНОВЫЕ ЦВЕТЫ",
     "name": "GA-083",
     "wholesalePrice": 256.73,
     "extraPrice": 269.56,
     "retailPrice": 320.91
-  },
-  {
-    "id": "УТ000053587",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "САНСЕВИЕРИЯ 26 СМ КИТАЙ",
-    "wholesalePrice": 2151.2,
-    "extraPrice": 2258.76,
-    "retailPrice": 2689
   },
   {
     "id": "УТ000053588",
@@ -57990,14 +57526,6 @@
     "wholesalePrice": 117.44,
     "extraPrice": 123.31,
     "retailPrice": 146.8
-  },
-  {
-    "id": "УТ000053594",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "САНСЕВИЕРИЯ ЦИЛИНДР 11 СМ КИТАЙ",
-    "wholesalePrice": 578.86,
-    "extraPrice": 607.8,
-    "retailPrice": 723.57
   },
   {
     "id": "УТ000053595",
@@ -58136,14 +57664,6 @@
     "retailPrice": 206.74
   },
   {
-    "id": "УТ000053612",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "ДРАЦЕНА МИКС 18 СМ КИТАЙ",
-    "wholesalePrice": 1856.08,
-    "extraPrice": 1948.88,
-    "retailPrice": 2320.1
-  },
-  {
     "id": "УТ000053613",
     "category": "СИЛИКОНОВЫЕ ЦВЕТЫ",
     "name": "GA-109",
@@ -58238,14 +57758,6 @@
     "wholesalePrice": 137.17,
     "extraPrice": 144.03,
     "retailPrice": 171.46
-  },
-  {
-    "id": "УТ000053626",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "ЭПИПРЕМНУМ 12 СМ КИТАЙ",
-    "wholesalePrice": 282.11,
-    "extraPrice": 296.22,
-    "retailPrice": 352.64
   },
   {
     "id": "УТ000053628",
@@ -58710,30 +58222,6 @@
     "wholesalePrice": 521.12,
     "extraPrice": 547.18,
     "retailPrice": 651.4
-  },
-  {
-    "id": "УТ000053692",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "ПОРТУЛАКАРИЯ АФРА 16 СМ КИТАЙ",
-    "wholesalePrice": 714.63,
-    "extraPrice": 750.36,
-    "retailPrice": 893.28
-  },
-  {
-    "id": "УТ000053695",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "СИНГОНИУМ 12 СМ КИТАЙ",
-    "wholesalePrice": 654.47,
-    "extraPrice": 687.19,
-    "retailPrice": 818.08
-  },
-  {
-    "id": "УТ000053698",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "ФИЛОДЕНДРОН 9 СМ КИТАЙ",
-    "wholesalePrice": 385.36,
-    "extraPrice": 404.63,
-    "retailPrice": 481.7
   },
   {
     "id": "УТ000053705",
@@ -59680,100 +59168,12 @@
     "retailPrice": 413.61
   },
   {
-    "id": "УТ000054118",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "СПАТИФИЛЛИУМ ВАРИГАТНИЙ  9 СМ КИТАЙ",
-    "wholesalePrice": 280.49,
-    "extraPrice": 294.51,
-    "retailPrice": 350.61
-  },
-  {
-    "id": "УТ000054120",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "ФИКУС ЛИРАТА 28/150 СМ КИТАЙ",
-    "wholesalePrice": 6740.58,
-    "extraPrice": 7077.61,
-    "retailPrice": 8425.73
-  },
-  {
-    "id": "УТ000054123",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "ПАХИРА КЕРАМИКА 35/55 СМ КИТАЙ",
-    "wholesalePrice": 3099.97,
-    "extraPrice": 3254.97,
-    "retailPrice": 3874.96
-  },
-  {
-    "id": "УТ000054126",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "КАЛАТЕЯ ФУЖИН 12 СМ КИТАЙ",
-    "wholesalePrice": 602.43,
-    "extraPrice": 632.55,
-    "retailPrice": 753.04
-  },
-  {
-    "id": "УТ000054128",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "ДИСХИДИЯ 11 СМ КИТАЙ",
-    "wholesalePrice": 500.81,
-    "extraPrice": 525.85,
-    "retailPrice": 626.01
-  },
-  {
-    "id": "УТ000054129",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "МОНСТЕРА МОНКЕЙ 9 СМ  КИТАЙ",
-    "wholesalePrice": 382.11,
-    "extraPrice": 401.22,
-    "retailPrice": 477.64
-  },
-  {
-    "id": "УТ000054130",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "БАМБУК  КИТАЙ",
-    "wholesalePrice": 158.54,
-    "extraPrice": 166.46,
-    "retailPrice": 198.17
-  },
-  {
-    "id": "УТ000054131",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "ТИЛЛАНДСИЯ  12 СМ КИТАЙ",
-    "wholesalePrice": 183.74,
-    "extraPrice": 192.92,
-    "retailPrice": 229.67
-  },
-  {
-    "id": "УТ000054132",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "МАКОДЕС ПЕТОЛА 12 СМ КИТАЙ",
-    "wholesalePrice": 658.53,
-    "extraPrice": 691.46,
-    "retailPrice": 823.16
-  },
-  {
-    "id": "УТ000054133",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "ЭУФОРБИЯ ЛАКТЕЙНАЯ 12 СМ КИТАЙ",
-    "wholesalePrice": 708.94,
-    "extraPrice": 744.38,
-    "retailPrice": 886.17
-  },
-  {
     "id": "УТ000054134",
     "category": ".КОМНАТНЫЕ КИТАЙ",
     "name": "ЭПИПРЕМНУМ ВАРИГАТНИЙ 9 СМ КИТАЙ",
     "wholesalePrice": 256.91,
     "extraPrice": 269.75,
     "retailPrice": 321.14
-  },
-  {
-    "id": "УТ000054135",
-    "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "СУККУЛЕНТЫ КРАШ 9 СМ КИТАЙ",
-    "wholesalePrice": 292.68,
-    "extraPrice": 307.31,
-    "retailPrice": 365.85
   },
   {
     "id": "УТ000054145",
