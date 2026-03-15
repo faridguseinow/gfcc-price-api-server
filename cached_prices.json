@@ -9064,14 +9064,6 @@
     "retailPrice": 45.01
   },
   {
-    "id": "УТ000010653",
-    "category": "..,РАЗНОЕ",
-    "name": "ЭРЕМУРУС",
-    "wholesalePrice": 325.2,
-    "extraPrice": 341.46,
-    "retailPrice": 406.5
-  },
-  {
     "id": "УТ000010654",
     "category": "..,РАЗНОЕ",
     "name": "ЭРИКА",
@@ -9758,6 +9750,14 @@
     "wholesalePrice": 40.65,
     "extraPrice": 42.68,
     "retailPrice": 50.81
+  },
+  {
+    "id": "УТ000013898",
+    "category": "..ТЮЛЬПАНЫ",
+    "name": "АД РЕМ  ТЮЛЬПАН энкл.",
+    "wholesalePrice": 56.5,
+    "extraPrice": 59.33,
+    "retailPrice": 70.63
   },
   {
     "id": "УТ000013909",
@@ -12630,6 +12630,14 @@
     "wholesalePrice": 173.98,
     "extraPrice": 182.68,
     "retailPrice": 217.48
+  },
+  {
+    "id": "УТ000018909",
+    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
+    "name": "ТРИНИТИ 60 см куст на воде",
+    "wholesalePrice": 113.82,
+    "extraPrice": 119.51,
+    "retailPrice": 142.28
   },
   {
     "id": "УТ000018912",
@@ -25094,14 +25102,6 @@
     "wholesalePrice": 54.47,
     "extraPrice": 57.19,
     "retailPrice": 68.09
-  },
-  {
-    "id": "УТ000033783",
-    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
-    "name": "НОЛА 50 см РОЗА Кен/Куст. (RLR)",
-    "wholesalePrice": 143.9,
-    "extraPrice": 151.1,
-    "retailPrice": 179.88
   },
   {
     "id": "УТ000033807",
