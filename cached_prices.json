@@ -9192,6 +9192,14 @@
     "retailPrice": 203.25
   },
   {
+    "id": "УТ000011577",
+    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
+    "name": "ЛИДИЯ 60 см куст на воде",
+    "wholesalePrice": 130.08,
+    "extraPrice": 136.58,
+    "retailPrice": 162.6
+  },
+  {
     "id": "УТ000011578",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "ЛИДИЯ 70 см куст на воде",
@@ -9907,6 +9915,14 @@
     "id": "УТ000014113",
     "category": "..ТЮЛЬПАНЫ",
     "name": "СТРОНГ ГОЛД  ТЮЛЬПАН энкл.",
+    "wholesalePrice": 56.5,
+    "extraPrice": 59.33,
+    "retailPrice": 70.63
+  },
+  {
+    "id": "УТ000014114",
+    "category": "..ТЮЛЬПАНЫ",
+    "name": "СТРОНГ ЛАВ  ТЮЛЬПАН энкл.",
     "wholesalePrice": 56.5,
     "extraPrice": 59.33,
     "retailPrice": 70.63
@@ -40488,6 +40504,14 @@
     "retailPrice": 150.41
   },
   {
+    "id": "УТ000045471",
+    "category": "..РОЗА КЕНИЯ",
+    "name": "МИКС 40 см РОЗА Кения (MERIDIAN)",
+    "wholesalePrice": 33.33,
+    "extraPrice": 35,
+    "retailPrice": 41.67
+  },
+  {
     "id": "УТ000045513",
     "category": "..РОЗА ЭКВАДОР",
     "name": "БАТТЕР КАП- 60см (СТАР,КОРОЗОН,МАТИЗ,ЭКО РОЗ,БЕЛЛА РОЗА,ЧАРМИНГ,СОФИ,ДАВИНЧИ.РОЯЛ)",
@@ -40862,14 +40886,6 @@
     "wholesalePrice": 108.94,
     "extraPrice": 114.39,
     "retailPrice": 136.18
-  },
-  {
-    "id": "УТ000045783",
-    "category": "..РОЗА КЕНИЯ",
-    "name": "МИКС 50 см РОЗА Кения (MERIDIAN)",
-    "wholesalePrice": 39.84,
-    "extraPrice": 41.83,
-    "retailPrice": 49.8
   },
   {
     "id": "УТ000045785",
@@ -57659,14 +57675,6 @@
     "id": "УТ000055005",
     "category": "..ТЮЛЬПАНЫ",
     "name": "ПАССИО ПИНК ТЮЛЬПАН энкл",
-    "wholesalePrice": 56.5,
-    "extraPrice": 59.33,
-    "retailPrice": 70.63
-  },
-  {
-    "id": "УТ000055006",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "ДАРВИСНОУ  ТЮЛЬПАН энкл.",
     "wholesalePrice": 56.5,
     "extraPrice": 59.33,
     "retailPrice": 70.63
