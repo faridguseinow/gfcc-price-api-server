@@ -8984,14 +8984,6 @@
     "retailPrice": 97.56
   },
   {
-    "id": "УТ000010606",
-    "category": "..,РАЗНОЕ",
-    "name": "ТАНАЦЕТУМ",
-    "wholesalePrice": 73.17,
-    "extraPrice": 76.83,
-    "retailPrice": 91.46
-  },
-  {
     "id": "УТ000010610",
     "category": "..,РАЗНОЕ",
     "name": "ТЕЛОПЕА",
@@ -9030,6 +9022,14 @@
     "wholesalePrice": 117.89,
     "extraPrice": 123.78,
     "retailPrice": 147.36
+  },
+  {
+    "id": "УТ000010636",
+    "category": "..,РАЗНОЕ",
+    "name": "ХЕЛИКОНИЯ",
+    "wholesalePrice": 189.43,
+    "extraPrice": 198.9,
+    "retailPrice": 236.79
   },
   {
     "id": "УТ000010642",
@@ -9240,6 +9240,14 @@
     "retailPrice": 167.68
   },
   {
+    "id": "УТ000011617",
+    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
+    "name": "МИРАБЕЛ 50 см куст на воде",
+    "wholesalePrice": 97.56,
+    "extraPrice": 102.44,
+    "retailPrice": 121.95
+  },
+  {
     "id": "УТ000011618",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "МИРАБЕЛ 60 см куст на воде",
@@ -9278,6 +9286,14 @@
     "wholesalePrice": 138.21,
     "extraPrice": 145.12,
     "retailPrice": 172.76
+  },
+  {
+    "id": "УТ000011723",
+    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
+    "name": "САНСЕРРА 50 см куст на воде",
+    "wholesalePrice": 97.56,
+    "extraPrice": 102.44,
+    "retailPrice": 121.95
   },
   {
     "id": "УТ000011724",
@@ -9830,14 +9846,6 @@
     "wholesalePrice": 56.5,
     "extraPrice": 59.33,
     "retailPrice": 70.63
-  },
-  {
-    "id": "УТ000013925",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "ВАЙТ ЛИБЕРСТА  ТЮЛЬПАН дубл.",
-    "wholesalePrice": 60.98,
-    "extraPrice": 64.02,
-    "retailPrice": 76.22
   },
   {
     "id": "УТ000013936",
@@ -23696,14 +23704,6 @@
     "retailPrice": 311.25
   },
   {
-    "id": "УТ000032261",
-    "category": "..,РАЗНОЕ",
-    "name": "ОКСИПЕТАЛУМ РОЗОВЫЙ",
-    "wholesalePrice": 121.95,
-    "extraPrice": 128.05,
-    "retailPrice": 152.44
-  },
-  {
     "id": "УТ000032321",
     "category": "КОРЗИНА",
     "name": "Корзина - 20A205903",
@@ -30848,6 +30848,14 @@
     "retailPrice": 182.93
   },
   {
+    "id": "УТ000038620",
+    "category": "..,РАЗНОЕ",
+    "name": "ДЕЛЬФИНИУМ РОЗОВЫЙ 90 см",
+    "wholesalePrice": 170.73,
+    "extraPrice": 179.27,
+    "retailPrice": 213.41
+  },
+  {
     "id": "УТ000038621",
     "category": "..,РАЗНОЕ",
     "name": "ДЕЛЬФИНИУМ СИНИЙ  90 см",
@@ -36552,14 +36560,6 @@
     "retailPrice": 1361.78
   },
   {
-    "id": "УТ000041708",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "ГАВАЙИ  ТЮЛЬПАН  дубл.",
-    "wholesalePrice": 60.98,
-    "extraPrice": 64.02,
-    "retailPrice": 76.22
-  },
-  {
     "id": "УТ000041719",
     "category": ".УПАКОВКА",
     "name": "СЕКАТОР № 108",
@@ -36790,14 +36790,6 @@
     "wholesalePrice": 72.36,
     "extraPrice": 75.97,
     "retailPrice": 90.45
-  },
-  {
-    "id": "УТ000042038",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "ХАРТБРЕЙКЕР ТЮЛЬПАН  энкл.",
-    "wholesalePrice": 56.5,
-    "extraPrice": 59.33,
-    "retailPrice": 70.63
   },
   {
     "id": "УТ000042040",
@@ -37166,14 +37158,6 @@
     "wholesalePrice": 36.59,
     "extraPrice": 38.41,
     "retailPrice": 45.73
-  },
-  {
-    "id": "УТ000042689",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "КАТИНКА КОАС ТЮЛЬПАН дубл.",
-    "wholesalePrice": 79.67,
-    "extraPrice": 83.66,
-    "retailPrice": 99.59
   },
   {
     "id": "УТ000042717",
@@ -42192,14 +42176,6 @@
     "retailPrice": 152.44
   },
   {
-    "id": "УТ000047379",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "БИГ ЛОВЕ  ТЮЛЬПАН энкл.",
-    "wholesalePrice": 56.5,
-    "extraPrice": 59.33,
-    "retailPrice": 70.63
-  },
-  {
     "id": "УТ000047411",
     "category": "..ХРИЗАНТЕМА",
     "name": ".ХРИЗ. ДЕКО АНТОНОВ КРАШ MIX",
@@ -45038,14 +45014,6 @@
     "wholesalePrice": 1109.75,
     "extraPrice": 1165.23,
     "retailPrice": 1387.18
-  },
-  {
-    "id": "УТ000049992",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "АДОРЕ КОАС 40 ШТ ТЮЛЬПАН дубл.",
-    "wholesalePrice": 79.67,
-    "extraPrice": 83.66,
-    "retailPrice": 99.59
   },
   {
     "id": "УТ000049998",
@@ -56904,14 +56872,6 @@
     "retailPrice": 243.9
   },
   {
-    "id": "УТ000054675",
-    "category": "..,ЛИЛИЯ",
-    "name": "ОРАКУЛ ОТ ЛИЛИЯ",
-    "wholesalePrice": 398.37,
-    "extraPrice": 418.29,
-    "retailPrice": 497.96
-  },
-  {
     "id": "УТ000054678",
     "category": "..,РАЗНОЕ",
     "name": "ФОРЗИ  70 см",
@@ -57758,14 +57718,6 @@
     "wholesalePrice": 60.98,
     "extraPrice": 64.02,
     "retailPrice": 76.22
-  },
-  {
-    "id": "УТ000055023",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "ТИБЕТ  ТЮЛЬПАН  энкл.",
-    "wholesalePrice": 56.5,
-    "extraPrice": 59.33,
-    "retailPrice": 70.63
   },
   {
     "id": "УТ000055024",
