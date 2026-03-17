@@ -1,4 +1,4 @@
-<PriceList date="17.03.2026 0:20:54">
+<PriceList date="17.03.2026 0:52:33">
 	<GroupsOfGoods>
 		<Group ID="ÓÒ000028416" Name="ÑÓÕÈÅ ÐÎÇÛ" ParentID="" ParentName=""/>
 		<Group ID="ÓÒ000032724" Name="..,ÐÎÇÀ ,ÌÅÑÒÍÀß" ParentID="" ParentName=""/>
@@ -4923,6 +4923,7 @@ D - 85
 		<Item ID="ÓÒ000027357" Name="ÌÀÄÀÌ ÁÎÌÁÀÑÒÈÊ  60 ñì ÐÎÇÀ Êåí/Êóñò. (MZURRIE)" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="118,80" PriceRetail="148,50" PriceExt="124,74" ParentID="ÓÒ000002215" ParentName="..ÐÎÇÀ ÊÅÍÈß ÊÓÑÒÎÂÀß"/>
 		<Item ID="ÓÒ000027375" Name="ÁÎÌÁÀÑÒÈÊ 60 ñì ÐÎÇÀ Êåí/Êóñò. (MZURRIE)" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="118,80" PriceRetail="148,50" PriceExt="124,74" ParentID="ÓÒ000002215" ParentName="..ÐÎÇÀ ÊÅÍÈß ÊÓÑÒÎÂÀß"/>
 		<Item ID="ÓÒ000027419" Name="ÌÝÍÑÔÈËÄ ÏÀÐÊ 60 ñì ÐÎÇÀ Êåí/Êóñò. (MZURRIE)" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="152,63" PriceRetail="190,78" PriceExt="160,26" ParentID="ÓÒ000002215" ParentName="..ÐÎÇÀ ÊÅÍÈß ÊÓÑÒÎÂÀß"/>
+		<Item ID="ÓÒ000029969" Name="ÝËÈÑÀÍÀ 50 ñì ÐÎÇÀ Êåí/Êóñò. (RLR)" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="150,98" PriceRetail="188,72" PriceExt="158,52" ParentID="ÓÒ000002215" ParentName="..ÐÎÇÀ ÊÅÍÈß ÊÓÑÒÎÂÀß"/>
 		<Item ID="ÓÒ000029970" Name="ÌÀÉ ÁÞÒÈ 60 ñì ÐÎÇÀ Êåí/Êóñò. (RLR)" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="183,98" PriceRetail="229,97" PriceExt="193,17" ParentID="ÓÒ000002215" ParentName="..ÐÎÇÀ ÊÅÍÈß ÊÓÑÒÎÂÀß"/>
 		<Item ID="ÓÒ000029971" Name="ÌÀÉ ÁÞÒÈ 50 ñì ÐÎÇÀ Êåí/Êóñò. (RLR)" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="150,98" PriceRetail="188,72" PriceExt="158,52" ParentID="ÓÒ000002215" ParentName="..ÐÎÇÀ ÊÅÍÈß ÊÓÑÒÎÂÀß"/>
 		<Item ID="ÓÒ000029972" Name="ÌÀÉ ÁÞÒÈ 70 ñì ÐÎÇÀ Êåí/Êóñò. (RLR)" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="202,95" PriceRetail="253,69" PriceExt="213,10" ParentID="ÓÒ000002215" ParentName="..ÐÎÇÀ ÊÅÍÈß ÊÓÑÒÎÂÀß"/>
@@ -8836,6 +8837,7 @@ S:D26xH11xHH31xB20" Price="897,60" PriceRetail="1122,00" PriceExt="942,48" Paren
 		<Item ID="ÓÒ000045462" Name="ÌÎÓÍÒ ÐÎßË 60 ñì ÐÎÇÀ Êåíèÿ (RLR)" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="108,08" PriceRetail="135,09" PriceExt="113,48" ParentID="ÓÒ000002221" ParentName="..ÐÎÇÀ ÊÅÍÈß"/>
 		<Item ID="ÓÒ000045463" Name="ÌÎÓÍÒ ÐÎßË 70 ñì ÐÎÇÀ Êåíèÿ (RLR)" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="122,10" PriceRetail="152,63" PriceExt="128,21" ParentID="ÓÒ000002221" ParentName="..ÐÎÇÀ ÊÅÍÈß"/>
 		<Item ID="ÓÒ000045471" Name="ÌÈÊÑ 40 ñì ÐÎÇÀ Êåíèÿ (MERIDIAN)" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="33,83" PriceRetail="42,28" PriceExt="35,52" ParentID="ÓÒ000002221" ParentName="..ÐÎÇÀ ÊÅÍÈß"/>
+		<Item ID="ÓÒ000045783" Name="ÌÈÊÑ 50 ñì ÐÎÇÀ Êåíèÿ (MERIDIAN)" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="40,43" PriceRetail="50,53" PriceExt="42,45" ParentID="ÓÒ000002221" ParentName="..ÐÎÇÀ ÊÅÍÈß"/>
 		<Item ID="ÓÒ000045904" Name="ÌÀÄÀÌ ÐÅÄ 50 ñì ÐÎÇÀ Êåíèÿ (MERIDIAN)" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="43,73" PriceRetail="54,66" PriceExt="45,91" ParentID="ÓÒ000002221" ParentName="..ÐÎÇÀ ÊÅÍÈß"/>
 		<Item ID="ÓÒ000045905" Name="ÄÆÓÌÈËÈß 50 ñì ÐÎÇÀ Êåíèÿ (MERIDIAN)" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="51,98" PriceRetail="64,97" PriceExt="54,57" ParentID="ÓÒ000002221" ParentName="..ÐÎÇÀ ÊÅÍÈß"/>
 		<Item ID="ÓÒ000045941" Name="ÌÀÄÀÌ ÐÅÄ 40 ñì ÐÎÇÀ Êåíèÿ (MERIDIAN)" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="34,65" PriceRetail="43,31" PriceExt="36,38" ParentID="ÓÒ000002221" ParentName="..ÐÎÇÀ ÊÅÍÈß"/>
