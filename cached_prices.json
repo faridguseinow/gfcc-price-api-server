@@ -10592,14 +10592,6 @@
     "retailPrice": 9752
   },
   {
-    "id": "УТ000014516",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "ФИКУС ГИНСЕНГ 24/70 СМ",
-    "wholesalePrice": 5427.2,
-    "extraPrice": 5698.56,
-    "retailPrice": 6784
-  },
-  {
     "id": "УТ000014533",
     "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
     "name": "ФИКУС КИНКИ 12 СМ",
@@ -10958,6 +10950,14 @@
     "wholesalePrice": 589.36,
     "extraPrice": 618.83,
     "retailPrice": 736.7
+  },
+  {
+    "id": "УТ000015048",
+    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
+    "name": "ХРИЗАНТЕМА КУСТОВАЯ 12 СМ",
+    "wholesalePrice": 339.2,
+    "extraPrice": 356.16,
+    "retailPrice": 424
   },
   {
     "id": "УТ000015050",
@@ -11438,14 +11438,6 @@
     "wholesalePrice": 979.44,
     "extraPrice": 1028.41,
     "retailPrice": 1224.3
-  },
-  {
-    "id": "УТ000015714",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "ДЕНДРОБИУМ КАСКАТ 12 СМ",
-    "wholesalePrice": 1416.16,
-    "extraPrice": 1486.97,
-    "retailPrice": 1770.2
   },
   {
     "id": "УТ000015718",
@@ -23912,6 +23904,14 @@
     "retailPrice": 1015.48
   },
   {
+    "id": "УТ000031079",
+    "category": "КОРЗИНА",
+    "name": "Корзина - 8790303",
+    "wholesalePrice": 954.85,
+    "extraPrice": 1002.59,
+    "retailPrice": 1193.56
+  },
+  {
     "id": "УТ000031174",
     "category": ".УПАКОВКА",
     "name": "ЯЩИК № 033",
@@ -29664,14 +29664,6 @@
     "retailPrice": 2025.66
   },
   {
-    "id": "УТ000036872",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "ПИНК ПРОМАЙС  70 см куст на воде",
-    "wholesalePrice": 220.48,
-    "extraPrice": 231.5,
-    "retailPrice": 275.6
-  },
-  {
     "id": "УТ000036875",
     "category": "..,РОЗА ,НА ВОДЕ",
     "name": "ПРИСЦИЛЛА 70 см одног на воде",
@@ -31472,12 +31464,12 @@
     "retailPrice": 1590
   },
   {
-    "id": "УТ000038602",
+    "id": "УТ000038601",
     "category": "..,РАЗНОЕ",
-    "name": "АГАПАНТУС БЕЛЫЙ",
-    "wholesalePrice": 195.04,
-    "extraPrice": 204.79,
-    "retailPrice": 243.8
+    "name": "АГАПАНТУС СИНИЙ",
+    "wholesalePrice": 186.56,
+    "extraPrice": 195.89,
+    "retailPrice": 233.2
   },
   {
     "id": "УТ000038606",
@@ -31654,14 +31646,6 @@
     "wholesalePrice": 178.08,
     "extraPrice": 186.98,
     "retailPrice": 222.6
-  },
-  {
-    "id": "УТ000038638",
-    "category": "..,РАЗНОЕ",
-    "name": "ДЕЛЬФИНИУМ ЛАВАНДОВЫЙ  70 см",
-    "wholesalePrice": 169.6,
-    "extraPrice": 178.08,
-    "retailPrice": 212
   },
   {
     "id": "УТ000038639",
@@ -31894,6 +31878,14 @@
     "wholesalePrice": 228.96,
     "extraPrice": 240.41,
     "retailPrice": 286.2
+  },
+  {
+    "id": "УТ000038703",
+    "category": "..,РАЗНОЕ",
+    "name": "КАЛЛА  КРАСНАЯ 80 СМ",
+    "wholesalePrice": 233.2,
+    "extraPrice": 244.86,
+    "retailPrice": 291.5
   },
   {
     "id": "УТ000038706",
@@ -36798,6 +36790,14 @@
     "wholesalePrice": 616.5,
     "extraPrice": 647.32,
     "retailPrice": 770.62
+  },
+  {
+    "id": "УТ000041187",
+    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
+    "name": "АРИЯ 70 см куст на воде",
+    "wholesalePrice": 146.2,
+    "extraPrice": 153.5,
+    "retailPrice": 182.74
   },
   {
     "id": "УТ000041194",
@@ -45478,6 +45478,14 @@
     "wholesalePrice": 63.6,
     "extraPrice": 66.78,
     "retailPrice": 79.5
+  },
+  {
+    "id": "УТ000049620",
+    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
+    "name": "ФИКУС ЭКЗОТИКА 32/150 СМ",
+    "wholesalePrice": 15179.2,
+    "extraPrice": 15938.16,
+    "retailPrice": 18974
   },
   {
     "id": "УТ000049641",
@@ -58718,14 +58726,6 @@
     "wholesalePrice": 2374.4,
     "extraPrice": 2493.12,
     "retailPrice": 2968
-  },
-  {
-    "id": "УТ000055028",
-    "category": "..,РАЗНОЕ",
-    "name": "МАГНОЛИЯ 200 СМ",
-    "wholesalePrice": 703.84,
-    "extraPrice": 739.03,
-    "retailPrice": 879.8
   },
   {
     "id": "УТ000055036",
