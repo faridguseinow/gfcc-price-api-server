@@ -9336,6 +9336,14 @@
     "retailPrice": 233.2
   },
   {
+    "id": "УТ000011449",
+    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
+    "name": "БАНДАЛЕРО 50 см куст на воде",
+    "wholesalePrice": 127.2,
+    "extraPrice": 133.56,
+    "retailPrice": 159
+  },
+  {
     "id": "УТ000011450",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "БАНДАЛЕРО 60 см куст на воде",
@@ -21224,14 +21232,6 @@
     "retailPrice": 93.39
   },
   {
-    "id": "УТ000029306",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "КАБАРЕТ (ТЕССА)- 50см",
-    "wholesalePrice": 84.88,
-    "extraPrice": 89.13,
-    "retailPrice": 106.11
-  },
-  {
     "id": "УТ000029308",
     "category": "..РОЗА ЭКВАДОР",
     "name": "КЭНДЛЛАЙТ (ТЕССА)- 80см",
@@ -27854,6 +27854,14 @@
     "wholesalePrice": 114.9,
     "extraPrice": 120.64,
     "retailPrice": 143.62
+  },
+  {
+    "id": "УТ000035259",
+    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
+    "name": "ОРАНЖ ГУИН 50 см куст на воде",
+    "wholesalePrice": 135.68,
+    "extraPrice": 142.46,
+    "retailPrice": 169.6
   },
   {
     "id": "УТ000035308",
@@ -41094,6 +41102,14 @@
     "wholesalePrice": 152.64,
     "extraPrice": 160.27,
     "retailPrice": 190.8
+  },
+  {
+    "id": "УТ000045202",
+    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
+    "name": "ФАЛЕНОПСИС ПАРФЮМ 12 СМ",
+    "wholesalePrice": 1780.8,
+    "extraPrice": 1869.84,
+    "retailPrice": 2226
   },
   {
     "id": "УТ000045207",
@@ -58051,9 +58067,17 @@
     "id": "УТ000054796",
     "category": ",Сортовой",
     "name": "МОНА ФЛОВЕРС СОРТОВОЙ 50 см РОЗА Кения",
-    "wholesalePrice": 58.51,
-    "extraPrice": 61.44,
-    "retailPrice": 73.14
+    "wholesalePrice": 55.12,
+    "extraPrice": 57.88,
+    "retailPrice": 68.9
+  },
+  {
+    "id": "УТ000054797",
+    "category": ",Сортовой",
+    "name": "МОНА ФЛОВЕРС 50 см СОРТОВОЙ РОЗА Кен/Куст.",
+    "wholesalePrice": 76.32,
+    "extraPrice": 80.14,
+    "retailPrice": 95.4
   },
   {
     "id": "УТ000054798",
@@ -58235,17 +58259,17 @@
     "id": "УТ000054842",
     "category": "..РОЗА КЕНИЯ",
     "name": "МИКС 40 см РОЗА Кения (MONA FLOWERS)",
-    "wholesalePrice": 50.03,
-    "extraPrice": 52.53,
-    "retailPrice": 62.54
+    "wholesalePrice": 42.4,
+    "extraPrice": 44.52,
+    "retailPrice": 53
   },
   {
     "id": "УТ000054843",
     "category": "..РОЗА КЕНИЯ",
     "name": "МИКС 50 см РОЗА Кения (MONA FLOWERS)",
-    "wholesalePrice": 58.51,
-    "extraPrice": 61.44,
-    "retailPrice": 73.14
+    "wholesalePrice": 55.12,
+    "extraPrice": 57.88,
+    "retailPrice": 68.9
   },
   {
     "id": "УТ000054844",
@@ -58387,9 +58411,9 @@
     "id": "УТ000054877",
     "category": "..РОЗА КЕНИЯ",
     "name": "МИКС 60 см РОЗА Кения (MONA FLOWERS)",
-    "wholesalePrice": 64.45,
-    "extraPrice": 67.67,
-    "retailPrice": 80.56
+    "wholesalePrice": 73.78,
+    "extraPrice": 77.46,
+    "retailPrice": 92.22
   },
   {
     "id": "УТ000054883",
@@ -58603,41 +58627,41 @@
     "id": "УТ000054995",
     "category": "..РОЗА КЕНИЯ",
     "name": "ЭВЕР РЕД 50 см РОЗА Кения (MONA FLOWERS)",
-    "wholesalePrice": 58.51,
-    "extraPrice": 61.44,
-    "retailPrice": 73.14
+    "wholesalePrice": 59.36,
+    "extraPrice": 62.33,
+    "retailPrice": 74.2
   },
   {
     "id": "УТ000054996",
     "category": "..РОЗА КЕНИЯ",
     "name": "МАЙ ФЭИР 50 см РОЗА Кения (MONA FLOWERS)",
-    "wholesalePrice": 58.51,
-    "extraPrice": 61.44,
-    "retailPrice": 73.14
+    "wholesalePrice": 50.88,
+    "extraPrice": 53.42,
+    "retailPrice": 63.6
   },
   {
     "id": "УТ000054997",
     "category": "..РОЗА КЕНИЯ",
     "name": "ПРАУД 50 см РОЗА Кения (MONA FLOWERS)",
-    "wholesalePrice": 58.51,
-    "extraPrice": 61.44,
-    "retailPrice": 73.14
+    "wholesalePrice": 59.36,
+    "extraPrice": 62.33,
+    "retailPrice": 74.2
   },
   {
     "id": "УТ000054998",
     "category": "..РОЗА КЕНИЯ",
     "name": "АФИНА 50 см РОЗА Кения (MONA FLOWERS)",
-    "wholesalePrice": 58.51,
-    "extraPrice": 61.44,
-    "retailPrice": 73.14
+    "wholesalePrice": 55.12,
+    "extraPrice": 57.88,
+    "retailPrice": 68.9
   },
   {
     "id": "УТ000055000",
     "category": "..РОЗА КЕНИЯ",
     "name": "КОНФИДЕНТАЛ 50 см РОЗА Кения (MONA FLOWERS)",
-    "wholesalePrice": 58.51,
-    "extraPrice": 61.44,
-    "retailPrice": 73.14
+    "wholesalePrice": 55.12,
+    "extraPrice": 57.88,
+    "retailPrice": 68.9
   },
   {
     "id": "УТ000055002",
@@ -58678,6 +58702,30 @@
     "wholesalePrice": 114.9,
     "extraPrice": 120.64,
     "retailPrice": 143.62
+  },
+  {
+    "id": "УТ000055010",
+    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
+    "name": "ФАЕВОРКС 60 см РОЗА Кен/Куст. (MONO FLOWERS)",
+    "wholesalePrice": 84.8,
+    "extraPrice": 89.04,
+    "retailPrice": 106
+  },
+  {
+    "id": "УТ000055011",
+    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
+    "name": "СВИТ САРА 50 см РОЗА Кен/Куст. (MONO FLOWERS)",
+    "wholesalePrice": 76.32,
+    "extraPrice": 80.14,
+    "retailPrice": 95.4
+  },
+  {
+    "id": "УТ000055012",
+    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
+    "name": "ДИНАРА 60 см РОЗА Кен/Куст. (MONO FLOWERS)",
+    "wholesalePrice": 84.8,
+    "extraPrice": 89.04,
+    "retailPrice": 106
   },
   {
     "id": "УТ000055013",
@@ -58726,6 +58774,30 @@
     "wholesalePrice": 2374.4,
     "extraPrice": 2493.12,
     "retailPrice": 2968
+  },
+  {
+    "id": "УТ000055029",
+    "category": "..РОЗА КЕНИЯ",
+    "name": "ПАЛОМА  50 см РОЗА Кения (MONA FLOWERS)",
+    "wholesalePrice": 55.12,
+    "extraPrice": 57.88,
+    "retailPrice": 68.9
+  },
+  {
+    "id": "УТ000055030",
+    "category": "..РОЗА КЕНИЯ",
+    "name": "МАДАМ ЧЕРИС 50 см РОЗА Кения (MONA FLOWERS)",
+    "wholesalePrice": 50.88,
+    "extraPrice": 53.42,
+    "retailPrice": 63.6
+  },
+  {
+    "id": "УТ000055031",
+    "category": "..РОЗА КЕНИЯ",
+    "name": "МАДАМ РЕД 50 см РОЗА Кения (MONA FLOWERS)",
+    "wholesalePrice": 50.88,
+    "extraPrice": 53.42,
+    "retailPrice": 63.6
   },
   {
     "id": "УТ000055036",
