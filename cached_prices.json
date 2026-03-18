@@ -9360,14 +9360,6 @@
     "retailPrice": 242.08
   },
   {
-    "id": "УТ000011724",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "САНСЕРРА 60 см куст на воде",
-    "wholesalePrice": 134.72,
-    "extraPrice": 141.46,
-    "retailPrice": 168.4
-  },
-  {
     "id": "УТ000011754",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "СМЭШИНГ 60 см куст на воде",
@@ -10579,6 +10571,14 @@
     "id": "УТ000014793",
     "category": "..ХРИЗАНТЕМА",
     "name": "ГАЙДАР",
+    "wholesalePrice": 114.08,
+    "extraPrice": 119.79,
+    "retailPrice": 142.6
+  },
+  {
+    "id": "УТ000014811",
+    "category": "..ХРИЗАНТЕМА",
+    "name": "ЕВРО БЕЛЫЙ",
     "wholesalePrice": 114.08,
     "extraPrice": 119.79,
     "retailPrice": 142.6
@@ -14350,6 +14350,14 @@
     "wholesalePrice": 358.69,
     "extraPrice": 376.63,
     "retailPrice": 448.37
+  },
+  {
+    "id": "УТ000021651",
+    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
+    "name": "ФЛОУ 70 см куст на воде",
+    "wholesalePrice": 138.93,
+    "extraPrice": 145.88,
+    "retailPrice": 173.66
   },
   {
     "id": "УТ000022171",
