@@ -328,14 +328,6 @@
     "retailPrice": 108.75
   },
   {
-    "id": "УТ000002886",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "БАМБУК 12 СМ",
-    "wholesalePrice": 1218,
-    "extraPrice": 1278.9,
-    "retailPrice": 1522.5
-  },
-  {
     "id": "УТ000002914",
     "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
     "name": "БЕГОНИЯ БОРИАС 14 СМ",
@@ -10678,6 +10670,14 @@
     "wholesalePrice": 191.4,
     "extraPrice": 200.97,
     "retailPrice": 239.25
+  },
+  {
+    "id": "УТ000014714",
+    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
+    "name": "ХЕДЕРА 13 СМ",
+    "wholesalePrice": 435,
+    "extraPrice": 456.75,
+    "retailPrice": 543.75
   },
   {
     "id": "УТ000014718",
@@ -28950,14 +28950,6 @@
     "wholesalePrice": 493.29,
     "extraPrice": 517.95,
     "retailPrice": 616.61
-  },
-  {
-    "id": "УТ000036098",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "ФИЛОДЕНДРОН БИРКИН 12 СМ",
-    "wholesalePrice": 609,
-    "extraPrice": 639.45,
-    "retailPrice": 761.25
   },
   {
     "id": "УТ000036120",
