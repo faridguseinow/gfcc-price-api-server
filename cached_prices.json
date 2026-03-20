@@ -8048,14 +8048,6 @@
     "retailPrice": 288.56
   },
   {
-    "id": "УТ000009829",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "ПЛАНТ МИКС  8 СМ",
-    "wholesalePrice": 239.4,
-    "extraPrice": 251.37,
-    "retailPrice": 299.25
-  },
-  {
     "id": "УТ000009873",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ПЛАСТИК КАШПО ОРХИДЕЯ 15*17 СМ",
@@ -11094,6 +11086,14 @@
     "wholesalePrice": 487.35,
     "extraPrice": 511.72,
     "retailPrice": 609.19
+  },
+  {
+    "id": "УТ000015683",
+    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
+    "name": "СМЭШИНГ 70 см куст на воде",
+    "wholesalePrice": 157.15,
+    "extraPrice": 165.01,
+    "retailPrice": 196.44
   },
   {
     "id": "УТ000015712",
@@ -24552,6 +24552,14 @@
     "retailPrice": 395.44
   },
   {
+    "id": "УТ000033002",
+    "category": "..ХРИЗАНТЕМА",
+    "name": "САНТИНИ ROSSI CREAM",
+    "wholesalePrice": 91.49,
+    "extraPrice": 96.06,
+    "retailPrice": 114.36
+  },
+  {
     "id": "УТ000033067",
     "category": "..СУХОЦВЕТЫ",
     "name": "САРГО",
@@ -25323,9 +25331,9 @@
     "id": "УТ000033807",
     "category": "..,РАЗНОЕ",
     "name": "АЛЬСТРОМЕРИЯ  ПОДМОСКОВЬЕ 80 см ГОЛД",
-    "wholesalePrice": 69.26,
-    "extraPrice": 72.72,
-    "retailPrice": 86.57
+    "wholesalePrice": 54.72,
+    "extraPrice": 57.46,
+    "retailPrice": 68.4
   },
   {
     "id": "УТ000033808",
