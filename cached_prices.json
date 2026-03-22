@@ -4491,9 +4491,9 @@
     "id": "УТ000006573",
     "category": "КОРЗИНА",
     "name": "Корзина - 2011",
-    "wholesalePrice": 202.8,
-    "extraPrice": 212.94,
-    "retailPrice": 253.5
+    "wholesalePrice": 253.5,
+    "extraPrice": 266.18,
+    "retailPrice": 316.88
   },
   {
     "id": "УТ000006576",
@@ -25966,14 +25966,6 @@
     "wholesalePrice": 152.1,
     "extraPrice": 159.71,
     "retailPrice": 190.13
-  },
-  {
-    "id": "УТ000033568",
-    "category": "..ХРИЗАНТЕМА",
-    "name": "САНТИНИ ROSSI SUNNY",
-    "wholesalePrice": 84.5,
-    "extraPrice": 88.73,
-    "retailPrice": 105.63
   },
   {
     "id": "УТ000033569",
@@ -59566,5 +59558,45 @@
     "wholesalePrice": 7687.81,
     "extraPrice": 8072.2,
     "retailPrice": 9609.76
+  },
+  {
+    "id": "УТ000055108",
+    "category": "КОРЗИНА",
+    "name": "Корзина - 251201",
+    "wholesalePrice": 194.35,
+    "extraPrice": 204.07,
+    "retailPrice": 242.94
+  },
+  {
+    "id": "УТ000055109",
+    "category": "КОРЗИНА",
+    "name": "Корзина - 251202",
+    "wholesalePrice": 152.1,
+    "extraPrice": 159.71,
+    "retailPrice": 190.13
+  },
+  {
+    "id": "УТ000055110",
+    "category": "КОРЗИНА",
+    "name": "Корзина - 251203",
+    "wholesalePrice": 164.78,
+    "extraPrice": 173.01,
+    "retailPrice": 205.97
+  },
+  {
+    "id": "УТ000055111",
+    "category": ".УПАКОВКА",
+    "name": "ПАКЕТ № 2601 ПАЧКА 5 ШТ",
+    "wholesalePrice": 507,
+    "extraPrice": 532.35,
+    "retailPrice": 633.75
+  },
+  {
+    "id": "УТ000055112",
+    "category": ".УПАКОВКА",
+    "name": "ПАКЕТ № 2602 ПАЧКА 5 ШТ",
+    "wholesalePrice": 422.5,
+    "extraPrice": 443.63,
+    "retailPrice": 528.13
   }
 ]
