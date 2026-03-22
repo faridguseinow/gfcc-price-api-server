@@ -8664,6 +8664,14 @@
     "retailPrice": 136.99
   },
   {
+    "id": "УТ000010247",
+    "category": "..,РАЗНОЕ",
+    "name": "ДИСЕНТРА",
+    "wholesalePrice": 101.16,
+    "extraPrice": 106.22,
+    "retailPrice": 126.45
+  },
+  {
     "id": "УТ000010251",
     "category": "..,РАЗНОЕ",
     "name": "ЗИНГИБЕР",
@@ -8888,6 +8896,14 @@
     "retailPrice": 457.33
   },
   {
+    "id": "УТ000010383",
+    "category": "..,РАЗНОЕ",
+    "name": "НИГЕ",
+    "wholesalePrice": 177.03,
+    "extraPrice": 185.88,
+    "retailPrice": 221.29
+  },
+  {
     "id": "УТ000010384",
     "category": "..СУХОЦВЕТЫ",
     "name": "НОВОГОДНИЙ БУКЕТ",
@@ -8958,6 +8974,14 @@
     "wholesalePrice": 39.62,
     "extraPrice": 41.6,
     "retailPrice": 49.53
+  },
+  {
+    "id": "УТ000010421",
+    "category": "..,РАЗНОЕ",
+    "name": "ПЕННИ",
+    "wholesalePrice": 48.05,
+    "extraPrice": 50.45,
+    "retailPrice": 60.06
   },
   {
     "id": "УТ000010425",
@@ -9230,6 +9254,14 @@
     "wholesalePrice": 286.62,
     "extraPrice": 300.95,
     "retailPrice": 358.28
+  },
+  {
+    "id": "УТ000010603",
+    "category": "..,РАЗНОЕ",
+    "name": "СТРЕЛИЦИЯ ЛИСТ",
+    "wholesalePrice": 65.75,
+    "extraPrice": 69.04,
+    "retailPrice": 82.19
   },
   {
     "id": "УТ000010605",
@@ -11702,6 +11734,14 @@
     "wholesalePrice": 311.4,
     "extraPrice": 326.97,
     "retailPrice": 389.24
+  },
+  {
+    "id": "УТ000016024",
+    "category": "..,РАЗНОЕ",
+    "name": "ОЗОТАМНУС ИТАЛИЯ",
+    "wholesalePrice": 168.6,
+    "extraPrice": 177.03,
+    "retailPrice": 210.75
   },
   {
     "id": "УТ000016067",
@@ -28168,6 +28208,14 @@
     "retailPrice": 225.5
   },
   {
+    "id": "УТ000035085",
+    "category": "..,РАЗНОЕ",
+    "name": "ФРИТ",
+    "wholesalePrice": 300.95,
+    "extraPrice": 316,
+    "retailPrice": 376.19
+  },
+  {
     "id": "УТ000035128",
     "category": ".УПАКОВКА",
     "name": "ПАКЕТ № 008 ПАЧКА 10 ШТ",
@@ -32622,6 +32670,14 @@
     "wholesalePrice": 123.36,
     "extraPrice": 129.53,
     "retailPrice": 154.21
+  },
+  {
+    "id": "УТ000038793",
+    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
+    "name": "САММЕРРОУЗ КРЕМ (FLORA-OLA) 60 см куст на воде",
+    "wholesalePrice": 118.02,
+    "extraPrice": 123.92,
+    "retailPrice": 147.53
   },
   {
     "id": "УТ000038822",
@@ -59718,5 +59774,13 @@
     "wholesalePrice": 1205.49,
     "extraPrice": 1265.76,
     "retailPrice": 1506.86
+  },
+  {
+    "id": "УТ000055115",
+    "category": "..СУХОЦВЕТЫ",
+    "name": "КОРИЛУС  ДЕРЕВО",
+    "wholesalePrice": 1270.4,
+    "extraPrice": 1333.92,
+    "retailPrice": 1588
   }
 ]
