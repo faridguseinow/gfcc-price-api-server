@@ -1856,14 +1856,6 @@
     "retailPrice": 1863
   },
   {
-    "id": "УТ000004846",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "ДРАЦЕНА МАРГИНАТА 21/120 СМ",
-    "wholesalePrice": 2980.8,
-    "extraPrice": 3129.84,
-    "retailPrice": 3726
-  },
-  {
     "id": "УТ000004849",
     "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
     "name": "ДРАЦЕНА МАРГИНАТА 24/140 СМ",
@@ -10232,6 +10224,14 @@
     "retailPrice": 6365.25
   },
   {
+    "id": "УТ000013709",
+    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
+    "name": "СПАТИФИЛЛИУМ СЕНСАТСИЯ 24/150 СМ",
+    "wholesalePrice": 7286.4,
+    "extraPrice": 7650.72,
+    "retailPrice": 9108
+  },
+  {
     "id": "УТ000013714",
     "category": ".УПАКОВКА",
     "name": "СПРЕЙ СНЕГ",
@@ -10782,6 +10782,14 @@
     "wholesalePrice": 2322.54,
     "extraPrice": 2438.67,
     "retailPrice": 2903.18
+  },
+  {
+    "id": "УТ000014303",
+    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
+    "name": "ФАЛЕНОПСИС 2 СТ. 12/70 СМ",
+    "wholesalePrice": 1473.84,
+    "extraPrice": 1547.53,
+    "retailPrice": 1842.3
   },
   {
     "id": "УТ000014311",
@@ -35584,6 +35592,14 @@
     "retailPrice": 78.27
   },
   {
+    "id": "УТ000040168",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "ХОТ СПОТ-50см ANNI ROSES.LRA.QLS.ATC.SPPH.ALLGF.EVR.RLH.TURS.GWFW.VDS.RDF.FDS 2.CNV.MON",
+    "wholesalePrice": 75.54,
+    "extraPrice": 79.32,
+    "retailPrice": 94.42
+  },
+  {
     "id": "УТ000040169",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ХОТ СПОТ-60см ANNI ROSES.LRA.QLS.ATC.SPPH.ALLGF.EVR.RLH.TURS.GWFW.VDS.RDF.FDS 2.CNV.MON",
@@ -38056,6 +38072,14 @@
     "retailPrice": 1304.1
   },
   {
+    "id": "УТ000041763",
+    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
+    "name": "САНСЕРА 80 см РОЗА Кен/Куст. (RLR)",
+    "wholesalePrice": 207,
+    "extraPrice": 217.35,
+    "retailPrice": 258.75
+  },
+  {
     "id": "УТ000041767",
     "category": "..РОЗА ЭКВАДОР",
     "name": "РЕД/ПИНК МОНСТЕР (ТЕССА)  70см",
@@ -39318,6 +39342,14 @@
     "wholesalePrice": 292.28,
     "extraPrice": 306.9,
     "retailPrice": 365.36
+  },
+  {
+    "id": "УТ000043586",
+    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
+    "name": "ДЖЕЗАБЕЛЬ 60 см РОЗА Кен/Куст. (RLR)",
+    "wholesalePrice": 173.05,
+    "extraPrice": 181.7,
+    "retailPrice": 216.32
   },
   {
     "id": "УТ000043587",
@@ -41966,6 +41998,14 @@
     "wholesalePrice": 1038.31,
     "extraPrice": 1090.23,
     "retailPrice": 1297.89
+  },
+  {
+    "id": "УТ000045382",
+    "category": "..РОЗА КЕНИЯ",
+    "name": "МАДАМ РЕД 70 см РОЗА Кения (BARAKA)",
+    "wholesalePrice": 66.24,
+    "extraPrice": 69.55,
+    "retailPrice": 82.8
   },
   {
     "id": "УТ000045384",
@@ -59818,7 +59858,7 @@
   {
     "id": "УТ000055080",
     "category": "..ЦВЕТЫ КИТАЙ",
-    "name": "ФИРЕЗИЯ КИТАЙ ПАЧКА",
+    "name": "ФРЕЗИЯ КИТАЙ ПАЧКА",
     "wholesalePrice": 496.8,
     "extraPrice": 521.64,
     "retailPrice": 621
