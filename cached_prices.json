@@ -8504,14 +8504,6 @@
     "retailPrice": 203.5
   },
   {
-    "id": "УТ000010168",
-    "category": "..,РАЗНОЕ",
-    "name": "ВИБУРНУМ БОЛЬШОЙ",
-    "wholesalePrice": 211.64,
-    "extraPrice": 222.22,
-    "retailPrice": 264.55
-  },
-  {
     "id": "УТ000010172",
     "category": "..,РАЗНОЕ",
     "name": "ГВОЗДИКА ВОДА",
@@ -42912,6 +42904,14 @@
     "retailPrice": 74.28
   },
   {
+    "id": "УТ000046409",
+    "category": "..ЦВЕТЫ КИТАЙ",
+    "name": "БАМБУК  КИТАЙ ПАЧКА",
+    "wholesalePrice": 1237.28,
+    "extraPrice": 1299.14,
+    "retailPrice": 1546.6
+  },
+  {
     "id": "УТ000046417",
     "category": "..ЦВЕТЫ КИТАЙ",
     "name": "ЛИЛИЯ КИТАЙ ПАЧКА",
@@ -46238,6 +46238,14 @@
     "wholesalePrice": 113.28,
     "extraPrice": 118.94,
     "retailPrice": 141.6
+  },
+  {
+    "id": "УТ000049428",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "Фатима (ТЕССА)- 60см",
+    "wholesalePrice": 132.98,
+    "extraPrice": 139.63,
+    "retailPrice": 166.23
   },
   {
     "id": "УТ000049429",
