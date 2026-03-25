@@ -1,4 +1,4 @@
-<PriceList date="25.03.2026 16:48:39">
+<PriceList date="25.03.2026 17:19:45">
 	<GroupsOfGoods>
 		<Group ID="УТ000028416" Name="СУХИЕ РОЗЫ" ParentID="" ParentName=""/>
 		<Group ID="УТ000032724" Name="..,РОЗА ,МЕСТНАЯ" ParentID="" ParentName=""/>
@@ -4515,6 +4515,9 @@ D-170" Price="351,65" PriceRetail="439,56" PriceExt="369,23" ParentID="УТ0000022
 H - 182
 D - 85*108
 " Price="134,31" PriceRetail="167,89" PriceExt="141,03" ParentID="УТ000002211" ParentName="ВАЗЫ И КЕРАМИКА"/>
+		<Item ID="УТ000044520" Name="ВАЗА № 2358" EI="шт" ДополнительноеОписаниеНоменклатуры="Арт.2358 Н-200 D-115 
+прозрачный
+" Price="294,67" PriceRetail="368,34" PriceExt="309,40" ParentID="УТ000002211" ParentName="ВАЗЫ И КЕРАМИКА"/>
 		<Item ID="УТ000044521" Name="ВАЗА № 2636" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="545,38" PriceRetail="681,73" PriceExt="572,65" ParentID="УТ000002211" ParentName="ВАЗЫ И КЕРАМИКА"/>
 		<Item ID="УТ000044522" Name="ВАЗА № 2707" EI="шт" ДополнительноеОписаниеНоменклатуры="Арт.2707  H-255 D-116" Price="338,62" PriceRetail="423,28" PriceExt="355,56" ParentID="УТ000002211" ParentName="ВАЗЫ И КЕРАМИКА"/>
 		<Item ID="УТ000044696" Name="ВАЗА № 2438" EI="шт" ДополнительноеОписаниеНоменклатуры="Арт.2438 Н-260 D-115" Price="280,83" PriceRetail="351,04" PriceExt="294,87" ParentID="УТ000002211" ParentName="ВАЗЫ И КЕРАМИКА"/>
@@ -5418,10 +5421,6 @@ M:D25x15 B:20x12 H:6/12/15/23&quot;
 " Price="625,15" PriceRetail="781,44" PriceExt="656,41" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000021629" Name="Корзина - 8937801" EI="шт" ДополнительноеОписаниеНоменклатуры="T:28x20 B:28x20 H:13.5/30
 " Price="323,97" PriceRetail="404,97" PriceExt="340,17" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
-		<Item ID="УТ000021630" Name="Корзина - 8938001" EI="шт" ДополнительноеОписаниеНоменклатуры="T:18x19.5 
-B:18x19.5 
-H:13.5/30
-" Price="266,18" PriceRetail="332,72" PriceExt="279,49" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000021631" Name="Корзина - 8938301" EI="шт" ДополнительноеОписаниеНоменклатуры="T:18x19 
 B:18x19 
 H13/29
@@ -5498,8 +5497,6 @@ XS:D24xH9xHH27xB17cm" Price="1823,36" PriceRetail="2279,20" PriceExt="1914,53" P
 		<Item ID="УТ000028315" Name="Корзина - 19B100003" EI="шт" ДополнительноеОписаниеНоменклатуры="L:35X27XH15XB35X27 
 M:30X22XH14.5XB30X22 
 S:25X17XH10XB25X17" Price="586,08" PriceRetail="732,60" PriceExt="615,38" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
-		<Item ID="УТ000028317" Name="Корзина - 19B100202" EI="шт" ДополнительноеОписаниеНоменклатуры="L:25X16XH10/20XB25X16  
-S:20X11XH8.5/15XB20X11" Price="442,00" PriceRetail="552,50" PriceExt="464,10" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000028318" Name="Корзина - 19B100302" EI="шт" ДополнительноеОписаниеНоменклатуры="L:35X22XH20XB35X22 
 S:30X16.5XH17XB30X16.5" Price="517,70" PriceRetail="647,13" PriceExt="543,59" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000028324" Name="Корзина - 19B101401" EI="шт" ДополнительноеОписаниеНоменклатуры="29.5X24XH15X29.5X24" Price="268,62" PriceRetail="335,78" PriceExt="282,05" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
@@ -5585,10 +5582,6 @@ S:D24XH11.5XHH31.5XB19
 " Price="744,81" PriceRetail="931,01" PriceExt="782,05" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000028360" Name="Корзина - 19B208303" EI="шт" ДополнительноеОписаниеНоменклатуры="L:45X32.5XH21.5/26/29.5XB36.5X24.5 2XS:25.5X18XH13/14/19.5XB20X14
 " Price="1306,47" PriceRetail="1633,09" PriceExt="1371,79" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
-		<Item ID="УТ000028361" Name="Корзина - 19B208403" EI="шт" ДополнительноеОписаниеНоменклатуры="L:44X37.5XH21/22/39.5XB25 
-M:37.5X30.5XH18/19/35XB20 
-S:30.5X24.5XH13.5/14.5/29X16
-" Price="1709,40" PriceRetail="2136,75" PriceExt="1794,87" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000028362" Name="Корзина - 19B208503" EI="шт" ДополнительноеОписаниеНоменклатуры="L:46X36.5XH19/23/39.5XB32.5X21.5 
 M:40X30XH16/19/35XB27X17 
 S:33.5X23.5XH13.5/17/30XB22.5X12.5
@@ -5641,9 +5634,6 @@ S:28X18XH12XB22X15
 " Price="450,96" PriceRetail="563,70" PriceExt="473,50" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000028390" Name="Корзина - 19B302002" EI="шт" ДополнительноеОписаниеНоменклатуры="L:24XH14XB17 
 S:19XH12XB13
-" Price="450,96" PriceRetail="563,70" PriceExt="473,50" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
-		<Item ID="УТ000028391" Name="Корзина - 19B302102" EI="шт" ДополнительноеОписаниеНоменклатуры="L:24X24XH14XB16X16 
-S:19.5X19.5XH12XB13X13
 " Price="450,96" PriceRetail="563,70" PriceExt="473,50" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000028392" Name="Корзина - 19B302202" EI="шт" ДополнительноеОписаниеНоменклатуры="L:32.5X23XH14XB25X16 
 S:28X18XH12.5XB21X14
@@ -5887,9 +5877,6 @@ S:32X24.5XH11/14XHH31XB24X16.5
 M:39X30H14:11HH35B25X18 
 S:34X24H12:10HH29B20X14
 " Price="1094,83" PriceRetail="1368,54" PriceExt="1149,57" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
-		<Item ID="УТ000034529" Name="Корзина - 605503" EI="шт" ДополнительноеОписаниеНоменклатуры="L:37X17HH40B28  
-M:27X15HH36B21  
-S:19X12HH30B16" Price="1150,18" PriceRetail="1437,73" PriceExt="1207,69" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000034530" Name="Корзина - 8885003" EI="шт" ДополнительноеОписаниеНоменклатуры="L:33x25 H13/17 HH48 B24x17
 M:27x20 H12/15 HH43 B21x14
 S:22x16 H10/12 HH38 B18x10
@@ -5920,10 +5907,6 @@ S:D27XH10XHH27XB20" Price="1006,92" PriceRetail="1258,65" PriceExt="1057,26" Par
 M:D30xH13xHH32xB23      
 S:D25xH11xHH28xB19
 " Price="995,52" PriceRetail="1244,40" PriceExt="1045,30" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
-		<Item ID="УТ000034541" Name="Корзина - 017103" EI="шт" ДополнительноеОписаниеНоменклатуры="L:43x30xH14/18xHH41xB33x23cm 
-M:39x25xH12/16xHH35xB28x19cm 
-S:31x19xH10/14xHH30xB23x15cm
-" Price="1105,41" PriceRetail="1381,77" PriceExt="1160,68" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000034542" Name="Корзина - 8626503" EI="шт" ДополнительноеОписаниеНоменклатуры="L:35x27xH17/13xHH37xB25x17cm
 M:30x22xH14/11xHH33xB21x14cm
 S:25x18xH12/9xHH29xB18x12cm" Price="1039,48" PriceRetail="1299,35" PriceExt="1091,45" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
@@ -5954,10 +5937,6 @@ S:33x22xH14/10xHH31cm
 M: D32xH15xHH37xB26cm                    
 S: D26xH12xHH31xB21cm&quot;
 " Price="1359,38" PriceRetail="1699,23" PriceExt="1427,35" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
-		<Item ID="УТ000034554" Name="Корзина - 746603" EI="шт" ДополнительноеОписаниеНоменклатуры="L:69x53xH24xHH54cm
-M:62xH47xH23xHH47cm
-S:54x42xH20xHH42cm
-" Price="2583,64" PriceRetail="3229,55" PriceExt="2712,82" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000034760" Name=" Корзина Бамбук - 14824" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="68,38" PriceRetail="85,47" PriceExt="71,79" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000034761" Name=" Корзина Бамбук - 14825" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="68,38" PriceRetail="85,47" PriceExt="71,79" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000034762" Name=" Корзина Бамбук - 14826" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="68,38" PriceRetail="85,47" PriceExt="71,79" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
@@ -5993,10 +5972,6 @@ S:B:19X15XH16.5/10XHH26
 " Price="1064,71" PriceRetail="1330,89" PriceExt="1117,95" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000034792" Name="Корзина - 2014006" EI="шт" ДополнительноеОписаниеНоменклатуры="L:B:23X16.5XH20.5/12XHH31.5      
 S:B:19X13XH15/9XHH25
-" Price="1064,71" PriceRetail="1330,89" PriceExt="1117,95" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
-		<Item ID="УТ000034795" Name="Корзина - 8267203" EI="шт" ДополнительноеОписаниеНоменклатуры="L:30.5xH22.5xHH53.5xB17                       
-M:26xH18.5xHH48.5xB14.5                            
-S:19.5xH15xHH42.5xB11                           
 " Price="1064,71" PriceRetail="1330,89" PriceExt="1117,95" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000034796" Name="Корзина - 19A209003" EI="шт" ДополнительноеОписаниеНоменклатуры="&quot;L:D34XH15/38XB26 
 M:D28XH12/32XB21 
@@ -6078,10 +6053,6 @@ S:30X24XH11/29XB25X16.5
 M:33XH13/33XB23 
 S:26XH11/28XB20
 " Price="1151,81" PriceRetail="1439,76" PriceExt="1209,40" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
-		<Item ID="УТ000026048" Name="Корзина - 19B203803" EI="шт" ДополнительноеОписаниеНоменклатуры="L:43X34XH14/17/40XB30X23 
-M:36X28XH12.5/14/36XB26.5X19 
-S:29X22XH10/13/29XB22X15
-" Price="1151,81" PriceRetail="1439,76" PriceExt="1209,40" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000026052" Name="Корзина - 19B201403" EI="шт" ДополнительноеОписаниеНоменклатуры="L:36XH14/36XB26 
 M:30XH11/30XB23 
 S:24XH9/25XB19
@@ -6117,10 +6088,6 @@ S:28XH11/30 XB23
 M:29XH12/32XB25 
 S:25XH12/28XB20
 " Price="643,06" PriceRetail="803,83" PriceExt="675,21" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
-		<Item ID="УТ000026067" Name="Корзина - 19B212003" EI="шт" ДополнительноеОписаниеНоменклатуры="L:30XH11/36XB35
-M:25XH9/30XB20
-S:20XH7/26XB16
-" Price="679,69" PriceRetail="849,61" PriceExt="713,67" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000026070" Name="Корзина - 19B212503" EI="шт" ДополнительноеОписаниеНоменклатуры="L:35XH14/37XB27 
 M:30XH13/32XB23 
 S:24XH11/28XB19
@@ -6295,10 +6262,6 @@ S: D20xH10xHH28xB16c" Price="1085,06" PriceRetail="1356,33" PriceExt="1139,32" P
 		<Item ID="УТ000026153" Name="Корзина - 8739603" EI="шт" ДополнительноеОписаниеНоменклатуры="L:35.5x18xH21.5/18xB24x11
 M:30x14.5xH18.5/15xB20x9.5
 S:25x11.5xH16.5/13xB16.5x6.5" Price="1050,06" PriceRetail="1312,58" PriceExt="1102,56" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
-		<Item ID="УТ000026157" Name="Корзина - 129003" EI="шт" ДополнительноеОписаниеНоменклатуры="L:36x26xH19xHH60x26x17 
-M:30x22xH18xHH55x23x14  
-S:25x18xH16xHH50x19x12
-" Price="927,96" PriceRetail="1159,95" PriceExt="974,36" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000026158" Name="Корзина - 8269903" EI="шт" ДополнительноеОписаниеНоменклатуры="L:30xH15xHH34.5xB21                       
 M:26xH12.5xHH30xB18                       
 S:18.5xH10xHH26.5xB15
@@ -6333,9 +6296,6 @@ S:24X16XH12XB17.5X11.5" Price="817,26" PriceRetail="1021,57" PriceExt="858,12" P
 		<Item ID="УТ000035314" Name="Корзина - 19B300703" EI="шт" ДополнительноеОписаниеНоменклатуры="L:34X26XH16XB24.5X16.5 
 M:28.5X21.5XH13XB21.5X174 
 S:23.5X18XH11XB18X11.5" Price="761,90" PriceRetail="952,38" PriceExt="800,00" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
-		<Item ID="УТ000035316" Name="Корзина - 106003" EI="шт" ДополнительноеОписаниеНоменклатуры="L:D35XH12XHH35CM  
-M:D31XH10XHH31CM   
-S:D25XH9XHH27CM" Price="1216,93" PriceRetail="1521,16" PriceExt="1277,78" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000035318" Name="Корзина - 811903" EI="шт" ДополнительноеОписаниеНоменклатуры="L:46x32xH20/15xHH41cm
 M:39x29xH17/14xHH37cm
 S:33x24xH2xHH32cm" Price="1288,56" PriceRetail="1610,70" PriceExt="1352,99" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
@@ -6707,10 +6667,6 @@ S:25XH10/30XB20
 M:38X31XH13XHH35XB31X22 
 S:32X24XH10XHH29XB27X18
 " Price="1117,62" PriceRetail="1397,03" PriceExt="1173,50" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
-		<Item ID="УТ000038568" Name="Корзина - 21A205303" EI="шт" ДополнительноеОписаниеНоменклатуры="L:41X34XH13/16/36XB30X21 
-M:35X28XH12/15/32XB27X18 
-S:27X22XH9/12/27XB22X14
-" Price="1079,36" PriceRetail="1349,21" PriceExt="1133,33" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000038569" Name="Корзина - 341303" EI="шт" ДополнительноеОписаниеНоменклатуры="L: 40x33xH13xHH37x30x23cm         
 M: 34x27xH11xHH32x27x20cm         
  S: 29x22xH10xHH27x23x16cm" Price="995,52" PriceRetail="1244,40" PriceExt="1045,30" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
@@ -6839,10 +6795,6 @@ S:29.5x22.5xH16/13.5xHH32xB21x15
 M:31X26XH12/32XB26X19 
 S:27X21XH10/26XB22X15
 " Price="1079,36" PriceRetail="1349,21" PriceExt="1133,33" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
-		<Item ID="УТ000039069" Name="Корзина - 8885203" EI="шт" ДополнительноеОписаниеНоменклатуры="&quot;L:32x16 H13/16 HH48 B25x16
-M:27x21 H10/14 HH43 B21x13
-S:22x16 H8/11 HH38 B17x10&quot;
-" Price="884,00" PriceRetail="1105,01" PriceExt="928,20" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000039070" Name="Корзина - 21A205603" EI="шт" ДополнительноеОписаниеНоменклатуры="L:32XH15/35XB23 
 M:27XH13/31XB20 
 S:23XH12/26XB16
@@ -6942,18 +6894,10 @@ S:30x23xH19xHH44xB14
 M:D25XH12XHH31XB17.5 
 S:D20.5XH10XHH26.5XB15
 " Price="667,48" PriceRetail="834,35" PriceExt="700,85" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
-		<Item ID="УТ000040614" Name="Корзина - 8949603" EI="шт" ДополнительноеОписаниеНоменклатуры="&quot;L:37x28xH12/17.5xHH39xB25x27.5
-M:32x25xH11.5/15.5xHH34xB23x16
-S:25.5x20.5xH10/13.5xHH29xB19x14&quot;
-" Price="730,16" PriceRetail="912,70" PriceExt="766,67" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000040616" Name="Корзина - 338303" EI="шт" ДополнительноеОписаниеНоменклатуры="&quot;L: 38x30xH15xHH44x33x25cm    
   M: 33x24xH13xHH39x28x20cm    
  S: 28x20xH11xHH34x23x17cm&quot;
 " Price="953,19" PriceRetail="1191,49" PriceExt="1000,85" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
-		<Item ID="УТ000040617" Name="Корзина - 352403" EI="шт" ДополнительноеОписаниеНоменклатуры="&quot;L: 50x33xH13/19xHH38x35x24cm  
- M: 42x27xH11/16xHH33x30x20cm  
-S: 36x22xH9/14xHH28x26x16cm&quot;
-" Price="946,68" PriceRetail="1183,35" PriceExt="994,02" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000040620" Name="Корзина - 20A203803" EI="шт" ДополнительноеОписаниеНоменклатуры="L:28XH14/35XB20                   
 M:23XH12/30XB15             
 S:18XH10/25XB12.5
@@ -6969,10 +6913,6 @@ S:24X18XH11/14/35XB18X11
 M:35x29xH13xHH37xB29x19
 S:30x23xH12xHH32xB23.5x15&quot;
 " Price="984,94" PriceRetail="1231,18" PriceExt="1034,19" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
-		<Item ID="УТ000040823" Name="Корзина - 8666503" EI="шт" ДополнительноеОписаниеНоменклатуры="L:46x38xH14xHH44xB37x27cm                              
-M:38x32xH11xHH37xB30x21cm                                 
-S:30x25xH10xHH32xB24x17.5cm
-" Price="1424,50" PriceRetail="1780,63" PriceExt="1495,73" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000040825" Name="Корзина - 21A208503" EI="шт" ДополнительноеОписаниеНоменклатуры="L:46X31XH15.5/21.5/42XB33X22 
 M:39X27XH13/18/37.8XB28X18 
 S:32X22XH11.5/15/32.5XB23X13
@@ -7033,10 +6973,6 @@ S:22x12 H11 HH30 B18x10&quot;
 M:44*34/D20XH12/38
 S:40*30/D16XH10/33&quot;
 " Price="1455,43" PriceRetail="1819,29" PriceExt="1528,20" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
-		<Item ID="УТ000042018" Name="Корзина - 016603" EI="шт" ДополнительноеОписаниеНоменклатуры="L:41x32xH15/21xHH42xB32x22cm
- M:34x26xH14/19xHH36xB26x18cm 
-S:29x21xH12/16xHH31xB23x16cm
-" Price="1006,92" PriceRetail="1258,65" PriceExt="1057,26" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000043802" Name="Корзина - S" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="297,11" PriceRetail="371,39" PriceExt="311,97" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000043803" Name="Корзина - М" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="339,44" PriceRetail="424,30" PriceExt="356,41" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000043804" Name="Корзина - L" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="381,77" PriceRetail="477,21" PriceExt="400,85" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
@@ -7057,10 +6993,8 @@ S:29x21xH12/16xHH31xB23x16cm
 		<Item ID="УТ000045429" Name="Корзина - N028203" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="1074,48" PriceRetail="1343,10" PriceExt="1128,20" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000045430" Name="Корзина - 056004" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="1722,42" PriceRetail="2153,03" PriceExt="1808,55" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000045431" Name="Корзина - N050704" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="1386,24" PriceRetail="1732,80" PriceExt="1455,55" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
-		<Item ID="УТ000045457" Name="Корзина - 760003" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="2607,24" PriceRetail="3259,05" PriceExt="2737,60" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000045561" Name="Корзина - N000202" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="1111,92" PriceRetail="1389,91" PriceExt="1167,52" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000045563" Name="Корзина - N000503" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="1851,85" PriceRetail="2314,81" PriceExt="1944,44" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
-		<Item ID="УТ000045785" Name="Корзина - 8890601" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="332,11" PriceRetail="415,14" PriceExt="348,72" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000045786" Name="Корзина - N000102" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="1483,92" PriceRetail="1854,90" PriceExt="1558,12" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000045788" Name="Корзина - N000703" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="1449,73" PriceRetail="1812,17" PriceExt="1522,22" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000045790" Name="Корзина - N001302" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="393,16" PriceRetail="491,45" PriceExt="412,82" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
@@ -7080,17 +7014,14 @@ S:29x21xH12/16xHH31xB23x16cm
 		<Item ID="УТ000048403" Name="Корзина - 19A302604" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="980,87" PriceRetail="1226,09" PriceExt="1029,91" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000048404" Name="Корзина - 19A302704" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="1093,20" PriceRetail="1366,50" PriceExt="1147,86" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000048405" Name="Корзина - 19A303003" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="619,70" PriceRetail="774,62" PriceExt="650,68" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
-		<Item ID="УТ000048406" Name="Корзина - 19A202603" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="1157,51" PriceRetail="1446,89" PriceExt="1215,38" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000048407" Name="Металл - 046801" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="290,60" PriceRetail="363,25" PriceExt="305,13" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
-		<Item ID="УТ000048417" Name="Корзина - 8894002" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="649,57" PriceRetail="811,97" PriceExt="682,05" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000048418" Name="Корзина - N029101" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="394,79" PriceRetail="493,49" PriceExt="414,53" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
-		<Item ID="УТ000048419" Name="Корзина - N004303" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="1147,74" PriceRetail="1434,68" PriceExt="1205,13" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
+		<Item ID="УТ000048420" Name="Корзина - N004403" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="829,47" PriceRetail="1036,83" PriceExt="870,94" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000048421" Name="Корзина - N004503" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="908,42" PriceRetail="1135,53" PriceExt="953,85" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000048425" Name="Корзина - N057101" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="260,48" PriceRetail="325,60" PriceExt="273,50" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000049148" Name="Корзина - N045101" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="340,25" PriceRetail="425,32" PriceExt="357,26" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000049149" Name="Корзина - N045201" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="210,01" PriceRetail="262,52" PriceExt="220,51" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000049150" Name="Корзина - N153101" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="337,81" PriceRetail="422,26" PriceExt="354,70" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
-		<Item ID="УТ000049151" Name="Корзина - N141510" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="10582,00" PriceRetail="13227,50" PriceExt="11111,10" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000049152" Name="Корзина - N099205" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="1949,53" PriceRetail="2436,91" PriceExt="2047,01" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000049153" Name="Корзина - N158602" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="862,84" PriceRetail="1078,55" PriceExt="905,98" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000049154" Name="Корзина - N158802" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="1040,29" PriceRetail="1300,37" PriceExt="1092,31" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
@@ -7108,7 +7039,6 @@ S:29x21xH12/16xHH31xB23x16cm
 		<Item ID="УТ000050028" Name="Корзина - 20A208801" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="580,38" PriceRetail="725,48" PriceExt="609,40" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000050029" Name="Корзина - N018503" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="831,91" PriceRetail="1039,89" PriceExt="873,50" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000050030" Name="Корзина - N145801" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="761,09" PriceRetail="951,36" PriceExt="799,14" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
-		<Item ID="УТ000050031" Name="Корзина - 152201" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="1061,46" PriceRetail="1326,82" PriceExt="1114,53" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000050032" Name="Корзина - 714601" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="455,84" PriceRetail="569,80" PriceExt="478,63" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000050033" Name="Корзина - 714701" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="455,84" PriceRetail="569,80" PriceExt="478,63" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000050034" Name="Корзина - N055403" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="831,91" PriceRetail="1039,89" PriceExt="873,50" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
@@ -7128,7 +7058,6 @@ S:29x21xH12/16xHH31xB23x16cm
 		<Item ID="УТ000050200" Name="Корзина - N140803" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="910,05" PriceRetail="1137,57" PriceExt="955,55" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000050201" Name="Корзина - 20A208601" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="598,29" PriceRetail="747,86" PriceExt="628,20" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000050206" Name="Корзина - N002401" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="910,05" PriceRetail="1137,57" PriceExt="955,55" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
-		<Item ID="УТ000050207" Name="Корзина - N002501" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="889,70" PriceRetail="1112,13" PriceExt="934,19" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000050208" Name="Корзина - 8942501" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="286,53" PriceRetail="358,16" PriceExt="300,85" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000050209" Name="Корзина - N000901" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="626,78" PriceRetail="783,48" PriceExt="658,12" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000050210" Name="Корзина - N001501" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="275,13" PriceRetail="343,92" PriceExt="288,89" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
@@ -7166,30 +7095,20 @@ S:D28xH11xHH28xB20cm
 M:35X27XH13/32XB28X21 
 S:29X22XH11/26XB23X18
 " Price="1801,06" PriceRetail="2251,32" PriceExt="1891,11" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
-		<Item ID="УТ000052061" Name="Корзина - 21A214203" EI="шт" ДополнительноеОписаниеНоменклатуры="L:38X27XH12/17/36XB30X20 
-M:32X22XH11/15/30XB25X16 
-S:25X17XH10/13/25XB20X12
-" Price="1801,06" PriceRetail="2251,32" PriceExt="1891,11" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000052063" Name="Корзина - N091004" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="1680,91" PriceRetail="2101,14" PriceExt="1764,96" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000052064" Name="Корзина - N098701" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="310,79" PriceRetail="388,48" PriceExt="326,32" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000052066" Name="Корзина - N168403" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="1110,21" PriceRetail="1387,77" PriceExt="1165,73" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000052067" Name="Корзина - N175203" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="787,95" PriceRetail="984,94" PriceExt="827,35" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000052068" Name="Корзина - N218603" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="943,43" PriceRetail="1179,28" PriceExt="990,60" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
-		<Item ID="УТ000052069" Name="Корзина - N218803" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="855,51" PriceRetail="1069,39" PriceExt="898,29" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000052070" Name="Корзина - N219003" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="941,80" PriceRetail="1177,25" PriceExt="988,89" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000052565" Name="Корзина - N108003" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="744,81" PriceRetail="931,01" PriceExt="782,05" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
-		<Item ID="УТ000052583" Name="Корзина - 125303" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="908,42" PriceRetail="1135,53" PriceExt="953,85" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000052584" Name="Корзина - 304703" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="1042,73" PriceRetail="1303,42" PriceExt="1094,87" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000054580" Name="Корзина - N250306" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="6512,00" PriceRetail="8140,00" PriceExt="6837,60" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000054581" Name="Корзина - N249605" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="6105,00" PriceRetail="7631,25" PriceExt="6410,25" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
-		<Item ID="УТ000054801" Name="Корзина - N190401" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="409,44" PriceRetail="511,80" PriceExt="429,91" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000054802" Name="Корзина - 21A500801" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="210,01" PriceRetail="262,52" PriceExt="220,51" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000054803" Name="Корзина - 21A500901" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="222,22" PriceRetail="277,78" PriceExt="233,33" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000054804" Name="Корзина - N001003" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="952,38" PriceRetail="1190,48" PriceExt="1000,00" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
-		<Item ID="УТ000054805" Name="Корзина - N009603" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="622,71" PriceRetail="778,39" PriceExt="653,85" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000054806" Name="Корзина - N108403" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="987,38" PriceRetail="1234,23" PriceExt="1036,75" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
-		<Item ID="УТ000054809" Name="Корзина - N250010" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="12210,00" PriceRetail="15262,50" PriceExt="12820,50" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
-		<Item ID="УТ000054811" Name="Корзина - N250210" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="11396,00" PriceRetail="14245,00" PriceExt="11965,80" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000054814" Name="Корзина - N250404" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="5698,00" PriceRetail="7122,50" PriceExt="5982,90" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000054825" Name="Корзина - N169403" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="832,72" PriceRetail="1040,90" PriceExt="874,36" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000023839" Name="Корзина - 803803" EI="шт" ДополнительноеОписаниеНоменклатуры="L:D30xH12xHH34cm
@@ -7203,16 +7122,10 @@ S:28X24XH10XHH25XB:23X15
 M:37x29xH18/22/11xHH51xB17cm 
 S:32x25xH17/20/10xHH45xB13cm
 " Price="1480,67" PriceRetail="1850,83" PriceExt="1554,70" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
-		<Item ID="УТ000025281" Name="Корзина - 105103" EI="шт" ДополнительноеОписаниеНоменклатуры="L:D33XH15XHH36CM  
-M:D30XH12XHH31CM      
-S:D34.5XH9XHH26CM
-" Price="889,70" PriceRetail="1112,13" PriceExt="934,19" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000025282" Name="Корзина - 128903" EI="шт" ДополнительноеОписаниеНоменклатуры="L:D28xH20xHH60xB20 
 M:D23xH19xHH55xB16  
 S:D18xH17xHH50xB12
 " Price="846,56" PriceRetail="1058,20" PriceExt="888,89" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
-		<Item ID="УТ000025283" Name="Корзина - 151301" EI="шт" ДополнительноеОписаниеНоменклатуры="40*31*H14/32 B31*22
-" Price="1174,60" PriceRetail="1468,25" PriceExt="1233,33" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000025286" Name="Корзина - 19A203703" EI="шт" ДополнительноеОписаниеНоменклатуры="L:37X29XH11.5/14.5XHH35XB28X19 
 M:31.5X24XH9.5/12.5XHH30XB24.5X15.5 
 S:27X19XH8/11XHH25XB21X12" Price="875,05" PriceRetail="1093,81" PriceExt="918,80" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
@@ -7282,10 +7195,6 @@ S:33x25xH11/15xHH31xB26x19cm
 M:D36xH14xHH38xB27cm 
 S:D29xH12xHH33xB21cm
 " Price="1474,97" PriceRetail="1843,71" PriceExt="1548,72" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
-		<Item ID="УТ000006270" Name="Корзина - 015403" EI="шт" ДополнительноеОписаниеНоменклатуры="L:46x39xH15xHH43xB38x27cm 
-M:40x33xH13xHH38xB31x23cm 
-S:32x26xH12xHH32xB24x17cm
-" Price="1413,92" PriceRetail="1767,40" PriceExt="1484,61" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000006271" Name="Корзина - 015603" EI="шт" ДополнительноеОписаниеНоменклатуры="L:48x44xH16/20xHH41xB36x26cm 
 M:42x36xH14/18xHH37xB30x20cm 
 S:35x29xH12/15xHH32xB25x18cm
@@ -7294,10 +7203,6 @@ S:35x29xH12/15xHH32xB25x18cm
 M:D34xH13xHH36xB23cm 
 S:D28xH11xHH30xB18cm
 " Price="1024,01" PriceRetail="1280,02" PriceExt="1075,21" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
-		<Item ID="УТ000006275" Name="Корзина - 016703" EI="шт" ДополнительноеОписаниеНоменклатуры="L:D41xH16xHH39xB29cm 
-M:D35xH14xHH35xB25cm 
-S:D28xH12xHH29xB21cm
-" Price="1028,08" PriceRetail="1285,10" PriceExt="1079,49" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000006277" Name="Корзина - 017805" EI="шт" ДополнительноеОписаниеНоменклатуры="A:50x45xH18xHH45xB41x30cm 
 B:44x39xH16xHH40xB36x27cm 
 C:37x33xH14xHH36xB32x23cm 
@@ -7310,21 +7215,6 @@ C:37x29xH14/16xHH37xB28cm
 D:37x29xH12/14xHH32xB24cm
 E:33x25xH11/13xHH28xB20cm
 " Price="2588,52" PriceRetail="3235,65" PriceExt="2717,95" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
-		<Item ID="УТ000006279" Name="Корзина - 018004" EI="шт" ДополнительноеОписаниеНоменклатуры="XL:55x45xH18/22xHH46xB45x35cm 
-L:48x37xH16/20xHH40xB39x29cm 
-M:42x31xH14/18XHH35xB34x24cm 
-S:37x25xH12/15xHH31xB30x20cm
-" Price="2474,56" PriceRetail="3093,20" PriceExt="2598,29" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
-		<Item ID="УТ000006280" Name="Корзина - 018105" EI="шт" ДополнительноеОписаниеНоменклатуры="A:59x53xH16/18xHH44xB49x40cm 
-B:53x47xH13/17xHH39xB43x35cm 
-C:46x41xH10/14xHH35xB38x30cm 
-E:35x28xH8/11xHH29xB29x20cm
-" Price="2385,02" PriceRetail="2981,28" PriceExt="2504,27" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
-		<Item ID="УТ000006281" Name="Корзина - 018205" EI="шт" ДополнительноеОписаниеНоменклатуры="A:66x56xH24xHH53xB35x33cm 
-B:59x48xH21xHH49xB30x30cm 
-C:51x42xH19xHH43xB25x25cm 
-D:43x36xH16xHH38xB21x2
-" Price="5011,80" PriceRetail="6264,75" PriceExt="5262,39" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000006347" Name="Корзина - 064503" EI="шт" ДополнительноеОписаниеНоменклатуры="L:D33xH14xHH37xB23cm 
 M:D27xH12xHH32xB18cm 
 S:D20xH10xHH28xB14cm
@@ -7373,6 +7263,10 @@ S:27x12/10xH10.5xHH50xB24x8.5cm" Price="472,93" PriceRetail="591,17" PriceExt="4
 S:D12xH10xHH33xB14cm
 
 " Price="557,59" PriceRetail="696,99" PriceExt="585,47" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
+		<Item ID="УТ000006376" Name="Корзина - 075403" EI="шт" ДополнительноеОписаниеНоменклатуры="L:53x34xH16xHH42xB22cm
+M:44x27xH14xHH37xB17cm
+S:34x20xH12xHH32xB13cm
+" Price="1741,96" PriceRetail="2177,45" PriceExt="1829,06" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000006381" Name="Корзина - 0802" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="1489,62" PriceRetail="1862,03" PriceExt="1564,10" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000006384" Name="Корзина - 100203" EI="шт" ДополнительноеОписаниеНоменклатуры="L:40X31XH19XHH52.5CM  
 M:33.5X25XH17XHH47CM 
@@ -7623,6 +7517,7 @@ C: 45x36xH14xHH40x37x27cm
 D: 39x30xH12xHH36x31x21cm
 E: 34x24xH10xHH32x27x17cm
 " Price="2459,91" PriceRetail="3074,89" PriceExt="2582,90" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
+		<Item ID="УТ000006640" Name="Корзина - 340703" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="1347,98" PriceRetail="1684,98" PriceExt="1415,38" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000006641" Name="Корзина - 341003" EI="шт" ДополнительноеОписаниеНоменклатуры="L: 38x30xH14xHH38x31x23cm     
 M: 33x25xH12xHH33x26x20cm         
 S: 27x20xH10xHH28x22x15cm
@@ -7752,6 +7647,10 @@ S:D21H19:11HH48B13
 M:36X26H28:17HH70B19  
 S:29X19H23:13HH60B13
 " Price="847,37" PriceRetail="1059,22" PriceExt="889,74" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
+		<Item ID="УТ000006728" Name="Корзина - 573203" EI="шт" ДополнительноеОписаниеНоменклатуры="L:49X43H25:28:14HH67B35X26  
+M:43X38H24:27:14HH62B31X22  
+S:36X32H21:23:11HH55B26X17
+" Price="1320,31" PriceRetail="1650,39" PriceExt="1386,32" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000006730" Name="Корзина - 576003" EI="шт" ДополнительноеОписаниеНоменклатуры="L:D33H15HH43B27  
 M:D28H15HH37B21  
 S:D22H12HH30B16
@@ -8260,6 +8159,10 @@ S:D13 H10.5 HH35 B8.5
 M:D21.5 H11.5 HH37 B15               
 S:D16.5 H9.5 HH32 B11.5
 " Price="868,54" PriceRetail="1085,67" PriceExt="911,96" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
+		<Item ID="УТ000017987" Name="Корзина - 8849403" EI="шт" ДополнительноеОписаниеНоменклатуры="L:D31.5/23.5 H13.5 HH48 B24/16      
+M:D26.5/20 H11.5 HH43 B20.5/13        
+S:D20.5/15 H10 HH38 B17/10
+" Price="869,35" PriceRetail="1086,69" PriceExt="912,82" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000017988" Name="Корзина - 8849503" EI="шт" ДополнительноеОписаниеНоменклатуры="L:D32/24 H15.5/12.5 HH48 B24/17    
 M:D28/18.5 H13.5/11 HH43 B20.5/14          
 S:D22/15.5 H12/10 HH18/11 B38
@@ -8304,28 +8207,16 @@ S:D23/16 H8.5 HH32 B17/10.5
 M:D28.5/17.5 H15.5/9 HH38 B21/13.5             
 S:D23/13 H12.5/8.5 HH33 B17.5/10
 " Price="739,11" PriceRetail="923,89" PriceExt="776,07" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
-		<Item ID="УТ000018002" Name="Корзина - 8850903" EI="шт" ДополнительноеОписаниеНоменклатуры="L:D26 H17.5 HH50 B17.5                  
-M:D20 H16 HH45.5 B14                     
-S:D15.5 H13.5 HH40 B10" Price="731,79" PriceRetail="914,73" PriceExt="768,38" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000018003" Name="Корзина - 8851003" EI="шт" ДополнительноеОписаниеНоменклатуры="L:D24 H18 HH50 B16                           
 M:D19.5 H16 HH45 B12                      
 S:D15 H13 HH40 B9" Price="825,40" PriceRetail="1031,75" PriceExt="866,67" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000018004" Name="Корзина - 8851103" EI="шт" ДополнительноеОписаниеНоменклатуры="L:D33.5/26.5 H17 HH50 B24.5/7              
 M:D27.5/20.5 H15 HH45 B20.5/13            
 S:D21.5/16.5 H13 HH40 B17/10.5" Price="783,88" PriceRetail="979,85" PriceExt="823,08" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
-		<Item ID="УТ000018006" Name="Корзина - 8851303" EI="шт" ДополнительноеОписаниеНоменклатуры="L:D33.5/34/35 H14 HH35 B25/25/26         
-M:D27/27.5/28 H12.5 HH30 B21/22/22       
-S:D23/23.5/23.5 H10.5 HH25 
-B18/17.5/17.5" Price="865,28" PriceRetail="1081,60" PriceExt="908,55" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000018007" Name="Корзина - 8851403" EI="шт" ДополнительноеОписаниеНоменклатуры="L:D42/28.5 H13/15 HH35 B28/18        
 M:D35/22 H13/11 HH30 B24/14                
 S:D28/18 H11.5/10 HH25 B20.5/11       
 " Price="951,57" PriceRetail="1189,46" PriceExt="999,14" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
-		<Item ID="УТ000018009" Name="Корзина - 8851604" EI="шт" ДополнительноеОписаниеНоменклатуры="XL:D41XH30/22XHH78XB24                        
-L:D35XH24.5/16X HH68 XB20                              
-M:D30.5XH20.5/12.5X HH61 XB16                                 
-S:D24XH15.5/8.5X HH54 XB13
-" Price="1931,62" PriceRetail="2414,53" PriceExt="2028,20" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000018011" Name="Корзина - 8851803" EI="шт" ДополнительноеОписаниеНоменклатуры="L:D40.5X33.5 H24/20/15.5 HH65 B20.5       
 M:D33.5X28 H21/19.5/14 HH56 B16           
 S:D27.5X21.5 H18/16/12 HH48 B13
