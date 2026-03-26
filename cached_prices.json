@@ -1888,14 +1888,6 @@
     "retailPrice": 52.91
   },
   {
-    "id": "УТ000004967",
-    "category": "..,ЗЕЛЕНЬ",
-    "name": "АСПАРАГУС КРАШЕНЫЙ",
-    "wholesalePrice": 116.2,
-    "extraPrice": 122.01,
-    "retailPrice": 145.25
-  },
-  {
     "id": "УТ000004970",
     "category": "..,ЗЕЛЕНЬ",
     "name": "АСПИДИСТРА  80 см",
@@ -1958,22 +1950,6 @@
     "wholesalePrice": 66.4,
     "extraPrice": 69.72,
     "retailPrice": 83
-  },
-  {
-    "id": "УТ000005021",
-    "category": "..,ЗЕЛЕНЬ",
-    "name": "ПИТТОСПОРУМ РАЛФИ",
-    "wholesalePrice": 419.98,
-    "extraPrice": 440.98,
-    "retailPrice": 524.98
-  },
-  {
-    "id": "УТ000005023",
-    "category": "..,ЗЕЛЕНЬ",
-    "name": "ПИТТОСПОРУМ СНОУ",
-    "wholesalePrice": 373.5,
-    "extraPrice": 392.18,
-    "retailPrice": 466.88
   },
   {
     "id": "УТ000005025",
@@ -6720,14 +6696,6 @@
     "retailPrice": 363.13
   },
   {
-    "id": "УТ000010127",
-    "category": "..,РАЗНОЕ",
-    "name": "АСКЛЕПИАC ОРАНЖЕВЫЙ",
-    "wholesalePrice": 53.95,
-    "extraPrice": 56.65,
-    "retailPrice": 67.44
-  },
-  {
     "id": "УТ000010131",
     "category": "..,РАЗНОЕ",
     "name": "АСТЕР БОЛЬШОЙ",
@@ -6760,28 +6728,12 @@
     "retailPrice": 137.99
   },
   {
-    "id": "УТ000010147",
-    "category": "..,РАЗНОЕ",
-    "name": "БРАССИКА",
-    "wholesalePrice": 116.2,
-    "extraPrice": 122.01,
-    "retailPrice": 145.25
-  },
-  {
     "id": "УТ000010153",
     "category": "..,РАЗНОЕ",
     "name": "БРУНИЯ",
     "wholesalePrice": 99.6,
     "extraPrice": 104.58,
     "retailPrice": 124.5
-  },
-  {
-    "id": "УТ000010155",
-    "category": "..,РАЗНОЕ",
-    "name": "БРУНИЯ КРАШЕНАЯ",
-    "wholesalePrice": 103.75,
-    "extraPrice": 108.94,
-    "retailPrice": 129.69
   },
   {
     "id": "УТ000010156",
@@ -6952,22 +6904,6 @@
     "retailPrice": 124.5
   },
   {
-    "id": "УТ000010251",
-    "category": "..,РАЗНОЕ",
-    "name": "ЗИНГИБЕР",
-    "wholesalePrice": 529.54,
-    "extraPrice": 556.02,
-    "retailPrice": 661.93
-  },
-  {
-    "id": "УТ000010255",
-    "category": "..,РАЗНОЕ",
-    "name": "ИЛЕКС",
-    "wholesalePrice": 166,
-    "extraPrice": 174.3,
-    "retailPrice": 207.5
-  },
-  {
     "id": "УТ000010256",
     "category": "..,РАЗНОЕ",
     "name": "ИРИС  БЛУ МЭДЖИК",
@@ -7048,14 +6984,6 @@
     "retailPrice": 230.82
   },
   {
-    "id": "УТ000010321",
-    "category": "..,РАЗНОЕ",
-    "name": "КОЧИЯ ТЕРНАТА",
-    "wholesalePrice": 154.38,
-    "extraPrice": 162.1,
-    "retailPrice": 192.98
-  },
-  {
     "id": "УТ000010322",
     "category": "..,РАЗНОЕ",
     "name": "КРАСПЕДИЯ",
@@ -7104,14 +7032,6 @@
     "retailPrice": 83
   },
   {
-    "id": "УТ000010345",
-    "category": "..,РАЗНОЕ",
-    "name": "ЛИАТРИС",
-    "wholesalePrice": 78.02,
-    "extraPrice": 81.92,
-    "retailPrice": 97.53
-  },
-  {
     "id": "УТ000010346",
     "category": "..,РАЗНОЕ",
     "name": "ЛИГУСТЕР",
@@ -7126,14 +7046,6 @@
     "wholesalePrice": 177.22,
     "extraPrice": 186.08,
     "retailPrice": 221.53
-  },
-  {
-    "id": "УТ000010357",
-    "category": "..,РАЗНОЕ",
-    "name": "ЛЙОСИМ",
-    "wholesalePrice": 61.42,
-    "extraPrice": 64.49,
-    "retailPrice": 76.78
   },
   {
     "id": "УТ000010358",
@@ -7216,14 +7128,6 @@
     "retailPrice": 1504.38
   },
   {
-    "id": "УТ000010396",
-    "category": "..,РАЗНОЕ",
-    "name": "ОРХИДЕЯ  1*6  КРАШЕНАЯ",
-    "wholesalePrice": 1328,
-    "extraPrice": 1394.4,
-    "retailPrice": 1660
-  },
-  {
     "id": "УТ000010402",
     "category": "..,РАЗНОЕ",
     "name": "ОРХИДЕЯ 1*15",
@@ -7232,36 +7136,12 @@
     "retailPrice": 726.25
   },
   {
-    "id": "УТ000010411",
-    "category": "..,РАЗНОЕ",
-    "name": "МИМОЗА ГОЛД",
-    "wholesalePrice": 6806,
-    "extraPrice": 7146.3,
-    "retailPrice": 8507.5
-  },
-  {
     "id": "УТ000010416",
     "category": "..,РАЗНОЕ",
     "name": "ПАНИКУМ",
     "wholesalePrice": 37.35,
     "extraPrice": 39.22,
     "retailPrice": 46.69
-  },
-  {
-    "id": "УТ000010421",
-    "category": "..,РАЗНОЕ",
-    "name": "ПЕННИ",
-    "wholesalePrice": 47.31,
-    "extraPrice": 49.68,
-    "retailPrice": 59.14
-  },
-  {
-    "id": "УТ000010425",
-    "category": "..,ЗЕЛЕНЬ",
-    "name": "ПИНУС",
-    "wholesalePrice": 311.25,
-    "extraPrice": 326.81,
-    "retailPrice": 389.06
   },
   {
     "id": "УТ000010429",
@@ -7384,22 +7264,6 @@
     "retailPrice": 215.8
   },
   {
-    "id": "УТ000010536",
-    "category": "..,РАЗНОЕ",
-    "name": "ПРОТЕЯ  БУКЕТ",
-    "wholesalePrice": 1021.73,
-    "extraPrice": 1072.82,
-    "retailPrice": 1277.16
-  },
-  {
-    "id": "УТ000010538",
-    "category": "..,РАЗНОЕ",
-    "name": "ПРОТЕЯ МИНИ",
-    "wholesalePrice": 166,
-    "extraPrice": 174.3,
-    "retailPrice": 207.5
-  },
-  {
     "id": "УТ000010539",
     "category": "..,РАЗНОЕ",
     "name": "ПРУНУС 130 СМ",
@@ -7440,14 +7304,6 @@
     "retailPrice": 166
   },
   {
-    "id": "УТ000010573",
-    "category": "..,РАЗНОЕ",
-    "name": "СЕРУРИЯ",
-    "wholesalePrice": 157.7,
-    "extraPrice": 165.59,
-    "retailPrice": 197.13
-  },
-  {
     "id": "УТ000010574",
     "category": "..,РАЗНОЕ",
     "name": "СЕТА ИТАЛИКА",
@@ -7472,14 +7328,6 @@
     "retailPrice": 103.75
   },
   {
-    "id": "УТ000010585",
-    "category": "..,РАЗНОЕ",
-    "name": "СКИЛИЯ",
-    "wholesalePrice": 139.44,
-    "extraPrice": 146.41,
-    "retailPrice": 174.3
-  },
-  {
     "id": "УТ000010587",
     "category": "..,РАЗНОЕ",
     "name": "СКИММИЯ ЗЕЛЕНАЯ",
@@ -7494,14 +7342,6 @@
     "wholesalePrice": 474.76,
     "extraPrice": 498.5,
     "retailPrice": 593.45
-  },
-  {
-    "id": "УТ000010589",
-    "category": "..,РАЗНОЕ",
-    "name": "СКИММИЯ КРАШЕНАЯ",
-    "wholesalePrice": 489.7,
-    "extraPrice": 514.19,
-    "retailPrice": 612.13
   },
   {
     "id": "УТ000010593",
@@ -7544,28 +7384,12 @@
     "retailPrice": 99.6
   },
   {
-    "id": "УТ000010606",
-    "category": "..,РАЗНОЕ",
-    "name": "ТАНАЦЕТУМ",
-    "wholesalePrice": 73.04,
-    "extraPrice": 76.69,
-    "retailPrice": 91.3
-  },
-  {
     "id": "УТ000010610",
     "category": "..,РАЗНОЕ",
     "name": "ТЕЛОПЕА",
     "wholesalePrice": 249,
     "extraPrice": 261.45,
     "retailPrice": 311.25
-  },
-  {
-    "id": "УТ000010611",
-    "category": "..,РАЗНОЕ",
-    "name": "ТИЛЛАНДСИЯ",
-    "wholesalePrice": 762.28,
-    "extraPrice": 800.39,
-    "retailPrice": 952.85
   },
   {
     "id": "УТ000010622",
@@ -7600,22 +7424,6 @@
     "retailPrice": 149.4
   },
   {
-    "id": "УТ000010642",
-    "category": "..,РАЗНОЕ",
-    "name": "ЦЕЛОЗИЯ",
-    "wholesalePrice": 87.15,
-    "extraPrice": 91.51,
-    "retailPrice": 108.94
-  },
-  {
-    "id": "УТ000010643",
-    "category": "..,РАЗНОЕ",
-    "name": "ЦЕЛОЗИЯ  МИНИ",
-    "wholesalePrice": 122.84,
-    "extraPrice": 128.98,
-    "retailPrice": 153.55
-  },
-  {
     "id": "УТ000010646",
     "category": "..,РАЗНОЕ",
     "name": "ЧЕМПИОН",
@@ -7640,14 +7448,6 @@
     "retailPrice": 435.75
   },
   {
-    "id": "УТ000010654",
-    "category": "..,РАЗНОЕ",
-    "name": "ЭРИКА",
-    "wholesalePrice": 69.72,
-    "extraPrice": 73.21,
-    "retailPrice": 87.15
-  },
-  {
     "id": "УТ000010655",
     "category": "..,РАЗНОЕ",
     "name": "ЭРИНГИУМ",
@@ -7656,28 +7456,12 @@
     "retailPrice": 186.75
   },
   {
-    "id": "УТ000010660",
-    "category": "..,РАЗНОЕ",
-    "name": "ЭУФОРБИЯ",
-    "wholesalePrice": 92.13,
-    "extraPrice": 96.74,
-    "retailPrice": 115.16
-  },
-  {
     "id": "УТ000010663",
     "category": "..,РАЗНОЕ",
     "name": "ЭЧХИУМ",
     "wholesalePrice": 69.72,
     "extraPrice": 73.21,
     "retailPrice": 87.15
-  },
-  {
-    "id": "УТ000010664",
-    "category": "..,РАЗНОЕ",
-    "name": "ЯТРОПА",
-    "wholesalePrice": 70.55,
-    "extraPrice": 74.08,
-    "retailPrice": 88.19
   },
   {
     "id": "УТ000010665",
@@ -11616,14 +11400,6 @@
     "retailPrice": 145.25
   },
   {
-    "id": "УТ000019610",
-    "category": "..,РАЗНОЕ",
-    "name": "КАПЕ МИКС",
-    "wholesalePrice": 705.5,
-    "extraPrice": 740.78,
-    "retailPrice": 881.88
-  },
-  {
     "id": "УТ000019611",
     "category": "..,РАЗНОЕ",
     "name": "ЛИЗИАНТУС АЛИСА  БЕЛ",
@@ -12504,14 +12280,6 @@
     "retailPrice": 1527.2
   },
   {
-    "id": "УТ000022311",
-    "category": "..,РАЗНОЕ",
-    "name": "ГВОЗДИКА КРАШЕНАЯ ЭКСТРА",
-    "wholesalePrice": 116.2,
-    "extraPrice": 122.01,
-    "retailPrice": 145.25
-  },
-  {
     "id": "УТ000022314",
     "category": "..СУХОЦВЕТЫ",
     "name": "КОРТАДЕРИЯ",
@@ -12590,14 +12358,6 @@
     "wholesalePrice": 233.23,
     "extraPrice": 244.89,
     "retailPrice": 291.54
-  },
-  {
-    "id": "УТ000022769",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "ТИЛЛАНДСИЯ ( Мix ) 6 СМ",
-    "wholesalePrice": 273.9,
-    "extraPrice": 287.6,
-    "retailPrice": 342.38
   },
   {
     "id": "УТ000022792",
@@ -15782,14 +15542,6 @@
     "wholesalePrice": 55.61,
     "extraPrice": 58.39,
     "retailPrice": 69.51
-  },
-  {
-    "id": "УТ000028482",
-    "category": "..,РАЗНОЕ",
-    "name": "СИРЕНЬ 50 см",
-    "wholesalePrice": 282.2,
-    "extraPrice": 296.31,
-    "retailPrice": 352.75
   },
   {
     "id": "УТ000028483",
@@ -21752,14 +21504,6 @@
     "retailPrice": 743.89
   },
   {
-    "id": "УТ000033111",
-    "category": "..,РАЗНОЕ",
-    "name": "ФАЛЕНОПСИС  КРАШЕНЫЙ",
-    "wholesalePrice": 1588.62,
-    "extraPrice": 1668.05,
-    "retailPrice": 1985.78
-  },
-  {
     "id": "УТ000033112",
     "category": "..,РАЗНОЕ",
     "name": "ЭКСТРА  ФАЛЕНОПСИС",
@@ -22230,14 +21974,6 @@
     "wholesalePrice": 83,
     "extraPrice": 87.15,
     "retailPrice": 103.75
-  },
-  {
-    "id": "УТ000033569",
-    "category": "..,РАЗНОЕ",
-    "name": "АЛЬСТРОМЕРИЯ ТЕССА",
-    "wholesalePrice": 107.9,
-    "extraPrice": 113.3,
-    "retailPrice": 134.88
   },
   {
     "id": "УТ000033573",
@@ -23208,14 +22944,6 @@
     "retailPrice": 259.38
   },
   {
-    "id": "УТ000034214",
-    "category": "..,ЗЕЛЕНЬ",
-    "name": "АСПАРАГУС КРАШЕНЫЙ ЭКСТРА",
-    "wholesalePrice": 121.18,
-    "extraPrice": 127.24,
-    "retailPrice": 151.48
-  },
-  {
     "id": "УТ000034229",
     "category": "ТАРА",
     "name": "КОТОНАСТЕР",
@@ -23478,14 +23206,6 @@
     "wholesalePrice": 139.44,
     "extraPrice": 146.41,
     "retailPrice": 174.3
-  },
-  {
-    "id": "УТ000034375",
-    "category": "..,РАЗНОЕ",
-    "name": "ЯЙЦА НОВОГОДНИЕ",
-    "wholesalePrice": 140.34,
-    "extraPrice": 147.35,
-    "retailPrice": 175.42
   },
   {
     "id": "УТ000034379",
@@ -24432,14 +24152,6 @@
     "retailPrice": 1515.79
   },
   {
-    "id": "УТ000035476",
-    "category": "..,РАЗНОЕ",
-    "name": "ВЕРБА ГОЛ 90 см",
-    "wholesalePrice": 43.99,
-    "extraPrice": 46.19,
-    "retailPrice": 54.99
-  },
-  {
     "id": "УТ000035480",
     "category": "ГРУНТ И УДОБРЕНИЯ",
     "name": "УНИВЕРСАЛ ДЛЯ ЦВЕТОВ \"ВОДОРОСТВОРИМОЕ УДОБРЕНИЕ\" 20 ГР (JOY)",
@@ -24638,14 +24350,6 @@
     "wholesalePrice": 131.97,
     "extraPrice": 138.57,
     "retailPrice": 164.96
-  },
-  {
-    "id": "УТ000035668",
-    "category": "..,РАЗНОЕ",
-    "name": "ГВОЗДИКА КОЛОР",
-    "wholesalePrice": 96.28,
-    "extraPrice": 101.09,
-    "retailPrice": 120.35
   },
   {
     "id": "УТ000035671",
@@ -26024,14 +25728,6 @@
     "retailPrice": 79.89
   },
   {
-    "id": "УТ000037211",
-    "category": "..,РАЗНОЕ",
-    "name": "ВАНДА ТАИЛАНД",
-    "wholesalePrice": 539.5,
-    "extraPrice": 566.48,
-    "retailPrice": 674.38
-  },
-  {
     "id": "УТ000037247",
     "category": "..РОЗА КЕНИЯ",
     "name": "СОФИ ЛОРЕН 40 см РОЗА Кения (MZURRIE)",
@@ -27184,22 +26880,6 @@
     "retailPrice": 253.15
   },
   {
-    "id": "УТ000038606",
-    "category": "..,РАЗНОЕ",
-    "name": "АМАРАНТ КРАСНЫЙ",
-    "wholesalePrice": 83,
-    "extraPrice": 87.15,
-    "retailPrice": 103.75
-  },
-  {
-    "id": "УТ000038609",
-    "category": "..,РАЗНОЕ",
-    "name": "АНТИР ГОЛЛАНДИЯ РОЗОВЫЙ",
-    "wholesalePrice": 87.15,
-    "extraPrice": 91.51,
-    "retailPrice": 108.94
-  },
-  {
     "id": "УТ000038611",
     "category": "..,РАЗНОЕ",
     "name": "АНТУРИУМ ЗЕЛЕННЫЙ *12                             ( Extase.Grand Slam.Midori)",
@@ -27464,14 +27144,6 @@
     "retailPrice": 93.38
   },
   {
-    "id": "УТ000038678",
-    "category": "..,РАЗНОЕ",
-    "name": "ГИПЕРИКУМ 50 СМ ЗЕЛЕНЫЙ",
-    "wholesalePrice": 45.65,
-    "extraPrice": 47.93,
-    "retailPrice": 57.06
-  },
-  {
     "id": "УТ000038680",
     "category": "..,РАЗНОЕ",
     "name": "ГИПЕРИКУМ 60 СМ КРАСНЫЙ",
@@ -27494,22 +27166,6 @@
     "wholesalePrice": 66.4,
     "extraPrice": 69.72,
     "retailPrice": 83
-  },
-  {
-    "id": "УТ000038684",
-    "category": "..,РАЗНОЕ",
-    "name": "КАЛЛА  БЕЛАЯ 40 СМ",
-    "wholesalePrice": 116.2,
-    "extraPrice": 122.01,
-    "retailPrice": 145.25
-  },
-  {
-    "id": "УТ000038688",
-    "category": "..,РАЗНОЕ",
-    "name": "КАЛЛА  РОЗОВАЯ 40 СМ",
-    "wholesalePrice": 166,
-    "extraPrice": 174.3,
-    "retailPrice": 207.5
   },
   {
     "id": "УТ000038689",
@@ -28072,14 +27728,6 @@
     "retailPrice": 96.18
   },
   {
-    "id": "УТ000038967",
-    "category": "..,РАЗНОЕ",
-    "name": "КАЛЛА  ОРАНЖЕВАЯ 70 СМ",
-    "wholesalePrice": 215.8,
-    "extraPrice": 226.59,
-    "retailPrice": 269.75
-  },
-  {
     "id": "УТ000038971",
     "category": "..,РАЗНОЕ",
     "name": "ДЕЛЬФИНИУМ ГОЛУБОЙ  50 см",
@@ -28344,14 +27992,6 @@
     "retailPrice": 252.11
   },
   {
-    "id": "УТ000039101",
-    "category": "..,РАЗНОЕ",
-    "name": "ИЛЕКС КРАШЕННЫЙ",
-    "wholesalePrice": 390.1,
-    "extraPrice": 409.61,
-    "retailPrice": 487.63
-  },
-  {
     "id": "УТ000039104",
     "category": "..ХРИЗАНТЕМА",
     "name": "КАЛИМБА САЛМОН",
@@ -28438,14 +28078,6 @@
     "wholesalePrice": 123.67,
     "extraPrice": 129.85,
     "retailPrice": 154.59
-  },
-  {
-    "id": "УТ000039223",
-    "category": "..,РАЗНОЕ",
-    "name": "АНТИР ИТАЛИЯ",
-    "wholesalePrice": 99.6,
-    "extraPrice": 104.58,
-    "retailPrice": 124.5
   },
   {
     "id": "УТ000039224",
@@ -31200,14 +30832,6 @@
     "retailPrice": 166.04
   },
   {
-    "id": "УТ000040506",
-    "category": "..,РАЗНОЕ",
-    "name": "КАЛЛА  ОРАНЖЕВАЯ 80 СМ",
-    "wholesalePrice": 224.1,
-    "extraPrice": 235.31,
-    "retailPrice": 280.13
-  },
-  {
     "id": "УТ000040516",
     "category": "НОВЫЙ ГОД",
     "name": "НОВОГОДНИЕ ИГРУШКИ YW 053",
@@ -32432,14 +32056,6 @@
     "retailPrice": 197.13
   },
   {
-    "id": "УТ000041577",
-    "category": "..,РАЗНОЕ",
-    "name": "АЛОЭ",
-    "wholesalePrice": 130.31,
-    "extraPrice": 136.83,
-    "retailPrice": 162.89
-  },
-  {
     "id": "УТ000041600",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "ДЖУЛЬЕТТА 60 см РОЗА Кен/Куст.  (GOLDEN)",
@@ -32454,14 +32070,6 @@
     "wholesalePrice": 60.18,
     "extraPrice": 63.18,
     "retailPrice": 75.22
-  },
-  {
-    "id": "УТ000041627",
-    "category": "..,РАЗНОЕ",
-    "name": "ПРОТЕЯ ГРАНДИ",
-    "wholesalePrice": 332,
-    "extraPrice": 348.6,
-    "retailPrice": 415
   },
   {
     "id": "УТ000041640",
@@ -32736,14 +32344,6 @@
     "retailPrice": 69.51
   },
   {
-    "id": "УТ000041735",
-    "category": "..,РАЗНОЕ",
-    "name": "НАРЦИСС ПАЧКА",
-    "wholesalePrice": 155.21,
-    "extraPrice": 162.97,
-    "retailPrice": 194.01
-  },
-  {
     "id": "УТ000041744",
     "category": "КОРЗИНА",
     "name": "Корзина - 955403",
@@ -32952,14 +32552,6 @@
     "retailPrice": 1283.39
   },
   {
-    "id": "УТ000042036",
-    "category": "..,РАЗНОЕ",
-    "name": "ФРЕЗИЯ ЖЕЛТАЯ",
-    "wholesalePrice": 68.89,
-    "extraPrice": 72.33,
-    "retailPrice": 86.11
-  },
-  {
     "id": "УТ000042038",
     "category": "..ТЮЛЬПАНЫ",
     "name": "ХАРТБРЕЙКЕР ТЮЛЬПАН  энкл.",
@@ -33094,14 +32686,6 @@
     "wholesalePrice": 60.18,
     "extraPrice": 63.18,
     "retailPrice": 75.22
-  },
-  {
-    "id": "УТ000042144",
-    "category": "..,РАЗНОЕ",
-    "name": "ФОРЗИ",
-    "wholesalePrice": 199.2,
-    "extraPrice": 209.16,
-    "retailPrice": 249
   },
   {
     "id": "УТ000042198",
@@ -34062,14 +33646,6 @@
     "wholesalePrice": 464.8,
     "extraPrice": 488.04,
     "retailPrice": 581
-  },
-  {
-    "id": "УТ000043610",
-    "category": "..,РАЗНОЕ",
-    "name": "АХИЛЛЕЯ",
-    "wholesalePrice": 65.57,
-    "extraPrice": 68.85,
-    "retailPrice": 81.96
   },
   {
     "id": "УТ000043633",
@@ -35232,14 +34808,6 @@
     "retailPrice": 105.29
   },
   {
-    "id": "УТ000044495",
-    "category": "..,РАЗНОЕ",
-    "name": "ВИБУРНУМ 60 см",
-    "wholesalePrice": 278.05,
-    "extraPrice": 291.95,
-    "retailPrice": 347.56
-  },
-  {
     "id": "УТ000044513",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 1341",
@@ -35366,14 +34934,6 @@
     "wholesalePrice": 1422.62,
     "extraPrice": 1493.75,
     "retailPrice": 1778.28
-  },
-  {
-    "id": "УТ000044606",
-    "category": "..,РАЗНОЕ",
-    "name": "ДЕНДРОБИУМ  АРАНТЕРА",
-    "wholesalePrice": 166,
-    "extraPrice": 174.3,
-    "retailPrice": 207.5
   },
   {
     "id": "УТ000044623",
@@ -35630,22 +35190,6 @@
     "wholesalePrice": 186.75,
     "extraPrice": 196.09,
     "retailPrice": 233.44
-  },
-  {
-    "id": "УТ000044718",
-    "category": "..,РАЗНОЕ",
-    "name": "ФРЕЗИЯ БЕЛАЯ 70 СМ",
-    "wholesalePrice": 85.49,
-    "extraPrice": 89.76,
-    "retailPrice": 106.86
-  },
-  {
-    "id": "УТ000044719",
-    "category": "..,РАЗНОЕ",
-    "name": "МИНИ ГЕРБЕРА СПАЙДЕР",
-    "wholesalePrice": 68.89,
-    "extraPrice": 72.33,
-    "retailPrice": 86.11
   },
   {
     "id": "УТ000044765",
@@ -36118,14 +35662,6 @@
     "wholesalePrice": 123.21,
     "extraPrice": 129.37,
     "retailPrice": 154.02
-  },
-  {
-    "id": "УТ000045082",
-    "category": "..,РАЗНОЕ",
-    "name": "ГЕРБЕРА ДАЙМОНД ПАСТИНИ",
-    "wholesalePrice": 97.94,
-    "extraPrice": 102.84,
-    "retailPrice": 122.43
   },
   {
     "id": "УТ000045088",
@@ -36806,14 +36342,6 @@
     "wholesalePrice": 102.09,
     "extraPrice": 107.19,
     "retailPrice": 127.61
-  },
-  {
-    "id": "УТ000045639",
-    "category": "..,ЗЕЛЕНЬ",
-    "name": "ЛИМОНИУМ МИКС",
-    "wholesalePrice": 99.6,
-    "extraPrice": 104.58,
-    "retailPrice": 124.5
   },
   {
     "id": "УТ000045642",
@@ -38248,14 +37776,6 @@
     "retailPrice": 56.03
   },
   {
-    "id": "УТ000047104",
-    "category": "..,РАЗНОЕ",
-    "name": "ФРЕЗИЯ КРАСНАЯ",
-    "wholesalePrice": 43.16,
-    "extraPrice": 45.32,
-    "retailPrice": 53.95
-  },
-  {
     "id": "УТ000047137",
     "category": "..,ЛИЛИЯ",
     "name": "НЭШВИЛЛ ЛА ЛИЛИЯ",
@@ -39446,14 +38966,6 @@
     "wholesalePrice": 4814,
     "extraPrice": 5054.7,
     "retailPrice": 6017.5
-  },
-  {
-    "id": "УТ000048292",
-    "category": "..,РАЗНОЕ",
-    "name": "СНЕЖ БЛЮМЕН БОЛШ",
-    "wholesalePrice": 1743,
-    "extraPrice": 1830.15,
-    "retailPrice": 2178.75
   },
   {
     "id": "УТ000048376",
@@ -41078,14 +40590,6 @@
     "wholesalePrice": 680.6,
     "extraPrice": 714.63,
     "retailPrice": 850.75
-  },
-  {
-    "id": "УТ000049979",
-    "category": "..,РАЗНОЕ",
-    "name": "ВЕРБА КРАСНОДАР",
-    "wholesalePrice": 48.14,
-    "extraPrice": 50.55,
-    "retailPrice": 60.18
   },
   {
     "id": "УТ000049986",
@@ -43576,14 +43080,6 @@
     "retailPrice": 290.39
   },
   {
-    "id": "УТ000051276",
-    "category": "..,ЗЕЛЕНЬ",
-    "name": "ЭВКАЛИПТ БАКУ",
-    "wholesalePrice": 1507.71,
-    "extraPrice": 1583.1,
-    "retailPrice": 1884.64
-  },
-  {
     "id": "УТ000051278",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "РОЗА АКЦИЯ",
@@ -43846,14 +43342,6 @@
     "wholesalePrice": 140.67,
     "extraPrice": 147.7,
     "retailPrice": 175.84
-  },
-  {
-    "id": "УТ000051481",
-    "category": "..,РАЗНОЕ",
-    "name": "ДЕНДРОБИУМ ОНЦИДУМ",
-    "wholesalePrice": 134.46,
-    "extraPrice": 141.18,
-    "retailPrice": 168.08
   },
   {
     "id": "УТ000051499",
@@ -47142,14 +46630,6 @@
     "wholesalePrice": 445.71,
     "extraPrice": 468,
     "retailPrice": 557.14
-  },
-  {
-    "id": "УТ000052637",
-    "category": "..,РАЗНОЕ",
-    "name": "МАГНОЛИЯ 130 СМ",
-    "wholesalePrice": 664,
-    "extraPrice": 697.2,
-    "retailPrice": 830
   },
   {
     "id": "УТ000052660",
@@ -52160,14 +51640,6 @@
     "retailPrice": 127.82
   },
   {
-    "id": "УТ000054189",
-    "category": "..,ЗЕЛЕНЬ",
-    "name": "КИПАРИС голл",
-    "wholesalePrice": 338.64,
-    "extraPrice": 355.57,
-    "retailPrice": 423.3
-  },
-  {
     "id": "УТ000054195",
     "category": "НОВЫЙ ГОД",
     "name": "ГИРЛЯНДА ШТОРА № 130  (1,5*1,5 м)",
@@ -52222,14 +51694,6 @@
     "wholesalePrice": 747,
     "extraPrice": 784.35,
     "retailPrice": 933.75
-  },
-  {
-    "id": "УТ000054259",
-    "category": "..,ЗЕЛЕНЬ",
-    "name": "ВЕКОВАЯ ЕЛЬ ГОЛДЕН  ПАЧКА",
-    "wholesalePrice": 575.19,
-    "extraPrice": 603.95,
-    "retailPrice": 718.99
   },
   {
     "id": "УТ000054264",
@@ -52576,28 +52040,12 @@
     "retailPrice": 591.38
   },
   {
-    "id": "УТ000054562",
-    "category": "..,РАЗНОЕ",
-    "name": "ПРОТЕЯ  БРЕНДА",
-    "wholesalePrice": 257.3,
-    "extraPrice": 270.17,
-    "retailPrice": 321.63
-  },
-  {
     "id": "УТ000054563",
     "category": "..,РАЗНОЕ",
     "name": "ПРОТЕЯ РОЗОВЫЙ ЛЕД",
     "wholesalePrice": 491.36,
     "extraPrice": 515.93,
     "retailPrice": 614.2
-  },
-  {
-    "id": "УТ000054564",
-    "category": "..,РАЗНОЕ",
-    "name": "ПРОТЕЯ БЕЛАЯ НОЧЬ",
-    "wholesalePrice": 294.65,
-    "extraPrice": 309.38,
-    "retailPrice": 368.31
   },
   {
     "id": "УТ000054566",
@@ -52782,46 +52230,6 @@
     "wholesalePrice": 145.25,
     "extraPrice": 152.51,
     "retailPrice": 181.56
-  },
-  {
-    "id": "УТ000054680",
-    "category": "..,РАЗНОЕ",
-    "name": "ФОРЗИ  130 см",
-    "wholesalePrice": 224.1,
-    "extraPrice": 235.31,
-    "retailPrice": 280.13
-  },
-  {
-    "id": "УТ000054681",
-    "category": "..,РАЗНОЕ",
-    "name": "ФОРЗИ  170 см",
-    "wholesalePrice": 279.71,
-    "extraPrice": 293.7,
-    "retailPrice": 349.64
-  },
-  {
-    "id": "УТ000054682",
-    "category": "..,РАЗНОЕ",
-    "name": "ФОРЗИ  110 см",
-    "wholesalePrice": 170.98,
-    "extraPrice": 179.53,
-    "retailPrice": 213.73
-  },
-  {
-    "id": "УТ000054683",
-    "category": "..,РАЗНОЕ",
-    "name": "ФОРЗИ  150 см",
-    "wholesalePrice": 263.94,
-    "extraPrice": 277.14,
-    "retailPrice": 329.93
-  },
-  {
-    "id": "УТ000054684",
-    "category": "..,РАЗНОЕ",
-    "name": "ФОРЗИ  190 см",
-    "wholesalePrice": 298.8,
-    "extraPrice": 313.74,
-    "retailPrice": 373.5
   },
   {
     "id": "УТ000054685",
@@ -53296,14 +52704,6 @@
     "retailPrice": 197.13
   },
   {
-    "id": "УТ000054872",
-    "category": "..,РАЗНОЕ",
-    "name": "ХЕНОМЕЛЕС 80 см",
-    "wholesalePrice": 290.5,
-    "extraPrice": 305.03,
-    "retailPrice": 363.13
-  },
-  {
     "id": "УТ000054877",
     "category": "..РОЗА КЕНИЯ",
     "name": "МИКС 60 см РОЗА Кения (MONA FLOWERS)",
@@ -53688,6 +53088,14 @@
     "retailPrice": 87.15
   },
   {
+    "id": "УТ000055071",
+    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
+    "name": "ГИДРАНГИЯ ( MAGICAL ) 15 СМ",
+    "wholesalePrice": 1543.8,
+    "extraPrice": 1620.99,
+    "retailPrice": 1929.75
+  },
+  {
     "id": "УТ000055080",
     "category": "..ЦВЕТЫ КИТАЙ",
     "name": "ФРЕЗИЯ КИТАЙ ПАЧКА",
@@ -53726,14 +53134,6 @@
     "wholesalePrice": 135.29,
     "extraPrice": 142.05,
     "retailPrice": 169.11
-  },
-  {
-    "id": "УТ000055113",
-    "category": "..,РАЗНОЕ",
-    "name": "МАГНОЛИЯ 170 СМ",
-    "wholesalePrice": 1186.9,
-    "extraPrice": 1246.25,
-    "retailPrice": 1483.63
   },
   {
     "id": "УТ000055115",
