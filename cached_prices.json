@@ -1456,14 +1456,6 @@
     "retailPrice": 38.92
   },
   {
-    "id": "УТ000003465",
-    "category": ".УПАКОВКА",
-    "name": "ВОЗДУШНЫЕ СВЕЧИ МАЛЫЕ",
-    "wholesalePrice": 40.18,
-    "extraPrice": 42.19,
-    "retailPrice": 50.23
-  },
-  {
     "id": "УТ000003878",
     "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
     "name": "ГАРДЕНИЯ 13 СМ",
@@ -1750,6 +1742,14 @@
     "wholesalePrice": 42.64,
     "extraPrice": 44.77,
     "retailPrice": 53.3
+  },
+  {
+    "id": "УТ000004683",
+    "category": ".УПАКОВКА",
+    "name": "ДЖУТ",
+    "wholesalePrice": 598.6,
+    "extraPrice": 628.53,
+    "retailPrice": 748.25
   },
   {
     "id": "УТ000004684",
@@ -47086,14 +47086,6 @@
     "wholesalePrice": 79.54,
     "extraPrice": 83.52,
     "retailPrice": 99.43
-  },
-  {
-    "id": "УТ000052560",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "ХОВЕЯ 21/150 СМ",
-    "wholesalePrice": 6150,
-    "extraPrice": 6457.5,
-    "retailPrice": 7687.5
   },
   {
     "id": "УТ000052562",
