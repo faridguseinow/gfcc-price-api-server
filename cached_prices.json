@@ -4843,17 +4843,17 @@
     "id": "УТ000007422",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЛИНИЯ РОЗЫ ОДНОГОЛОВАЯ.. 50 СМ",
-    "wholesalePrice": 58.36,
-    "extraPrice": 61.28,
-    "retailPrice": 72.95
+    "wholesalePrice": 44.99,
+    "extraPrice": 47.24,
+    "retailPrice": 56.24
   },
   {
     "id": "УТ000007425",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЛИНИЯ РОЗЫ ОДНОГОЛОВАЯ.. 60 СМ",
-    "wholesalePrice": 72.95,
-    "extraPrice": 76.59,
-    "retailPrice": 91.18
+    "wholesalePrice": 82.99,
+    "extraPrice": 87.14,
+    "retailPrice": 103.74
   },
   {
     "id": "УТ000007427",
@@ -7192,6 +7192,14 @@
     "retailPrice": 194.75
   },
   {
+    "id": "УТ000010354",
+    "category": "..,РОЗА ,МЕСТНАЯ",
+    "name": "ЛИНИЯ РОЗЫ КУСТОВАЯ. 40 СМ",
+    "wholesalePrice": 122.18,
+    "extraPrice": 128.29,
+    "retailPrice": 152.73
+  },
+  {
     "id": "УТ000010355",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЛИНИЯ РОЗЫ КУСТОВАЯ. 50 СМ",
@@ -9222,14 +9230,6 @@
     "wholesalePrice": 1287.4,
     "extraPrice": 1351.77,
     "retailPrice": 1609.25
-  },
-  {
-    "id": "УТ000014706",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "ХАМЕДОРЕЯ  9 СМ",
-    "wholesalePrice": 258.3,
-    "extraPrice": 271.22,
-    "retailPrice": 322.88
   },
   {
     "id": "УТ000014713",
@@ -21067,9 +21067,9 @@
     "id": "УТ000032102",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЛИНИЯ РОЗЫ КУСТОВАЯ. 80 СМ",
-    "wholesalePrice": 243.17,
-    "extraPrice": 255.33,
-    "retailPrice": 303.96
+    "wholesalePrice": 249.99,
+    "extraPrice": 262.49,
+    "retailPrice": 312.49
   },
   {
     "id": "УТ000032103",
@@ -23963,9 +23963,9 @@
     "id": "УТ000034885",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЛИНИЯ РОЗЫ ОДНОГОЛОВАЯ.. 70 СМ",
-    "wholesalePrice": 87.54,
-    "extraPrice": 91.92,
-    "retailPrice": 109.43
+    "wholesalePrice": 95.1,
+    "extraPrice": 99.85,
+    "retailPrice": 118.87
   },
   {
     "id": "УТ000034912",
@@ -47323,9 +47323,9 @@
     "id": "УТ000052700",
     "category": "..ХРИЗАНТЕМА",
     "name": "АЛТАЙ ZENTOO",
-    "wholesalePrice": 131.2,
-    "extraPrice": 137.76,
-    "retailPrice": 164
+    "wholesalePrice": 136.12,
+    "extraPrice": 142.93,
+    "retailPrice": 170.15
   },
   {
     "id": "УТ000052704",
