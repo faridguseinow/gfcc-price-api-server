@@ -7720,14 +7720,6 @@
     "retailPrice": 207.06
   },
   {
-    "id": "УТ000010658",
-    "category": "..,РАЗНОЕ",
-    "name": "ЭУПАТ",
-    "wholesalePrice": 81.6,
-    "extraPrice": 85.68,
-    "retailPrice": 102
-  },
-  {
     "id": "УТ000010663",
     "category": "..,РАЗНОЕ",
     "name": "ЭЧХИУМ",
@@ -10294,14 +10286,6 @@
     "wholesalePrice": 301.42,
     "extraPrice": 316.49,
     "retailPrice": 376.78
-  },
-  {
-    "id": "УТ000016024",
-    "category": "..,РАЗНОЕ",
-    "name": "ОЗОТАМНУС ИТАЛИЯ",
-    "wholesalePrice": 163.2,
-    "extraPrice": 171.36,
-    "retailPrice": 204
   },
   {
     "id": "УТ000016067",
@@ -28080,14 +28064,6 @@
     "retailPrice": 100.98
   },
   {
-    "id": "УТ000038675",
-    "category": "..,РАЗНОЕ",
-    "name": "ГИПЕРИКУМ 70 СМ ЗЕЛЕНЫЙ",
-    "wholesalePrice": 69.36,
-    "extraPrice": 72.83,
-    "retailPrice": 86.7
-  },
-  {
     "id": "УТ000038676",
     "category": "..,РАЗНОЕ",
     "name": "ГИПЕРИКУМ 70 СМ БЕЛЫЙ",
@@ -37811,9 +37787,9 @@
     "id": "УТ000045967",
     "category": "..,РАЗНОЕ",
     "name": "ОЗОТАМНУС ИТАЛИЯ  (ПАЧКА)",
-    "wholesalePrice": 744.19,
-    "extraPrice": 781.4,
-    "retailPrice": 930.24
+    "wholesalePrice": 758.88,
+    "extraPrice": 796.82,
+    "retailPrice": 948.6
   },
   {
     "id": "УТ000046033",
@@ -41934,6 +41910,14 @@
     "wholesalePrice": 399.84,
     "extraPrice": 419.83,
     "retailPrice": 499.8
+  },
+  {
+    "id": "УТ000049700",
+    "category": ".УПАКОВКА",
+    "name": "ПАКЕТ № 24082 ПАЧКА 10 ШТ",
+    "wholesalePrice": 693.6,
+    "extraPrice": 728.28,
+    "retailPrice": 867
   },
   {
     "id": "УТ000049702",
@@ -47318,6 +47302,14 @@
     "wholesalePrice": 74.81,
     "extraPrice": 78.55,
     "retailPrice": 93.51
+  },
+  {
+    "id": "УТ000051977",
+    "category": "СИЛИКОНОВЫЕ ЦВЕТЫ",
+    "name": "GA-007",
+    "wholesalePrice": 131.04,
+    "extraPrice": 137.59,
+    "retailPrice": 163.8
   },
   {
     "id": "УТ000051978",
