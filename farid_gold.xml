@@ -1,4 +1,4 @@
-<PriceList date="01.04.2026 13:47:26">
+<PriceList date="01.04.2026 14:19:06">
 	<GroupsOfGoods>
 		<Group ID="ÓÒ000028416" Name="ÑÓÕÈÅ ÐÎÇÛ" ParentID="" ParentName=""/>
 		<Group ID="ÓÒ000032724" Name="..,ÐÎÇÀ ,ÌÅÑÒÍÀß" ParentID="" ParentName=""/>
@@ -1185,7 +1185,6 @@
 		<Item ID="ÓÒ000053961" Name="JS-20206" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="472,51" PriceRetail="590,64" PriceExt="496,14" ParentID="ÓÒ000033204" ParentName="ÑÈËÈÊÎÍÎÂÛÅ ÖÂÅÒÛ"/>
 		<Item ID="ÓÒ000055202" Name="¨Æ ÄÅÊÎÐ" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="1613,00" PriceRetail="2016,24" PriceExt="1693,65" ParentID="ÓÒ000055201" ParentName="ÄÅÊÎÐ ÊÈÒÀÉ"/>
 		<Item ID="ÓÒ000055203" Name="ÊÐÎËÈÊ ÍÀ ÄÅÐÅÂÅ ÄÅÊÎÐ" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="1613,00" PriceRetail="2016,24" PriceExt="1693,65" ParentID="ÓÒ000055201" ParentName="ÄÅÊÎÐ ÊÈÒÀÉ"/>
-		<Item ID="ÓÒ000055204" Name="ÊÎÐËÈÊ ÄÅÊÎÐ" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="1433,87" PriceRetail="1792,33" PriceExt="1505,56" ParentID="ÓÒ000055201" ParentName="ÄÅÊÎÐ ÊÈÒÀÉ"/>
 		<Item ID="ÓÒ000055206" Name="ÊÀËÀÍ ÄÅÊÎÐ" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="1344,30" PriceRetail="1680,38" PriceExt="1411,52" ParentID="ÓÒ000055201" ParentName="ÄÅÊÎÐ ÊÈÒÀÉ"/>
 		<Item ID="ÓÒ000055207" Name="ÎÑ¨Ë ÄÅÊÎÐ" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="1344,30" PriceRetail="1680,38" PriceExt="1411,52" ParentID="ÓÒ000055201" ParentName="ÄÅÊÎÐ ÊÈÒÀÉ"/>
 		<Item ID="ÓÒ000055208" Name="ÂÎËÊ ÄÅÊÎÐ" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="2150,36" PriceRetail="2687,94" PriceExt="2257,87" ParentID="ÓÒ000055201" ParentName="ÄÅÊÎÐ ÊÈÒÀÉ"/>
@@ -7463,7 +7462,6 @@ S:D26xH11xHH31xB20" Price="965,33" PriceRetail="1206,66" PriceExt="1013,59" Pare
 		<Item ID="ÓÒ000038628" Name="ÄÅËÜÔÈÍÈÓÌ ÁÅËÛÉ 60 ñì" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="110,16" PriceRetail="137,70" PriceExt="115,67" ParentID="ÓÒ000002222" ParentName="..,ÐÀÇÍÎÅ"/>
 		<Item ID="ÓÒ000038630" Name="ÄÅËÜÔÈÍÈÓÌ ÃÎËÓÁÎÉ  80 ñì" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="212,16" PriceRetail="265,20" PriceExt="222,77" ParentID="ÓÒ000002222" ParentName="..,ÐÀÇÍÎÅ"/>
 		<Item ID="ÓÒ000038631" Name="ÄÅËÜÔÈÍÈÓÌ ÃÎËÓÁÎÉ  70 ñì" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="193,39" PriceRetail="241,74" PriceExt="203,06" ParentID="ÓÒ000002222" ParentName="..,ÐÀÇÍÎÅ"/>
-		<Item ID="ÓÒ000038632" Name="ÄÅËÜÔÈÍÈÓÌ ÃÎËÓÁÎÉ  60 ñì" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="155,04" PriceRetail="193,80" PriceExt="162,79" ParentID="ÓÒ000002222" ParentName="..,ÐÀÇÍÎÅ"/>
 		<Item ID="ÓÒ000038634" Name="ÄÅËÜÔÈÍÈÓÌ ÃÎËÓÁÎÉ  100 ñì" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="244,80" PriceRetail="306,00" PriceExt="257,04" ParentID="ÓÒ000002222" ParentName="..,ÐÀÇÍÎÅ"/>
 		<Item ID="ÓÒ000038637" Name="ÄÅËÜÔÈÍÈÓÌ ËÀÂÀÍÄÎÂÛÉ  80 ñì" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="208,08" PriceRetail="260,10" PriceExt="218,48" ParentID="ÓÒ000002222" ParentName="..,ÐÀÇÍÎÅ"/>
 		<Item ID="ÓÒ000038638" Name="ÄÅËÜÔÈÍÈÓÌ ËÀÂÀÍÄÎÂÛÉ  70 ñì" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="200,74" PriceRetail="250,92" PriceExt="210,77" ParentID="ÓÒ000002222" ParentName="..,ÐÀÇÍÎÅ"/>
