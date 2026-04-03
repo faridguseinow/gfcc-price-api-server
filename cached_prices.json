@@ -10360,14 +10360,6 @@
     "retailPrice": 375.39
   },
   {
-    "id": "УТ000016024",
-    "category": "..,РАЗНОЕ",
-    "name": "ОЗОТАМНУС ИТАЛИЯ",
-    "wholesalePrice": 756.09,
-    "extraPrice": 793.89,
-    "retailPrice": 945.11
-  },
-  {
     "id": "УТ000016067",
     "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
     "name": "ЭХИНОКАКТУС ГРУСОНИ 12 СМ",
@@ -34496,6 +34488,14 @@
     "retailPrice": 112.1
   },
   {
+    "id": "УТ000042608",
+    "category": "..,ПИОНЫ",
+    "name": "КОРАЛ ШАРМ ИТАЛИЯ ПИОНЫ",
+    "wholesalePrice": 398.37,
+    "extraPrice": 418.29,
+    "retailPrice": 497.96
+  },
+  {
     "id": "УТ000042634",
     "category": ".УПАКОВКА",
     "name": "КОРОБКА № 208",
@@ -34534,6 +34534,14 @@
     "wholesalePrice": 73.98,
     "extraPrice": 77.68,
     "retailPrice": 92.48
+  },
+  {
+    "id": "УТ000042699",
+    "category": "..,ПИОНЫ",
+    "name": "САЛМОН ИТАЛИЯ ПИОНЫ",
+    "wholesalePrice": 325.2,
+    "extraPrice": 341.46,
+    "retailPrice": 406.5
   },
   {
     "id": "УТ000042717",
@@ -34598,6 +34606,14 @@
     "wholesalePrice": 662.6,
     "extraPrice": 695.72,
     "retailPrice": 828.24
+  },
+  {
+    "id": "УТ000042745",
+    "category": "..,ПИОНЫ",
+    "name": "БРАЙДАЛ ИТАЛИЯ ПИОНЫ",
+    "wholesalePrice": 550.4,
+    "extraPrice": 577.92,
+    "retailPrice": 688
   },
   {
     "id": "УТ000042853",
@@ -42686,6 +42702,14 @@
     "wholesalePrice": 272.36,
     "extraPrice": 285.97,
     "retailPrice": 340.44
+  },
+  {
+    "id": "УТ000050053",
+    "category": "..,ПИОНЫ",
+    "name": "САЛМОН САЙСЕР ИТАЛИЯ ПИОНЫ",
+    "wholesalePrice": 211.38,
+    "extraPrice": 221.95,
+    "retailPrice": 264.23
   },
   {
     "id": "УТ000050078",
@@ -56246,5 +56270,13 @@
     "wholesalePrice": 8.13,
     "extraPrice": 8.54,
     "retailPrice": 10.16
+  },
+  {
+    "id": "УТ000055275",
+    "category": "..,ПИОНЫ",
+    "name": "ПАУЛ ФЕЙ ИТАЛИЯ ПИОНЫ",
+    "wholesalePrice": 325.2,
+    "extraPrice": 341.46,
+    "retailPrice": 406.5
   }
 ]
