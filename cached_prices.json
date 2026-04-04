@@ -20680,6 +20680,14 @@
     "retailPrice": 121.5
   },
   {
+    "id": "УТ000030067",
+    "category": "..СУХОЦВЕТЫ",
+    "name": "СТАТИЦА КИТАЙ",
+    "wholesalePrice": 178.66,
+    "extraPrice": 187.59,
+    "retailPrice": 223.33
+  },
+  {
     "id": "УТ000030182",
     "category": "..РОЗА ЭКВАДОР",
     "name": "КОРАЛ РИФ -  40см",
@@ -25070,14 +25078,6 @@
     "wholesalePrice": 758.16,
     "extraPrice": 796.07,
     "retailPrice": 947.7
-  },
-  {
-    "id": "УТ000035315",
-    "category": "КОРЗИНА",
-    "name": "Корзина - 8986102",
-    "wholesalePrice": 743.58,
-    "extraPrice": 780.76,
-    "retailPrice": 929.48
   },
   {
     "id": "УТ000035316",
@@ -56134,6 +56134,22 @@
     "wholesalePrice": 248.48,
     "extraPrice": 260.91,
     "retailPrice": 310.6
+  },
+  {
+    "id": "УТ000055242",
+    "category": "..СУХОЦВЕТЫ",
+    "name": "РУСКУС ЦВЕТНОЙ",
+    "wholesalePrice": 414.82,
+    "extraPrice": 435.57,
+    "retailPrice": 518.53
+  },
+  {
+    "id": "УТ000055244",
+    "category": "..СУХОЦВЕТЫ",
+    "name": "БАМБУК КИТАЙ МК1",
+    "wholesalePrice": 367.57,
+    "extraPrice": 385.95,
+    "retailPrice": 459.47
   },
   {
     "id": "УТ000055245",
