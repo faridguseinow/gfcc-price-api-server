@@ -7648,14 +7648,6 @@
     "retailPrice": 496.13
   },
   {
-    "id": "УТ000010512",
-    "category": "..,ПИОНЫ",
-    "name": "ФЛЕМИНГ ПИОНЫ",
-    "wholesalePrice": 351.54,
-    "extraPrice": 369.12,
-    "retailPrice": 439.43
-  },
-  {
     "id": "УТ000010525",
     "category": "..,РАЗНОЕ",
     "name": "ПОДСОЛНУХ",
@@ -28896,14 +28888,6 @@
     "retailPrice": 227.81
   },
   {
-    "id": "УТ000038713",
-    "category": "..,РАЗНОЕ",
-    "name": "КАЛЛА  ЧЕРНАЯ 70 СМ",
-    "wholesalePrice": 194.4,
-    "extraPrice": 204.12,
-    "retailPrice": 243
-  },
-  {
     "id": "УТ000038723",
     "category": "..,ЗЕЛЕНЬ",
     "name": "ЛИМОНИУМ БЕЛЫЙ",
@@ -32008,6 +31992,14 @@
     "retailPrice": 73.94
   },
   {
+    "id": "УТ000040286",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "ТИФФАНИ-60см ANNI ROSES.LRA.QLS.ATC.SPPH.ALLGF.EVR.RLH.TURS.GWFW.VDS.RDF.FDS 2.CNV.MON",
+    "wholesalePrice": 70.22,
+    "extraPrice": 73.73,
+    "retailPrice": 87.77
+  },
+  {
     "id": "УТ000040287",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ТИФФАНИ-70см ANNI ROSES.LRA.QLS.ATC.SPPH.ALLGF.EVR.RLH.TURS.GWFW.VDS.RDF.FDS 2.CNV.MON",
@@ -32118,6 +32110,14 @@
     "wholesalePrice": 93.47,
     "extraPrice": 98.14,
     "retailPrice": 116.83
+  },
+  {
+    "id": "УТ000040349",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "СВАН-  70см ANNI ROSES.LRA.QLS.ATC.SPPH.ALLGF.EVR.RLH.TURS.GWFW.VDS.RDF.FDS 2.CNV.MON",
+    "wholesalePrice": 108.73,
+    "extraPrice": 114.16,
+    "retailPrice": 135.91
   },
   {
     "id": "УТ000040352",
@@ -34246,6 +34246,14 @@
     "wholesalePrice": 348.3,
     "extraPrice": 365.72,
     "retailPrice": 435.38
+  },
+  {
+    "id": "УТ000041876",
+    "category": ".УПАКОВКА",
+    "name": "БУМАГА КРАФТ 5 КГ РОССИЯ",
+    "wholesalePrice": 842.4,
+    "extraPrice": 884.52,
+    "retailPrice": 1053
   },
   {
     "id": "УТ000041883",
