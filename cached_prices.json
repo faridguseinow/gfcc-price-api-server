@@ -56547,9 +56547,9 @@
     "id": "УТ000055205",
     "category": "ДЕКОР КИТАЙ",
     "name": "ОРЁЛ ДЕКОР",
-    "wholesalePrice": 2038.06,
-    "extraPrice": 2139.97,
-    "retailPrice": 2547.58
+    "wholesalePrice": 2178.9,
+    "extraPrice": 2287.85,
+    "retailPrice": 2723.63
   },
   {
     "id": "УТ000055206",
@@ -56563,17 +56563,17 @@
     "id": "УТ000055207",
     "category": "ДЕКОР КИТАЙ",
     "name": "ОСЁЛ ДЕКОР",
-    "wholesalePrice": 1329.48,
-    "extraPrice": 1395.95,
-    "retailPrice": 1661.85
+    "wholesalePrice": 1331.55,
+    "extraPrice": 1398.13,
+    "retailPrice": 1664.44
   },
   {
     "id": "УТ000055208",
     "category": "ДЕКОР КИТАЙ",
     "name": "ВОЛК ДЕКОР",
-    "wholesalePrice": 2126.64,
-    "extraPrice": 2232.97,
-    "retailPrice": 2658.3
+    "wholesalePrice": 2259.6,
+    "extraPrice": 2372.58,
+    "retailPrice": 2824.5
   },
   {
     "id": "УТ000055209",
@@ -56603,9 +56603,9 @@
     "id": "УТ000055212",
     "category": "ДЕКОР КИТАЙ",
     "name": "КРОЛИК С СУМКОЙ ДЕКОР",
-    "wholesalePrice": 886.62,
-    "extraPrice": 930.95,
-    "retailPrice": 1108.27
+    "wholesalePrice": 1049.1,
+    "extraPrice": 1101.56,
+    "retailPrice": 1311.38
   },
   {
     "id": "УТ000055213",
@@ -56619,9 +56619,9 @@
     "id": "УТ000055214",
     "category": "ДЕКОР КИТАЙ",
     "name": "ДОМИК ДЕКОР",
-    "wholesalePrice": 2038.06,
-    "extraPrice": 2139.97,
-    "retailPrice": 2547.58
+    "wholesalePrice": 2098.2,
+    "extraPrice": 2203.11,
+    "retailPrice": 2622.75
   },
   {
     "id": "УТ000055215",
@@ -56667,9 +56667,9 @@
     "id": "УТ000055222",
     "category": "ДЕКОР КИТАЙ",
     "name": "ВОЛК ГОЛБИН",
-    "wholesalePrice": 2065.5,
-    "extraPrice": 2168.78,
-    "retailPrice": 2581.88
+    "wholesalePrice": 2421,
+    "extraPrice": 2542.05,
+    "retailPrice": 3026.25
   },
   {
     "id": "УТ000055224",
@@ -56707,9 +56707,9 @@
     "id": "УТ000055239",
     "category": "ДЕКОР КИТАЙ",
     "name": "ЛЕБЕД ДЕКОР",
-    "wholesalePrice": 2059.32,
-    "extraPrice": 2162.28,
-    "retailPrice": 2574.15
+    "wholesalePrice": 2259.6,
+    "extraPrice": 2372.58,
+    "retailPrice": 2824.5
   },
   {
     "id": "УТ000055240",
@@ -56763,9 +56763,9 @@
     "id": "УТ000055248",
     "category": "ДЕКОР КИТАЙ",
     "name": "СЕМЬЯ ЛЯГУШЕК ДЕКОР",
-    "wholesalePrice": 2583.38,
-    "extraPrice": 2712.55,
-    "retailPrice": 3229.22
+    "wholesalePrice": 2421,
+    "extraPrice": 2542.05,
+    "retailPrice": 3026.25
   },
   {
     "id": "УТ000055249",
@@ -56942,5 +56942,101 @@
     "wholesalePrice": 459.26,
     "extraPrice": 482.23,
     "retailPrice": 574.08
+  },
+  {
+    "id": "УТ000055309",
+    "category": "ДЕКОР КИТАЙ",
+    "name": "ВОЛК МАЛЕНЬКИЙ ДЕКОР",
+    "wholesalePrice": 1533.3,
+    "extraPrice": 1609.97,
+    "retailPrice": 1916.63
+  },
+  {
+    "id": "УТ000055310",
+    "category": "ДЕКОР КИТАЙ",
+    "name": "ДОМИК БОЛШОЙ ДЕКОР",
+    "wholesalePrice": 2582.4,
+    "extraPrice": 2711.52,
+    "retailPrice": 3228
+  },
+  {
+    "id": "УТ000055311",
+    "category": "ДЕКОР КИТАЙ",
+    "name": "ТЁТЯ БОЛШОЙ ДЕКОР",
+    "wholesalePrice": 2945.55,
+    "extraPrice": 3092.83,
+    "retailPrice": 3681.94
+  },
+  {
+    "id": "УТ000055312",
+    "category": "ДЕКОР КИТАЙ",
+    "name": "КРОЛИК КАШПО ДЕКОР",
+    "wholesalePrice": 1936.8,
+    "extraPrice": 2033.64,
+    "retailPrice": 2421
+  },
+  {
+    "id": "УТ000055313",
+    "category": "ДЕКОР КИТАЙ",
+    "name": "ИНДЮК ДЕКОР",
+    "wholesalePrice": 2663.1,
+    "extraPrice": 2796.26,
+    "retailPrice": 3328.88
+  },
+  {
+    "id": "УТ000055314",
+    "category": "ДЕКОР КИТАЙ",
+    "name": "ФЛАМИНГО ДЕКОР",
+    "wholesalePrice": 2017.5,
+    "extraPrice": 2118.38,
+    "retailPrice": 2521.88
+  },
+  {
+    "id": "УТ000055315",
+    "category": "ДЕКОР КИТАЙ",
+    "name": "КРОЛИКИ ДЕКОР",
+    "wholesalePrice": 1614,
+    "extraPrice": 1694.7,
+    "retailPrice": 2017.5
+  },
+  {
+    "id": "УТ000055316",
+    "category": "ДЕКОР КИТАЙ",
+    "name": "ГРИБ ДЕКОР",
+    "wholesalePrice": 968.4,
+    "extraPrice": 1016.82,
+    "retailPrice": 1210.5
+  },
+  {
+    "id": "УТ000055318",
+    "category": "ДЕКОР КИТАЙ",
+    "name": "ЛЯГУШКА МИНИ",
+    "wholesalePrice": 807,
+    "extraPrice": 847.35,
+    "retailPrice": 1008.75
+  },
+  {
+    "id": "УТ000055319",
+    "category": "ДЕКОР КИТАЙ",
+    "name": "СОБАКА ДЕКОР",
+    "wholesalePrice": 1452.6,
+    "extraPrice": 1525.23,
+    "retailPrice": 1815.75
+  },
+  {
+    "id": "УТ000055320",
+    "category": "ДЕКОР КИТАЙ",
+    "name": "СОБАЧЬЯ БУДКА",
+    "wholesalePrice": 1371.9,
+    "extraPrice": 1440.5,
+    "retailPrice": 1714.88
+  },
+  {
+    "id": "УТ000055321",
+    "category": "ДЕКОР КИТАЙ",
+    "name": "САДОВНИК ДЕКОР",
+    "wholesalePrice": 1936.8,
+    "extraPrice": 2033.64,
+    "retailPrice": 2421
   }
 ]
