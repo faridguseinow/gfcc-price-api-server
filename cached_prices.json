@@ -7792,6 +7792,14 @@
     "retailPrice": 99.75
   },
   {
+    "id": "УТ000010642",
+    "category": "..,РАЗНОЕ",
+    "name": "ЦЕЛОЗИЯ",
+    "wholesalePrice": 83.79,
+    "extraPrice": 87.98,
+    "retailPrice": 104.74
+  },
+  {
     "id": "УТ000010646",
     "category": "..,РАЗНОЕ",
     "name": "ЧЕМПИОН",
@@ -19054,14 +19062,6 @@
     "wholesalePrice": 101.19,
     "extraPrice": 106.25,
     "retailPrice": 126.48
-  },
-  {
-    "id": "УТ000029503",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "БЛЮЗ- 70см (СТАР,КОРОЗОН,МАТИЗ,ЭКО РОЗ,БЕЛЛА РОЗА,ЧАРМИНГ,СОФИ,ДАВИНЧИ.РОЯЛ)",
-    "wholesalePrice": 118.8,
-    "extraPrice": 124.74,
-    "retailPrice": 148.5
   },
   {
     "id": "УТ000029513",
@@ -41368,14 +41368,6 @@
     "retailPrice": 428.93
   },
   {
-    "id": "УТ000048821",
-    "category": "..,ЛИЛИЯ",
-    "name": "ПАЛАЦЦО ОТ ЛИЛИЯ",
-    "wholesalePrice": 419.75,
-    "extraPrice": 440.74,
-    "retailPrice": 524.69
-  },
-  {
     "id": "УТ000048822",
     "category": "..,ЛИЛИЯ",
     "name": "ВАЙТ ТОРНАДО ОР ДУ ЛИЛИЯ",
@@ -42875,14 +42867,6 @@
     "id": "УТ000050036",
     "category": "КОРЗИНА",
     "name": "Корзина - N123001",
-    "wholesalePrice": 257.75,
-    "extraPrice": 270.64,
-    "retailPrice": 322.19
-  },
-  {
-    "id": "УТ000050037",
-    "category": "КОРЗИНА",
-    "name": "Корзина - N123301",
     "wholesalePrice": 257.75,
     "extraPrice": 270.64,
     "retailPrice": 322.19
