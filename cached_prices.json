@@ -352,14 +352,6 @@
     "retailPrice": 1278.58
   },
   {
-    "id": "УТ000002914",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "БЕГОНИЯ БОРИАС 14 СМ",
-    "wholesalePrice": 772.12,
-    "extraPrice": 810.73,
-    "retailPrice": 965.15
-  },
-  {
     "id": "УТ000002919",
     "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
     "name": "БЕГОНИЯ МИКС 14 СМ",
@@ -11792,14 +11784,6 @@
     "retailPrice": 149.25
   },
   {
-    "id": "УТ000018912",
-    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
-    "name": "ФУРУСАТО 60 см РОЗА Кен/Куст. (RLR)",
-    "wholesalePrice": 151.24,
-    "extraPrice": 158.8,
-    "retailPrice": 189.05
-  },
-  {
     "id": "УТ000018917",
     "category": "..,РАЗНОЕ",
     "name": "МАГНОЛИЯ 60 СМ",
@@ -21910,6 +21894,14 @@
     "wholesalePrice": 1464.64,
     "extraPrice": 1537.87,
     "retailPrice": 1830.8
+  },
+  {
+    "id": "УТ000032357",
+    "category": "..РОЗА КЕНИЯ",
+    "name": "НОВИА 60 см РОЗА Кения (RLR)",
+    "wholesalePrice": 85.17,
+    "extraPrice": 89.43,
+    "retailPrice": 106.47
   },
   {
     "id": "УТ000032358",
@@ -33608,14 +33600,6 @@
     "retailPrice": 72.14
   },
   {
-    "id": "УТ000041626",
-    "category": "..,ЗЕЛЕНЬ",
-    "name": "СТАТИЦА  МИКС",
-    "wholesalePrice": 84.38,
-    "extraPrice": 88.59,
-    "retailPrice": 105.47
-  },
-  {
     "id": "УТ000041640",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "ХОЛИ 60 см куст на воде",
@@ -40750,14 +40734,6 @@
     "wholesalePrice": 309.64,
     "extraPrice": 325.13,
     "retailPrice": 387.06
-  },
-  {
-    "id": "УТ000048245",
-    "category": "ГРУНТ И УДОБРЕНИЯ",
-    "name": "СПРЕЙ ДЛЯ РОЗ ПИОНОВ ШАХКОАЛ 500 МЛ",
-    "wholesalePrice": 183.65,
-    "extraPrice": 192.84,
-    "retailPrice": 229.57
   },
   {
     "id": "УТ000048250",
@@ -56352,14 +56328,6 @@
     "retailPrice": 263.68
   },
   {
-    "id": "УТ000055255",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "ЛАВ КРИСТАЛ  ТЮЛЬПАН дубл.",
-    "wholesalePrice": 57.71,
-    "extraPrice": 60.6,
-    "retailPrice": 72.14
-  },
-  {
     "id": "УТ000055256",
     "category": "..,ЛИЛИЯ",
     "name": "АРЕТА  ОР ДУ ЛИЛИЯ",
@@ -56512,14 +56480,6 @@
     "retailPrice": 1890.5
   },
   {
-    "id": "УТ000055310",
-    "category": "ДЕКОР КИТАЙ",
-    "name": "ДОМИК БОЛШОЙ ДЕКОР",
-    "wholesalePrice": 2547.2,
-    "extraPrice": 2674.56,
-    "retailPrice": 3184
-  },
-  {
     "id": "УТ000055311",
     "category": "ДЕКОР КИТАЙ",
     "name": "ТЁТЯ БОЛШОЙ ДЕКОР",
@@ -56544,14 +56504,6 @@
     "retailPrice": 2487.5
   },
   {
-    "id": "УТ000055315",
-    "category": "ДЕКОР КИТАЙ",
-    "name": "КРОЛИКИ ДЕКОР",
-    "wholesalePrice": 1592,
-    "extraPrice": 1671.6,
-    "retailPrice": 1990
-  },
-  {
     "id": "УТ000055316",
     "category": "ДЕКОР КИТАЙ",
     "name": "ГРИБ ДЕКОР",
@@ -56560,28 +56512,12 @@
     "retailPrice": 1194
   },
   {
-    "id": "УТ000055318",
-    "category": "ДЕКОР КИТАЙ",
-    "name": "ЛЯГУШКА МИНИ",
-    "wholesalePrice": 796,
-    "extraPrice": 835.8,
-    "retailPrice": 995
-  },
-  {
     "id": "УТ000055319",
     "category": "ДЕКОР КИТАЙ",
     "name": "СОБАКА ДЕКОР",
     "wholesalePrice": 1432.8,
     "extraPrice": 1504.44,
     "retailPrice": 1791
-  },
-  {
-    "id": "УТ000055320",
-    "category": "ДЕКОР КИТАЙ",
-    "name": "СОБАЧЬЯ БУДКА",
-    "wholesalePrice": 1353.2,
-    "extraPrice": 1420.86,
-    "retailPrice": 1691.5
   },
   {
     "id": "УТ000055321",
