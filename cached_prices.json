@@ -21976,14 +21976,6 @@
     "retailPrice": 560.6
   },
   {
-    "id": "УТ000032432",
-    "category": "..,ЛИЛИЯ",
-    "name": "САРА БЕРНАРД ОР ДУ ЛИЛИЯ",
-    "wholesalePrice": 459.65,
-    "extraPrice": 482.63,
-    "retailPrice": 574.56
-  },
-  {
     "id": "УТ000032434",
     "category": "..ХРИЗАНТЕМА",
     "name": "ЛЕТИТБЕ",
@@ -23078,6 +23070,14 @@
     "wholesalePrice": 116.72,
     "extraPrice": 122.56,
     "retailPrice": 145.9
+  },
+  {
+    "id": "УТ000033568",
+    "category": "..ХРИЗАНТЕМА",
+    "name": "САНТИНИ ROSSI SUNNY",
+    "wholesalePrice": 59.85,
+    "extraPrice": 62.84,
+    "retailPrice": 74.81
   },
   {
     "id": "УТ000033573",
@@ -38200,33 +38200,9 @@
     "retailPrice": 115.42
   },
   {
-    "id": "УТ000045661",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "ПИНК МИСТ  ТЮЛЬПАН дубл.",
-    "wholesalePrice": 57.86,
-    "extraPrice": 60.75,
-    "retailPrice": 72.32
-  },
-  {
-    "id": "УТ000045678",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "МУМБАИ КОАС ТЮЛЬПАН дубл.",
-    "wholesalePrice": 69.43,
-    "extraPrice": 72.9,
-    "retailPrice": 86.78
-  },
-  {
     "id": "УТ000045684",
     "category": "..ТЮЛЬПАНЫ",
     "name": "ДИНАМО  ТЮЛЬПАН  энкл.",
-    "wholesalePrice": 53.47,
-    "extraPrice": 56.14,
-    "retailPrice": 66.83
-  },
-  {
-    "id": "УТ000045689",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "КАЙЛИ ТЮЛЬПАН энкл.",
     "wholesalePrice": 53.47,
     "extraPrice": 56.14,
     "retailPrice": 66.83
@@ -38251,14 +38227,6 @@
     "id": "УТ000045702",
     "category": "..ТЮЛЬПАНЫ",
     "name": "САФФИРО МИО ТЮЛЬПАН  дубл.",
-    "wholesalePrice": 57.86,
-    "extraPrice": 60.75,
-    "retailPrice": 72.32
-  },
-  {
-    "id": "УТ000045711",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "БАЛЛГАМЕ  ТЮЛЬПАН дубл",
     "wholesalePrice": 57.86,
     "extraPrice": 60.75,
     "retailPrice": 72.32
@@ -40792,14 +40760,6 @@
     "retailPrice": 230.14
   },
   {
-    "id": "УТ000048247",
-    "category": "..,ЛИЛИЯ",
-    "name": "САМАНТА ОР ДУ ЛИЛИЯ",
-    "wholesalePrice": 301.64,
-    "extraPrice": 316.73,
-    "retailPrice": 377.06
-  },
-  {
     "id": "УТ000048250",
     "category": "..РОЗА ЭКВАДОР",
     "name": "РЭДВАЛЮШЫН -  60 (СТАР,КОРОЗОН,МАТИЗ,ЭКО РОЗ,БЕЛЛА РОЗА,ЧАРМИНГ,СОФИ,ДАВИНЧИ.РОЯЛ)",
@@ -42376,14 +42336,6 @@
     "retailPrice": 2144.63
   },
   {
-    "id": "УТ000049561",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "МОВАНА ТЮЛПАН энкл",
-    "wholesalePrice": 53.47,
-    "extraPrice": 56.14,
-    "retailPrice": 66.83
-  },
-  {
     "id": "УТ000049563",
     "category": "..ТЮЛЬПАНЫ",
     "name": "ГОСТ ТАУН ТЮЛЬПАН дубл",
@@ -43062,14 +43014,6 @@
     "wholesalePrice": 231.42,
     "extraPrice": 242.99,
     "retailPrice": 289.28
-  },
-  {
-    "id": "УТ000050162",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "АНДИКОВЕР ТЮЛЬПАН дубл.",
-    "wholesalePrice": 57.86,
-    "extraPrice": 60.75,
-    "retailPrice": 72.32
   },
   {
     "id": "УТ000050169",
@@ -45038,14 +44982,6 @@
     "wholesalePrice": 133.26,
     "extraPrice": 139.92,
     "retailPrice": 166.57
-  },
-  {
-    "id": "УТ000051089",
-    "category": "..,ЛИЛИЯ",
-    "name": "ШАЙН ОН ОТ ЛИЛИЯ",
-    "wholesalePrice": 474.01,
-    "extraPrice": 497.71,
-    "retailPrice": 592.52
   },
   {
     "id": "УТ000051106",
@@ -49216,14 +49152,6 @@
     "retailPrice": 907.73
   },
   {
-    "id": "УТ000052634",
-    "category": "..,ЛИЛИЯ",
-    "name": "СЕВЕРН ОР ЛИЛИЯ",
-    "wholesalePrice": 407.78,
-    "extraPrice": 428.17,
-    "retailPrice": 509.72
-  },
-  {
     "id": "УТ000052660",
     "category": "..РОЗА ЭКВАДОР",
     "name": "Амира - 60см",
@@ -52462,14 +52390,6 @@
     "wholesalePrice": 141.5,
     "extraPrice": 148.58,
     "retailPrice": 176.88
-  },
-  {
-    "id": "УТ000053547",
-    "category": ".УПАКОВКА",
-    "name": "РОЛИК ТОНИРОВКА МАТОВЫЙ 400 ГР",
-    "wholesalePrice": 143.64,
-    "extraPrice": 150.82,
-    "retailPrice": 179.55
   },
   {
     "id": "УТ000053551",
@@ -56486,14 +56406,6 @@
     "wholesalePrice": 877,
     "extraPrice": 920.85,
     "retailPrice": 1096.25
-  },
-  {
-    "id": "УТ000055265",
-    "category": "..,ЛИЛИЯ",
-    "name": "АЗИАТКА МИКС ЛА ЛИЛИЯ",
-    "wholesalePrice": 123.69,
-    "extraPrice": 129.87,
-    "retailPrice": 154.61
   },
   {
     "id": "УТ000055266",
