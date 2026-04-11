@@ -8024,14 +8024,6 @@
     "retailPrice": 122.23
   },
   {
-    "id": "УТ000011118",
-    "category": "..,РОЗА ,НА ВОДЕ",
-    "name": "ВУВУЗЕЛЛА  60 см одног на воде",
-    "wholesalePrice": 145.56,
-    "extraPrice": 152.84,
-    "retailPrice": 181.96
-  },
-  {
     "id": "УТ000011381",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "КАТА-ЛИН  60 см куст на воде",
@@ -22187,9 +22179,9 @@
     "id": "УТ000032103",
     "category": "..,РАЗНОЕ",
     "name": "НАРЦИСС Краснодар",
-    "wholesalePrice": 22.26,
-    "extraPrice": 23.37,
-    "retailPrice": 27.83
+    "wholesalePrice": 42.93,
+    "extraPrice": 45.08,
+    "retailPrice": 53.66
   },
   {
     "id": "УТ000032261",
@@ -26230,6 +26222,14 @@
     "wholesalePrice": 45.17,
     "extraPrice": 47.43,
     "retailPrice": 56.46
+  },
+  {
+    "id": "УТ000036032",
+    "category": "..,РАЗНОЕ",
+    "name": "ПОДСНЕЖНИК КРАСНОДАР ПАЧКА",
+    "wholesalePrice": 200.34,
+    "extraPrice": 210.36,
+    "retailPrice": 250.43
   },
   {
     "id": "УТ000036037",
@@ -42750,6 +42750,14 @@
     "wholesalePrice": 53.27,
     "extraPrice": 55.93,
     "retailPrice": 66.58
+  },
+  {
+    "id": "УТ000049346",
+    "category": "..ТЮЛЬПАНЫ",
+    "name": "ДРИМЕР  ТЮЛЬПАН дубл.",
+    "wholesalePrice": 69.17,
+    "extraPrice": 72.62,
+    "retailPrice": 86.46
   },
   {
     "id": "УТ000049392",
