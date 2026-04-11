@@ -1,4 +1,4 @@
-<PriceList date="11.04.2026 1:47:44">
+<PriceList date="11.04.2026 2:20:21">
 	<GroupsOfGoods>
 		<Group ID="УТ000028416" Name="СУХИЕ РОЗЫ" ParentID="" ParentName=""/>
 		<Group ID="УТ000032724" Name="..,РОЗА ,МЕСТНАЯ" ParentID="" ParentName=""/>
@@ -6005,6 +6005,10 @@ S:23x18 H10 HH30 B18x12" Price="768,14" PriceRetail="960,18" PriceExt="806,55" P
 		<Item ID="УТ000038557" Name="Металл - 21A502003" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="662,27" PriceRetail="827,84" PriceExt="695,39" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000038558" Name="Металл - 21A502103" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="609,74" PriceRetail="762,17" PriceExt="640,22" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000038559" Name="Металл - 21A502202" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="678,99" PriceRetail="848,74" PriceExt="712,94" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
+		<Item ID="УТ000038563" Name="Корзина - 21A213103" EI="шт" ДополнительноеОписаниеНоменклатуры="L:40X33XH14/35XB33X25 
+M:35X27XH13/32XB28X21 
+S:29X22XH11/26XB23X18
+" Price="1061,86" PriceRetail="1327,33" PriceExt="1114,96" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000038566" Name="Корзина - 20A207603" EI="шт" ДополнительноеОписаниеНоменклатуры="L:36XH14/40XB28 
 M:32XH12/35XB25 
 S:25XH10/30XB20
