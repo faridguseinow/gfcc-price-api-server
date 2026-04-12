@@ -5195,25 +5195,25 @@
     "id": "УТ000007422",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЛИНИЯ РОЗЫ ОДНОГОЛОВАЯ.. 50 СМ",
-    "wholesalePrice": 79.5,
-    "extraPrice": 83.48,
-    "retailPrice": 99.38
+    "wholesalePrice": 64.09,
+    "extraPrice": 67.3,
+    "retailPrice": 80.12
   },
   {
     "id": "УТ000007425",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЛИНИЯ РОЗЫ ОДНОГОЛОВАЯ.. 60 СМ",
-    "wholesalePrice": 93.24,
-    "extraPrice": 97.9,
-    "retailPrice": 116.55
+    "wholesalePrice": 84.1,
+    "extraPrice": 88.3,
+    "retailPrice": 105.12
   },
   {
     "id": "УТ000007427",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЛИНИЯ РОЗЫ КУСТОВАЯ. 70 СМ",
-    "wholesalePrice": 213.74,
-    "extraPrice": 224.43,
-    "retailPrice": 267.18
+    "wholesalePrice": 218.09,
+    "extraPrice": 229,
+    "retailPrice": 272.62
   },
   {
     "id": "УТ000007428",
@@ -7571,17 +7571,17 @@
     "id": "УТ000010354",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЛИНИЯ РОЗЫ КУСТОВАЯ. 40 СМ",
-    "wholesalePrice": 118.46,
-    "extraPrice": 124.38,
-    "retailPrice": 148.07
+    "wholesalePrice": 87.45,
+    "extraPrice": 91.82,
+    "retailPrice": 109.31
   },
   {
     "id": "УТ000010355",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЛИНИЯ РОЗЫ КУСТОВАЯ. 50 СМ",
-    "wholesalePrice": 169.75,
-    "extraPrice": 178.24,
-    "retailPrice": 212.19
+    "wholesalePrice": 162.09,
+    "extraPrice": 170.2,
+    "retailPrice": 202.62
   },
   {
     "id": "УТ000010358",
@@ -8016,6 +8016,14 @@
     "retailPrice": 122.23
   },
   {
+    "id": "УТ000010833",
+    "category": "..,РОЗА ,МЕСТНАЯ",
+    "name": "ЛИНИЯ РОЗЫ ОДНОГОЛОВАЯ..80 СМ",
+    "wholesalePrice": 104.1,
+    "extraPrice": 109.3,
+    "retailPrice": 130.12
+  },
+  {
     "id": "УТ000011381",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "КАТА-ЛИН  60 см куст на воде",
@@ -8142,6 +8150,14 @@
     "wholesalePrice": 158.6,
     "extraPrice": 166.53,
     "retailPrice": 198.25
+  },
+  {
+    "id": "УТ000011511",
+    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
+    "name": "ДИНАРА 60 см куст на воде",
+    "wholesalePrice": 95.4,
+    "extraPrice": 100.17,
+    "retailPrice": 119.25
   },
   {
     "id": "УТ000011513",
@@ -9163,9 +9179,9 @@
     "id": "УТ000014022",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЛИНИЯ РОЗЫ КУСТОВАЯ. 60 СМ",
-    "wholesalePrice": 198.04,
-    "extraPrice": 207.94,
-    "retailPrice": 247.55
+    "wholesalePrice": 182.09,
+    "extraPrice": 191.2,
+    "retailPrice": 227.62
   },
   {
     "id": "УТ000014030",
@@ -13398,6 +13414,14 @@
     "wholesalePrice": 85.07,
     "extraPrice": 89.32,
     "retailPrice": 106.33
+  },
+  {
+    "id": "УТ000022624",
+    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
+    "name": "КУРКУМА 12 СМ",
+    "wholesalePrice": 620.1,
+    "extraPrice": 651.11,
+    "retailPrice": 775.13
   },
   {
     "id": "УТ000022637",
@@ -22200,6 +22224,14 @@
     "retailPrice": 139.13
   },
   {
+    "id": "УТ000032102",
+    "category": "..,РОЗА ,МЕСТНАЯ",
+    "name": "ЛИНИЯ РОЗЫ КУСТОВАЯ. 80 СМ",
+    "wholesalePrice": 224.09,
+    "extraPrice": 235.3,
+    "retailPrice": 280.12
+  },
+  {
     "id": "УТ000032103",
     "category": "..,РАЗНОЕ",
     "name": "НАРЦИСС Краснодар",
@@ -25259,9 +25291,9 @@
     "id": "УТ000034885",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЛИНИЯ РОЗЫ ОДНОГОЛОВАЯ.. 70 СМ",
-    "wholesalePrice": 104.03,
-    "extraPrice": 109.24,
-    "retailPrice": 130.04
+    "wholesalePrice": 94.1,
+    "extraPrice": 98.8,
+    "retailPrice": 117.62
   },
   {
     "id": "УТ000034912",
@@ -26966,6 +26998,14 @@
     "wholesalePrice": 119.95,
     "extraPrice": 125.95,
     "retailPrice": 149.94
+  },
+  {
+    "id": "УТ000036984",
+    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
+    "name": "СВИТ ПОРСЕЛИНА 60  см куст",
+    "wholesalePrice": 103.35,
+    "extraPrice": 108.52,
+    "retailPrice": 129.19
   },
   {
     "id": "УТ000036987",
@@ -33046,6 +33086,14 @@
     "wholesalePrice": 236.83,
     "extraPrice": 248.67,
     "retailPrice": 296.04
+  },
+  {
+    "id": "УТ000040816",
+    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
+    "name": "РОЯЛ ВЕДИНГ 50 см куст на воде",
+    "wholesalePrice": 119.25,
+    "extraPrice": 125.21,
+    "retailPrice": 149.06
   },
   {
     "id": "УТ000040817",
