@@ -552,14 +552,6 @@
     "retailPrice": 455.71
   },
   {
-    "id": "УТ000003090",
-    "category": "ВАЗЫ И КЕРАМИКА",
-    "name": "ВАЗА № 1589",
-    "wholesalePrice": 288.15,
-    "extraPrice": 302.56,
-    "retailPrice": 360.19
-  },
-  {
     "id": "УТ000003091",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 1590",
@@ -2566,6 +2558,14 @@
     "wholesalePrice": 108.26,
     "extraPrice": 113.67,
     "retailPrice": 135.32
+  },
+  {
+    "id": "УТ000005327",
+    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
+    "name": "КАЙЛИ 60 см РОЗА Кен/Куст. (RLR)",
+    "wholesalePrice": 134.52,
+    "extraPrice": 141.25,
+    "retailPrice": 168.16
   },
   {
     "id": "УТ000005328",
@@ -13656,14 +13656,6 @@
     "retailPrice": 171.14
   },
   {
-    "id": "УТ000023733",
-    "category": "ВАЗЫ И КЕРАМИКА",
-    "name": "ВАЗА № 1416",
-    "wholesalePrice": 323.18,
-    "extraPrice": 339.33,
-    "retailPrice": 403.97
-  },
-  {
     "id": "УТ000023737",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 1786",
@@ -22088,14 +22080,6 @@
     "retailPrice": 243.78
   },
   {
-    "id": "УТ000031594",
-    "category": "..,ЗЕЛЕНЬ",
-    "name": "ВЕРБА ПОДМОСКОВЬЕ",
-    "wholesalePrice": 65.29,
-    "extraPrice": 68.55,
-    "retailPrice": 81.61
-  },
-  {
     "id": "УТ000031603",
     "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
     "name": "ФИКУС ЭЛАСТИКА МИКС 27/110 СМ",
@@ -28976,14 +28960,6 @@
     "retailPrice": 125.37
   },
   {
-    "id": "УТ000038680",
-    "category": "..,РАЗНОЕ",
-    "name": "ГИПЕРИКУМ 60 СМ КРАСНЫЙ",
-    "wholesalePrice": 79.6,
-    "extraPrice": 83.58,
-    "retailPrice": 99.5
-  },
-  {
     "id": "УТ000038681",
     "category": "..,РАЗНОЕ",
     "name": "ГИПЕРИКУМ 50 СМ КРАСНЫЙ",
@@ -34574,6 +34550,14 @@
     "wholesalePrice": 53.33,
     "extraPrice": 56,
     "retailPrice": 66.67
+  },
+  {
+    "id": "УТ000041908",
+    "category": "..,РАЗНОЕ",
+    "name": "КОЛУМБИЯ ГОРТЕНЗИЯ  ЭКСТРА",
+    "wholesalePrice": 254.72,
+    "extraPrice": 267.46,
+    "retailPrice": 318.4
   },
   {
     "id": "УТ000041915",
