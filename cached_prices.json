@@ -7720,6 +7720,14 @@
     "retailPrice": 69.3
   },
   {
+    "id": "УТ000010429",
+    "category": "..,ПИОНЫ",
+    "name": "АНГЕЛ ПИОНЫ",
+    "wholesalePrice": 262.15,
+    "extraPrice": 275.26,
+    "retailPrice": 327.69
+  },
+  {
     "id": "УТ000010437",
     "category": "..,ПИОНЫ",
     "name": "БЕЛГРАВИЯ ПИОНЫ",
@@ -7734,14 +7742,6 @@
     "wholesalePrice": 340.56,
     "extraPrice": 357.59,
     "retailPrice": 425.7
-  },
-  {
-    "id": "УТ000010462",
-    "category": "..,ПИОНЫ",
-    "name": "КОРАЛ САНСЕТ ПИОНЫ",
-    "wholesalePrice": 356.4,
-    "extraPrice": 374.22,
-    "retailPrice": 445.5
   },
   {
     "id": "УТ000010464",
@@ -35155,9 +35155,9 @@
     "id": "УТ000042699",
     "category": "..,ПИОНЫ",
     "name": "САЛМОН ИТАЛИЯ ПИОНЫ",
-    "wholesalePrice": 316.8,
-    "extraPrice": 332.64,
-    "retailPrice": 396
+    "wholesalePrice": 261.36,
+    "extraPrice": 274.43,
+    "retailPrice": 326.7
   },
   {
     "id": "УТ000042702",
