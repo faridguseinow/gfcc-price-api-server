@@ -3488,6 +3488,30 @@
     "retailPrice": 752.4
   },
   {
+    "id": "УТ000006233",
+    "category": "КОРЗИНА",
+    "name": "Корзина - 0001",
+    "wholesalePrice": 49.1,
+    "extraPrice": 51.56,
+    "retailPrice": 61.38
+  },
+  {
+    "id": "УТ000006237",
+    "category": "КОРЗИНА",
+    "name": "Корзина - 0009",
+    "wholesalePrice": 396,
+    "extraPrice": 415.8,
+    "retailPrice": 495
+  },
+  {
+    "id": "УТ000006239",
+    "category": "КОРЗИНА",
+    "name": "Корзина - 0010",
+    "wholesalePrice": 148.9,
+    "extraPrice": 156.34,
+    "retailPrice": 186.12
+  },
+  {
     "id": "УТ000006268",
     "category": "КОРЗИНА",
     "name": "Корзина - 015203",
@@ -9574,14 +9598,6 @@
     "wholesalePrice": 182.16,
     "extraPrice": 191.27,
     "retailPrice": 227.7
-  },
-  {
-    "id": "УТ000014463",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "ФИКУС АЛИ 27/150 СМ",
-    "wholesalePrice": 7048.8,
-    "extraPrice": 7401.24,
-    "retailPrice": 8811
   },
   {
     "id": "УТ000014489",
@@ -33768,14 +33784,6 @@
     "retailPrice": 649.44
   },
   {
-    "id": "УТ000041183",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "ВАЙТ ФОКСТРОД КОАС ТЮЛЬПАН дубл.",
-    "wholesalePrice": 68.9,
-    "extraPrice": 72.35,
-    "retailPrice": 86.13
-  },
-  {
     "id": "УТ000041185",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 1468",
@@ -57040,14 +57048,6 @@
     "retailPrice": 563.41
   },
   {
-    "id": "УТ000055309",
-    "category": "ДЕКОР КИТАЙ",
-    "name": "ВОЛК МАЛЕНЬКИЙ ДЕКОР",
-    "wholesalePrice": 1504.8,
-    "extraPrice": 1580.04,
-    "retailPrice": 1881
-  },
-  {
     "id": "УТ000055311",
     "category": "ДЕКОР КИТАЙ",
     "name": "ТЁТЯ БОЛШОЙ ДЕКОР",
@@ -57062,14 +57062,6 @@
     "wholesalePrice": 2613.6,
     "extraPrice": 2744.28,
     "retailPrice": 3267
-  },
-  {
-    "id": "УТ000055314",
-    "category": "ДЕКОР КИТАЙ",
-    "name": "ФЛАМИНГО ДЕКОР",
-    "wholesalePrice": 1980,
-    "extraPrice": 2079,
-    "retailPrice": 2475
   },
   {
     "id": "УТ000055316",
