@@ -224,14 +224,6 @@
     "retailPrice": 621.55
   },
   {
-    "id": "УТ000002695",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "АМАРИЛЛИС 13 СМ",
-    "wholesalePrice": 521.3,
-    "extraPrice": 547.37,
-    "retailPrice": 651.63
-  },
-  {
     "id": "УТ000002700",
     "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
     "name": "АНАНАС 12 СМ",
@@ -7723,17 +7715,17 @@
     "id": "УТ000010464",
     "category": "..,ПИОНЫ",
     "name": "КОРАЛ ШАРМ ПИОНЫ",
-    "wholesalePrice": 224.56,
-    "extraPrice": 235.79,
-    "retailPrice": 280.7
+    "wholesalePrice": 209.32,
+    "extraPrice": 219.79,
+    "retailPrice": 261.65
   },
   {
     "id": "УТ000010479",
     "category": "..,ПИОНЫ",
     "name": "ОДИЛЬ ПИОНЫ",
-    "wholesalePrice": 244.61,
-    "extraPrice": 256.84,
-    "retailPrice": 305.76
+    "wholesalePrice": 357.69,
+    "extraPrice": 375.58,
+    "retailPrice": 447.12
   },
   {
     "id": "УТ000010481",
@@ -7747,9 +7739,9 @@
     "id": "УТ000010490",
     "category": "..,ПИОНЫ",
     "name": "РЕД ШАРМ ПИОНЫ",
-    "wholesalePrice": 260.65,
-    "extraPrice": 273.68,
-    "retailPrice": 325.81
+    "wholesalePrice": 241.4,
+    "extraPrice": 253.47,
+    "retailPrice": 301.75
   },
   {
     "id": "УТ000010493",
@@ -12323,9 +12315,9 @@
     "id": "УТ000019611",
     "category": "..,РАЗНОЕ",
     "name": "ЛИЗИАНТУС АЛИСА  БЕЛ",
-    "wholesalePrice": 168.42,
-    "extraPrice": 176.84,
-    "retailPrice": 210.53
+    "wholesalePrice": 192.48,
+    "extraPrice": 202.1,
+    "retailPrice": 240.6
   },
   {
     "id": "УТ000019613",
@@ -12363,9 +12355,9 @@
     "id": "УТ000019677",
     "category": "..,РАЗНОЕ",
     "name": "ЛИЗИАНТУС АЛИСА РОЗОВЫЙ",
-    "wholesalePrice": 160.4,
-    "extraPrice": 168.42,
-    "retailPrice": 200.5
+    "wholesalePrice": 187.67,
+    "extraPrice": 197.05,
+    "retailPrice": 234.59
   },
   {
     "id": "УТ000019695",
@@ -15307,49 +15299,49 @@
     "id": "УТ000027742",
     "category": "..,РАЗНОЕ",
     "name": "ЛИЗИАНТУС  БЕЛО РОЗОВЫЙ",
-    "wholesalePrice": 136.34,
-    "extraPrice": 143.16,
-    "retailPrice": 170.43
+    "wholesalePrice": 132.33,
+    "extraPrice": 138.95,
+    "retailPrice": 165.41
   },
   {
     "id": "УТ000027743",
     "category": "..,РАЗНОЕ",
     "name": "ЛИЗИАНТУС  СВЕТЛО РОЗОВЫЙ",
-    "wholesalePrice": 162,
-    "extraPrice": 170.1,
-    "retailPrice": 202.51
-  },
-  {
-    "id": "УТ000027744",
-    "category": "..,РАЗНОЕ",
-    "name": "ЛИЗИАНТУС  ЛАВАНДОВЫЙ",
     "wholesalePrice": 160.4,
     "extraPrice": 168.42,
     "retailPrice": 200.5
   },
   {
+    "id": "УТ000027744",
+    "category": "..,РАЗНОЕ",
+    "name": "ЛИЗИАНТУС  ЛАВАНДОВЫЙ",
+    "wholesalePrice": 170.02,
+    "extraPrice": 178.53,
+    "retailPrice": 212.53
+  },
+  {
     "id": "УТ000027746",
     "category": "..,РАЗНОЕ",
     "name": "ЛИЗИАНТУС  БЕЛО СИНИЙ",
-    "wholesalePrice": 144.36,
-    "extraPrice": 151.58,
-    "retailPrice": 180.45
+    "wholesalePrice": 162,
+    "extraPrice": 170.1,
+    "retailPrice": 202.51
   },
   {
     "id": "УТ000027747",
     "category": "..,РАЗНОЕ",
     "name": "ЛИЗИАНТУС  ЗЕЛЕНЫЙ",
-    "wholesalePrice": 184.46,
-    "extraPrice": 193.68,
-    "retailPrice": 230.58
+    "wholesalePrice": 160.4,
+    "extraPrice": 168.42,
+    "retailPrice": 200.5
   },
   {
     "id": "УТ000027748",
     "category": "..,РАЗНОЕ",
     "name": "ЛИЗИАНТУС  БЕЛЫЙ",
-    "wholesalePrice": 136.34,
-    "extraPrice": 143.16,
-    "retailPrice": 170.43
+    "wholesalePrice": 144.36,
+    "extraPrice": 151.58,
+    "retailPrice": 180.45
   },
   {
     "id": "УТ000027752",
@@ -15395,17 +15387,17 @@
     "id": "УТ000027772",
     "category": "..,РАЗНОЕ",
     "name": "ЛИЗИАНТУС  КРАСНЫЙ",
-    "wholesalePrice": 160.4,
-    "extraPrice": 168.42,
-    "retailPrice": 200.5
+    "wholesalePrice": 144.36,
+    "extraPrice": 151.58,
+    "retailPrice": 180.45
   },
   {
     "id": "УТ000027773",
     "category": "..,РАЗНОЕ",
     "name": "ЛИЗИАНТУС  СИНИЙ",
-    "wholesalePrice": 128.32,
-    "extraPrice": 134.74,
-    "retailPrice": 160.4
+    "wholesalePrice": 131.53,
+    "extraPrice": 138.1,
+    "retailPrice": 164.41
   },
   {
     "id": "УТ000027900",
@@ -35243,9 +35235,9 @@
     "id": "УТ000043041",
     "category": "..,РАЗНОЕ",
     "name": "ЛИЗИАНТУС АЛИСА  ШАМПАН",
-    "wholesalePrice": 176.44,
-    "extraPrice": 185.26,
-    "retailPrice": 220.55
+    "wholesalePrice": 153.98,
+    "extraPrice": 161.68,
+    "retailPrice": 192.48
   },
   {
     "id": "УТ000043045",
