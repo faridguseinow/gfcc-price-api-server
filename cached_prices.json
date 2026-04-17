@@ -1560,6 +1560,14 @@
     "retailPrice": 3370.94
   },
   {
+    "id": "УТ000003987",
+    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
+    "name": "ГИДРАНГИЯ 32/65 СМ",
+    "wholesalePrice": 5232.5,
+    "extraPrice": 5494.13,
+    "retailPrice": 6540.63
+  },
+  {
     "id": "УТ000003999",
     "category": ".УПАКОВКА",
     "name": "ГИДРОГЕЛЬ 150 МЛ",
@@ -1838,14 +1846,6 @@
     "wholesalePrice": 7406,
     "extraPrice": 7776.3,
     "retailPrice": 9257.5
-  },
-  {
-    "id": "УТ000004828",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "ДРАЦЕНА ЛИМОН ЛАЙМ 17 СМ",
-    "wholesalePrice": 1771,
-    "extraPrice": 1859.55,
-    "retailPrice": 2213.75
   },
   {
     "id": "УТ000004841",
@@ -53030,6 +53030,14 @@
     "wholesalePrice": 115.72,
     "extraPrice": 121.5,
     "retailPrice": 144.65
+  },
+  {
+    "id": "УТ000053578",
+    "category": "..,ЗЕЛЕНЬ",
+    "name": "СОСНА ГОРНАЯ ИТАЛИЯ",
+    "wholesalePrice": 499.1,
+    "extraPrice": 524.06,
+    "retailPrice": 623.88
   },
   {
     "id": "УТ000053581",
