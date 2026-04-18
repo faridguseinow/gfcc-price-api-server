@@ -400,14 +400,6 @@
     "retailPrice": 220
   },
   {
-    "id": "УТ000002957",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "БОНСАЙ 20 СМ",
-    "wholesalePrice": 2320,
-    "extraPrice": 2436,
-    "retailPrice": 2900
-  },
-  {
     "id": "УТ000002959",
     "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
     "name": "БОНСАЙ 30 СМ",
@@ -1667,9 +1659,9 @@
     "id": "УТ000004472",
     "category": "ГРУНТ И УДОБРЕНИЯ",
     "name": "ГРУНТ УН.  2,5 Л  (ПАЧКА 10 ШТ)",
-    "wholesalePrice": 278.14,
-    "extraPrice": 292.05,
-    "retailPrice": 347.68
+    "wholesalePrice": 409.5,
+    "extraPrice": 429.98,
+    "retailPrice": 511.88
   },
   {
     "id": "УТ000004473",
@@ -39654,6 +39646,14 @@
     "wholesalePrice": 794.4,
     "extraPrice": 834.12,
     "retailPrice": 993
+  },
+  {
+    "id": "УТ000046143",
+    "category": "..,РАЗНОЕ",
+    "name": "ГЕРБЕРА ДАЙМОНД ПОМПОНИ",
+    "wholesalePrice": 97.6,
+    "extraPrice": 102.48,
+    "retailPrice": 122
   },
   {
     "id": "УТ000046144",
