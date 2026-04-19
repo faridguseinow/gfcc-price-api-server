@@ -1499,9 +1499,9 @@
     "id": "УТ000003905",
     "category": "..,ГВОЗДИКА",
     "name": "ГВОЗДИКА ТУРЦИЯ",
-    "wholesalePrice": 35.91,
-    "extraPrice": 37.71,
-    "retailPrice": 44.89
+    "wholesalePrice": 38.78,
+    "extraPrice": 40.72,
+    "retailPrice": 48.48
   },
   {
     "id": "УТ000003916",
@@ -7710,14 +7710,6 @@
     "wholesalePrice": 35.91,
     "extraPrice": 37.71,
     "retailPrice": 44.89
-  },
-  {
-    "id": "УТ000010373",
-    "category": "..,РАЗНОЕ",
-    "name": "МОЛЮЦЕЛЛА",
-    "wholesalePrice": 151.62,
-    "extraPrice": 159.2,
-    "retailPrice": 189.53
   },
   {
     "id": "УТ000010376",
@@ -34835,6 +34827,14 @@
     "id": "УТ000041811",
     "category": "КОРЗИНА",
     "name": "Корзина - 8884203",
+    "wholesalePrice": 1121.19,
+    "extraPrice": 1177.25,
+    "retailPrice": 1401.49
+  },
+  {
+    "id": "УТ000041812",
+    "category": "КОРЗИНА",
+    "name": "Корзина - 8884303",
     "wholesalePrice": 1121.19,
     "extraPrice": 1177.25,
     "retailPrice": 1401.49
