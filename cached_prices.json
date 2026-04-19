@@ -9672,14 +9672,6 @@
     "retailPrice": 2872.8
   },
   {
-    "id": "УТ000014354",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "ФАТСИЯ 17 СМ",
-    "wholesalePrice": 1197,
-    "extraPrice": 1256.85,
-    "retailPrice": 1496.25
-  },
-  {
     "id": "УТ000014371",
     "category": ".УПАКОВКА",
     "name": "ФЕТР",
@@ -43371,6 +43363,14 @@
     "id": "УТ000049943",
     "category": "..ТЮЛЬПАНЫ",
     "name": "КУИН ТРАСТФУЛ ТЮЛЬПАН дубл",
+    "wholesalePrice": 55.25,
+    "extraPrice": 58.01,
+    "retailPrice": 69.06
+  },
+  {
+    "id": "УТ000049951",
+    "category": "..ТЮЛЬПАНЫ",
+    "name": "ХЭШТЕГ  ТЮЛЬПАН дубл",
     "wholesalePrice": 55.25,
     "extraPrice": 58.01,
     "retailPrice": 69.06
