@@ -7608,14 +7608,6 @@
     "retailPrice": 47.34
   },
   {
-    "id": "УТ000010258",
-    "category": "..,РАЗНОЕ",
-    "name": "ИРИС ЖЕЛТЫЙ",
-    "wholesalePrice": 58.39,
-    "extraPrice": 61.31,
-    "retailPrice": 72.98
-  },
-  {
     "id": "УТ000010303",
     "category": "..,РАЗНОЕ",
     "name": "КЛАРКИЯ",
@@ -21350,14 +21342,6 @@
     "wholesalePrice": 44.18,
     "extraPrice": 46.39,
     "retailPrice": 55.23
-  },
-  {
-    "id": "УТ000030064",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "ЗVIP ROSES ТЮЛЬПАН ДУБЛ",
-    "wholesalePrice": 90.26,
-    "extraPrice": 94.77,
-    "retailPrice": 112.83
   },
   {
     "id": "УТ000030067",
@@ -36192,6 +36176,14 @@
     "retailPrice": 84.83
   },
   {
+    "id": "УТ000043764",
+    "category": "..,РОЗА ,МЕСТНАЯ",
+    "name": "РОЗА КРАСНОДАР куст 50 см",
+    "wholesalePrice": 136.62,
+    "extraPrice": 143.45,
+    "retailPrice": 170.77
+  },
+  {
     "id": "УТ000043766",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "РОЗА КРАСНОДАР куст 70 см",
@@ -39880,6 +39872,14 @@
     "retailPrice": 84.82
   },
   {
+    "id": "УТ000046636",
+    "category": "..,РОЗА ,МЕСТНАЯ",
+    "name": "РОЗА КРАСНОДАР куст 80 см",
+    "wholesalePrice": 159.99,
+    "extraPrice": 167.99,
+    "retailPrice": 199.99
+  },
+  {
     "id": "УТ000046645",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "ГИСЕЛЕ 60 см РОЗА Кен/Куст. (KAREN)",
@@ -39950,6 +39950,14 @@
     "wholesalePrice": 18.94,
     "extraPrice": 19.88,
     "retailPrice": 23.67
+  },
+  {
+    "id": "УТ000046678",
+    "category": "..,РОЗА ,МЕСТНАЯ",
+    "name": "РОЗА КРАСНОДАР куст 90 см",
+    "wholesalePrice": 165,
+    "extraPrice": 173.25,
+    "retailPrice": 206.24
   },
   {
     "id": "УТ000046692",
@@ -41550,6 +41558,14 @@
     "wholesalePrice": 306.92,
     "extraPrice": 322.27,
     "retailPrice": 383.65
+  },
+  {
+    "id": "УТ000048245",
+    "category": "ГРУНТ И УДОБРЕНИЯ",
+    "name": "СПРЕЙ ДЛЯ РОЗ ПИОНОВ ШАХКОАЛ 500 МЛ",
+    "wholesalePrice": 182.04,
+    "extraPrice": 191.14,
+    "retailPrice": 227.55
   },
   {
     "id": "УТ000048247",
@@ -43534,14 +43550,6 @@
     "wholesalePrice": 806.36,
     "extraPrice": 846.68,
     "retailPrice": 1007.95
-  },
-  {
-    "id": "УТ000050031",
-    "category": "КОРЗИНА",
-    "name": "Корзина - 152201",
-    "wholesalePrice": 1028.86,
-    "extraPrice": 1080.3,
-    "retailPrice": 1286.07
   },
   {
     "id": "УТ000050038",
@@ -49446,14 +49454,6 @@
     "wholesalePrice": 927.08,
     "extraPrice": 973.43,
     "retailPrice": 1158.84
-  },
-  {
-    "id": "УТ000052303",
-    "category": ".УПАКОВКА",
-    "name": "КОРОБКА ДЛЯ ЦВЕТОВ № 103 (10 ШТ)",
-    "wholesalePrice": 738.5,
-    "extraPrice": 775.43,
-    "retailPrice": 923.13
   },
   {
     "id": "УТ000052304",
