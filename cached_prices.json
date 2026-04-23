@@ -1920,14 +1920,6 @@
     "retailPrice": 539
   },
   {
-    "id": "УТ000004787",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "ДРАЦЕНА БИКОЛОР 24/135 СМ",
-    "wholesalePrice": 3998.4,
-    "extraPrice": 4198.32,
-    "retailPrice": 4998
-  },
-  {
     "id": "УТ000004800",
     "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
     "name": "ДРАЦЕНА ГОЛДЕН КОСТ 11 СМ",
@@ -7904,6 +7896,14 @@
     "retailPrice": 407.68
   },
   {
+    "id": "УТ000010462",
+    "category": "..,ПИОНЫ",
+    "name": "КОРАЛ САНСЕТ ПИОНЫ",
+    "wholesalePrice": 243.82,
+    "extraPrice": 256.02,
+    "retailPrice": 304.78
+  },
+  {
     "id": "УТ000010464",
     "category": "..,ПИОНЫ",
     "name": "КОРАЛ ШАРМ ПИОНЫ",
@@ -9630,14 +9630,6 @@
     "wholesalePrice": 112.54,
     "extraPrice": 118.16,
     "retailPrice": 140.67
-  },
-  {
-    "id": "УТ000014287",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "АНТУРИУМ ДЕЛИКАТЕ 14 СМ",
-    "wholesalePrice": 1246.56,
-    "extraPrice": 1308.89,
-    "retailPrice": 1558.2
   },
   {
     "id": "УТ000014294",
@@ -40523,14 +40515,6 @@
     "id": "УТ000047138",
     "category": "..,ЛИЛИЯ",
     "name": "БРИНДИСИ ЛА ЛИЛИЯ",
-    "wholesalePrice": 113.68,
-    "extraPrice": 119.36,
-    "retailPrice": 142.1
-  },
-  {
-    "id": "УТ000047139",
-    "category": "..,ЛИЛИЯ",
-    "name": "КОРТОНА ЛА ЛИЛИЯ",
     "wholesalePrice": 113.68,
     "extraPrice": 119.36,
     "retailPrice": 142.1
