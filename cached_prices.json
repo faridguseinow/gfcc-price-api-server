@@ -7832,6 +7832,14 @@
     "retailPrice": 187.63
   },
   {
+    "id": "УТ000010348",
+    "category": "..,РАЗНОЕ",
+    "name": "ЛИЗИАНТУС   КРАСНОДАР",
+    "wholesalePrice": 233.84,
+    "extraPrice": 245.53,
+    "retailPrice": 292.3
+  },
+  {
     "id": "УТ000010354",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЛИНИЯ РОЗЫ КУСТОВАЯ. 40 СМ",
@@ -10339,6 +10347,14 @@
     "id": "УТ000015012",
     "category": "..ХРИЗАНТЕМА",
     "name": ".ХРИЗ. ДЕКО ПЁТР",
+    "wholesalePrice": 84.39,
+    "extraPrice": 88.61,
+    "retailPrice": 105.48
+  },
+  {
+    "id": "УТ000015014",
+    "category": "..ХРИЗАНТЕМА",
+    "name": ".ХРИЗ. ДЕКО ПИП",
     "wholesalePrice": 84.39,
     "extraPrice": 88.61,
     "retailPrice": 105.48
@@ -26336,6 +26352,14 @@
     "retailPrice": 103.69
   },
   {
+    "id": "УТ000035614",
+    "category": "..,РАЗНОЕ",
+    "name": "ГЕРБЕРА КРАСНОДАР БОЛЬШАЯ",
+    "wholesalePrice": 71.5,
+    "extraPrice": 75.07,
+    "retailPrice": 89.37
+  },
+  {
     "id": "УТ000035620",
     "category": "ГРУНТ И УДОБРЕНИЯ",
     "name": "АКТИВИА МИКС 500 МЛ",
@@ -29102,14 +29126,6 @@
     "wholesalePrice": 154.05,
     "extraPrice": 161.75,
     "retailPrice": 192.56
-  },
-  {
-    "id": "УТ000038602",
-    "category": "..,РАЗНОЕ",
-    "name": "АГАПАНТУС БЕЛЫЙ",
-    "wholesalePrice": 146.15,
-    "extraPrice": 153.46,
-    "retailPrice": 182.69
   },
   {
     "id": "УТ000038611",
@@ -58238,5 +58254,53 @@
     "wholesalePrice": 68.73,
     "extraPrice": 72.17,
     "retailPrice": 85.91
+  },
+  {
+    "id": "УТ000055476",
+    "category": "..,РОЗА ,МЕСТНАЯ",
+    "name": "РОЗА АРМЕНИЯ куст 70 см",
+    "wholesalePrice": 155.99,
+    "extraPrice": 163.79,
+    "retailPrice": 194.99
+  },
+  {
+    "id": "УТ000055477",
+    "category": "..,РОЗА ,МЕСТНАЯ",
+    "name": "РОЗА АРМЕНИЯ куст 60 см",
+    "wholesalePrice": 128,
+    "extraPrice": 134.4,
+    "retailPrice": 159.99
+  },
+  {
+    "id": "УТ000055478",
+    "category": "..,РОЗА ,МЕСТНАЯ",
+    "name": "РОЗА АРМЕНИЯ куст 80 см",
+    "wholesalePrice": 181,
+    "extraPrice": 190.05,
+    "retailPrice": 226.25
+  },
+  {
+    "id": "УТ000055479",
+    "category": "..,РОЗА ,МЕСТНАЯ",
+    "name": "РОЗА АРМЕНИЯ ОДНОГ. 60 см",
+    "wholesalePrice": 83,
+    "extraPrice": 87.15,
+    "retailPrice": 103.75
+  },
+  {
+    "id": "УТ000055480",
+    "category": "..,РОЗА ,МЕСТНАЯ",
+    "name": "РОЗА АРМЕНИЯ ОДНОГ. 70 см",
+    "wholesalePrice": 100,
+    "extraPrice": 105,
+    "retailPrice": 125
+  },
+  {
+    "id": "УТ000055481",
+    "category": "..,РОЗА ,МЕСТНАЯ",
+    "name": "РОЗА АРМЕНИЯ ОДНОГ. 80 см",
+    "wholesalePrice": 119.99,
+    "extraPrice": 125.99,
+    "retailPrice": 149.99
   }
 ]
