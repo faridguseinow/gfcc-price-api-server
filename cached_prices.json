@@ -2888,14 +2888,6 @@
     "retailPrice": 175.9
   },
   {
-    "id": "УТ000005445",
-    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
-    "name": "МОН АМУР 50 см РОЗА Кен/Куст. (RLR)",
-    "wholesalePrice": 110.4,
-    "extraPrice": 115.92,
-    "retailPrice": 138
-  },
-  {
     "id": "УТ000005446",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "МОН АМУР 60 см РОЗА Кен/Куст. (RLR)",
@@ -17310,6 +17302,14 @@
     "wholesalePrice": 465.89,
     "extraPrice": 489.18,
     "retailPrice": 582.36
+  },
+  {
+    "id": "УТ000028497",
+    "category": "..,ЗЕЛЕНЬ",
+    "name": "САМШИТ КРАСНОДАР",
+    "wholesalePrice": 430.65,
+    "extraPrice": 452.18,
+    "retailPrice": 538.31
   },
   {
     "id": "УТ000028499",
@@ -32878,6 +32878,14 @@
     "wholesalePrice": 91.25,
     "extraPrice": 95.81,
     "retailPrice": 114.06
+  },
+  {
+    "id": "УТ000040349",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "СВАН-  70см ANNI ROSES.LRA.QLS.ATC.SPPH.ALLGF.EVR.RLH.TURS.GWFW.VDS.RDF.FDS 2.CNV.MON",
+    "wholesalePrice": 106.15,
+    "extraPrice": 111.46,
+    "retailPrice": 132.69
   },
   {
     "id": "УТ000040352",
@@ -57710,14 +57718,6 @@
     "wholesalePrice": 308.5,
     "extraPrice": 323.93,
     "retailPrice": 385.63
-  },
-  {
-    "id": "УТ000055240",
-    "category": ".УПАКОВКА",
-    "name": "РОЛИК ТОНИРОВКА МАТОВЫЙ ЦВЕТНОЙ 5 КГ ПАЧКА",
-    "wholesalePrice": 1432.89,
-    "extraPrice": 1504.53,
-    "retailPrice": 1791.11
   },
   {
     "id": "УТ000055241",
