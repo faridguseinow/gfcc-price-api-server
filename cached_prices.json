@@ -2296,14 +2296,6 @@
     "retailPrice": 614.25
   },
   {
-    "id": "УТ000005092",
-    "category": "..,ЗЕЛЕНЬ",
-    "name": "ЭВКАЛИПТ  АВРОРА",
-    "wholesalePrice": 2145,
-    "extraPrice": 2252.25,
-    "retailPrice": 2681.25
-  },
-  {
     "id": "УТ000005096",
     "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
     "name": "ЗАМИОКУЛЬКАС 12 СМ",
@@ -6059,9 +6051,9 @@
     "id": "УТ000008537",
     "category": ",Сортовой",
     "name": "МАУНТ ЭЛЬГОН СОРТОВОЙ 50 см РОЗА Кения (MT ELGON)",
-    "wholesalePrice": 46.8,
-    "extraPrice": 49.14,
-    "retailPrice": 58.5
+    "wholesalePrice": 45.24,
+    "extraPrice": 47.5,
+    "retailPrice": 56.55
   },
   {
     "id": "УТ000008540",
@@ -10336,6 +10328,14 @@
     "retailPrice": 109.71
   },
   {
+    "id": "УТ000015014",
+    "category": "..ХРИЗАНТЕМА",
+    "name": ".ХРИЗ. ДЕКО ПИП",
+    "wholesalePrice": 87.77,
+    "extraPrice": 92.15,
+    "retailPrice": 109.71
+  },
+  {
     "id": "УТ000015016",
     "category": "..ХРИЗАНТЕМА",
     "name": ".ХРИЗ. ДЕКО РОССАНО",
@@ -11822,6 +11822,14 @@
     "wholesalePrice": 819,
     "extraPrice": 859.95,
     "retailPrice": 1023.75
+  },
+  {
+    "id": "УТ000017994",
+    "category": "КОРЗИНА",
+    "name": "Корзина - 8850103",
+    "wholesalePrice": 1033.5,
+    "extraPrice": 1085.18,
+    "retailPrice": 1291.88
   },
   {
     "id": "УТ000017995",
