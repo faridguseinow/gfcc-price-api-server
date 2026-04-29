@@ -17160,6 +17160,14 @@
     "retailPrice": 4062.1
   },
   {
+    "id": "УТ000028333",
+    "category": "КОРЗИНА",
+    "name": "Корзина - 19B201903",
+    "wholesalePrice": 980,
+    "extraPrice": 1029,
+    "retailPrice": 1225
+  },
+  {
     "id": "УТ000028342",
     "category": "КОРЗИНА",
     "name": "Корзина - 19B205203",
@@ -17422,14 +17430,6 @@
     "wholesalePrice": 1550.75,
     "extraPrice": 1628.29,
     "retailPrice": 1938.44
-  },
-  {
-    "id": "УТ000028528",
-    "category": "КОРЗИНА",
-    "name": "Корзина - 8932103",
-    "wholesalePrice": 838.88,
-    "extraPrice": 880.82,
-    "retailPrice": 1048.6
   },
   {
     "id": "УТ000028531",
@@ -19798,14 +19798,6 @@
     "wholesalePrice": 83.65,
     "extraPrice": 87.84,
     "retailPrice": 104.57
-  },
-  {
-    "id": "УТ000029491",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "АТОМИК- 70см (СТАР,КОРОЗОН,МАТИЗ,ЭКО РОЗ,БЕЛЛА РОЗА,ЧАРМИНГ,СОФИ,ДАВИНЧИ.РОЯЛ)",
-    "wholesalePrice": 100.96,
-    "extraPrice": 106.01,
-    "retailPrice": 126.2
   },
   {
     "id": "УТ000029492",
@@ -40768,14 +40760,6 @@
     "retailPrice": 10192
   },
   {
-    "id": "УТ000046913",
-    "category": "..,РОЗА ,МЕСТНАЯ",
-    "name": "МИКС КУСТ 50 см АРТ РОССЕ",
-    "wholesalePrice": 104.86,
-    "extraPrice": 110.1,
-    "retailPrice": 131.08
-  },
-  {
     "id": "УТ000046914",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "МИКС КУСТ 60 см АРТ РОССЕ",
@@ -46358,14 +46342,6 @@
     "wholesalePrice": 132.23,
     "extraPrice": 138.84,
     "retailPrice": 165.29
-  },
-  {
-    "id": "УТ000051089",
-    "category": "..,ЛИЛИЯ",
-    "name": "ШАЙН ОН ОТ ЛИЛИЯ",
-    "wholesalePrice": 373.18,
-    "extraPrice": 391.84,
-    "retailPrice": 466.48
   },
   {
     "id": "УТ000051104",
@@ -56974,6 +56950,14 @@
     "wholesalePrice": 117.17,
     "extraPrice": 123.03,
     "retailPrice": 146.46
+  },
+  {
+    "id": "УТ000054890",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "РЕДВАЛЮШН - 40см",
+    "wholesalePrice": 76.99,
+    "extraPrice": 80.84,
+    "retailPrice": 96.24
   },
   {
     "id": "УТ000054891",
