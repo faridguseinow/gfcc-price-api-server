@@ -6824,14 +6824,6 @@
     "retailPrice": 186.44
   },
   {
-    "id": "УТ000010348",
-    "category": "..,РАЗНОЕ",
-    "name": "ЛИЗИАНТУС   КРАСНОДАР",
-    "wholesalePrice": 232.36,
-    "extraPrice": 243.98,
-    "retailPrice": 290.45
-  },
-  {
     "id": "УТ000010354",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЛИНИЯ РОЗЫ КУСТОВАЯ. 40 СМ",
@@ -11534,6 +11526,14 @@
     "wholesalePrice": 1277.2,
     "extraPrice": 1341.05,
     "retailPrice": 1596.49
+  },
+  {
+    "id": "УТ000019304",
+    "category": "..ТЮЛЬПАНЫ",
+    "name": "МИЛКШЕЙК  ТЮЛЬПАН энкл.",
+    "wholesalePrice": 54.35,
+    "extraPrice": 57.06,
+    "retailPrice": 67.93
   },
   {
     "id": "УТ000019323",
@@ -55294,5 +55294,13 @@
     "wholesalePrice": 1078.59,
     "extraPrice": 1132.52,
     "retailPrice": 1348.24
+  },
+  {
+    "id": "УТ000055521",
+    "category": "..,РАЗНОЕ",
+    "name": "ЛИЗИАНТУС   АРМЯНСКИЙ",
+    "wholesalePrice": 232.36,
+    "extraPrice": 243.98,
+    "retailPrice": 290.45
   }
 ]
