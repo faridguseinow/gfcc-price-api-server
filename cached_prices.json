@@ -8448,6 +8448,14 @@
     "retailPrice": 41.98
   },
   {
+    "id": "УТ000013909",
+    "category": "..ТЮЛЬПАНЫ",
+    "name": "АНТАРКТИКА  ТЮЛЬПАН энкл.",
+    "wholesalePrice": 49.98,
+    "extraPrice": 52.48,
+    "retailPrice": 62.48
+  },
+  {
     "id": "УТ000013936",
     "category": "..ТЮЛЬПАНЫ",
     "name": "ВЕРОНА ТЮЛЬПАН дубл.",
@@ -9096,14 +9104,6 @@
     "retailPrice": 205.01
   },
   {
-    "id": "УТ000014714",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "ХЕДЕРА 13 СМ",
-    "wholesalePrice": 382.69,
-    "extraPrice": 401.82,
-    "retailPrice": 478.36
-  },
-  {
     "id": "УТ000014718",
     "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
     "name": "ХЕДЕРА 24 СМ",
@@ -9374,14 +9374,6 @@
     "wholesalePrice": 468.6,
     "extraPrice": 492.03,
     "retailPrice": 585.75
-  },
-  {
-    "id": "УТ000015064",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "ДАВАЛИЯ 12 СМ",
-    "wholesalePrice": 648.23,
-    "extraPrice": 680.64,
-    "retailPrice": 810.29
   },
   {
     "id": "УТ000015067",
@@ -28488,6 +28480,14 @@
     "retailPrice": 190.55
   },
   {
+    "id": "УТ000039086",
+    "category": "..ХРИЗАНТЕМА",
+    "name": "СЕРЕНИТИ ПУРПЛ",
+    "wholesalePrice": 71.88,
+    "extraPrice": 75.47,
+    "retailPrice": 89.84
+  },
+  {
     "id": "УТ000039095",
     "category": ".УПАКОВКА",
     "name": "ЯЩИК № 402",
@@ -38307,33 +38307,33 @@
     "id": "УТ000046852",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "МИКС ОДНОГ.  60 см АРТ РОССЕ",
-    "wholesalePrice": 64.76,
-    "extraPrice": 68,
-    "retailPrice": 80.95
+    "wholesalePrice": 78.1,
+    "extraPrice": 82.01,
+    "retailPrice": 97.63
   },
   {
     "id": "УТ000046853",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "МИКС ОДНОГ.  70 см АРТ РОССЕ",
-    "wholesalePrice": 74.71,
-    "extraPrice": 78.45,
-    "retailPrice": 93.39
+    "wholesalePrice": 88.1,
+    "extraPrice": 92.5,
+    "retailPrice": 110.12
   },
   {
     "id": "УТ000046854",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "МИКС ОДНОГ.  80 см АРТ РОССЕ",
-    "wholesalePrice": 84.66,
-    "extraPrice": 88.89,
-    "retailPrice": 105.83
+    "wholesalePrice": 98.09,
+    "extraPrice": 103,
+    "retailPrice": 122.62
   },
   {
     "id": "УТ000046855",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "МИКС ОДНОГ.  90 см АРТ РОССЕ",
-    "wholesalePrice": 94.61,
-    "extraPrice": 99.34,
-    "retailPrice": 118.26
+    "wholesalePrice": 108.1,
+    "extraPrice": 113.5,
+    "retailPrice": 135.12
   },
   {
     "id": "УТ000046863",
