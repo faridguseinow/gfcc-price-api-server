@@ -34160,14 +34160,6 @@
     "retailPrice": 324.38
   },
   {
-    "id": "УТ000042277",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "МАРАКС ПРАЙД  ТЮЛЬПАН дубл.",
-    "wholesalePrice": 54.28,
-    "extraPrice": 56.99,
-    "retailPrice": 67.85
-  },
-  {
     "id": "УТ000042280",
     "category": "..ТЮЛЬПАНЫ",
     "name": "ВЕРМОНТ  ТЮЛЬПАН дубл.",
@@ -42518,6 +42510,14 @@
     "wholesalePrice": 666.4,
     "extraPrice": 699.72,
     "retailPrice": 833
+  },
+  {
+    "id": "УТ000049711",
+    "category": "..,ЗЕЛЕНЬ",
+    "name": "ЭВКАЛИПТ ЭКСТРА",
+    "wholesalePrice": 1500,
+    "extraPrice": 1575,
+    "retailPrice": 1875
   },
   {
     "id": "УТ000049712",
