@@ -10448,6 +10448,14 @@
     "retailPrice": 362.46
   },
   {
+    "id": "УТ000016024",
+    "category": "..,РАЗНОЕ",
+    "name": "ОЗОТАМНУС ИТАЛИЯ",
+    "wholesalePrice": 431.75,
+    "extraPrice": 453.34,
+    "retailPrice": 539.69
+  },
+  {
     "id": "УТ000016067",
     "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
     "name": "ЭХИНОКАКТУС ГРУСОНИ 12 СМ",
@@ -14006,14 +14014,6 @@
     "wholesalePrice": 1224.6,
     "extraPrice": 1285.83,
     "retailPrice": 1530.75
-  },
-  {
-    "id": "УТ000025703",
-    "category": "..РОЗА КЕНИЯ",
-    "name": "МИКС 40 см РОЗА Кения (HERITAGE)",
-    "wholesalePrice": 32.19,
-    "extraPrice": 33.79,
-    "retailPrice": 40.23
   },
   {
     "id": "УТ000025704",
@@ -26992,28 +26992,12 @@
     "retailPrice": 186.47
   },
   {
-    "id": "УТ000037480",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ЛИМОНАД (РОЗАПРИМА)-50см",
-    "wholesalePrice": 70.78,
-    "extraPrice": 74.32,
-    "retailPrice": 88.48
-  },
-  {
     "id": "УТ000037482",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ЛИМОНАД (РОЗАПРИМА)-70см",
     "wholesalePrice": 100.17,
     "extraPrice": 105.17,
     "retailPrice": 125.21
-  },
-  {
-    "id": "УТ000037483",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ЛИМОНАД (РОЗАПРИМА)-80см",
-    "wholesalePrice": 111.94,
-    "extraPrice": 117.54,
-    "retailPrice": 139.93
   },
   {
     "id": "УТ000037499",
@@ -34622,6 +34606,22 @@
     "wholesalePrice": 1036.2,
     "extraPrice": 1088.01,
     "retailPrice": 1295.25
+  },
+  {
+    "id": "УТ000042882",
+    "category": "..,ПИОНЫ",
+    "name": "САРА БЕРНАРД ИТАЛИЯ ПИОНЫ",
+    "wholesalePrice": 250.42,
+    "extraPrice": 262.94,
+    "retailPrice": 313.02
+  },
+  {
+    "id": "УТ000042886",
+    "category": "..,ПИОНЫ",
+    "name": "ФЛЕМИНГ ИТАЛИЯ ПИОНЫ",
+    "wholesalePrice": 174.27,
+    "extraPrice": 182.98,
+    "retailPrice": 217.84
   },
   {
     "id": "УТ000042960",
