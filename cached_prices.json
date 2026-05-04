@@ -5808,14 +5808,6 @@
     "retailPrice": 115.64
   },
   {
-    "id": "УТ000008628",
-    "category": "..РОЗА КЕНИЯ",
-    "name": "АЙС БРЕКЕР 70 см РОЗА Кения (RLR)",
-    "wholesalePrice": 104.27,
-    "extraPrice": 109.49,
-    "retailPrice": 130.34
-  },
-  {
     "id": "УТ000008690",
     "category": "..РОЗА КЕНИЯ",
     "name": "АФИНА 40 см РОЗА Кения (SUBATI)",
@@ -7342,6 +7334,14 @@
     "wholesalePrice": 261.07,
     "extraPrice": 274.13,
     "retailPrice": 326.34
+  },
+  {
+    "id": "УТ000010448",
+    "category": "..,ПИОНЫ",
+    "name": "ДИАНА ПАРКС ПИОНЫ",
+    "wholesalePrice": 170.13,
+    "extraPrice": 178.63,
+    "retailPrice": 212.66
   },
   {
     "id": "УТ000010462",
@@ -34696,6 +34696,14 @@
     "retailPrice": 264.6
   },
   {
+    "id": "УТ000043043",
+    "category": "..,ПИОНЫ",
+    "name": "МЭРИ Е.НИКОЛЗ ПИОНЫ",
+    "wholesalePrice": 223.44,
+    "extraPrice": 234.61,
+    "retailPrice": 279.3
+  },
+  {
     "id": "УТ000043045",
     "category": "..,ЗЕЛЕНЬ",
     "name": "ТЛАСПИ  ВОДА",
@@ -45102,22 +45110,6 @@
     "wholesalePrice": 34.5,
     "extraPrice": 36.22,
     "retailPrice": 43.12
-  },
-  {
-    "id": "УТ000051134",
-    "category": "..РОЗА КЕНИЯ",
-    "name": "ТАКАЗЗИ 50 см РОЗА Кения (CREDIBLE)",
-    "wholesalePrice": 45.47,
-    "extraPrice": 47.75,
-    "retailPrice": 56.84
-  },
-  {
-    "id": "УТ000051136",
-    "category": "..РОЗА КЕНИЯ",
-    "name": "КОНФИДЕНТАЛ 50 см РОЗА Кения (CREDIBLE)",
-    "wholesalePrice": 45.47,
-    "extraPrice": 47.75,
-    "retailPrice": 56.84
   },
   {
     "id": "УТ000051137",
