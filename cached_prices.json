@@ -344,14 +344,6 @@
     "retailPrice": 3002.63
   },
   {
-    "id": "УТ000002799",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "АРЕКА 21/120 СМ",
-    "wholesalePrice": 3925,
-    "extraPrice": 4121.25,
-    "retailPrice": 4906.25
-  },
-  {
     "id": "УТ000002800",
     "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
     "name": "АНТУРИУМ ЗИЗОУ  7 СМ",
@@ -3982,14 +3974,6 @@
     "wholesalePrice": 483.56,
     "extraPrice": 507.74,
     "retailPrice": 604.45
-  },
-  {
-    "id": "УТ000006573",
-    "category": "КОРЗИНА",
-    "name": "Корзина - 2011",
-    "wholesalePrice": 235.5,
-    "extraPrice": 247.28,
-    "retailPrice": 294.38
   },
   {
     "id": "УТ000006582",
@@ -12958,6 +12942,14 @@
     "wholesalePrice": 109.9,
     "extraPrice": 115.4,
     "retailPrice": 137.38
+  },
+  {
+    "id": "УТ000021694",
+    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
+    "name": "ХОВЕЯ 24/170 СМ",
+    "wholesalePrice": 7065,
+    "extraPrice": 7418.25,
+    "retailPrice": 8831.25
   },
   {
     "id": "УТ000022171",
@@ -23392,6 +23384,14 @@
     "retailPrice": 56.91
   },
   {
+    "id": "УТ000033951",
+    "category": ",Сортовой",
+    "name": "РЕД ЛАНДС 80 см СОРТОВОЙ РОЗА Кен/Куст. (RLR)",
+    "wholesalePrice": 137.38,
+    "extraPrice": 144.24,
+    "retailPrice": 171.72
+  },
+  {
     "id": "УТ000033952",
     "category": ",Сортовой",
     "name": "РЕД ЛАНДС 70 см СОРТОВОЙ РОЗА Кен/Куст. (RLR)",
@@ -29718,6 +29718,14 @@
     "wholesalePrice": 214.31,
     "extraPrice": 225.02,
     "retailPrice": 267.88
+  },
+  {
+    "id": "УТ000039373",
+    "category": ",Сортовой",
+    "name": "ЭВЕР ФЛОРА СОРТОВОЙ 40 см РОЗА Кения (EVERFLORA)",
+    "wholesalePrice": 22.77,
+    "extraPrice": 23.9,
+    "retailPrice": 28.46
   },
   {
     "id": "УТ000039375",
