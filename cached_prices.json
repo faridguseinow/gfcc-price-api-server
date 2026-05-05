@@ -11672,6 +11672,14 @@
     "retailPrice": 163.66
   },
   {
+    "id": "УТ000018608",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "НИНА (ТЕССА)-60 см",
+    "wholesalePrice": 86.17,
+    "extraPrice": 90.48,
+    "retailPrice": 107.71
+  },
+  {
     "id": "УТ000018609",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ПОЛАР СТАР (ТЕССА)-60 см",
@@ -27456,14 +27464,6 @@
     "retailPrice": 120.69
   },
   {
-    "id": "УТ000037871",
-    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
-    "name": "ГУД МУД 70 см РОЗА Кен/Куст. (RLR)",
-    "wholesalePrice": 145.23,
-    "extraPrice": 152.49,
-    "retailPrice": 181.53
-  },
-  {
     "id": "УТ000037879",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "СВИТ ДЖУЛИА 70 см куст на воде",
@@ -39923,9 +39923,9 @@
     "id": "УТ000047269",
     "category": "..ЦВЕТЫ КИТАЙ",
     "name": "ЭВКАЛИПТ БЭЙБИ БЛЮ КИТАЙ",
-    "wholesalePrice": 1138.25,
-    "extraPrice": 1195.16,
-    "retailPrice": 1422.81
+    "wholesalePrice": 1099,
+    "extraPrice": 1153.95,
+    "retailPrice": 1373.75
   },
   {
     "id": "УТ000047278",
@@ -40139,9 +40139,9 @@
     "id": "УТ000047627",
     "category": "..ЦВЕТЫ КИТАЙ",
     "name": "ЭВКАЛИПТ ЦИНЕРЕЯ КИТАЙ",
-    "wholesalePrice": 1303.1,
-    "extraPrice": 1368.26,
-    "retailPrice": 1628.88
+    "wholesalePrice": 1177.5,
+    "extraPrice": 1236.38,
+    "retailPrice": 1471.88
   },
   {
     "id": "УТ000047628",
