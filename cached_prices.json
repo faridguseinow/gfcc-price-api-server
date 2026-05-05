@@ -12416,14 +12416,6 @@
     "retailPrice": 944.94
   },
   {
-    "id": "УТ000020846",
-    "category": "КОРЗИНА",
-    "name": "Корзина - 015803",
-    "wholesalePrice": 1028.35,
-    "extraPrice": 1079.77,
-    "retailPrice": 1285.44
-  },
-  {
     "id": "УТ000020852",
     "category": "КОРЗИНА",
     "name": "Корзина - 059403",
@@ -42995,6 +42987,14 @@
     "id": "УТ000050087",
     "category": "..ТЮЛЬПАНЫ",
     "name": "ЭВЕРТОН  ТЮЛЬПАН дубл",
+    "wholesalePrice": 56.05,
+    "extraPrice": 58.85,
+    "retailPrice": 70.06
+  },
+  {
+    "id": "УТ000050126",
+    "category": "..ТЮЛЬПАНЫ",
+    "name": "ДУБЛЬ КРИСТАЛ ТЮЛЬПАН дубл.",
     "wholesalePrice": 56.05,
     "extraPrice": 58.85,
     "retailPrice": 70.06
