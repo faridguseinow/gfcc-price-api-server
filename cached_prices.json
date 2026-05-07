@@ -5144,14 +5144,6 @@
     "retailPrice": 189.15
   },
   {
-    "id": "УТ000007482",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "МАРАНТА 12 СМ",
-    "wholesalePrice": 421.2,
-    "extraPrice": 442.26,
-    "retailPrice": 526.5
-  },
-  {
     "id": "УТ000007492",
     "category": ".УПАКОВКА",
     "name": "МАШИНКА ДЛЯ ГОФРОБУМАГИ",
@@ -16870,6 +16862,14 @@
     "wholesalePrice": 73.8,
     "extraPrice": 77.49,
     "retailPrice": 92.25
+  },
+  {
+    "id": "УТ000028761",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "БРАЙТОН-   70см",
+    "wholesalePrice": 89.15,
+    "extraPrice": 93.61,
+    "retailPrice": 111.44
   },
   {
     "id": "УТ000028762",
@@ -43070,6 +43070,14 @@
     "wholesalePrice": 1064.7,
     "extraPrice": 1117.94,
     "retailPrice": 1330.88
+  },
+  {
+    "id": "УТ000049988",
+    "category": "..ЦВЕТЫ КИТАЙ",
+    "name": "КРАСПЕДИЯ КИТАЙ ПАЧКА",
+    "wholesalePrice": 634.92,
+    "extraPrice": 666.67,
+    "retailPrice": 793.65
   },
   {
     "id": "УТ000049996",
