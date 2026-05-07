@@ -4787,17 +4787,17 @@
     "id": "УТ000007078",
     "category": ".УПАКОВКА",
     "name": "КОРОБКА № 3001 НАБОР",
-    "wholesalePrice": 631.8,
-    "extraPrice": 663.39,
-    "retailPrice": 789.75
+    "wholesalePrice": 663.78,
+    "extraPrice": 696.97,
+    "retailPrice": 829.73
   },
   {
     "id": "УТ000007079",
     "category": ".УПАКОВКА",
     "name": "КОРОБКА № 3002 НАБОР",
-    "wholesalePrice": 506.22,
-    "extraPrice": 531.53,
-    "retailPrice": 632.78
+    "wholesalePrice": 529.62,
+    "extraPrice": 556.1,
+    "retailPrice": 662.03
   },
   {
     "id": "УТ000007080",
@@ -11147,17 +11147,17 @@
     "id": "УТ000017668",
     "category": ".УПАКОВКА",
     "name": "КОРОБКА № 3390 НАБОР",
-    "wholesalePrice": 540.54,
-    "extraPrice": 567.57,
-    "retailPrice": 675.68
+    "wholesalePrice": 565.5,
+    "extraPrice": 593.78,
+    "retailPrice": 706.88
   },
   {
     "id": "УТ000017670",
     "category": ".УПАКОВКА",
     "name": "КОРОБКА № 3392 НАБОР",
-    "wholesalePrice": 712.14,
-    "extraPrice": 747.75,
-    "retailPrice": 890.18
+    "wholesalePrice": 744.9,
+    "extraPrice": 782.15,
+    "retailPrice": 931.13
   },
   {
     "id": "УТ000017672",
@@ -11947,9 +11947,9 @@
     "id": "УТ000019113",
     "category": ".УПАКОВКА",
     "name": "КОРОБКА № 158",
-    "wholesalePrice": 117,
-    "extraPrice": 122.85,
-    "retailPrice": 146.25
+    "wholesalePrice": 121.68,
+    "extraPrice": 127.76,
+    "retailPrice": 152.1
   },
   {
     "id": "УТ000019115",
@@ -12539,9 +12539,9 @@
     "id": "УТ000020916",
     "category": ".УПАКОВКА",
     "name": "КОРОБКА № 2251 НАБОР",
-    "wholesalePrice": 460.2,
-    "extraPrice": 483.21,
-    "retailPrice": 575.25
+    "wholesalePrice": 484.38,
+    "extraPrice": 508.6,
+    "retailPrice": 605.48
   },
   {
     "id": "УТ000020917",
@@ -13803,9 +13803,9 @@
     "id": "УТ000024802",
     "category": ".УПАКОВКА",
     "name": "КОРОБКА № 163",
-    "wholesalePrice": 117,
-    "extraPrice": 122.85,
-    "retailPrice": 146.25
+    "wholesalePrice": 121.68,
+    "extraPrice": 127.76,
+    "retailPrice": 152.1
   },
   {
     "id": "УТ000024803",
@@ -22171,9 +22171,9 @@
     "id": "УТ000032498",
     "category": ".УПАКОВКА",
     "name": "КОРОБКА № 211",
-    "wholesalePrice": 179.4,
-    "extraPrice": 188.37,
-    "retailPrice": 224.25
+    "wholesalePrice": 188.76,
+    "extraPrice": 198.2,
+    "retailPrice": 235.95
   },
   {
     "id": "УТ000032499",
@@ -22219,9 +22219,9 @@
     "id": "УТ000032504",
     "category": ".УПАКОВКА",
     "name": "КОРОБКА № 1006 НАБОР",
-    "wholesalePrice": 1989,
-    "extraPrice": 2088.45,
-    "retailPrice": 2486.25
+    "wholesalePrice": 2081.04,
+    "extraPrice": 2185.09,
+    "retailPrice": 2601.3
   },
   {
     "id": "УТ000032505",
@@ -57006,5 +57006,13 @@
     "wholesalePrice": 1838.46,
     "extraPrice": 1930.38,
     "retailPrice": 2298.08
+  },
+  {
+    "id": "УТ000055562",
+    "category": ".УПАКОВКА",
+    "name": "КОРОБКА № 3442 НАБОР",
+    "wholesalePrice": 404.04,
+    "extraPrice": 424.24,
+    "retailPrice": 505.05
   }
 ]
