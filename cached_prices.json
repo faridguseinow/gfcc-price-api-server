@@ -5728,6 +5728,14 @@
     "retailPrice": 93.6
   },
   {
+    "id": "УТ000008416",
+    "category": "..,РОЗА ,МЕСТНАЯ",
+    "name": "ЛИНИЯ РОЗЫ ОДНОГОЛОВАЯ. 40 СМ",
+    "wholesalePrice": 62.4,
+    "extraPrice": 65.52,
+    "retailPrice": 78
+  },
+  {
     "id": "УТ000008417",
     "category": "ГРУНТ И УДОБРЕНИЯ",
     "name": "ФЛАКОН 500 МЛ",
@@ -10022,14 +10030,6 @@
     "wholesalePrice": 3237,
     "extraPrice": 3398.85,
     "retailPrice": 4046.25
-  },
-  {
-    "id": "УТ000015149",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "ЦИТРУС КОЛОМОНДИН 21 СМ",
-    "wholesalePrice": 3900,
-    "extraPrice": 4095,
-    "retailPrice": 4875
   },
   {
     "id": "УТ000015153",
@@ -39288,14 +39288,6 @@
     "retailPrice": 877.5
   },
   {
-    "id": "УТ000046105",
-    "category": "..ЦВЕТЫ КИТАЙ",
-    "name": "ЛИЗИАНТУС КИТАЙ ПАЧКА",
-    "wholesalePrice": 1100.58,
-    "extraPrice": 1155.61,
-    "retailPrice": 1375.73
-  },
-  {
     "id": "УТ000046107",
     "category": "..ТЮЛЬПАНЫ",
     "name": "ВАНИЛЛА КОУП ТЮЛЬПАН дубл.",
@@ -40563,14 +40555,6 @@
     "id": "УТ000047138",
     "category": "..,ЛИЛИЯ",
     "name": "БРИНДИСИ ЛА ЛИЛИЯ",
-    "wholesalePrice": 116.22,
-    "extraPrice": 122.03,
-    "retailPrice": 145.28
-  },
-  {
-    "id": "УТ000047139",
-    "category": "..,ЛИЛИЯ",
-    "name": "КОРТОНА ЛА ЛИЛИЯ",
     "wholesalePrice": 116.22,
     "extraPrice": 122.03,
     "retailPrice": 145.28
