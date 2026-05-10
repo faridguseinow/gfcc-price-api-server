@@ -7304,6 +7304,14 @@
     "retailPrice": 199.1
   },
   {
+    "id": "УТ000010357",
+    "category": "..,РАЗНОЕ",
+    "name": "ЛЙОСИМ",
+    "wholesalePrice": 105.3,
+    "extraPrice": 110.57,
+    "retailPrice": 131.63
+  },
+  {
     "id": "УТ000010358",
     "category": "..СУХОЦВЕТЫ",
     "name": "ЛОТОС",
@@ -14766,14 +14774,6 @@
     "wholesalePrice": 68.64,
     "extraPrice": 72.07,
     "retailPrice": 85.8
-  },
-  {
-    "id": "УТ000026588",
-    "category": "..ХРИЗАНТЕМА",
-    "name": ".ХРИЗ. ДЕКО РОКСО",
-    "wholesalePrice": 103.74,
-    "extraPrice": 108.93,
-    "retailPrice": 129.68
   },
   {
     "id": "УТ000026592",
@@ -40528,6 +40528,14 @@
     "retailPrice": 370.89
   },
   {
+    "id": "УТ000047137",
+    "category": "..,ЛИЛИЯ",
+    "name": "НЭШВИЛЛ ЛА ЛИЛИЯ",
+    "wholesalePrice": 116.22,
+    "extraPrice": 122.03,
+    "retailPrice": 145.28
+  },
+  {
     "id": "УТ000047138",
     "category": "..,ЛИЛИЯ",
     "name": "БРИНДИСИ ЛА ЛИЛИЯ",
@@ -40990,14 +40998,6 @@
     "wholesalePrice": 1274.52,
     "extraPrice": 1338.25,
     "retailPrice": 1593.15
-  },
-  {
-    "id": "УТ000047744",
-    "category": "МЯГКАЯ ИГРУШКА",
-    "name": "Мягкая игрушка № OT8019/50",
-    "wholesalePrice": 2633.28,
-    "extraPrice": 2764.94,
-    "retailPrice": 3291.6
   },
   {
     "id": "УТ000047747",
@@ -49192,14 +49192,6 @@
     "retailPrice": 134.55
   },
   {
-    "id": "УТ000052080",
-    "category": "..ХРИЗАНТЕМА",
-    "name": ".ХРИЗ. ДЕКО ТОПСПИН  ЖЕЛТЫЙ",
-    "wholesalePrice": 103.74,
-    "extraPrice": 108.93,
-    "retailPrice": 129.68
-  },
-  {
     "id": "УТ000052142",
     "category": "..РОЗА ЭКВАДОР",
     "name": "Бимба -  50см (СТАР,КОРОЗОН,МАТИЗ,ЭКО РОЗ,БЕЛЛА РОЗА,ЧАРМИНГ,СОФИ,ДАВИНЧИ.РОЯЛ)",
@@ -49822,6 +49814,14 @@
     "wholesalePrice": 124.8,
     "extraPrice": 131.04,
     "retailPrice": 156
+  },
+  {
+    "id": "УТ000052609",
+    "category": ".УПАКОВКА",
+    "name": "КОРОБКА № 3438 НАБОР",
+    "wholesalePrice": 816.66,
+    "extraPrice": 857.49,
+    "retailPrice": 1020.83
   },
   {
     "id": "УТ000052634",
