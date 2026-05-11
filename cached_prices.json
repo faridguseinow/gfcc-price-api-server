@@ -22264,14 +22264,6 @@
     "retailPrice": 261.3
   },
   {
-    "id": "УТ000032356",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "ОЛИВКОВОЕ  ДЕРЕВО 15/55 СМ",
-    "wholesalePrice": 1466.4,
-    "extraPrice": 1539.72,
-    "retailPrice": 1833
-  },
-  {
     "id": "УТ000032357",
     "category": "..РОЗА КЕНИЯ",
     "name": "НОВИА 60 см РОЗА Кения (RLR)",
@@ -30934,6 +30926,14 @@
     "wholesalePrice": 107.76,
     "extraPrice": 113.15,
     "retailPrice": 134.71
+  },
+  {
+    "id": "УТ000039636",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "АЛЬБА - 50см ANNI ROSES.LRA.QLS.ATC.SPPH.ALLGF.EVR.RLH.TURS.GWFW.VDS.RDF.FDS 2.CNV.MON",
+    "wholesalePrice": 68.3,
+    "extraPrice": 71.72,
+    "retailPrice": 85.38
   },
   {
     "id": "УТ000039637",
@@ -57635,9 +57635,9 @@
     "id": "УТ000055493",
     "category": "..,ЛИЛИЯ",
     "name": "КОНКОРД  ОР ДУ ЛИЛИЯ",
-    "wholesalePrice": 488.28,
-    "extraPrice": 512.69,
-    "retailPrice": 610.35
+    "wholesalePrice": 336.18,
+    "extraPrice": 352.99,
+    "retailPrice": 420.23
   },
   {
     "id": "УТ000055521",
