@@ -5656,14 +5656,6 @@
     "retailPrice": 456.45
   },
   {
-    "id": "УТ000008178",
-    "category": "МЯГКАЯ ИГРУШКА",
-    "name": "Мягкая игрушка № OS065/15B",
-    "wholesalePrice": 646.16,
-    "extraPrice": 678.47,
-    "retailPrice": 807.71
-  },
-  {
     "id": "УТ000008181",
     "category": "МЯГКАЯ ИГРУШКА",
     "name": "Мягкая игрушка № OS065/20C",
@@ -7624,14 +7616,6 @@
     "retailPrice": 73.34
   },
   {
-    "id": "УТ000010630",
-    "category": "..,РАЗНОЕ",
-    "name": "ХАМЕКОРДИЯ",
-    "wholesalePrice": 123.52,
-    "extraPrice": 129.7,
-    "retailPrice": 154.4
-  },
-  {
     "id": "УТ000010635",
     "category": "..,РАЗНОЕ",
     "name": "ХЕЛЕБОРУС",
@@ -8931,14 +8915,6 @@
     "id": "УТ000013925",
     "category": "..ТЮЛЬПАНЫ",
     "name": "ВАЙТ ЛИБЕРСТА  ТЮЛЬПАН дубл.",
-    "wholesalePrice": 52.57,
-    "extraPrice": 55.19,
-    "retailPrice": 65.71
-  },
-  {
-    "id": "УТ000013950",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "ГУЕШЛАНД  ТЮЛЬПАН дубл.",
     "wholesalePrice": 52.57,
     "extraPrice": 55.19,
     "retailPrice": 65.71
@@ -33848,14 +33824,6 @@
     "retailPrice": 701.56
   },
   {
-    "id": "УТ000041187",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "АРИЯ 70 см куст на воде",
-    "wholesalePrice": 124.14,
-    "extraPrice": 130.34,
-    "retailPrice": 155.17
-  },
-  {
     "id": "УТ000041194",
     "category": "..РОЗА КЕНИЯ",
     "name": "АФИНА 50 см РОЗА Кения (BARAKA)",
@@ -36150,14 +36118,6 @@
     "wholesalePrice": 1580.28,
     "extraPrice": 1659.3,
     "retailPrice": 1975.36
-  },
-  {
-    "id": "УТ000043794",
-    "category": ".УПАКОВКА",
-    "name": "КОРОБКА ДЛЯ ЦВЕТОВ № S (10 ШТ)",
-    "wholesalePrice": 1392.69,
-    "extraPrice": 1462.32,
-    "retailPrice": 1740.86
   },
   {
     "id": "УТ000043795",
@@ -41144,6 +41104,14 @@
     "retailPrice": 170.78
   },
   {
+    "id": "УТ000047971",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "МАНДАЛА (ТЕССА) 70 см",
+    "wholesalePrice": 156.61,
+    "extraPrice": 164.44,
+    "retailPrice": 195.76
+  },
+  {
     "id": "УТ000048015",
     "category": "ГРУНТ И УДОБРЕНИЯ",
     "name": "СПРЕЙ ДЛЯ ФИКУСА (ШАХКОАЛ 500 МЛ)",
@@ -42382,14 +42350,6 @@
     "wholesalePrice": 119.66,
     "extraPrice": 125.64,
     "retailPrice": 149.58
-  },
-  {
-    "id": "УТ000048910",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "ЭЧД САЛМОН СТЕНГС ТЮЛЬПАН дубл.",
-    "wholesalePrice": 63.08,
-    "extraPrice": 66.23,
-    "retailPrice": 78.85
   },
   {
     "id": "УТ000048913",
