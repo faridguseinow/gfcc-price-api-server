@@ -1584,14 +1584,6 @@
     "retailPrice": 51.84
   },
   {
-    "id": "УТ000003902",
-    "category": "..,ГВОЗДИКА",
-    "name": "ГВОЗДИКА КОЛУМБИЯ FLOREGENE",
-    "wholesalePrice": 49.92,
-    "extraPrice": 52.42,
-    "retailPrice": 62.4
-  },
-  {
     "id": "УТ000003904",
     "category": "..,ГВОЗДИКА",
     "name": "ГВОЗДИКА ЭКВАДОР КУСТОВАЯ",
@@ -8678,6 +8670,14 @@
     "wholesalePrice": 1766.4,
     "extraPrice": 1854.72,
     "retailPrice": 2208
+  },
+  {
+    "id": "УТ000013542",
+    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
+    "name": "САНСЕВИЕРИЯ КРАШ  8 СМ",
+    "wholesalePrice": 492.01,
+    "extraPrice": 516.61,
+    "retailPrice": 615.01
   },
   {
     "id": "УТ000013559",
@@ -34486,14 +34486,6 @@
     "wholesalePrice": 200.45,
     "extraPrice": 210.47,
     "retailPrice": 250.56
-  },
-  {
-    "id": "УТ000041568",
-    "category": ".УПАКОВКА",
-    "name": "ЯЩИК № 409",
-    "wholesalePrice": 207.36,
-    "extraPrice": 217.73,
-    "retailPrice": 259.2
   },
   {
     "id": "УТ000041569",
