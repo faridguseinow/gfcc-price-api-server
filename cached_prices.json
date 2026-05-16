@@ -7416,14 +7416,6 @@
     "retailPrice": 298.35
   },
   {
-    "id": "УТ000010437",
-    "category": "..,ПИОНЫ",
-    "name": "БЕЛГРАВИЯ ПИОНЫ",
-    "wholesalePrice": 213.44,
-    "extraPrice": 224.11,
-    "retailPrice": 266.79
-  },
-  {
     "id": "УТ000010446",
     "category": "..,ПИОНЫ",
     "name": "ДЖУЛЕС ПИОНЫ",
@@ -20832,14 +20824,6 @@
     "retailPrice": 148.22
   },
   {
-    "id": "УТ000029972",
-    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
-    "name": "МАЙ БЮТИ 70 см РОЗА Кен/Куст. (RLR)",
-    "wholesalePrice": 159.89,
-    "extraPrice": 167.88,
-    "retailPrice": 199.86
-  },
-  {
     "id": "УТ000029973",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ПИНК  ФЛОЙД -  40см",
@@ -33360,6 +33344,14 @@
     "retailPrice": 1302.41
   },
   {
+    "id": "УТ000040758",
+    "category": "..,РОЗА ,МЕСТНАЯ",
+    "name": "ЧЕХОВСКИЙ САД КУСТОВАЯ  70 см",
+    "wholesalePrice": 195.44,
+    "extraPrice": 205.21,
+    "retailPrice": 244.3
+  },
+  {
     "id": "УТ000040760",
     "category": "..ХРИЗАНТЕМА",
     "name": ".ХРИЗ. ДЕКО АЛЕМАНИ",
@@ -40736,14 +40728,6 @@
     "retailPrice": 1304.33
   },
   {
-    "id": "УТ000047099",
-    "category": "КОРЗИНА",
-    "name": "Корзина - N056403",
-    "wholesalePrice": 1181.93,
-    "extraPrice": 1241.02,
-    "retailPrice": 1477.41
-  },
-  {
     "id": "УТ000047101",
     "category": "..РОЗА КЕНИЯ",
     "name": "МАДАМ РЕД 50 см РОЗА Кения (HERITAGE)",
@@ -45931,14 +45915,6 @@
     "id": "УТ000051047",
     "category": "..ХРИЗАНТЕМА",
     "name": "САНТИНИ PIZARRO",
-    "wholesalePrice": 62.73,
-    "extraPrice": 65.87,
-    "retailPrice": 78.41
-  },
-  {
-    "id": "УТ000051048",
-    "category": "..ХРИЗАНТЕМА",
-    "name": "САНТИНИ MAD LINDI WHITE",
     "wholesalePrice": 62.73,
     "extraPrice": 65.87,
     "retailPrice": 78.41
@@ -57915,17 +57891,17 @@
     "id": "УТ000055674",
     "category": "..,РАЗНОЕ",
     "name": "ГВОЗДИКА ТАИЛАНД ВОДА",
-    "wholesalePrice": 15.3,
-    "extraPrice": 16.07,
-    "retailPrice": 19.13
+    "wholesalePrice": 38.25,
+    "extraPrice": 40.16,
+    "retailPrice": 47.81
   },
   {
     "id": "УТ000055675",
     "category": "..,РАЗНОЕ",
     "name": "ГВОЗДИКА ТАИЛАНД КУСТОВАЯ",
-    "wholesalePrice": 30.6,
-    "extraPrice": 32.13,
-    "retailPrice": 38.25
+    "wholesalePrice": 40.55,
+    "extraPrice": 42.57,
+    "retailPrice": 50.68
   },
   {
     "id": "УТ000055685",
