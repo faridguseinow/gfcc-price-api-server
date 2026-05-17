@@ -6296,14 +6296,6 @@
     "retailPrice": 5737.5
   },
   {
-    "id": "УТ000009536",
-    "category": ".УПАКОВКА",
-    "name": "ОАЗИС ФЛОРАЛАЙФ 10 ГР (КОРОБКА-500 ШТ)",
-    "wholesalePrice": 4590,
-    "extraPrice": 4819.5,
-    "retailPrice": 5737.5
-  },
-  {
     "id": "УТ000009537",
     "category": ".УПАКОВКА",
     "name": "ОАЗИС ФЛОРАЛАЙФ 2 КГ",
@@ -10582,6 +10574,14 @@
     "wholesalePrice": 76.5,
     "extraPrice": 80.33,
     "retailPrice": 95.63
+  },
+  {
+    "id": "УТ000015893",
+    "category": "..,ПИОНЫ",
+    "name": "ПОДМОСКОВЫЕ ПИОНЫ",
+    "wholesalePrice": 105.57,
+    "extraPrice": 110.85,
+    "retailPrice": 131.96
   },
   {
     "id": "УТ000015924",
@@ -28734,6 +28734,14 @@
     "wholesalePrice": 104.42,
     "extraPrice": 109.64,
     "retailPrice": 130.53
+  },
+  {
+    "id": "УТ000038601",
+    "category": "..,РАЗНОЕ",
+    "name": "АГАПАНТУС СИНИЙ",
+    "wholesalePrice": 107.1,
+    "extraPrice": 112.46,
+    "retailPrice": 133.88
   },
   {
     "id": "УТ000038605",
@@ -56518,14 +56526,6 @@
     "wholesalePrice": 247.1,
     "extraPrice": 259.45,
     "retailPrice": 308.87
-  },
-  {
-    "id": "УТ000055105",
-    "category": "КОРЗИНА",
-    "name": "Корзина - N250608",
-    "wholesalePrice": 9906.75,
-    "extraPrice": 10402.09,
-    "retailPrice": 12383.44
   },
   {
     "id": "УТ000055111",
