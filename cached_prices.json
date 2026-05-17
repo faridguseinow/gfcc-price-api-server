@@ -4448,14 +4448,6 @@
     "retailPrice": 1962.23
   },
   {
-    "id": "УТ000006716",
-    "category": "КОРЗИНА",
-    "name": "Корзина - 570005",
-    "wholesalePrice": 7862.67,
-    "extraPrice": 8255.8,
-    "retailPrice": 9828.34
-  },
-  {
     "id": "УТ000006717",
     "category": "КОРЗИНА",
     "name": "Корзина - 570105",
@@ -15403,9 +15395,9 @@
     "id": "УТ000028028",
     "category": "..,РАЗНОЕ",
     "name": "МАТИОЛА   КРАСНОДАР",
-    "wholesalePrice": 103.28,
-    "extraPrice": 108.44,
-    "retailPrice": 129.09
+    "wholesalePrice": 91.8,
+    "extraPrice": 96.39,
+    "retailPrice": 114.75
   },
   {
     "id": "УТ000028029",
@@ -28744,6 +28736,14 @@
     "retailPrice": 133.88
   },
   {
+    "id": "УТ000038602",
+    "category": "..,РАЗНОЕ",
+    "name": "АГАПАНТУС БЕЛЫЙ",
+    "wholesalePrice": 107.1,
+    "extraPrice": 112.46,
+    "retailPrice": 133.88
+  },
+  {
     "id": "УТ000038605",
     "category": "..,РАЗНОЕ",
     "name": "АМАРАНТ ЗЕЛЕНЫЙ",
@@ -29811,9 +29811,9 @@
     "id": "УТ000038976",
     "category": "..,РАЗНОЕ",
     "name": "МАТИОЛА  ИТАЛИЯ",
-    "wholesalePrice": 103.28,
-    "extraPrice": 108.44,
-    "retailPrice": 129.09
+    "wholesalePrice": 91.8,
+    "extraPrice": 96.39,
+    "retailPrice": 114.75
   },
   {
     "id": "УТ000038977",
