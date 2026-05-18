@@ -4680,14 +4680,6 @@
     "retailPrice": 853.1
   },
   {
-    "id": "УТ000006841",
-    "category": "КОРЗИНА",
-    "name": "Корзина - 8269003",
-    "wholesalePrice": 712.88,
-    "extraPrice": 748.52,
-    "retailPrice": 891.1
-  },
-  {
     "id": "УТ000006842",
     "category": "КОРЗИНА",
     "name": "Корзина - 8269103",
@@ -12646,14 +12638,6 @@
     "wholesalePrice": 788.88,
     "extraPrice": 828.32,
     "retailPrice": 986.1
-  },
-  {
-    "id": "УТ000020857",
-    "category": "КОРЗИНА",
-    "name": "Корзина - 160403",
-    "wholesalePrice": 921.88,
-    "extraPrice": 967.97,
-    "retailPrice": 1152.35
   },
   {
     "id": "УТ000020860",
@@ -36446,6 +36430,14 @@
     "wholesalePrice": 3496,
     "extraPrice": 3670.8,
     "retailPrice": 4370
+  },
+  {
+    "id": "УТ000043798",
+    "category": ".УПАКОВКА",
+    "name": "КОРОБКА ДЛЯ ЦВЕТОВ № S1 (10 ШТ)",
+    "wholesalePrice": 1618.8,
+    "extraPrice": 1699.74,
+    "retailPrice": 2023.5
   },
   {
     "id": "УТ000043799",
