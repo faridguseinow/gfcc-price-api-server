@@ -7736,14 +7736,6 @@
     "retailPrice": 65.19
   },
   {
-    "id": "УТ000010665",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "РАДЕРМАХЕРА 12 СМ",
-    "wholesalePrice": 353.88,
-    "extraPrice": 371.57,
-    "retailPrice": 442.34
-  },
-  {
     "id": "УТ000010676",
     "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
     "name": "РАНУНКУЛЮС 10 СМ",
@@ -34320,6 +34312,14 @@
     "retailPrice": 150.86
   },
   {
+    "id": "УТ000041566",
+    "category": ".УПАКОВКА",
+    "name": "ЯЩИК № 408",
+    "wholesalePrice": 214.56,
+    "extraPrice": 225.29,
+    "retailPrice": 268.2
+  },
+  {
     "id": "УТ000041567",
     "category": ".УПАКОВКА",
     "name": "ЯЩИК № 410",
@@ -40843,9 +40843,9 @@
     "id": "УТ000047269",
     "category": "..ЦВЕТЫ КИТАЙ",
     "name": "ЭВКАЛИПТ БЭЙБИ БЛЮ КИТАЙ",
-    "wholesalePrice": 969.25,
-    "extraPrice": 1017.71,
-    "retailPrice": 1211.56
+    "wholesalePrice": 1054.18,
+    "extraPrice": 1106.88,
+    "retailPrice": 1317.72
   },
   {
     "id": "УТ000047278",
@@ -41067,9 +41067,9 @@
     "id": "УТ000047627",
     "category": "..ЦВЕТЫ КИТАЙ",
     "name": "ЭВКАЛИПТ ЦИНЕРЕЯ КИТАЙ",
-    "wholesalePrice": 1008.73,
-    "extraPrice": 1059.17,
-    "retailPrice": 1260.91
+    "wholesalePrice": 1083.23,
+    "extraPrice": 1137.39,
+    "retailPrice": 1354.04
   },
   {
     "id": "УТ000047628",
@@ -46566,14 +46566,6 @@
     "wholesalePrice": 520.76,
     "extraPrice": 546.79,
     "retailPrice": 650.94
-  },
-  {
-    "id": "УТ000051433",
-    "category": "ВАЗЫ И КЕРАМИКА",
-    "name": "ВАЗА № 1710",
-    "wholesalePrice": 621.33,
-    "extraPrice": 652.4,
-    "retailPrice": 776.66
   },
   {
     "id": "УТ000051434",
