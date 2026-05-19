@@ -2128,6 +2128,14 @@
     "retailPrice": 23.59
   },
   {
+    "id": "УТ000004975",
+    "category": "..,ЗЕЛЕНЬ",
+    "name": "БАМБУК",
+    "wholesalePrice": 184.98,
+    "extraPrice": 194.22,
+    "retailPrice": 231.22
+  },
+  {
     "id": "УТ000004976",
     "category": "..,ЗЕЛЕНЬ",
     "name": "БЕРГРАСС",
@@ -7096,6 +7104,14 @@
     "retailPrice": 113.25
   },
   {
+    "id": "УТ000010300",
+    "category": "..,РАЗНОЕ",
+    "name": "КАСМАНТИУМ",
+    "wholesalePrice": 33.98,
+    "extraPrice": 35.67,
+    "retailPrice": 42.47
+  },
+  {
     "id": "УТ000010304",
     "category": "..,РАЗНОЕ",
     "name": "КЛЕМATИС",
@@ -8150,6 +8166,14 @@
     "wholesalePrice": 129.86,
     "extraPrice": 136.35,
     "retailPrice": 162.33
+  },
+  {
+    "id": "УТ000011625",
+    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
+    "name": "НЬЮ ЛУК VOORN-ROSES  60 см куст на воде",
+    "wholesalePrice": 181.2,
+    "extraPrice": 190.26,
+    "retailPrice": 226.5
   },
   {
     "id": "УТ000011639",
@@ -36368,14 +36392,6 @@
     "retailPrice": 1702.53
   },
   {
-    "id": "УТ000043795",
-    "category": ".УПАКОВКА",
-    "name": "КОРОБКА ДЛЯ ЦВЕТОВ № XL (10 ШТ)",
-    "wholesalePrice": 1855.04,
-    "extraPrice": 1947.79,
-    "retailPrice": 2318.79
-  },
-  {
     "id": "УТ000043796",
     "category": ".УПАКОВКА",
     "name": "КОРОБКА ДЛЯ ЦВЕТОВ № XXL (10 ШТ)",
@@ -45230,6 +45246,14 @@
     "wholesalePrice": 128.52,
     "extraPrice": 134.95,
     "retailPrice": 160.65
+  },
+  {
+    "id": "УТ000050926",
+    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
+    "name": "ВИЛД МИРАКЛ VOORN - ROSES 50 см куст на воде",
+    "wholesalePrice": 128.96,
+    "extraPrice": 135.41,
+    "retailPrice": 161.2
   },
   {
     "id": "УТ000050929",
