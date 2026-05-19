@@ -4376,14 +4376,6 @@
     "retailPrice": 40.04
   },
   {
-    "id": "УТ000006694",
-    "category": "КОРЗИНА",
-    "name": "Корзина Бамбук - 4467",
-    "wholesalePrice": 197.43,
-    "extraPrice": 207.3,
-    "retailPrice": 246.78
-  },
-  {
     "id": "УТ000006695",
     "category": "КОРЗИНА",
     "name": "Корзина Бамбук - 4468",
@@ -43819,6 +43811,14 @@
     "id": "УТ000050035",
     "category": "КОРЗИНА",
     "name": "Корзина - N122901",
+    "wholesalePrice": 240.64,
+    "extraPrice": 252.67,
+    "retailPrice": 300.79
+  },
+  {
+    "id": "УТ000050037",
+    "category": "КОРЗИНА",
+    "name": "Корзина - N123301",
     "wholesalePrice": 240.64,
     "extraPrice": 252.67,
     "retailPrice": 300.79
