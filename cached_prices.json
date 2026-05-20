@@ -8008,6 +8008,22 @@
     "retailPrice": 124.69
   },
   {
+    "id": "УТ000011474",
+    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
+    "name": "ВЕДИНГ ПАРТИ VOORN-ROSES 60 см куст на воде",
+    "wholesalePrice": 120,
+    "extraPrice": 126,
+    "retailPrice": 150
+  },
+  {
+    "id": "УТ000011475",
+    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
+    "name": "ВЕДИНГ ПАРТИ VOORN-ROSES 50 см куст на воде",
+    "wholesalePrice": 108.75,
+    "extraPrice": 114.19,
+    "retailPrice": 135.94
+  },
+  {
     "id": "УТ000011496",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "ГРИН ГЛОУ  50 см куст на воде",
@@ -8270,6 +8286,14 @@
     "wholesalePrice": 91.28,
     "extraPrice": 95.84,
     "retailPrice": 114.09
+  },
+  {
+    "id": "УТ000011689",
+    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
+    "name": "РЕФЛЕКС 60 см куст на воде",
+    "wholesalePrice": 111.38,
+    "extraPrice": 116.94,
+    "retailPrice": 139.22
   },
   {
     "id": "УТ000011690",
@@ -25912,14 +25936,6 @@
     "retailPrice": 365.63
   },
   {
-    "id": "УТ000035682",
-    "category": "..,РОЗА ,МЕСТНАЯ",
-    "name": "МЕНИ/МИСС ОДНОГОЛОВАЯ  70 см",
-    "wholesalePrice": 71.25,
-    "extraPrice": 74.81,
-    "retailPrice": 89.06
-  },
-  {
     "id": "УТ000035686",
     "category": "ГРУНТ И УДОБРЕНИЯ",
     "name": "УДОБРЕНИЕ ОТ ПОЖЕЛТЕНИЕ ЛИСТЬЕВ 250 МЛ (JOY)",
@@ -26382,14 +26398,6 @@
     "wholesalePrice": 80.15,
     "extraPrice": 84.16,
     "retailPrice": 100.19
-  },
-  {
-    "id": "УТ000036177",
-    "category": "..,РОЗА ,МЕСТНАЯ",
-    "name": "МЕНИ/МИСС КУСТОВАЯ  70 см",
-    "wholesalePrice": 172.5,
-    "extraPrice": 181.13,
-    "retailPrice": 215.63
   },
   {
     "id": "УТ000036182",
@@ -33374,14 +33382,6 @@
     "wholesalePrice": 131.57,
     "extraPrice": 138.14,
     "retailPrice": 164.46
-  },
-  {
-    "id": "УТ000040557",
-    "category": "..,РОЗА ,МЕСТНАЯ",
-    "name": "МЕНИ/МИСС КУСТОВАЯ  60 см",
-    "wholesalePrice": 165,
-    "extraPrice": 173.25,
-    "retailPrice": 206.25
   },
   {
     "id": "УТ000040599",
@@ -56608,22 +56608,6 @@
     "retailPrice": 58.13
   },
   {
-    "id": "УТ000055034",
-    "category": "..,РОЗА ,МЕСТНАЯ",
-    "name": "ГРАНД / РОЗА КУСТОВАЯ  60 см",
-    "wholesalePrice": 152.15,
-    "extraPrice": 159.75,
-    "retailPrice": 190.18
-  },
-  {
-    "id": "УТ000055035",
-    "category": "..,РОЗА ,МЕСТНАЯ",
-    "name": "ГРАНД / РОЗА КУСТОВАЯ  70 см",
-    "wholesalePrice": 164.58,
-    "extraPrice": 172.81,
-    "retailPrice": 205.73
-  },
-  {
     "id": "УТ000055038",
     "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
     "name": "ГИАЦИНТ ВОСКИЙ  8 СМ",
@@ -57648,44 +57632,12 @@
     "retailPrice": 45
   },
   {
-    "id": "УТ000055476",
-    "category": "..,РОЗА ,МЕСТНАЯ",
-    "name": "РОЗА АРМЕНИЯ куст 70 см",
-    "wholesalePrice": 148.1,
-    "extraPrice": 155.5,
-    "retailPrice": 185.12
-  },
-  {
-    "id": "УТ000055477",
-    "category": "..,РОЗА ,МЕСТНАЯ",
-    "name": "РОЗА АРМЕНИЯ куст 60 см",
-    "wholesalePrice": 121.52,
-    "extraPrice": 127.59,
-    "retailPrice": 151.89
-  },
-  {
     "id": "УТ000055478",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "РОЗА АРМЕНИЯ куст 80 см",
     "wholesalePrice": 171.83,
     "extraPrice": 180.42,
     "retailPrice": 214.79
-  },
-  {
-    "id": "УТ000055479",
-    "category": "..,РОЗА ,МЕСТНАЯ",
-    "name": "РОЗА АРМЕНИЯ ОДНОГ. 60 см",
-    "wholesalePrice": 78.8,
-    "extraPrice": 82.73,
-    "retailPrice": 98.49
-  },
-  {
-    "id": "УТ000055480",
-    "category": "..,РОЗА ,МЕСТНАЯ",
-    "name": "РОЗА АРМЕНИЯ ОДНОГ. 70 см",
-    "wholesalePrice": 94.94,
-    "extraPrice": 99.68,
-    "retailPrice": 118.67
   },
   {
     "id": "УТ000055481",
@@ -57782,14 +57734,6 @@
     "wholesalePrice": 96.85,
     "extraPrice": 101.69,
     "retailPrice": 121.06
-  },
-  {
-    "id": "УТ000055529",
-    "category": "..,РОЗА ,МЕСТНАЯ",
-    "name": "ГРАНД / РОЗА ОДНОГ 60 см",
-    "wholesalePrice": 67.05,
-    "extraPrice": 70.4,
-    "retailPrice": 83.81
   },
   {
     "id": "УТ000055530",
