@@ -1840,14 +1840,6 @@
     "retailPrice": 1640.63
   },
   {
-    "id": "УТ000004584",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "ДЕНДРОБИУМ 12 СМ",
-    "wholesalePrice": 1050,
-    "extraPrice": 1102.5,
-    "retailPrice": 1312.5
-  },
-  {
     "id": "УТ000004600",
     "category": ".УПАКОВКА",
     "name": "ДЕРЖАТЕЛЬ ДЛЯ ОРХИДЕЙ ШТ",
@@ -2350,14 +2342,6 @@
     "wholesalePrice": 1612.5,
     "extraPrice": 1693.13,
     "retailPrice": 2015.63
-  },
-  {
-    "id": "УТ000005100",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "ЗАМИОКУЛЬКАС 21/110 СМ",
-    "wholesalePrice": 3225,
-    "extraPrice": 3386.25,
-    "retailPrice": 4031.25
   },
   {
     "id": "УТ000005102",
@@ -8286,6 +8270,14 @@
     "wholesalePrice": 165,
     "extraPrice": 173.25,
     "retailPrice": 206.25
+  },
+  {
+    "id": "УТ000011645",
+    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
+    "name": "ПИАНО 60 см куст на воде",
+    "wholesalePrice": 187.5,
+    "extraPrice": 196.88,
+    "retailPrice": 234.38
   },
   {
     "id": "УТ000011682",
