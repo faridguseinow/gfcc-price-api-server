@@ -1616,14 +1616,6 @@
     "retailPrice": 194.51
   },
   {
-    "id": "УТ000003952",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "ГИБИСКУС 13 СМ",
-    "wholesalePrice": 792.87,
-    "extraPrice": 832.51,
-    "retailPrice": 991.09
-  },
-  {
     "id": "УТ000003965",
     "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
     "name": "ГИДРАНГИЯ 10 СМ",
@@ -2758,6 +2750,14 @@
     "wholesalePrice": 104.59,
     "extraPrice": 109.82,
     "retailPrice": 130.74
+  },
+  {
+    "id": "УТ000005432",
+    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
+    "name": "МИСС БОМБАСТИК 50 см РОЗА Кен/Куст. (RLR)",
+    "wholesalePrice": 120.78,
+    "extraPrice": 126.82,
+    "retailPrice": 150.98
   },
   {
     "id": "УТ000005434",
@@ -7654,6 +7654,14 @@
     "wholesalePrice": 92.63,
     "extraPrice": 97.26,
     "retailPrice": 115.78
+  },
+  {
+    "id": "УТ000010587",
+    "category": "..,РАЗНОЕ",
+    "name": "СКИММИЯ ЗЕЛЕНАЯ",
+    "wholesalePrice": 511.29,
+    "extraPrice": 536.85,
+    "retailPrice": 639.11
   },
   {
     "id": "УТ000010588",
@@ -57730,7 +57738,7 @@
   {
     "id": "УТ000055534",
     "category": "..РОЗА ЭКВАДОР",
-    "name": "ЭКЗОТИК МИНТ -50 см",
+    "name": "ЭКЗОТИК МИНТ- 50 см",
     "wholesalePrice": 119.65,
     "extraPrice": 125.63,
     "retailPrice": 149.56
@@ -57738,7 +57746,7 @@
   {
     "id": "УТ000055535",
     "category": "..РОЗА ЭКВАДОР",
-    "name": "ЭКЗОТИК МИНТ (ТЕССА)-60 см",
+    "name": "ЭКЗОТИК МИНТ- 60 см",
     "wholesalePrice": 133.11,
     "extraPrice": 139.76,
     "retailPrice": 166.38
