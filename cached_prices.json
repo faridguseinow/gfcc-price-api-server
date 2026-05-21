@@ -25856,6 +25856,14 @@
     "retailPrice": 98.44
   },
   {
+    "id": "УТ000035614",
+    "category": "..,РАЗНОЕ",
+    "name": "ГЕРБЕРА КРАСНОДАР БОЛЬШАЯ",
+    "wholesalePrice": 54,
+    "extraPrice": 56.7,
+    "retailPrice": 67.5
+  },
+  {
     "id": "УТ000035620",
     "category": "ГРУНТ И УДОБРЕНИЯ",
     "name": "АКТИВИА МИКС 500 МЛ",
@@ -44096,12 +44104,28 @@
     "retailPrice": 56.25
   },
   {
+    "id": "УТ000050157",
+    "category": "КОРЗИНА",
+    "name": "Корзина - 1003",
+    "wholesalePrice": 223.13,
+    "extraPrice": 234.28,
+    "retailPrice": 278.91
+  },
+  {
     "id": "УТ000050158",
     "category": "КОРЗИНА",
     "name": "Корзина - 1004",
     "wholesalePrice": 228.75,
     "extraPrice": 240.19,
     "retailPrice": 285.94
+  },
+  {
+    "id": "УТ000050159",
+    "category": "КОРЗИНА",
+    "name": "Корзина - 1005",
+    "wholesalePrice": 238.13,
+    "extraPrice": 250.03,
+    "retailPrice": 297.66
   },
   {
     "id": "УТ000050160",
