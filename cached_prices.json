@@ -2243,9 +2243,9 @@
     "id": "УТ000005051",
     "category": "..,ЗЕЛЕНЬ",
     "name": "СОЛИДАГО",
-    "wholesalePrice": 82.5,
-    "extraPrice": 86.63,
-    "retailPrice": 103.13
+    "wholesalePrice": 77.25,
+    "extraPrice": 81.11,
+    "retailPrice": 96.56
   },
   {
     "id": "УТ000005060",
@@ -4803,14 +4803,6 @@
     "id": "УТ000006858",
     "category": "КОРЗИНА",
     "name": "Корзина - 8627103",
-    "wholesalePrice": 853.5,
-    "extraPrice": 896.18,
-    "retailPrice": 1066.88
-  },
-  {
-    "id": "УТ000006861",
-    "category": "КОРЗИНА",
-    "name": "Корзина - 8627403",
     "wholesalePrice": 853.5,
     "extraPrice": 896.18,
     "retailPrice": 1066.88
@@ -22926,6 +22918,14 @@
     "wholesalePrice": 717,
     "extraPrice": 752.85,
     "retailPrice": 896.25
+  },
+  {
+    "id": "УТ000033085",
+    "category": "ВАЗЫ И КЕРАМИКА",
+    "name": "ВАЗА № 1933",
+    "wholesalePrice": 1038.75,
+    "extraPrice": 1090.69,
+    "retailPrice": 1298.44
   },
   {
     "id": "УТ000033091",
