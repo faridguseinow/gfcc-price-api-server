@@ -7160,6 +7160,14 @@
     "retailPrice": 103.68
   },
   {
+    "id": "УТ000010247",
+    "category": "..,РАЗНОЕ",
+    "name": "ДИСЕНТРА",
+    "wholesalePrice": 90.48,
+    "extraPrice": 95,
+    "retailPrice": 113.1
+  },
+  {
     "id": "УТ000010256",
     "category": "..,РАЗНОЕ",
     "name": "ИРИС  БЛУ МЭДЖИК",
@@ -7646,6 +7654,14 @@
     "wholesalePrice": 294.06,
     "extraPrice": 308.76,
     "retailPrice": 367.58
+  },
+  {
+    "id": "УТ000010565",
+    "category": "..,РАЗНОЕ",
+    "name": "САПОНАРИЯ",
+    "wholesalePrice": 45.99,
+    "extraPrice": 48.29,
+    "retailPrice": 57.49
   },
   {
     "id": "УТ000010566",
@@ -25774,14 +25790,6 @@
     "wholesalePrice": 100.7,
     "extraPrice": 105.73,
     "retailPrice": 125.87
-  },
-  {
-    "id": "УТ000035552",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "БИ СВИТ- 50см (СТАР,КОРОЗОН,МАТИЗ,ЭКО РОЗ,БЕЛЛА РОЗА,ЧАРМИНГ,СОФИ,ДАВИНЧИ.РОЯЛ)",
-    "wholesalePrice": 89.03,
-    "extraPrice": 93.48,
-    "retailPrice": 111.29
   },
   {
     "id": "УТ000035553",
@@ -44139,6 +44147,14 @@
     "id": "УТ000050160",
     "category": "КОРЗИНА",
     "name": "Корзина - 1007",
+    "wholesalePrice": 218.66,
+    "extraPrice": 229.59,
+    "retailPrice": 273.33
+  },
+  {
+    "id": "УТ000050161",
+    "category": "КОРЗИНА",
+    "name": "Корзина - 1009",
     "wholesalePrice": 218.66,
     "extraPrice": 229.59,
     "retailPrice": 273.33
