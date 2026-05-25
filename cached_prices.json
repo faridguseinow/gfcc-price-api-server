@@ -512,14 +512,6 @@
     "retailPrice": 81.65
   },
   {
-    "id": "УТ000002983",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "БРИГАМИЯ 12 СМ",
-    "wholesalePrice": 932.08,
-    "extraPrice": 978.68,
-    "retailPrice": 1165.1
-  },
-  {
     "id": "УТ000003027",
     "category": ".УПАКОВКА",
     "name": "БУМАГА ГОФРИРОВАННАЯ",
@@ -1712,14 +1704,6 @@
     "retailPrice": 2626.25
   },
   {
-    "id": "УТ000003994",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "ГИДРАНГИЯ ПАНИКУЛАТА 26/90 СМ",
-    "wholesalePrice": 3056,
-    "extraPrice": 3208.8,
-    "retailPrice": 3820
-  },
-  {
     "id": "УТ000003999",
     "category": ".УПАКОВКА",
     "name": "ГИДРОГЕЛЬ 150 МЛ",
@@ -1795,17 +1779,17 @@
     "id": "УТ000004472",
     "category": "ГРУНТ И УДОБРЕНИЯ",
     "name": "ГРУНТ УН.  2,5 Л  (ПАЧКА 10 ШТ)",
-    "wholesalePrice": 396.52,
-    "extraPrice": 416.35,
-    "retailPrice": 495.65
+    "wholesalePrice": 456.34,
+    "extraPrice": 479.15,
+    "retailPrice": 570.42
   },
   {
     "id": "УТ000004473",
     "category": "ГРУНТ И УДОБРЕНИЯ",
     "name": "ГРУНТ УН.  5 Л  (ПАЧКА 5 ШТ)",
-    "wholesalePrice": 258.06,
-    "extraPrice": 270.96,
-    "retailPrice": 322.57
+    "wholesalePrice": 296.97,
+    "extraPrice": 311.82,
+    "retailPrice": 371.21
   },
   {
     "id": "УТ000004474",
@@ -3270,14 +3254,6 @@
     "wholesalePrice": 1176.56,
     "extraPrice": 1235.39,
     "retailPrice": 1470.7
-  },
-  {
-    "id": "УТ000005881",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "КАЛАТЕЯ СТРОМАНТА 14 СМ",
-    "wholesalePrice": 1222.4,
-    "extraPrice": 1283.52,
-    "retailPrice": 1528
   },
   {
     "id": "УТ000005940",
@@ -6816,14 +6792,6 @@
     "retailPrice": 649.4
   },
   {
-    "id": "УТ000009718",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "ПЕЛАРГОНИЯ 10 СМ",
-    "wholesalePrice": 324.7,
-    "extraPrice": 340.94,
-    "retailPrice": 405.88
-  },
-  {
     "id": "УТ000009725",
     "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
     "name": "ПЕПЕРОМИЯ 12 СМ МИКС",
@@ -9280,14 +9248,6 @@
     "retailPrice": 90.73
   },
   {
-    "id": "УТ000013752",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "СУККУЛЕНТЫ  МИКС  5 СМ (КОРОБКА 30 ШТУК)",
-    "wholesalePrice": 2750.4,
-    "extraPrice": 2887.92,
-    "retailPrice": 3438
-  },
-  {
     "id": "УТ000013801",
     "category": "ТАРА",
     "name": "СУММА ИНВОЙСА",
@@ -9728,14 +9688,6 @@
     "retailPrice": 5443.5
   },
   {
-    "id": "УТ000014521",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "ФИКУС ГИНСЕНГ 40/140 СМ",
-    "wholesalePrice": 18183.2,
-    "extraPrice": 19092.36,
-    "retailPrice": 22729
-  },
-  {
     "id": "УТ000014526",
     "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
     "name": "ФИКУС ГОЛДЕН КИНГ 27/140 СМ",
@@ -9854,14 +9806,6 @@
     "wholesalePrice": 779.28,
     "extraPrice": 818.24,
     "retailPrice": 974.1
-  },
-  {
-    "id": "УТ000014624",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "ФИЛОДЕНДРОН МИКС 12 СМ",
-    "wholesalePrice": 641.76,
-    "extraPrice": 673.85,
-    "retailPrice": 802.2
   },
   {
     "id": "УТ000014643",
@@ -12328,14 +12272,6 @@
     "retailPrice": 441.71
   },
   {
-    "id": "УТ000018973",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "БЕГОНИЯ МАКУЛАТА 14 СМ",
-    "wholesalePrice": 1255.25,
-    "extraPrice": 1318.01,
-    "retailPrice": 1569.07
-  },
-  {
     "id": "УТ000018982",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ДИП ПЕРПЛ (ТЕССА)- 50см",
@@ -12950,14 +12886,6 @@
     "wholesalePrice": 3902.51,
     "extraPrice": 4097.64,
     "retailPrice": 4878.14
-  },
-  {
-    "id": "УТ000020806",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "ЭУНОМУС МИКС 17 СМ",
-    "wholesalePrice": 916.8,
-    "extraPrice": 962.64,
-    "retailPrice": 1146
   },
   {
     "id": "УТ000020823",
@@ -15046,14 +14974,6 @@
     "wholesalePrice": 114.1,
     "extraPrice": 119.81,
     "retailPrice": 142.63
-  },
-  {
-    "id": "УТ000026217",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "РОЗА НА СТВОЛЕ 17 СМ",
-    "wholesalePrice": 1955.84,
-    "extraPrice": 2053.63,
-    "retailPrice": 2444.8
   },
   {
     "id": "УТ000026243",
@@ -26792,14 +26712,6 @@
     "retailPrice": 166.88
   },
   {
-    "id": "УТ000036140",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "ХОЯ 14 СМ",
-    "wholesalePrice": 1680.8,
-    "extraPrice": 1764.84,
-    "retailPrice": 2101
-  },
-  {
     "id": "УТ000036151",
     "category": "ГРУНТ И УДОБРЕНИЯ",
     "name": "ДЛЯ ОРХИДЕЙ 1,5 Л ГОТОВА РОСТА (БОНА ФОРТЭ)",
@@ -36760,14 +36672,6 @@
     "retailPrice": 248.3
   },
   {
-    "id": "УТ000043630",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "СЕДУМ  5 СМ (КОРОБКА 20 ШТУК)",
-    "wholesalePrice": 1528,
-    "extraPrice": 1604.4,
-    "retailPrice": 1910
-  },
-  {
     "id": "УТ000043633",
     "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
     "name": "АЛОЭ ТИКИ ТАКИ 12 СМ",
@@ -39918,14 +39822,6 @@
     "wholesalePrice": 147.53,
     "extraPrice": 154.9,
     "retailPrice": 184.41
-  },
-  {
-    "id": "УТ000046005",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "ДИШИДИА 10 СМ",
-    "wholesalePrice": 649.4,
-    "extraPrice": 681.87,
-    "retailPrice": 811.75
   },
   {
     "id": "УТ000046008",
@@ -43846,14 +43742,6 @@
     "wholesalePrice": 357.55,
     "extraPrice": 375.43,
     "retailPrice": 446.94
-  },
-  {
-    "id": "УТ000049203",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "ХОМАЛОНЕМА 14 СМ",
-    "wholesalePrice": 893.88,
-    "extraPrice": 938.57,
-    "retailPrice": 1117.35
   },
   {
     "id": "УТ000049235",
@@ -57760,14 +57648,6 @@
     "retailPrice": 1861.3
   },
   {
-    "id": "УТ000055385",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "ЦИТРУС ЛИМОН 26/150 СМ",
-    "wholesalePrice": 10696,
-    "extraPrice": 11230.8,
-    "retailPrice": 13370
-  },
-  {
     "id": "УТ000055396",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "МИРАБЕЛ 60 см РОЗА Кен/Куст. (MONA FLOWERS)",
@@ -58256,52 +58136,12 @@
     "retailPrice": 494.69
   },
   {
-    "id": "УТ000055564",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "АЛЬБУКА СПИРАЛЬ 12 СМ",
-    "wholesalePrice": 721.98,
-    "extraPrice": 758.08,
-    "retailPrice": 902.48
-  },
-  {
     "id": "УТ000055570",
     "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
     "name": "ГИБИСКУС НА СТВОЛЕ 21/110 СМ",
     "wholesalePrice": 3231.72,
     "extraPrice": 3393.31,
     "retailPrice": 4039.65
-  },
-  {
-    "id": "УТ000055572",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "ЛАБИЗИЯ 13 СМ",
-    "wholesalePrice": 1516.54,
-    "extraPrice": 1592.37,
-    "retailPrice": 1895.68
-  },
-  {
-    "id": "УТ000055575",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "ЭУНОМУС МИКС 15 СМ",
-    "wholesalePrice": 817.48,
-    "extraPrice": 858.35,
-    "retailPrice": 1021.85
-  },
-  {
-    "id": "УТ000055576",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "ЭУНОМУС МИКС 23 СМ",
-    "wholesalePrice": 2139.2,
-    "extraPrice": 2246.16,
-    "retailPrice": 2674
-  },
-  {
-    "id": "УТ000055577",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "ЭУНОМУС МИКС 27 СМ",
-    "wholesalePrice": 3285.2,
-    "extraPrice": 3449.46,
-    "retailPrice": 4106.5
   },
   {
     "id": "УТ000055578",
@@ -58470,14 +58310,6 @@
     "wholesalePrice": 1701.43,
     "extraPrice": 1786.5,
     "retailPrice": 2126.79
-  },
-  {
-    "id": "УТ000055763",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "ФАЛЕНОПСИС ПАРФЮМ 4 СТВОЛ 12 СМ",
-    "wholesalePrice": 1910,
-    "extraPrice": 2005.5,
-    "retailPrice": 2387.5
   },
   {
     "id": "УТ000055764",
