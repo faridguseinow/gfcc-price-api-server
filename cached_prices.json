@@ -8056,14 +8056,6 @@
     "retailPrice": 80.12
   },
   {
-    "id": "УТ000010664",
-    "category": "..,РАЗНОЕ",
-    "name": "ЯТРОПА",
-    "wholesalePrice": 61.8,
-    "extraPrice": 64.89,
-    "retailPrice": 77.25
-  },
-  {
     "id": "УТ000010676",
     "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
     "name": "РАНУНКУЛЮС 10 СМ",
@@ -8374,6 +8366,14 @@
     "wholesalePrice": 195.63,
     "extraPrice": 205.41,
     "retailPrice": 244.54
+  },
+  {
+    "id": "УТ000011546",
+    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
+    "name": "ЛУНА ТРЕНДСЕТТЕР (VOORN-ROSES) 70 см куст на воде",
+    "wholesalePrice": 195.71,
+    "extraPrice": 205.49,
+    "retailPrice": 244.64
   },
   {
     "id": "УТ000011565",
@@ -44454,14 +44454,6 @@
     "wholesalePrice": 78.06,
     "extraPrice": 81.97,
     "retailPrice": 97.58
-  },
-  {
-    "id": "УТ000049659",
-    "category": "КОРЗИНА",
-    "name": "Корзина - N124804",
-    "wholesalePrice": 1136.87,
-    "extraPrice": 1193.71,
-    "retailPrice": 1421.09
   },
   {
     "id": "УТ000049661",
