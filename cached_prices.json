@@ -1992,14 +1992,6 @@
     "retailPrice": 591.33
   },
   {
-    "id": "УТ000004799",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "ДРАЦЕНА ГАВАЙСКАЯ 31/150 СМ",
-    "wholesalePrice": 14001.05,
-    "extraPrice": 14701.1,
-    "retailPrice": 17501.31
-  },
-  {
     "id": "УТ000004800",
     "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
     "name": "ДРАЦЕНА ГОЛДЕН КОСТ 11 СМ",
@@ -2286,22 +2278,6 @@
     "wholesalePrice": 447.88,
     "extraPrice": 470.28,
     "retailPrice": 559.85
-  },
-  {
-    "id": "УТ000005051",
-    "category": "..,ЗЕЛЕНЬ",
-    "name": "СОЛИДАГО",
-    "wholesalePrice": 78.59,
-    "extraPrice": 82.52,
-    "retailPrice": 98.24
-  },
-  {
-    "id": "УТ000005060",
-    "category": "..,ЗЕЛЕНЬ",
-    "name": "ТЛАСПИ",
-    "wholesalePrice": 103.01,
-    "extraPrice": 108.16,
-    "retailPrice": 128.76
   },
   {
     "id": "УТ000005063",
@@ -20824,14 +20800,6 @@
     "retailPrice": 103.58
   },
   {
-    "id": "УТ000029812",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ШИММЕР- 60см (СТАР,КОРОЗОН,МАТИЗ,ЭКО РОЗ,БЕЛЛА РОЗА,ЧАРМИНГ,СОФИ,ДАВИНЧИ.РОЯЛ)",
-    "wholesalePrice": 95.53,
-    "extraPrice": 100.3,
-    "retailPrice": 119.41
-  },
-  {
     "id": "УТ000029813",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ШИММЕР- 70см (СТАР,КОРОЗОН,МАТИЗ,ЭКО РОЗ,БЕЛЛА РОЗА,ЧАРМИНГ,СОФИ,ДАВИНЧИ.РОЯЛ)",
@@ -26190,14 +26158,6 @@
     "wholesalePrice": 1114.74,
     "extraPrice": 1170.48,
     "retailPrice": 1393.43
-  },
-  {
-    "id": "УТ000035475",
-    "category": "..,ЗЕЛЕНЬ",
-    "name": "СТАТИЦА  ВОДА",
-    "wholesalePrice": 72.49,
-    "extraPrice": 76.11,
-    "retailPrice": 90.61
   },
   {
     "id": "УТ000035480",
@@ -36264,14 +36224,6 @@
     "retailPrice": 138.29
   },
   {
-    "id": "УТ000043051",
-    "category": "..,ЗЕЛЕНЬ",
-    "name": "СТАТИЦА  КРАСНОДАР",
-    "wholesalePrice": 53.41,
-    "extraPrice": 56.08,
-    "retailPrice": 66.76
-  },
-  {
     "id": "УТ000043067",
     "category": "..СУХОЦВЕТЫ",
     "name": "ЛАГУРУС КИТАЙ",
@@ -37030,6 +36982,14 @@
     "wholesalePrice": 90.03,
     "extraPrice": 94.54,
     "retailPrice": 112.54
+  },
+  {
+    "id": "УТ000043764",
+    "category": "..,РОЗА ,МЕСТНАЯ",
+    "name": "РОЗА КРАСНОДАР куст 50 см",
+    "wholesalePrice": 145.33,
+    "extraPrice": 152.6,
+    "retailPrice": 181.66
   },
   {
     "id": "УТ000043782",
@@ -41430,14 +41390,6 @@
     "wholesalePrice": 2517.9,
     "extraPrice": 2643.8,
     "retailPrice": 3147.38
-  },
-  {
-    "id": "УТ000047040",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "ШЕФФЛЕРА КОМПАКТА 40/150 СМ",
-    "wholesalePrice": 19609.1,
-    "extraPrice": 20589.56,
-    "retailPrice": 24511.38
   },
   {
     "id": "УТ000047097",
@@ -50766,6 +50718,14 @@
     "wholesalePrice": 798.86,
     "extraPrice": 838.8,
     "retailPrice": 998.58
+  },
+  {
+    "id": "УТ000052634",
+    "category": "..,ЛИЛИЯ",
+    "name": "СЕВЕРН ОР ЛИЛИЯ",
+    "wholesalePrice": 291.47,
+    "extraPrice": 306.04,
+    "retailPrice": 364.33
   },
   {
     "id": "УТ000052662",
