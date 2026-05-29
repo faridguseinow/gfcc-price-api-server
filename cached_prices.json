@@ -9328,6 +9328,14 @@
     "retailPrice": 41.12
   },
   {
+    "id": "УТ000013957",
+    "category": "..ТЮЛЬПАНЫ",
+    "name": "ДИНАСТИЙ  ТЮЛЬПАН энкл.",
+    "wholesalePrice": 48.2,
+    "extraPrice": 50.6,
+    "retailPrice": 60.24
+  },
+  {
     "id": "УТ000014006",
     "category": "..ТЮЛЬПАНЫ",
     "name": "КОЛУМБУС  ТЮЛЬПАН дубл.",
@@ -13086,14 +13094,6 @@
     "wholesalePrice": 161.29,
     "extraPrice": 169.35,
     "retailPrice": 201.61
-  },
-  {
-    "id": "УТ000021156",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "ГРАНД КЭТИ 60 см куст на воде",
-    "wholesalePrice": 137.85,
-    "extraPrice": 144.75,
-    "retailPrice": 172.32
   },
   {
     "id": "УТ000021162",
@@ -22950,14 +22950,6 @@
     "wholesalePrice": 504.9,
     "extraPrice": 530.15,
     "retailPrice": 631.13
-  },
-  {
-    "id": "УТ000032631",
-    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
-    "name": "ДЖУЛЬЕТТА 60 см РОЗА Кен/Куст.  (GROOVE)",
-    "wholesalePrice": 138.47,
-    "extraPrice": 145.39,
-    "retailPrice": 173.08
   },
   {
     "id": "УТ000032644",
@@ -34064,6 +34056,14 @@
     "retailPrice": 1302.41
   },
   {
+    "id": "УТ000040758",
+    "category": "..,РОЗА ,МЕСТНАЯ",
+    "name": "ЧЕХОВСКИЙ САД КУСТОВАЯ  70 см",
+    "wholesalePrice": 195.44,
+    "extraPrice": 205.21,
+    "retailPrice": 244.3
+  },
+  {
     "id": "УТ000040760",
     "category": "..ХРИЗАНТЕМА",
     "name": ".ХРИЗ. ДЕКО АЛЕМАНИ",
@@ -39299,6 +39299,14 @@
     "id": "УТ000045212",
     "category": "..,ЛИЛИЯ",
     "name": "АИША ОР ДУ ЛИЛИЯ",
+    "wholesalePrice": 353.43,
+    "extraPrice": 371.1,
+    "retailPrice": 441.79
+  },
+  {
+    "id": "УТ000045214",
+    "category": "..,ЛИЛИЯ",
+    "name": "ВИОЛА ОР ДУ ЛИЛИЯ",
     "wholesalePrice": 353.43,
     "extraPrice": 371.1,
     "retailPrice": 441.79
