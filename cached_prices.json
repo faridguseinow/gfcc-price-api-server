@@ -5888,14 +5888,6 @@
     "retailPrice": 91.56
   },
   {
-    "id": "УТ000008416",
-    "category": "..,РОЗА ,МЕСТНАЯ",
-    "name": "ЛИНИЯ РОЗЫ ОДНОГОЛОВАЯ. 40 СМ",
-    "wholesalePrice": 61.04,
-    "extraPrice": 64.09,
-    "retailPrice": 76.3
-  },
-  {
     "id": "УТ000008417",
     "category": "ГРУНТ И УДОБРЕНИЯ",
     "name": "ФЛАКОН 500 МЛ",
@@ -8358,6 +8350,14 @@
     "wholesalePrice": 122.08,
     "extraPrice": 128.18,
     "retailPrice": 152.6
+  },
+  {
+    "id": "УТ000011544",
+    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
+    "name": "КОРАЛ БАБЫЛС VOORN-ROSES 60 см куст на воде",
+    "wholesalePrice": 167.86,
+    "extraPrice": 176.25,
+    "retailPrice": 209.83
   },
   {
     "id": "УТ000011546",
@@ -11734,14 +11734,6 @@
     "wholesalePrice": 763,
     "extraPrice": 801.15,
     "retailPrice": 953.75
-  },
-  {
-    "id": "УТ000017950",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "АЙЛАЙНЕР  70 см куст на воде",
-    "wholesalePrice": 144.97,
-    "extraPrice": 152.22,
-    "retailPrice": 181.21
   },
   {
     "id": "УТ000017987",
@@ -21736,14 +21728,6 @@
     "retailPrice": 125.9
   },
   {
-    "id": "УТ000030336",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "ШАЙЕНН 70 см куст на воде",
-    "wholesalePrice": 129.71,
-    "extraPrice": 136.2,
-    "retailPrice": 162.14
-  },
-  {
     "id": "УТ000030339",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ПАНДОРА -  50см",
@@ -25966,14 +25950,6 @@
     "wholesalePrice": 90.03,
     "extraPrice": 94.54,
     "retailPrice": 112.54
-  },
-  {
-    "id": "УТ000035258",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "ЛИМУЗИН 50 см куст на воде",
-    "wholesalePrice": 76.3,
-    "extraPrice": 80.12,
-    "retailPrice": 95.38
   },
   {
     "id": "УТ000035259",
@@ -41550,6 +41526,14 @@
     "wholesalePrice": 183.12,
     "extraPrice": 192.28,
     "retailPrice": 228.9
+  },
+  {
+    "id": "УТ000047152",
+    "category": "..,РОЗА ,МЕСТНАЯ",
+    "name": "МИКС КУСТ 80 см АРТ РОССЕ",
+    "wholesalePrice": 175.94,
+    "extraPrice": 184.74,
+    "retailPrice": 219.93
   },
   {
     "id": "УТ000047198",
