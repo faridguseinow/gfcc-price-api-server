@@ -2544,14 +2544,6 @@
     "retailPrice": 194.63
   },
   {
-    "id": "УТ000005217",
-    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
-    "name": "БАНДАЛЕРО 50 см РОЗА Кен/Куст. (RLR)",
-    "wholesalePrice": 121.19,
-    "extraPrice": 127.25,
-    "retailPrice": 151.48
-  },
-  {
     "id": "УТ000005220",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "БАНДАЛЕРО 60 см РОЗА Кен/Куст. (RLR)",
@@ -2918,6 +2910,14 @@
     "wholesalePrice": 167.97,
     "extraPrice": 176.37,
     "retailPrice": 209.97
+  },
+  {
+    "id": "УТ000005493",
+    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
+    "name": "ОРАНЖ СТАР 50 см РОЗА Кен/Куст. (RLR)",
+    "wholesalePrice": 121.19,
+    "extraPrice": 127.25,
+    "retailPrice": 151.48
   },
   {
     "id": "УТ000005494",
@@ -33360,14 +33360,6 @@
     "retailPrice": 77.68
   },
   {
-    "id": "УТ000040196",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ХАЙ МЭДЖИК-  60см ANNI ROSES.LRA.QLS.ATC.SPPH.ALLGF.EVR.RLH.TURS.GWFW.VDS.RDF.FDS 2.CNV.MON",
-    "wholesalePrice": 74.19,
-    "extraPrice": 77.9,
-    "retailPrice": 92.74
-  },
-  {
     "id": "УТ000040197",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ХАЙ МЭДЖИК-  70см ANNI ROSES.LRA.QLS.ATC.SPPH.ALLGF.EVR.RLH.TURS.GWFW.VDS.RDF.FDS 2.CNV.MON",
@@ -58659,9 +58651,9 @@
     "id": "УТ000055675",
     "category": "..,РАЗНОЕ",
     "name": "ГВОЗДИКА ТАИЛАНД КУСТОВАЯ",
-    "wholesalePrice": 40.65,
-    "extraPrice": 42.68,
-    "retailPrice": 50.81
+    "wholesalePrice": 44.49,
+    "extraPrice": 46.71,
+    "retailPrice": 55.61
   },
   {
     "id": "УТ000055684",
