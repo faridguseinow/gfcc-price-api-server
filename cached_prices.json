@@ -7139,49 +7139,49 @@
     "id": "УТ000010429",
     "category": "..,ПИОНЫ",
     "name": "АНГЕЛ ПИОНЫ",
-    "wholesalePrice": 155.37,
-    "extraPrice": 163.14,
-    "retailPrice": 194.22
+    "wholesalePrice": 164.65,
+    "extraPrice": 172.88,
+    "retailPrice": 205.81
   },
   {
     "id": "УТ000010437",
     "category": "..,ПИОНЫ",
     "name": "БЕЛГРАВИЯ ПИОНЫ",
-    "wholesalePrice": 177.79,
-    "extraPrice": 186.68,
-    "retailPrice": 222.24
+    "wholesalePrice": 173.15,
+    "extraPrice": 181.81,
+    "retailPrice": 216.44
   },
   {
     "id": "УТ000010449",
     "category": "..,ПИОНЫ",
     "name": "ДИННЭР ПЛЕЙТ ПИОНЫ",
-    "wholesalePrice": 215.67,
-    "extraPrice": 226.45,
-    "retailPrice": 269.58
+    "wholesalePrice": 214.12,
+    "extraPrice": 224.83,
+    "retailPrice": 267.65
   },
   {
     "id": "УТ000010462",
     "category": "..,ПИОНЫ",
     "name": "КОРАЛ САНСЕТ ПИОНЫ",
-    "wholesalePrice": 179.34,
-    "extraPrice": 188.3,
-    "retailPrice": 224.17
+    "wholesalePrice": 255.86,
+    "extraPrice": 268.66,
+    "retailPrice": 319.83
   },
   {
     "id": "УТ000010476",
     "category": "..,ПИОНЫ",
     "name": "ФЛОРЕНС НИКОЛЬ ПИОНЫ",
-    "wholesalePrice": 129.09,
-    "extraPrice": 135.55,
-    "retailPrice": 161.36
+    "wholesalePrice": 152.28,
+    "extraPrice": 159.9,
+    "retailPrice": 190.35
   },
   {
     "id": "УТ000010490",
     "category": "..,ПИОНЫ",
     "name": "РЕД ШАРМ ПИОНЫ",
-    "wholesalePrice": 162.33,
-    "extraPrice": 170.45,
-    "retailPrice": 202.91
+    "wholesalePrice": 170.83,
+    "extraPrice": 179.37,
+    "retailPrice": 213.54
   },
   {
     "id": "УТ000010493",
@@ -7195,25 +7195,25 @@
     "id": "УТ000010494",
     "category": "..,ПИОНЫ",
     "name": "САЛМОН ЭТЧЕД ПИОНЫ",
-    "wholesalePrice": 222.62,
-    "extraPrice": 233.76,
-    "retailPrice": 278.28
+    "wholesalePrice": 218.76,
+    "extraPrice": 229.7,
+    "retailPrice": 273.45
   },
   {
     "id": "УТ000010496",
     "category": "..,ПИОНЫ",
     "name": "САРА БЕРНАРД ПИОНЫ",
-    "wholesalePrice": 187.07,
-    "extraPrice": 196.42,
-    "retailPrice": 233.83
+    "wholesalePrice": 137.59,
+    "extraPrice": 144.47,
+    "retailPrice": 171.99
   },
   {
     "id": "УТ000010512",
     "category": "..,ПИОНЫ",
     "name": "ФЛЕМИНГ ПИОНЫ",
-    "wholesalePrice": 145.32,
-    "extraPrice": 152.59,
-    "retailPrice": 181.66
+    "wholesalePrice": 137.59,
+    "extraPrice": 144.47,
+    "retailPrice": 171.99
   },
   {
     "id": "УТ000010525",
@@ -12366,14 +12366,6 @@
     "wholesalePrice": 81.17,
     "extraPrice": 85.22,
     "retailPrice": 101.46
-  },
-  {
-    "id": "УТ000022272",
-    "category": "..,ЗЕЛЕНЬ",
-    "name": "ФИСТАШКА ЭКСТРА",
-    "wholesalePrice": 1253.03,
-    "extraPrice": 1315.68,
-    "retailPrice": 1566.29
   },
   {
     "id": "УТ000022303",
@@ -25163,9 +25155,9 @@
     "id": "УТ000036080",
     "category": "..,ПИОНЫ",
     "name": "ТАИН ПИОНЫ",
-    "wholesalePrice": 204.85,
-    "extraPrice": 215.09,
-    "retailPrice": 256.06
+    "wholesalePrice": 195.57,
+    "extraPrice": 205.35,
+    "retailPrice": 244.46
   },
   {
     "id": "УТ000036096",
@@ -34355,9 +34347,9 @@
     "id": "УТ000043026",
     "category": "..,ПИОНЫ",
     "name": "ПИЛЛОУ ТОЛК ПИОНЫ",
-    "wholesalePrice": 269,
-    "extraPrice": 282.45,
-    "retailPrice": 336.26
+    "wholesalePrice": 236.54,
+    "extraPrice": 248.36,
+    "retailPrice": 295.67
   },
   {
     "id": "УТ000043041",
@@ -34371,9 +34363,9 @@
     "id": "УТ000043043",
     "category": "..,ПИОНЫ",
     "name": "МЭРИ Е.НИКОЛЗ ПИОНЫ",
-    "wholesalePrice": 162.33,
-    "extraPrice": 170.45,
-    "retailPrice": 202.91
+    "wholesalePrice": 164.65,
+    "extraPrice": 172.88,
+    "retailPrice": 205.81
   },
   {
     "id": "УТ000043045",
@@ -39440,6 +39432,14 @@
     "retailPrice": 62.81
   },
   {
+    "id": "УТ000047518",
+    "category": ".УПАКОВКА",
+    "name": "КОРОБКА № 5008 НАБОР",
+    "wholesalePrice": 529.51,
+    "extraPrice": 555.98,
+    "retailPrice": 661.88
+  },
+  {
     "id": "УТ000047523",
     "category": ".УПАКОВКА",
     "name": "КОРОБКА № 1013 НАБОР",
@@ -42048,6 +42048,14 @@
     "retailPrice": 5526.95
   },
   {
+    "id": "УТ000049937",
+    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
+    "name": "СТРЕЛИЦИЯ 38/180 СМ",
+    "wholesalePrice": 14445.05,
+    "extraPrice": 15167.3,
+    "retailPrice": 18056.31
+  },
+  {
     "id": "УТ000049958",
     "category": "СИЛИКОНОВЫЕ ЦВЕТЫ",
     "name": "МЕ-1283691",
@@ -42395,9 +42403,9 @@
     "id": "УТ000050275",
     "category": "..,ПИОНЫ",
     "name": "КОЛОНЕЛ ОУЭН КАЗЕНС ПИОНЫ",
-    "wholesalePrice": 262.82,
-    "extraPrice": 275.96,
-    "retailPrice": 328.53
+    "wholesalePrice": 276.73,
+    "extraPrice": 290.57,
+    "retailPrice": 345.92
   },
   {
     "id": "УТ000050279",
@@ -42715,9 +42723,9 @@
     "id": "УТ000050536",
     "category": "..,ПИОНЫ",
     "name": "ГЛОРИ АЛЛИЛУЙЯ ПИОНЫ",
-    "wholesalePrice": 166.2,
-    "extraPrice": 174.5,
-    "retailPrice": 207.74
+    "wholesalePrice": 177.02,
+    "extraPrice": 185.87,
+    "retailPrice": 221.27
   },
   {
     "id": "УТ000050549",
