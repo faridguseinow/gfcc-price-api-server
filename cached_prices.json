@@ -1448,6 +1448,14 @@
     "retailPrice": 337.75
   },
   {
+    "id": "УТ000003428",
+    "category": ".УПАКОВКА",
+    "name": "ВАЗЫ ПЛАСТИКОВЫЕ МАЛЫЕ",
+    "wholesalePrice": 239.32,
+    "extraPrice": 251.29,
+    "retailPrice": 299.15
+  },
+  {
     "id": "УТ000003429",
     "category": ".УПАКОВКА",
     "name": "ВАЗЫ ПЛАСТИКОВЫЕ МАЛЫЕ РИФЛЕНЫЕ",
@@ -4302,14 +4310,6 @@
     "wholesalePrice": 267.11,
     "extraPrice": 280.47,
     "retailPrice": 333.89
-  },
-  {
-    "id": "УТ000006735",
-    "category": "КОРЗИНА",
-    "name": "Корзина - 601503",
-    "wholesalePrice": 1015.18,
-    "extraPrice": 1065.94,
-    "retailPrice": 1268.98
   },
   {
     "id": "УТ000006757",
@@ -40656,14 +40656,6 @@
     "retailPrice": 344.51
   },
   {
-    "id": "УТ000048418",
-    "category": "КОРЗИНА",
-    "name": "Корзина - N029101",
-    "wholesalePrice": 374.42,
-    "extraPrice": 393.14,
-    "retailPrice": 468.03
-  },
-  {
     "id": "УТ000048419",
     "category": "КОРЗИНА",
     "name": "Корзина - N004303",
@@ -45200,6 +45192,14 @@
     "retailPrice": 88.78
   },
   {
+    "id": "УТ000051617",
+    "category": "..ХРИЗАНТЕМА",
+    "name": "РЕСК ЛЮСИ",
+    "wholesalePrice": 85.72,
+    "extraPrice": 90.01,
+    "retailPrice": 107.15
+  },
+  {
     "id": "УТ000051618",
     "category": "..ХРИЗАНТЕМА",
     "name": ".ХРИЗ. ДЕКО СТРАВИНА",
@@ -48782,6 +48782,14 @@
     "wholesalePrice": 185.28,
     "extraPrice": 194.54,
     "retailPrice": 231.6
+  },
+  {
+    "id": "УТ000052878",
+    "category": "..ХРИЗАНТЕМА",
+    "name": "КОМАНДИР ЖЕЛТЫЙ",
+    "wholesalePrice": 85.72,
+    "extraPrice": 90.01,
+    "retailPrice": 107.15
   },
   {
     "id": "УТ000052922",
@@ -54910,6 +54918,14 @@
     "wholesalePrice": 51.72,
     "extraPrice": 54.31,
     "retailPrice": 64.66
+  },
+  {
+    "id": "УТ000055009",
+    "category": "..ХРИЗАНТЕМА",
+    "name": "АЛТАЙ КРЕМ",
+    "wholesalePrice": 85.72,
+    "extraPrice": 90.01,
+    "retailPrice": 107.15
   },
   {
     "id": "УТ000055012",
