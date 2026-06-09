@@ -4344,6 +4344,14 @@
     "retailPrice": 328.7
   },
   {
+    "id": "УТ000006735",
+    "category": "КОРЗИНА",
+    "name": "Корзина - 601503",
+    "wholesalePrice": 999.4,
+    "extraPrice": 1049.37,
+    "retailPrice": 1249.25
+  },
+  {
     "id": "УТ000006757",
     "category": "КОРЗИНА",
     "name": "Корзина - 786603",
@@ -9488,14 +9496,6 @@
     "retailPrice": 3990
   },
   {
-    "id": "УТ000015163",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "ЦИТРУС ЛИМОН 15 СМ",
-    "wholesalePrice": 1900,
-    "extraPrice": 1995,
-    "retailPrice": 2375
-  },
-  {
     "id": "УТ000015178",
     "category": ".УПАКОВКА",
     "name": "ЧЕХОЛ ДЛЯ МИКРАФОНА",
@@ -9939,9 +9939,9 @@
     "id": "УТ000015893",
     "category": "..,ПИОНЫ",
     "name": "ПОДМОСКОВЫЕ ПИОНЫ",
-    "wholesalePrice": 163.4,
-    "extraPrice": 171.57,
-    "retailPrice": 204.25
+    "wholesalePrice": 100.32,
+    "extraPrice": 105.34,
+    "retailPrice": 125.4
   },
   {
     "id": "УТ000015924",
@@ -12638,6 +12638,14 @@
     "wholesalePrice": 154.51,
     "extraPrice": 162.23,
     "retailPrice": 193.14
+  },
+  {
+    "id": "УТ000022624",
+    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
+    "name": "КУРКУМА 12 СМ",
+    "wholesalePrice": 592.8,
+    "extraPrice": 622.44,
+    "retailPrice": 741
   },
   {
     "id": "УТ000022637",
@@ -29675,9 +29683,9 @@
     "id": "УТ000039234",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЧЕХОВСКИЙ САД КУСТОВАЯ  50 см",
-    "wholesalePrice": 158.33,
-    "extraPrice": 166.25,
-    "retailPrice": 197.91
+    "wholesalePrice": 162.5,
+    "extraPrice": 170.62,
+    "retailPrice": 203.12
   },
   {
     "id": "УТ000039237",
@@ -30163,9 +30171,9 @@
     "id": "УТ000039468",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЧЕХОВСКИЙ САД КУСТОВАЯ  60 см",
-    "wholesalePrice": 182.69,
-    "extraPrice": 191.82,
-    "retailPrice": 228.36
+    "wholesalePrice": 187.5,
+    "extraPrice": 196.87,
+    "retailPrice": 234.37
   },
   {
     "id": "УТ000039474",
@@ -32843,9 +32851,9 @@
     "id": "УТ000040758",
     "category": "..,РОЗА ,МЕСТНАЯ",
     "name": "ЧЕХОВСКИЙ САД КУСТОВАЯ  70 см",
-    "wholesalePrice": 194.87,
-    "extraPrice": 204.62,
-    "retailPrice": 243.59
+    "wholesalePrice": 199.99,
+    "extraPrice": 209.99,
+    "retailPrice": 249.99
   },
   {
     "id": "УТ000040760",
