@@ -24800,14 +24800,6 @@
     "retailPrice": 149.71
   },
   {
-    "id": "УТ000035149",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "ПИНК ЙО-ЙО  70 см куст на воде",
-    "wholesalePrice": 159.18,
-    "extraPrice": 167.14,
-    "retailPrice": 198.98
-  },
-  {
     "id": "УТ000035157",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "ЛИМУЗИН 60 см куст на воде",
@@ -34782,14 +34774,6 @@
     "wholesalePrice": 4055.3,
     "extraPrice": 4258.07,
     "retailPrice": 5069.13
-  },
-  {
-    "id": "УТ000042998",
-    "category": "..,ЗЕЛЕНЬ",
-    "name": "ГИПСОФИЛА ЭКВАДОР ESMERALDA 1200 г",
-    "wholesalePrice": 64.02,
-    "extraPrice": 67.22,
-    "retailPrice": 80.03
   },
   {
     "id": "УТ000043026",
@@ -45432,12 +45416,28 @@
     "retailPrice": 421.64
   },
   {
+    "id": "УТ000051537",
+    "category": "КОРЗИНА",
+    "name": "Корзина - N074903",
+    "wholesalePrice": 750.42,
+    "extraPrice": 787.94,
+    "retailPrice": 938.03
+  },
+  {
     "id": "УТ000051540",
     "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
     "name": "ФИКУС ЛИРАТА 17/60 3 PP",
     "wholesalePrice": 1864.68,
     "extraPrice": 1957.91,
     "retailPrice": 2330.85
+  },
+  {
+    "id": "УТ000051544",
+    "category": "КОРЗИНА",
+    "name": "Корзина - N074803",
+    "wholesalePrice": 678.41,
+    "extraPrice": 712.33,
+    "retailPrice": 848.01
   },
   {
     "id": "УТ000051545",
