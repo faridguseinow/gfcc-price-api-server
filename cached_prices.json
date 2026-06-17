@@ -3507,17 +3507,17 @@
     "id": "УТ000006384",
     "category": "КОРЗИНА",
     "name": "Корзина - 100203",
-    "wholesalePrice": 1031.04,
-    "extraPrice": 1082.59,
-    "retailPrice": 1288.8
+    "wholesalePrice": 1120.66,
+    "extraPrice": 1176.69,
+    "retailPrice": 1400.82
   },
   {
     "id": "УТ000006385",
     "category": "КОРЗИНА",
     "name": "Корзина - 100303",
-    "wholesalePrice": 1099.21,
-    "extraPrice": 1154.17,
-    "retailPrice": 1374.01
+    "wholesalePrice": 1145.17,
+    "extraPrice": 1202.43,
+    "retailPrice": 1431.46
   },
   {
     "id": "УТ000006387",
@@ -4131,9 +4131,9 @@
     "id": "УТ000006624",
     "category": "КОРЗИНА",
     "name": "Корзина - 316103",
-    "wholesalePrice": 947.54,
-    "extraPrice": 994.92,
-    "retailPrice": 1184.43
+    "wholesalePrice": 1030.27,
+    "extraPrice": 1081.78,
+    "retailPrice": 1287.84
   },
   {
     "id": "УТ000006625",
@@ -9584,14 +9584,6 @@
     "retailPrice": 100.61
   },
   {
-    "id": "УТ000014846",
-    "category": "..ХРИЗАНТЕМА",
-    "name": "ЛИМОНЧЕЛЛО",
-    "wholesalePrice": 80.49,
-    "extraPrice": 84.52,
-    "retailPrice": 100.61
-  },
-  {
     "id": "УТ000014874",
     "category": "..ХРИЗАНТЕМА",
     "name": "ОПТИМИСТ РОЗОВЫЙ",
@@ -13507,9 +13499,9 @@
     "id": "УТ000024397",
     "category": "КОРЗИНА",
     "name": "Корзина - 498303",
-    "wholesalePrice": 1448.51,
-    "extraPrice": 1520.93,
-    "retailPrice": 1810.63
+    "wholesalePrice": 1509.02,
+    "extraPrice": 1584.47,
+    "retailPrice": 1886.28
   },
   {
     "id": "УТ000024400",
@@ -13915,9 +13907,9 @@
     "id": "УТ000025287",
     "category": "КОРЗИНА",
     "name": "Корзина - 498603",
-    "wholesalePrice": 1387.99,
-    "extraPrice": 1457.39,
-    "retailPrice": 1734.99
+    "wholesalePrice": 1509.02,
+    "extraPrice": 1584.47,
+    "retailPrice": 1886.28
   },
   {
     "id": "УТ000025288",
@@ -14003,9 +13995,9 @@
     "id": "УТ000025679",
     "category": "КОРЗИНА",
     "name": "Корзина - 352503",
-    "wholesalePrice": 1000.4,
-    "extraPrice": 1050.42,
-    "retailPrice": 1250.5
+    "wholesalePrice": 1087.72,
+    "extraPrice": 1142.11,
+    "retailPrice": 1359.65
   },
   {
     "id": "УТ000025680",
@@ -24315,9 +24307,9 @@
     "id": "УТ000034187",
     "category": "КОРЗИНА",
     "name": "Корзина - 105903",
-    "wholesalePrice": 1008.06,
-    "extraPrice": 1058.46,
-    "retailPrice": 1260.07
+    "wholesalePrice": 1145.17,
+    "extraPrice": 1202.43,
+    "retailPrice": 1431.46
   },
   {
     "id": "УТ000034189",
@@ -46403,9 +46395,9 @@
     "id": "УТ000051534",
     "category": "КОРЗИНА",
     "name": "Корзина - N149103",
-    "wholesalePrice": 689.4,
-    "extraPrice": 723.87,
-    "retailPrice": 861.75
+    "wholesalePrice": 718.51,
+    "extraPrice": 754.43,
+    "retailPrice": 898.14
   },
   {
     "id": "УТ000051535",
@@ -49115,9 +49107,9 @@
     "id": "УТ000052065",
     "category": "КОРЗИНА",
     "name": "Корзина - N140703",
-    "wholesalePrice": 877.07,
-    "extraPrice": 920.92,
-    "retailPrice": 1096.34
+    "wholesalePrice": 953.67,
+    "extraPrice": 1001.35,
+    "retailPrice": 1192.09
   },
   {
     "id": "УТ000052069",
@@ -57886,5 +57878,37 @@
     "wholesalePrice": 475.69,
     "extraPrice": 499.47,
     "retailPrice": 594.61
+  },
+  {
+    "id": "УТ000056063",
+    "category": "КОРЗИНА",
+    "name": "Корзина - N148903",
+    "wholesalePrice": 760.64,
+    "extraPrice": 798.67,
+    "retailPrice": 950.8
+  },
+  {
+    "id": "УТ000056064",
+    "category": "КОРЗИНА",
+    "name": "Корзина - N149203",
+    "wholesalePrice": 718.51,
+    "extraPrice": 754.43,
+    "retailPrice": 898.14
+  },
+  {
+    "id": "УТ000056065",
+    "category": "КОРЗИНА",
+    "name": "Корзина - N149303",
+    "wholesalePrice": 718.51,
+    "extraPrice": 754.43,
+    "retailPrice": 898.14
+  },
+  {
+    "id": "УТ000056066",
+    "category": "КОРЗИНА",
+    "name": "Корзина - N149403",
+    "wholesalePrice": 907.71,
+    "extraPrice": 953.1,
+    "retailPrice": 1134.64
   }
 ]
