@@ -2,6 +2,9 @@
   "name": "price-api-server",
   "version": "1.0.0",
   "main": "server.js",
+  "engines": {
+    "node": ">=18 <25"
+  },
   "scripts": {
     "start": "node server.js"
   },
