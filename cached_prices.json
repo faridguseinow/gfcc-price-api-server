@@ -4104,14 +4104,6 @@
     "retailPrice": 1302.97
   },
   {
-    "id": "УТ000006625",
-    "category": "КОРЗИНА",
-    "name": "Корзина - 316203",
-    "wholesalePrice": 1042.38,
-    "extraPrice": 1094.49,
-    "retailPrice": 1302.97
-  },
-  {
     "id": "УТ000006626",
     "category": "КОРЗИНА",
     "name": "Корзина - 316303",
@@ -9019,14 +9011,6 @@
     "id": "УТ000013920",
     "category": "..ТЮЛЬПАНЫ",
     "name": "БОЛЬРОЯЛ ПИНК  ТЮЛЬПАН энкл.",
-    "wholesalePrice": 65.1,
-    "extraPrice": 68.36,
-    "retailPrice": 81.38
-  },
-  {
-    "id": "УТ000013922",
-    "category": "..ТЮЛЬПАНЫ",
-    "name": "БУЛЛИТ  ТЮЛЬПАН энкл.",
     "wholesalePrice": 65.1,
     "extraPrice": 68.36,
     "retailPrice": 81.38
@@ -42854,6 +42838,14 @@
     "wholesalePrice": 362.7,
     "extraPrice": 380.84,
     "retailPrice": 453.38
+  },
+  {
+    "id": "УТ000049194",
+    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
+    "name": "ЭПИПРЕМНУМ МОСТОК 17/65 СМ",
+    "wholesalePrice": 1563.18,
+    "extraPrice": 1641.33,
+    "retailPrice": 1953.97
   },
   {
     "id": "УТ000049262",
