@@ -400,14 +400,6 @@
     "retailPrice": 2898.75
   },
   {
-    "id": "УТ000002959",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "БОНСАЙ 30 СМ",
-    "wholesalePrice": 4096.9,
-    "extraPrice": 4301.75,
-    "retailPrice": 5121.13
-  },
-  {
     "id": "УТ000002971",
     "category": "ТАРА",
     "name": "БОЧОК КРЫШКА",
@@ -9451,6 +9443,14 @@
     "id": "УТ000014844",
     "category": "..ХРИЗАНТЕМА",
     "name": "ЧИК",
+    "wholesalePrice": 81.23,
+    "extraPrice": 85.29,
+    "retailPrice": 101.53
+  },
+  {
+    "id": "УТ000014846",
+    "category": "..ХРИЗАНТЕМА",
+    "name": "ЛИМОНЧЕЛЛО",
     "wholesalePrice": 81.23,
     "extraPrice": 85.29,
     "retailPrice": 101.53
