@@ -6818,7 +6818,7 @@
   {
     "id": "УТ000010121",
     "category": "..,РАЗНОЕ",
-    "name": "АНТУРИУМ КРАСНЫЙ  *12                        ( Trpical.Rambla.)",
+    "name": "АНТУРИУМ КРАСНЫЙ  *12               ( Trpical.Rambla.)",
     "wholesalePrice": 154.6,
     "extraPrice": 162.33,
     "retailPrice": 193.25
@@ -6826,7 +6826,7 @@
   {
     "id": "УТ000010122",
     "category": "..,РАЗНОЕ",
-    "name": "АНТУРИУМ БЕЛЫЙ *12                         (Acropolis.Aspire.Moments)",
+    "name": "АНТУРИУМ БЕЛЫЙ *12               (Acropolis.Aspire.Moments)",
     "wholesalePrice": 336.26,
     "extraPrice": 353.07,
     "retailPrice": 420.32
@@ -6834,7 +6834,7 @@
   {
     "id": "УТ000010123",
     "category": "..,РАЗНОЕ",
-    "name": "АНТУРИУМ  МИКС *12                       (Anth A Gem.Mix)",
+    "name": "АНТУРИУМ  МИКС *12               (Anth A Gem.Mix)",
     "wholesalePrice": 286.01,
     "extraPrice": 300.31,
     "retailPrice": 357.51
@@ -9584,14 +9584,6 @@
     "retailPrice": 101.53
   },
   {
-    "id": "УТ000014846",
-    "category": "..ХРИЗАНТЕМА",
-    "name": "ЛИМОНЧЕЛЛО",
-    "wholesalePrice": 81.23,
-    "extraPrice": 85.29,
-    "retailPrice": 101.53
-  },
-  {
     "id": "УТ000014874",
     "category": "..ХРИЗАНТЕМА",
     "name": "ОПТИМИСТ РОЗОВЫЙ",
@@ -12306,7 +12298,7 @@
   {
     "id": "УТ000020643",
     "category": "..,РАЗНОЕ",
-    "name": "АНТУРИУМ ПРЕВИЯ  *12                     (Previa.Nexia)",
+    "name": "АНТУРИУМ ПРЕВИЯ  *12               (Previa.Nexia)",
     "wholesalePrice": 177.79,
     "extraPrice": 186.68,
     "retailPrice": 222.24
@@ -25336,6 +25328,14 @@
     "retailPrice": 63.77
   },
   {
+    "id": "УТ000035255",
+    "category": "..ХРИЗАНТЕМА",
+    "name": "СЕРЕНИТИ СВИТ",
+    "wholesalePrice": 81.23,
+    "extraPrice": 85.29,
+    "retailPrice": 101.53
+  },
+  {
     "id": "УТ000035259",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "ОРАНЖ ГУИН 50 см куст на воде",
@@ -28616,14 +28616,6 @@
     "retailPrice": 1546
   },
   {
-    "id": "УТ000038598",
-    "category": "..ХРИЗАНТЕМА",
-    "name": ".ХРИЗ. ДЕКО КАЛИМБА ОРАНЖ",
-    "wholesalePrice": 93.53,
-    "extraPrice": 98.21,
-    "retailPrice": 116.92
-  },
-  {
     "id": "УТ000038601",
     "category": "..,РАЗНОЕ",
     "name": "АГАПАНТУС СИНИЙ",
@@ -28658,7 +28650,7 @@
   {
     "id": "УТ000038611",
     "category": "..,РАЗНОЕ",
-    "name": "АНТУРИУМ ЗЕЛЕННЫЙ *12                             ( Extase.Grand Slam.Midori)",
+    "name": "АНТУРИУМ ЗЕЛЕННЫЙ *12               ( Extase.Grand Slam.Midori)",
     "wholesalePrice": 286.01,
     "extraPrice": 300.31,
     "retailPrice": 357.51
@@ -28666,7 +28658,7 @@
   {
     "id": "УТ000038612",
     "category": "..,РАЗНОЕ",
-    "name": "АНТУРИУМ РОЗОВЫЙ  *12                         (Candy.Evita Pin.Farao)",
+    "name": "АНТУРИУМ РОЗОВЫЙ  *12               (Candy.Evita Pin.Farao)",
     "wholesalePrice": 316.93,
     "extraPrice": 332.78,
     "retailPrice": 396.16
@@ -29458,7 +29450,7 @@
   {
     "id": "УТ000038762",
     "category": "..,РАЗНОЕ",
-    "name": "АНТУРИУМ БЕЛО-КРАСНЫЙ  *12 (Lybra.Kaseko)",
+    "name": "АНТУРИУМ БЕЛО-КРАСНЫЙ  *12               (Lybra.Kaseko)",
     "wholesalePrice": 239.63,
     "extraPrice": 251.61,
     "retailPrice": 299.54
@@ -35962,7 +35954,7 @@
   {
     "id": "УТ000043650",
     "category": "..,РАЗНОЕ",
-    "name": "АНТУРИУМ ЧЕРНЫЙ  *12                             (Tropic Night.Showtime)",
+    "name": "АНТУРИУМ ЧЕРНЫЙ  *12               (Tropic Night.Showtime)",
     "wholesalePrice": 340.12,
     "extraPrice": 357.13,
     "retailPrice": 425.15
@@ -36030,6 +36022,14 @@
     "wholesalePrice": 91.21,
     "extraPrice": 95.77,
     "retailPrice": 114.02
+  },
+  {
+    "id": "УТ000043737",
+    "category": "..ХРИЗАНТЕМА",
+    "name": "ДЕЙДРИМ",
+    "wholesalePrice": 81.23,
+    "extraPrice": 85.29,
+    "retailPrice": 101.53
   },
   {
     "id": "УТ000043738",
@@ -38440,14 +38440,6 @@
     "retailPrice": 1189.45
   },
   {
-    "id": "УТ000045194",
-    "category": "..ХРИЗАНТЕМА",
-    "name": ".ХРИЗ. ДЕКО ЛАМИРА КРАСНЫЙ",
-    "wholesalePrice": 93.53,
-    "extraPrice": 98.21,
-    "retailPrice": 116.92
-  },
-  {
     "id": "УТ000045202",
     "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
     "name": "ФАЛЕНОПСИС ПАРФЮМ 12 СМ",
@@ -38962,7 +38954,7 @@
   {
     "id": "УТ000045853",
     "category": "..,РАЗНОЕ",
-    "name": "АНТУРИУМ ТЕКИЛА *12                       (Anth A Tequlia)",
+    "name": "АНТУРИУМ ТЕКИЛА *12               (Anth A Tequlia)",
     "wholesalePrice": 193.25,
     "extraPrice": 202.91,
     "retailPrice": 241.56
@@ -39698,7 +39690,7 @@
   {
     "id": "УТ000046558",
     "category": "..,РАЗНОЕ",
-    "name": "АНТУРИУМ  СОРТОВОЙ  *12                           (Safari.Silvia.Zafira.Olivius.Acura.Grace.Marea.Marysia.Peruzzi)",
+    "name": "АНТУРИУМ  СОРТОВОЙ  *12               (Safari.Silvia.Zafira.Olivius.Acura.Grace.Marea.Marysia.Peruzzi)",
     "wholesalePrice": 255.09,
     "extraPrice": 267.84,
     "retailPrice": 318.86
@@ -46392,14 +46384,6 @@
     "retailPrice": 135.28
   },
   {
-    "id": "УТ000051576",
-    "category": "..ХРИЗАНТЕМА",
-    "name": "МЕКСИКАНО",
-    "wholesalePrice": 81.23,
-    "extraPrice": 85.29,
-    "retailPrice": 101.53
-  },
-  {
     "id": "УТ000051591",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "ИВЕТТЕ 50 см РОЗА Кен/Куст. (SUBATI)",
@@ -46440,14 +46424,6 @@
     "retailPrice": 88.9
   },
   {
-    "id": "УТ000051617",
-    "category": "..ХРИЗАНТЕМА",
-    "name": "РЕСК ЛЮСИ",
-    "wholesalePrice": 81.23,
-    "extraPrice": 85.29,
-    "retailPrice": 101.53
-  },
-  {
     "id": "УТ000051618",
     "category": "..ХРИЗАНТЕМА",
     "name": ".ХРИЗ. ДЕКО СТРАВИНА",
@@ -46470,14 +46446,6 @@
     "wholesalePrice": 91.8,
     "extraPrice": 96.39,
     "retailPrice": 114.75
-  },
-  {
-    "id": "УТ000051656",
-    "category": "..ХРИЗАНТЕМА",
-    "name": ".ХРИЗ. ДЕКО АНТОНОВ КРАШ РАИНБОВ",
-    "wholesalePrice": 175.83,
-    "extraPrice": 184.62,
-    "retailPrice": 219.78
   },
   {
     "id": "УТ000051657",
@@ -54850,7 +54818,7 @@
   {
     "id": "УТ000054053",
     "category": "..,РАЗНОЕ",
-    "name": "АНТУРИУМ ТЕРРА *12                              (Anth A Terra)",
+    "name": "АНТУРИУМ ТЕРРА *12               (Anth A Terra)",
     "wholesalePrice": 239.63,
     "extraPrice": 251.61,
     "retailPrice": 299.54
@@ -56808,14 +56776,6 @@
     "retailPrice": 27731.38
   },
   {
-    "id": "УТ000055292",
-    "category": "..ХРИЗАНТЕМА",
-    "name": "СТРЕСА",
-    "wholesalePrice": 81.23,
-    "extraPrice": 85.29,
-    "retailPrice": 101.53
-  },
-  {
     "id": "УТ000055311",
     "category": "ДЕКОР КИТАЙ",
     "name": "ТЁТЯ БОЛШОЙ ДЕКОР",
@@ -57030,14 +56990,6 @@
     "wholesalePrice": 353.14,
     "extraPrice": 370.79,
     "retailPrice": 441.42
-  },
-  {
-    "id": "УТ000055441",
-    "category": "..ХРИЗАНТЕМА",
-    "name": ".ХРИЗ. ДЕКО СУПЕРБОУЛ КРАШ",
-    "wholesalePrice": 161.85,
-    "extraPrice": 169.94,
-    "retailPrice": 202.31
   },
   {
     "id": "УТ000055442",
