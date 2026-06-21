@@ -1544,6 +1544,14 @@
     "retailPrice": 1024.23
   },
   {
+    "id": "УТ000003955",
+    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
+    "name": "ГИБИСКУС 17 СМ",
+    "wholesalePrice": 1221.34,
+    "extraPrice": 1282.41,
+    "retailPrice": 1526.68
+  },
+  {
     "id": "УТ000003965",
     "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
     "name": "ГИДРАНГИЯ 10 СМ",
@@ -8024,14 +8032,6 @@
     "retailPrice": 144.94
   },
   {
-    "id": "УТ000011544",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "КОРАЛ БАБЫЛС VOORN-ROSES 60 см куст на воде",
-    "wholesalePrice": 162.33,
-    "extraPrice": 170.45,
-    "retailPrice": 202.91
-  },
-  {
     "id": "УТ000011546",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "ЛУНА ТРЕНДСЕТТЕР (VOORN-ROSES) 70 см куст на воде",
@@ -9032,9 +9032,25 @@
     "retailPrice": 230.3
   },
   {
+    "id": "УТ000014096",
+    "category": "..ТЮЛЬПАНЫ",
+    "name": "РОЯЛ ВИРДЖИН  ТЮЛЬПАН энкл.",
+    "wholesalePrice": 64.93,
+    "extraPrice": 68.18,
+    "retailPrice": 81.17
+  },
+  {
     "id": "УТ000014113",
     "category": "..ТЮЛЬПАНЫ",
     "name": "СТРОНГ ГОЛД  ТЮЛЬПАН энкл.",
+    "wholesalePrice": 64.93,
+    "extraPrice": 68.18,
+    "retailPrice": 81.17
+  },
+  {
+    "id": "УТ000014114",
+    "category": "..ТЮЛЬПАНЫ",
+    "name": "СТРОНГ ЛАВ  ТЮЛЬПАН энкл.",
     "wholesalePrice": 64.93,
     "extraPrice": 68.18,
     "retailPrice": 81.17
