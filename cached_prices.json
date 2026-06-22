@@ -9272,14 +9272,6 @@
     "retailPrice": 2421.88
   },
   {
-    "id": "УТ000014550",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "ФИКУС МОКЛАЙН РЕШЕТКА 27/110 СМ",
-    "wholesalePrice": 8757.5,
-    "extraPrice": 9195.38,
-    "retailPrice": 10946.88
-  },
-  {
     "id": "УТ000014557",
     "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
     "name": "ФИКУС НАТАША 12 СМ",
@@ -9483,6 +9475,14 @@
     "id": "УТ000014793",
     "category": "..ХРИЗАНТЕМА",
     "name": "ГАЙДАР",
+    "wholesalePrice": 77.37,
+    "extraPrice": 81.24,
+    "retailPrice": 96.71
+  },
+  {
+    "id": "УТ000014811",
+    "category": "..ХРИЗАНТЕМА",
+    "name": "ЕВРО БЕЛЫЙ",
     "wholesalePrice": 77.37,
     "extraPrice": 81.24,
     "retailPrice": 96.71
@@ -18222,14 +18222,6 @@
     "wholesalePrice": 99.07,
     "extraPrice": 104.02,
     "retailPrice": 123.84
-  },
-  {
-    "id": "УТ000029091",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "РЕД ПАНТЕРА -  80 см",
-    "wholesalePrice": 111.96,
-    "extraPrice": 117.56,
-    "retailPrice": 139.96
   },
   {
     "id": "УТ000029092",
