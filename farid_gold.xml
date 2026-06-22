@@ -1,4 +1,4 @@
-<PriceList date="22.06.2026 15:13:45">
+<PriceList date="22.06.2026 16:02:27">
 	<GroupsOfGoods>
 		<Group ID="ÓÒ000028416" Name="ÑÓÕÈÅ ÐÎÇÛ" ParentID="" ParentName=""/>
 		<Group ID="ÓÒ000032724" Name="..,ÐÎÇÀ ,ÌÅÑÒÍÀß" ParentID="" ParentName=""/>
@@ -5705,6 +5705,9 @@ S:28X18XH12.5XB21X14
 " Price="429,35" PriceRetail="536,69" PriceExt="450,82" ParentID="ÓÒ000002217" ParentName="ÊÎÐÇÈÍÀ"/>
 		<Item ID="ÓÒ000028513" Name=" Êîðçèíà Áàìáóê - 14594" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="99,98" PriceRetail="124,97" PriceExt="104,97" ParentID="ÓÒ000002217" ParentName="ÊÎÐÇÈÍÀ"/>
 		<Item ID="ÓÒ000028515" Name=" Êîðçèíà Áàìáóê - 14598" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="99,98" PriceRetail="124,97" PriceExt="104,97" ParentID="ÓÒ000002217" ParentName="ÊÎÐÇÈÍÀ"/>
+		<Item ID="ÓÒ000028518" Name="Êîðçèíà - 8728203" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="L:44x30xH14/19xHH42xB28x19
+M:35x24xH12/17xHH37xB23x15
+S:29x19xH10/14xHH32xB19x12" Price="902,10" PriceRetail="1127,63" PriceExt="947,21" ParentID="ÓÒ000002217" ParentName="ÊÎÐÇÈÍÀ"/>
 		<Item ID="ÓÒ000028522" Name="Êîðçèíà - 8882403" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="&quot;L:46x40 H15 HH40 B28
 M:40x33 H13 HH35 B24
 S:35x29 H12 HH30 B21&quot;
@@ -7736,6 +7739,7 @@ S:D26xH11xHH31xB20" Price="916,83" PriceRetail="1146,03" PriceExt="962,67" Paren
 		<Item ID="ÓÒ000035203" Name="ÌÈÊÑ 50 ñì ÐÎÇÀ Êåíèÿ (BARAKA)" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="47,28" PriceRetail="59,09" PriceExt="49,64" ParentID="ÓÒ000002221" ParentName="..ÐÎÇÀ ÊÅÍÈß"/>
 		<Item ID="ÓÒ000035204" Name="ÌÈÊÑ 60 ñì ÐÎÇÀ Êåíèÿ (BARAKA)" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="55,03" PriceRetail="68,78" PriceExt="57,78" ParentID="ÓÒ000002221" ParentName="..ÐÎÇÀ ÊÅÍÈß"/>
 		<Item ID="ÓÒ000035210" Name="ÐÎÑÅÒÎ ÌÈÊÑ 50 ñì ÐÎÇÀ Êåíèÿ (ROSETO)" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="51,15" PriceRetail="63,94" PriceExt="53,71" ParentID="ÓÒ000002221" ParentName="..ÐÎÇÀ ÊÅÍÈß"/>
+		<Item ID="ÓÒ000036037" Name="ÄÆÓÌÈËÈß 40 ñì ÐÎÇÀ Êåíèÿ (HERITAGE)" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="37,20" PriceRetail="46,50" PriceExt="39,06" ParentID="ÓÒ000002221" ParentName="..ÐÎÇÀ ÊÅÍÈß"/>
 		<Item ID="ÓÒ000036038" Name="ÌÈÊÑ 70 ñì ÐÎÇÀ Êåíèÿ (BARAKA)" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="65,10" PriceRetail="81,38" PriceExt="68,36" ParentID="ÓÒ000002221" ParentName="..ÐÎÇÀ ÊÅÍÈß"/>
 		<Item ID="ÓÒ000036987" Name="ÝÂÅÐ ÐÅÄ 40 ñì ÐÎÇÀ Êåíèÿ (BARAKA)" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="48,05" PriceRetail="60,06" PriceExt="50,45" ParentID="ÓÒ000002221" ParentName="..ÐÎÇÀ ÊÅÍÈß"/>
 		<Item ID="ÓÒ000036988" Name="ÝÂÅÐ ÐÅÄ 50 ñì ÐÎÇÀ Êåíèÿ (BARAKA)" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="55,03" PriceRetail="68,78" PriceExt="57,78" ParentID="ÓÒ000002221" ParentName="..ÐÎÇÀ ÊÅÍÈß"/>
