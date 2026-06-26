@@ -9584,14 +9584,6 @@
     "retailPrice": 86.88
   },
   {
-    "id": "УТ000014972",
-    "category": "..ХРИЗАНТЕМА",
-    "name": ".ХРИЗ. ДЕКО АНТОНОВ",
-    "wholesalePrice": 87.55,
-    "extraPrice": 91.93,
-    "retailPrice": 109.44
-  },
-  {
     "id": "УТ000014976",
     "category": "..ХРИЗАНТЕМА",
     "name": ".ХРИЗ. ДЕКО БРАСИЛИАНА",
@@ -24344,14 +24336,6 @@
     "retailPrice": 225.23
   },
   {
-    "id": "УТ000034210",
-    "category": "..ХРИЗАНТЕМА",
-    "name": ".ХРИЗ. ДЕКО СУПЕРБОУЛ",
-    "wholesalePrice": 87.55,
-    "extraPrice": 91.93,
-    "retailPrice": 109.44
-  },
-  {
     "id": "УТ000034213",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "ОРАНЖ ГУИН 60 см куст на воде",
@@ -26147,14 +26131,6 @@
     "id": "УТ000036163",
     "category": "..ХРИЗАНТЕМА",
     "name": "НЬЮТОН",
-    "wholesalePrice": 69.5,
-    "extraPrice": 72.98,
-    "retailPrice": 86.88
-  },
-  {
-    "id": "УТ000036165",
-    "category": "..ХРИЗАНТЕМА",
-    "name": "КОМАНДИР",
     "wholesalePrice": 69.5,
     "extraPrice": 72.98,
     "retailPrice": 86.88
@@ -42762,7 +42738,7 @@
   {
     "id": "УТ000048986",
     "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "ФИКУС ЭЛАСТИКА МИКС 9 СМ КИТАЙ",
+    "name": "ФИКУС ЭЛАСТИКА МИКС  9 СМ КИТАЙ",
     "wholesalePrice": 165.6,
     "extraPrice": 173.88,
     "retailPrice": 207
@@ -42826,7 +42802,7 @@
   {
     "id": "УТ000049011",
     "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "ФИЛОДЕНДРОН БИРКИН 9 СМ КИТАЙ",
+    "name": "ФИЛОДЕНДРОН БИРКИН  9 СМ КИТАЙ",
     "wholesalePrice": 228.09,
     "extraPrice": 239.5,
     "retailPrice": 285.11
@@ -42882,10 +42858,10 @@
   {
     "id": "УТ000049025",
     "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "СИНГОНИУМ 9 СМ КИТАЙ",
-    "wholesalePrice": 131.04,
-    "extraPrice": 137.59,
-    "retailPrice": 163.8
+    "name": "СИНГОНИУМ  9 СМ КИТАЙ",
+    "wholesalePrice": 149.66,
+    "extraPrice": 157.14,
+    "retailPrice": 187.07
   },
   {
     "id": "УТ000049031",
@@ -49315,9 +49291,9 @@
     "id": "УТ000052156",
     "category": ".КОМНАТНЫЕ КИТАЙ",
     "name": "МОНСТЕРА 28 СМ  КИТАЙ",
-    "wholesalePrice": 2084.36,
-    "extraPrice": 2188.57,
-    "retailPrice": 2605.44
+    "wholesalePrice": 4095,
+    "extraPrice": 4299.75,
+    "retailPrice": 5118.75
   },
   {
     "id": "УТ000052160",
@@ -50083,9 +50059,9 @@
     "id": "УТ000052709",
     "category": ".КОМНАТНЫЕ КИТАЙ",
     "name": "МУРАЯ 14 СМ  КИТАЙ",
-    "wholesalePrice": 275.18,
-    "extraPrice": 288.94,
-    "retailPrice": 343.98
+    "wholesalePrice": 343.98,
+    "extraPrice": 361.18,
+    "retailPrice": 429.98
   },
   {
     "id": "УТ000052719",
@@ -50099,9 +50075,9 @@
     "id": "УТ000052720",
     "category": ".КОМНАТНЫЕ КИТАЙ",
     "name": "ПОРТУЛАКАРИЯ АФРА 12 СМ КИТАЙ",
-    "wholesalePrice": 262.08,
-    "extraPrice": 275.18,
-    "retailPrice": 327.6
+    "wholesalePrice": 349.69,
+    "extraPrice": 367.17,
+    "retailPrice": 437.11
   },
   {
     "id": "УТ000052721",
@@ -53555,9 +53531,9 @@
     "id": "УТ000053626",
     "category": ".КОМНАТНЫЕ КИТАЙ",
     "name": "ЭПИПРЕМНУМ 12 СМ КИТАЙ",
-    "wholesalePrice": 217.04,
-    "extraPrice": 227.89,
-    "retailPrice": 271.29
+    "wholesalePrice": 327.6,
+    "extraPrice": 343.98,
+    "retailPrice": 409.5
   },
   {
     "id": "УТ000053628",
@@ -54027,9 +54003,9 @@
     "id": "УТ000053690",
     "category": ".КОМНАТНЫЕ КИТАЙ",
     "name": "СТРЕЛИЦИЯ 30\\180 СМ КИТАЙ",
-    "wholesalePrice": 5323.5,
-    "extraPrice": 5589.68,
-    "retailPrice": 6654.38
+    "wholesalePrice": 6142.5,
+    "extraPrice": 6449.63,
+    "retailPrice": 7678.13
   },
   {
     "id": "УТ000053692",
@@ -54050,7 +54026,7 @@
   {
     "id": "УТ000053698",
     "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "ФИЛОДЕНДРОН 9 СМ КИТАЙ",
+    "name": "ФИЛОДЕНДРОН  9 СМ КИТАЙ",
     "wholesalePrice": 274.14,
     "extraPrice": 287.84,
     "retailPrice": 342.67
@@ -58051,14 +58027,14 @@
     "id": "УТ000056103",
     "category": ".КОМНАТНЫЕ КИТАЙ",
     "name": "ДАВАЛЬЯ 12 СМ КИТАЙ",
-    "wholesalePrice": 204.75,
-    "extraPrice": 214.99,
-    "retailPrice": 255.94
+    "wholesalePrice": 327.6,
+    "extraPrice": 343.98,
+    "retailPrice": 409.5
   },
   {
     "id": "УТ000056104",
     "category": ".КОМНАТНЫЕ КИТАЙ",
-    "name": "БЛЕСНУМ 9 СМ КИТАЙ",
+    "name": "БЛЕХНУМ 9 СМ КИТАЙ",
     "wholesalePrice": 140.87,
     "extraPrice": 147.91,
     "retailPrice": 176.09
@@ -58115,9 +58091,9 @@
     "id": "УТ000056111",
     "category": ".КОМНАТНЫЕ КИТАЙ",
     "name": "МЕДИНЕЛЛА 14 СМ КИТАЙ",
-    "wholesalePrice": 1298.12,
-    "extraPrice": 1363.02,
-    "retailPrice": 1622.64
+    "wholesalePrice": 900.9,
+    "extraPrice": 945.95,
+    "retailPrice": 1126.13
   },
   {
     "id": "УТ000056112",
@@ -58139,9 +58115,9 @@
     "id": "УТ000056115",
     "category": ".КОМНАТНЫЕ КИТАЙ",
     "name": "СТРЕЛИЦИЯ 30\\150 СМ КИТАЙ",
-    "wholesalePrice": 4504.5,
-    "extraPrice": 4729.73,
-    "retailPrice": 5630.63
+    "wholesalePrice": 5323.5,
+    "extraPrice": 5589.68,
+    "retailPrice": 6654.38
   },
   {
     "id": "УТ000056116",
@@ -58155,9 +58131,9 @@
     "id": "УТ000056117",
     "category": ".КОМНАТНЫЕ КИТАЙ",
     "name": "МОНСТЕРА МОНКИ 12 СМ  КИТАЙ",
-    "wholesalePrice": 262.08,
-    "extraPrice": 275.18,
-    "retailPrice": 327.6
+    "wholesalePrice": 327.6,
+    "extraPrice": 343.98,
+    "retailPrice": 409.5
   },
   {
     "id": "УТ000056119",
