@@ -1,4 +1,4 @@
-<PriceList date="27.06.2026 13:11:28">
+<PriceList date="27.06.2026 13:59:50">
 	<GroupsOfGoods>
 		<Group ID="ÓÒ000028416" Name="ÑÓÕÈÅ ÐÎÇÛ" ParentID="" ParentName=""/>
 		<Group ID="ÓÒ000032724" Name="..,ÐÎÇÀ ,ÌÅÑÒÍÀß" ParentID="" ParentName=""/>
@@ -5490,6 +5490,7 @@ D - 85
 		<Item ID="ÓÒ000055200" Name="ÑÎÔÈÀ 50 ñì ÐÎÇÀ Êåí/Êóñò. (KAREN)" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="86,63" PriceRetail="108,28" PriceExt="90,96" ParentID="ÓÒ000002215" ParentName="..ÐÎÇÀ ÊÅÍÈß ÊÓÑÒÎÂÀß"/>
 		<Item ID="ÓÒ000055352" Name="ÑÎÔÈÀ 60 ñì ÐÎÇÀ Êåí/Êóñò. (KAREN)" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="96,53" PriceRetail="120,66" PriceExt="101,35" ParentID="ÓÒ000002215" ParentName="..ÐÎÇÀ ÊÅÍÈß ÊÓÑÒÎÂÀß"/>
 		<Item ID="ÓÒ000055396" Name="ÌÈÐÀÁÅË 60 ñì ÐÎÇÀ Êåí/Êóñò. (MONA FLOWERS)" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="82,50" PriceRetail="103,13" PriceExt="86,63" ParentID="ÓÒ000002215" ParentName="..ÐÎÇÀ ÊÅÍÈß ÊÓÑÒÎÂÀß"/>
+		<Item ID="ÓÒ000055416" Name="ÐÅÔËÅÊÑ 60 ñì ÐÎÇÀ Êåí/Êóñò. (MONA FLOWERS)" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="82,50" PriceRetail="103,13" PriceExt="86,63" ParentID="ÓÒ000002215" ParentName="..ÐÎÇÀ ÊÅÍÈß ÊÓÑÒÎÂÀß"/>
 		<Item ID="ÓÒ000055588" Name="ÌÈÊÑ 50 ñì ÐÎÇÀ Êåí/Êóñò. (MONA FLOWERS)" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="70,13" PriceRetail="87,66" PriceExt="73,63" ParentID="ÓÒ000002215" ParentName="..ÐÎÇÀ ÊÅÍÈß ÊÓÑÒÎÂÀß"/>
 		<Item ID="ÓÒ000055876" Name="ÈÍ ËÎÂÅ 60 ñì ÐÎÇÀ Êåí/Êóñò. (KAREN)" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="96,53" PriceRetail="120,66" PriceExt="101,35" ParentID="ÓÒ000002215" ParentName="..ÐÎÇÀ ÊÅÍÈß ÊÓÑÒÎÂÀß"/>
 		<Item ID="ÓÒ000056050" Name="ÃÓÄ ÌÓÄ 60 ñì ÐÎÇÀ Êåí/Êóñò. (ROSETO)" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="94,88" PriceRetail="118,59" PriceExt="99,62" ParentID="ÓÒ000002215" ParentName="..ÐÎÇÀ ÊÅÍÈß ÊÓÑÒÎÂÀß"/>
@@ -6403,10 +6404,6 @@ S:D23XH10/18XHH52XB12
  M:D33xH13xHH34xB25cm 
 S:D28xH11xHH28xB20cm
 " Price="1041,98" PriceRetail="1302,47" PriceExt="1094,07" ParentID="ÓÒ000002217" ParentName="ÊÎÐÇÈÍÀ"/>
-		<Item ID="ÓÒ000041360" Name="Êîðçèíà - 8251403" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="L:37x32xH14xHH36xB32x25                 
-M:32x26xH12xHH31xB26x20               
-S:27x20xH10xHH29xB21x1
-" Price="1089,00" PriceRetail="1361,25" PriceExt="1143,45" ParentID="ÓÒ000002217" ParentName="ÊÎÐÇÈÍÀ"/>
 		<Item ID="ÓÒ000041747" Name="Êîðçèíà - 017703" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="L:45x34xH12/18xHH39xB32x24cm 
 M:39x30xH10/16xHH33xB28x21cm
 S:33x25xH10/13XHH29xB24x17cm
