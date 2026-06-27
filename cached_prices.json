@@ -10520,14 +10520,6 @@
     "retailPrice": 1701.56
   },
   {
-    "id": "УТ000017085",
-    "category": "..,РАЗНОЕ",
-    "name": "ДАХЛИА КРАСНОДАР",
-    "wholesalePrice": 247.5,
-    "extraPrice": 259.88,
-    "retailPrice": 309.38
-  },
-  {
     "id": "УТ000017129",
     "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
     "name": "ФИКУС АУДРЕЙ 12 СМ",
@@ -30280,6 +30272,14 @@
     "retailPrice": 159.84
   },
   {
+    "id": "УТ000039200",
+    "category": "ВАЗЫ И КЕРАМИКА",
+    "name": "ПЛАСТИК ГОРШОК ФИТА 19 СМ",
+    "wholesalePrice": 249.15,
+    "extraPrice": 261.61,
+    "retailPrice": 311.44
+  },
+  {
     "id": "УТ000039207",
     "category": "НОВЫЙ ГОД",
     "name": "НОВОГОДНИЕ ИГРУШКИ YW 274",
@@ -36099,9 +36099,9 @@
     "id": "УТ000043613",
     "category": "..,РАЗНОЕ",
     "name": "ДАХЛИА ГОЛЛ",
-    "wholesalePrice": 158.4,
-    "extraPrice": 166.32,
-    "retailPrice": 198
+    "wholesalePrice": 168.3,
+    "extraPrice": 176.72,
+    "retailPrice": 210.38
   },
   {
     "id": "УТ000043615",
