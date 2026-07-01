@@ -1,7 +1,8 @@
 @echo off
 setlocal EnableExtensions
 
-cd /d "C:\Users\User\Desktop\PROJECTS\gfcc-price-api-server-main" || exit /b 1
+REM Always run from the directory containing this script, even if the project is moved.
+cd /d "%~dp0" || exit /b 1
 
 set "NODE_EXE=C:\Program Files\nodejs\node.exe"
 set "GIT_EXE=C:\Program Files\Git\bin\git.exe"
