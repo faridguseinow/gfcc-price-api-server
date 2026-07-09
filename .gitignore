@@ -1,5 +1,6 @@
 .env
 auto-push.env
+sync-status.json
 log.txt
 *.log
 node_modules/log.txt

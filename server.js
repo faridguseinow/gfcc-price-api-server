@@ -3,8 +3,15 @@ const fs = require('fs');
 const fsp = require('fs/promises');
 const path = require('path');
 
+function parsePositiveInt(value, fallback) {
+  const parsed = Number.parseInt(value, 10);
+  return Number.isFinite(parsed) && parsed > 0 ? parsed : fallback;
+}
+
 const app = express();
 const PORT = process.env.PORT || 3001;
+const MAX_CACHE_AGE_MINUTES = parsePositiveInt(process.env.PRICE_CACHE_MAX_AGE_MINUTES || '70', 70);
+const ENFORCE_FRESH_CACHE = process.env.PRICE_CACHE_ENFORCE_FRESHNESS !== 'false';
 const CACHE_FILE = process.env.PRICE_CACHE_FILE
   ? path.resolve(process.env.PRICE_CACHE_FILE)
   : path.join(__dirname, 'cached_prices.json');
@@ -55,6 +62,9 @@ function getCacheInfo() {
       hasCache: true,
       validJson,
       updatedAt: stat.mtime.toISOString(),
+      ageMinutes: Math.round((Date.now() - stat.mtimeMs) / 60000),
+      maxAgeMinutes: MAX_CACHE_AGE_MINUTES,
+      stale: (Date.now() - stat.mtimeMs) / 60000 > MAX_CACHE_AGE_MINUTES,
       size: stat.size,
       items,
       path: CACHE_FILE,
@@ -68,9 +78,10 @@ function getCacheInfo() {
 app.get('/health', (req, res) => {
   const cache = getCacheInfo();
   res.json({
-    ok: cache.hasCache && cache.validJson,
+    ok: cache.hasCache && cache.validJson && !cache.stale,
     uptimeSeconds: Math.round(process.uptime()),
     startedAt: SERVICE_STARTED_AT.toISOString(),
+    enforceFreshCache: ENFORCE_FRESH_CACHE,
     cache,
     time: new Date().toISOString(),
   });
@@ -78,6 +89,26 @@ app.get('/health', (req, res) => {
 
 app.get('/api/prices', async (req, res) => {
   try {
+    const cache = getCacheInfo();
+    if (!cache.hasCache) {
+      return res.status(503).json({ error: 'Price cache is not ready' });
+    }
+
+    if (!cache.validJson) {
+      return res.status(500).json({ error: 'Price cache is invalid' });
+    }
+
+    if (ENFORCE_FRESH_CACHE && cache.stale) {
+      res.setHeader('Cache-Control', 'no-store');
+      res.setHeader('Retry-After', '300');
+      return res.status(503).json({
+        error: 'Price cache is stale',
+        updatedAt: cache.updatedAt,
+        ageMinutes: cache.ageMinutes,
+        maxAgeMinutes: cache.maxAgeMinutes,
+      });
+    }
+
     const raw = await fsp.readFile(CACHE_FILE, 'utf8');
     const prices = parsePriceCache(raw);
 
@@ -115,6 +146,7 @@ app.listen(PORT, () => {
   console.log(`[startup] Working directory: ${process.cwd()}`);
   console.log(`[startup] Cache file: ${CACHE_FILE}`);
   console.log(`[startup] Cache status: ${JSON.stringify(cache)}`);
+  console.log(`[startup] Cache freshness policy: maxAge=${MAX_CACHE_AGE_MINUTES}m enforce=${ENFORCE_FRESH_CACHE}`);
   console.log('[startup] FTP sync is disabled in server.js; Render serves cached_prices.json from GitHub.');
 });
 
