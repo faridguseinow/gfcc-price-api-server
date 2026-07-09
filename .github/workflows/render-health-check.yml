@@ -1,0 +1,75 @@
+name: Render Health Check
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+
+jobs:
+  check-render-health:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check Render health endpoint
+        env:
+          HEALTH_URL: ${{ vars.PRICE_API_HEALTH_URL || 'https://gfcc-price-api-server.onrender.com/health' }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          node <<'EOF'
+          async function sendTelegram(text) {
+            if (!process.env.TELEGRAM_BOT_TOKEN || !process.env.TELEGRAM_CHAT_ID) {
+              console.log('Telegram secrets are not configured; skipping Telegram alert.');
+              return;
+            }
+
+            const response = await fetch(`https://api.telegram.org/bot${process.env.TELEGRAM_BOT_TOKEN}/sendMessage`, {
+              method: 'POST',
+              headers: { 'Content-Type': 'application/json' },
+              body: JSON.stringify({
+                chat_id: process.env.TELEGRAM_CHAT_ID,
+                text,
+              }),
+            });
+
+            if (!response.ok) {
+              throw new Error(`Telegram API returned ${response.status}: ${await response.text()}`);
+            }
+          }
+
+          async function main() {
+            const healthUrl = process.env.HEALTH_URL;
+            const response = await fetch(healthUrl, {
+              headers: { 'Cache-Control': 'no-cache' },
+            });
+
+            if (!response.ok) {
+              const message = `GFCC Render health check failed\nURL: ${healthUrl}\nHTTP: ${response.status}`;
+              await sendTelegram(message);
+              throw new Error(message);
+            }
+
+            const payload = await response.json();
+            if (!payload.ok) {
+              const cache = payload.cache || {};
+              const message = [
+                'GFCC Render price cache is stale or invalid',
+                `URL: ${healthUrl}`,
+                `Updated at: ${cache.updatedAt || 'unknown'}`,
+                `Age minutes: ${cache.ageMinutes ?? 'unknown'}`,
+                `Max age minutes: ${cache.maxAgeMinutes ?? 'unknown'}`,
+                `Has cache: ${cache.hasCache}`,
+                `Valid JSON: ${cache.validJson}`,
+                `Stale: ${cache.stale}`,
+              ].join('\n');
+              await sendTelegram(message);
+              throw new Error(message);
+            }
+
+            console.log('Render health is OK.');
+          }
+
+          main().catch((err) => {
+            console.error(err.message);
+            process.exit(1);
+          });
+          EOF

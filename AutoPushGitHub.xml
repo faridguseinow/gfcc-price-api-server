@@ -15,7 +15,7 @@
       </ScheduleByDay>
 
       <Repetition>
-        <Interval>PT1H</Interval>
+        <Interval>PT15M</Interval>
         <StopAtDurationEnd>false</StopAtDurationEnd>
       </Repetition>
 
