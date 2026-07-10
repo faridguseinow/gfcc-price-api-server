@@ -7,6 +7,14 @@ const ENV_FILE = path.join(ROOT_DIR, 'auto-push.env');
 const STATUS_FILE = path.join(ROOT_DIR, 'sync-status.json');
 const UPDATE_SCRIPT = path.join(ROOT_DIR, 'update-price.js');
 const TRACKED_FILES = ['cached_prices.json', 'farid_gold.xml'];
+const ERROR_TYPES = {
+  FTP_ERROR: 'FTP_ERROR',
+  XML_PARSE_ERROR: 'XML_PARSE_ERROR',
+  PRICE_STALE: 'PRICE_STALE',
+  PRICE_UNCHANGED_TOO_LONG: 'PRICE_UNCHANGED_TOO_LONG',
+  GIT_PUSH_ERROR: 'GIT_PUSH_ERROR',
+  SERVER_ERROR: 'SERVER_ERROR',
+};
 
 loadEnvFile(ENV_FILE);
 
@@ -17,16 +25,21 @@ const FETCH_RETRIES = parsePositiveInt(process.env.FETCH_RETRIES, 3);
 const RETRY_DELAY_SECONDS = parsePositiveInt(process.env.RETRY_DELAY_SECONDS, 15);
 const FAILURE_REMINDER_MINUTES = parsePositiveInt(process.env.TELEGRAM_FAILURE_REMINDER_MINUTES, 180);
 const TELEGRAM_NOTIFY_SUCCESS = /^(1|true|yes)$/i.test(process.env.TELEGRAM_NOTIFY_SUCCESS || '');
+const MAX_PRICE_AGE_MINUTES = parsePositiveInt(process.env.PRICE_CACHE_MAX_AGE_MINUTES, 70);
+const UNCHANGED_STREAK_LIMIT = parsePositiveInt(process.env.PRICE_UNCHANGED_STREAK_LIMIT, 3);
 
 main().catch(async (err) => {
-  console.error('[sync] Fatal error:', err.message);
-  await handleFailure('fatal', err.message);
+  const typedError = normalizeError(err);
+  console.error(`[sync] ${typedError.type}:`, typedError.message);
+  await handleFailure(typedError);
   process.exit(1);
 });
 
 async function main() {
   const startedAt = new Date().toISOString();
   const status = readStatus();
+  const previousSuccessAgeMinutes = getAgeMinutes(status.lastSuccessAt);
+  const previousPriceFileMtime = status.lastPriceFileMtime || null;
   writeStatus({
     ...status,
     lastAttemptAt: startedAt,
@@ -40,30 +53,65 @@ async function main() {
 
   runNodeScript(UPDATE_SCRIPT);
 
-  runGit(['add', ...TRACKED_FILES], 'git add failed');
+  runGit(['add', ...TRACKED_FILES], 'git add failed', ERROR_TYPES.SERVER_ERROR);
 
   const hasStagedPriceChanges = !isGitQuiet(['diff', '--cached', '--quiet']);
   let createdCommit = false;
+  let unchangedStreak = 0;
+  const cacheStat = fs.statSync(path.join(ROOT_DIR, 'cached_prices.json'));
+  const currentPriceFileMtime = cacheStat.mtime.toISOString();
+  const didPriceFileTimestampChange = previousPriceFileMtime !== currentPriceFileMtime;
 
   if (hasStagedPriceChanges) {
-    runGit(['commit', '-m', 'server farid_gf price updated'], 'git commit failed');
+    runGit(['commit', '-m', 'server farid_gf price updated'], 'git commit failed', ERROR_TYPES.SERVER_ERROR);
     createdCommit = true;
+    console.log('[CHECK] Price file updated');
   } else {
-    console.log('[sync] No file changes after price update.');
+    unchangedStreak = (status.unchangedStreak || 0) + 1;
+    console.log(`[CHECK] Price file unchanged (${unchangedStreak}/${UNCHANGED_STREAK_LIMIT})`);
   }
 
   const syncResult = syncWithRemote();
 
-  const cacheStat = fs.statSync(path.join(ROOT_DIR, 'cached_prices.json'));
+  if (!hasStagedPriceChanges && previousSuccessAgeMinutes !== null && previousSuccessAgeMinutes > MAX_PRICE_AGE_MINUTES) {
+    throw createTypedError(
+      ERROR_TYPES.PRICE_STALE,
+      `Last successful sync is ${previousSuccessAgeMinutes} minutes old, above the ${MAX_PRICE_AGE_MINUTES}-minute limit.`,
+      {
+        currentPriceFileMtime,
+        previousPriceFileMtime,
+        unchangedStreak,
+        previousSuccessAgeMinutes,
+      }
+    );
+  }
+
+  if (!hasStagedPriceChanges && unchangedStreak >= UNCHANGED_STREAK_LIMIT) {
+    throw createTypedError(
+      ERROR_TYPES.PRICE_UNCHANGED_TOO_LONG,
+      `Price file did not change for ${unchangedStreak} consecutive runs.`,
+      {
+        currentPriceFileMtime,
+        previousPriceFileMtime,
+        unchangedStreak,
+        previousSuccessAgeMinutes,
+      }
+    );
+  }
+
+  const successTime = new Date().toISOString();
   const newStatus = {
     ...readStatus(),
     lastAttemptAt: startedAt,
-    lastSuccessAt: new Date().toISOString(),
+    lastSuccessAt: successTime,
     lastOutcome: 'success',
     lastError: null,
-    lastPriceFileMtime: cacheStat.mtime.toISOString(),
+    lastErrorType: null,
+    unchangedStreak,
+    lastPriceFileMtime: currentPriceFileMtime,
     lastPriceFileSize: cacheStat.size,
-    lastCommittedUpdateAt: createdCommit ? new Date().toISOString() : status.lastCommittedUpdateAt || null,
+    lastPriceFileTimestampChanged: didPriceFileTimestampChange,
+    lastCommittedUpdateAt: createdCommit ? successTime : status.lastCommittedUpdateAt || null,
     lastPushAt: syncResult.pushedAt,
     lastPushCommit: syncResult.headCommit,
   };
@@ -103,7 +151,7 @@ function parsePositiveInt(value, fallback) {
 function ensureRequiredEnv(keys) {
   for (const key of keys) {
     if (!process.env[key]) {
-      throw new Error(`ENV ${key} is not set`);
+      throw createTypedError(ERROR_TYPES.SERVER_ERROR, `ENV ${key} is not set`);
     }
   }
 }
@@ -111,37 +159,47 @@ function ensureRequiredEnv(keys) {
 function ensureCurrentBranch() {
   const branch = runGitCapture(['rev-parse', '--abbrev-ref', 'HEAD'], 'failed to detect current git branch');
   if (branch !== PUSH_BRANCH) {
-    throw new Error(`current branch is ${branch}, expected ${PUSH_BRANCH}`);
+    throw createTypedError(ERROR_TYPES.SERVER_ERROR, `current branch is ${branch}, expected ${PUSH_BRANCH}`);
   }
 }
 
 function ensureCleanWorktree() {
   if (!isGitQuiet(['diff', '--quiet'])) {
-    throw new Error('working tree has unstaged changes; aborting auto sync');
+    throw createTypedError(ERROR_TYPES.SERVER_ERROR, 'working tree has unstaged changes; aborting auto sync');
   }
   if (!isGitQuiet(['diff', '--cached', '--quiet'])) {
-    throw new Error('working tree has staged changes; aborting auto sync');
+    throw createTypedError(ERROR_TYPES.SERVER_ERROR, 'working tree has staged changes; aborting auto sync');
   }
 }
 
 function runNodeScript(scriptPath) {
   const result = spawnSync(process.execPath, [scriptPath], {
     cwd: ROOT_DIR,
-    stdio: 'inherit',
+    encoding: 'utf8',
+    stdio: ['ignore', 'pipe', 'pipe'],
     env: process.env,
   });
 
+  const stdout = result.stdout || '';
+  const stderr = result.stderr || '';
+  if (stdout) {
+    process.stdout.write(stdout);
+  }
+  if (stderr) {
+    process.stderr.write(stderr);
+  }
+
   if (result.error) {
-    throw result.error;
+    throw createTypedError(ERROR_TYPES.SERVER_ERROR, result.error.message);
   }
   if (result.status !== 0) {
-    throw new Error(`${path.basename(scriptPath)} failed with exit code ${result.status}`);
+    throw classifyUpdateScriptFailure(stdout, stderr, result.status);
   }
 }
 
 function syncWithRemote() {
-  retryOperation('git fetch', FETCH_RETRIES, () => runGit(['fetch', PUSH_REMOTE, PUSH_BRANCH], 'git fetch failed'));
-  retryOperation('git pull --rebase', FETCH_RETRIES, () => runGit(['pull', '--rebase', PUSH_REMOTE, PUSH_BRANCH], 'git pull --rebase failed'));
+  retryOperation('git fetch', FETCH_RETRIES, () => runGit(['fetch', PUSH_REMOTE, PUSH_BRANCH], 'git fetch failed', ERROR_TYPES.GIT_PUSH_ERROR));
+  retryOperation('git pull --rebase', FETCH_RETRIES, () => runGit(['pull', '--rebase', PUSH_REMOTE, PUSH_BRANCH], 'git pull --rebase failed', ERROR_TYPES.GIT_PUSH_ERROR));
 
   const aheadBeforePush = getAheadCount();
   if (aheadBeforePush === 0) {
@@ -154,7 +212,7 @@ function syncWithRemote() {
 
   retryOperation('git push', PUSH_RETRIES, () => {
     console.log(`[sync] Push attempt in progress to ${PUSH_REMOTE}/${PUSH_BRANCH}`);
-    runGit(['push', PUSH_REMOTE, PUSH_BRANCH], 'git push failed');
+    runGit(['push', PUSH_REMOTE, PUSH_BRANCH], 'git push failed', ERROR_TYPES.GIT_PUSH_ERROR);
   }, true);
 
   return {
@@ -175,14 +233,14 @@ function retryOperation(label, attempts, fn, refreshBeforeRetry = false) {
   for (let attempt = 1; attempt <= attempts; attempt += 1) {
     try {
       if (attempt > 1 && refreshBeforeRetry) {
-        runGit(['fetch', PUSH_REMOTE, PUSH_BRANCH], `git fetch failed before retrying ${label}`);
-        runGit(['pull', '--rebase', PUSH_REMOTE, PUSH_BRANCH], `git pull --rebase failed before retrying ${label}`);
+        runGit(['fetch', PUSH_REMOTE, PUSH_BRANCH], `git fetch failed before retrying ${label}`, ERROR_TYPES.GIT_PUSH_ERROR);
+        runGit(['pull', '--rebase', PUSH_REMOTE, PUSH_BRANCH], `git pull --rebase failed before retrying ${label}`, ERROR_TYPES.GIT_PUSH_ERROR);
       }
 
       fn();
       return;
     } catch (err) {
-      lastError = err;
+      lastError = normalizeError(err);
       if (attempt === attempts) {
         break;
       }
@@ -194,7 +252,7 @@ function retryOperation(label, attempts, fn, refreshBeforeRetry = false) {
   throw lastError;
 }
 
-function runGit(args, errorMessage) {
+function runGit(args, errorMessage, errorType = ERROR_TYPES.SERVER_ERROR) {
   const result = spawnSync('git', args, {
     cwd: ROOT_DIR,
     stdio: 'inherit',
@@ -202,10 +260,10 @@ function runGit(args, errorMessage) {
   });
 
   if (result.error) {
-    throw result.error;
+    throw createTypedError(errorType, result.error.message);
   }
   if (result.status !== 0) {
-    throw new Error(errorMessage);
+    throw createTypedError(errorType, errorMessage);
   }
 }
 
@@ -218,11 +276,11 @@ function runGitCapture(args, errorMessage) {
   });
 
   if (result.error) {
-    throw result.error;
+    throw createTypedError(ERROR_TYPES.SERVER_ERROR, result.error.message);
   }
   if (result.status !== 0) {
     const stderr = (result.stderr || '').trim();
-    throw new Error(stderr || errorMessage);
+    throw createTypedError(ERROR_TYPES.SERVER_ERROR, stderr || errorMessage);
   }
 
   return (result.stdout || '').trim();
@@ -256,15 +314,31 @@ function writeStatus(status) {
   fs.writeFileSync(STATUS_FILE, `${JSON.stringify(status, null, 2)}\n`, 'utf8');
 }
 
-async function handleFailure(stage, message) {
+async function handleFailure(error) {
   const status = readStatus();
   const now = new Date();
-  const failureFingerprint = `${stage}:${message}`;
+  let failure = normalizeError(error);
+  const previousSuccessAgeMinutes = getAgeMinutes(status.lastSuccessAt);
+
+  if (failure.type !== ERROR_TYPES.PRICE_STALE && previousSuccessAgeMinutes !== null && previousSuccessAgeMinutes > MAX_PRICE_AGE_MINUTES) {
+    failure = createTypedError(
+      ERROR_TYPES.PRICE_STALE,
+      `Last successful sync is ${previousSuccessAgeMinutes} minutes old, above the ${MAX_PRICE_AGE_MINUTES}-minute limit.`,
+      {
+        causeType: failure.type,
+        causeMessage: failure.message,
+      }
+    );
+  }
+
+  const failureFingerprint = `${failure.type}:${failure.message}`;
   const nextStatus = {
     ...status,
     lastAttemptAt: now.toISOString(),
     lastOutcome: 'failure',
-    lastError: { stage, message, at: now.toISOString() },
+    lastError: { type: failure.type, message: failure.message, at: now.toISOString() },
+    lastErrorType: failure.type,
+    unchangedStreak: failure.details?.unchangedStreak ?? status.unchangedStreak ?? 0,
     lastFailureAt: now.toISOString(),
   };
   writeStatus(nextStatus);
@@ -293,14 +367,17 @@ async function maybeSendFailureAlert(previousStatus, nextStatus, fingerprint) {
   }
 
   const text = [
-    'GFCC price sync FAILED',
+    getFailureTitle(nextStatus.lastError.type),
     `Time: ${formatTimestamp(now)}`,
-    `Stage: ${nextStatus.lastError.stage}`,
+    `Type: ${nextStatus.lastError.type}`,
     `Error: ${nextStatus.lastError.message}`,
     `Project: ${ROOT_DIR}`,
   ].join('\n');
 
   const sent = await sendTelegramMessage(text);
+  if (sent) {
+    console.log('[ALERT] Telegram notification sent');
+  }
   writeStatus({
     ...nextStatus,
     lastFailureFingerprint: fingerprint,
@@ -322,7 +399,9 @@ async function maybeSendRecoveryOrSuccess(previousStatus, currentStatus, created
   }
 
   const messageLines = [
-    shouldNotifyRecovery ? 'GFCC price sync RECOVERED' : 'GFCC price sync OK',
+    shouldNotifyRecovery
+      ? '✅ Обновление прайс-листа восстановлено.\n\nПоследняя синхронизация выполнена успешно.\nСервер работает в штатном режиме.'
+      : 'GFCC price sync OK',
     `Time: ${formatTimestamp(now)}`,
     `Commit: ${syncResult.headCommit}`,
     `Price file time: ${currentStatus.lastPriceFileMtime}`,
@@ -331,6 +410,9 @@ async function maybeSendRecoveryOrSuccess(previousStatus, currentStatus, created
 
   const sent = await sendTelegramMessage(messageLines.join('\n'));
   if (sent) {
+    if (shouldNotifyRecovery) {
+      console.log('[RECOVERY] Synchronization restored');
+    }
     writeStatus({
       ...currentStatus,
       lastRecoveryAlertAt: shouldNotifyRecovery ? now.toISOString() : previousStatus.lastRecoveryAlertAt || null,
@@ -373,4 +455,66 @@ async function sendTelegramMessage(text) {
 
 function formatTimestamp(date) {
   return date.toISOString().replace('T', ' ').replace('.000Z', ' UTC');
+}
+
+function getAgeMinutes(isoTimestamp) {
+  if (!isoTimestamp) {
+    return null;
+  }
+  const parsed = Date.parse(isoTimestamp);
+  if (Number.isNaN(parsed)) {
+    return null;
+  }
+  return Math.round((Date.now() - parsed) / 60000);
+}
+
+function classifyUpdateScriptFailure(stdout, stderr, exitCode) {
+  const output = `${stdout}\n${stderr}`;
+  if (/No items in XML|Failed to parse|Unexpected token|XML/i.test(output)) {
+    return createTypedError(ERROR_TYPES.XML_PARSE_ERROR, `update-price.js failed with exit code ${exitCode}`);
+  }
+  if (/FTP connect|Downloading XML|ECONN|ETIMEDOUT|ENOTFOUND|timed out|login|socket|TLS|certificate|530|550/i.test(output)) {
+    return createTypedError(ERROR_TYPES.FTP_ERROR, `update-price.js failed with exit code ${exitCode}`);
+  }
+  return createTypedError(ERROR_TYPES.SERVER_ERROR, `update-price.js failed with exit code ${exitCode}`);
+}
+
+function createTypedError(type, message, details = {}) {
+  const error = new Error(message);
+  error.type = type;
+  error.details = details;
+  return error;
+}
+
+function normalizeError(err) {
+  if (err instanceof Error) {
+    if (!err.type) {
+      err.type = ERROR_TYPES.SERVER_ERROR;
+    }
+    return err;
+  }
+  if (typeof err === 'string') {
+    return createTypedError(ERROR_TYPES.SERVER_ERROR, err);
+  }
+  if (err && typeof err === 'object' && err.type && err.message) {
+    return createTypedError(err.type, err.message, err.details || {});
+  }
+  return createTypedError(ERROR_TYPES.SERVER_ERROR, 'Unknown synchronization error');
+}
+
+function getFailureTitle(type) {
+  switch (type) {
+    case ERROR_TYPES.FTP_ERROR:
+      return 'GFCC price sync FAILED: FTP_ERROR';
+    case ERROR_TYPES.XML_PARSE_ERROR:
+      return 'GFCC price sync FAILED: XML_PARSE_ERROR';
+    case ERROR_TYPES.PRICE_STALE:
+      return 'GFCC price sync FAILED: PRICE_STALE';
+    case ERROR_TYPES.PRICE_UNCHANGED_TOO_LONG:
+      return '⚠️ Прайс не обновляется уже несколько циклов подряд.\n\nВозможен сбой FTP, источника данных или процесса обновления.\n\nТребуется проверка сервера.';
+    case ERROR_TYPES.GIT_PUSH_ERROR:
+      return 'GFCC price sync FAILED: GIT_PUSH_ERROR';
+    default:
+      return 'GFCC price sync FAILED: SERVER_ERROR';
+  }
 }
