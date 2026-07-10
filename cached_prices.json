@@ -9576,14 +9576,6 @@
     "retailPrice": 90.85
   },
   {
-    "id": "УТ000014773",
-    "category": "..ХРИЗАНТЕМА",
-    "name": "БАКАРДИ РОЗОВЫЙ",
-    "wholesalePrice": 72.68,
-    "extraPrice": 76.32,
-    "retailPrice": 90.85
-  },
-  {
     "id": "УТ000014775",
     "category": "..ХРИЗАНТЕМА",
     "name": "БАЛТИКА ЖЕЛТАЯ",
@@ -9739,22 +9731,6 @@
     "id": "УТ000015006",
     "category": "..ХРИЗАНТЕМА",
     "name": ".ХРИЗ. ДЕКО МАГНУМ",
-    "wholesalePrice": 104.57,
-    "extraPrice": 109.8,
-    "retailPrice": 130.71
-  },
-  {
-    "id": "УТ000015009",
-    "category": "..ХРИЗАНТЕМА",
-    "name": ".ХРИЗ. ДЕКО МОМОКО",
-    "wholesalePrice": 104.57,
-    "extraPrice": 109.8,
-    "retailPrice": 130.71
-  },
-  {
-    "id": "УТ000015012",
-    "category": "..ХРИЗАНТЕМА",
-    "name": ".ХРИЗ. ДЕКО ПЁТР",
     "wholesalePrice": 104.57,
     "extraPrice": 109.8,
     "retailPrice": 130.71
@@ -15206,6 +15182,22 @@
     "wholesalePrice": 317.17,
     "extraPrice": 333.03,
     "retailPrice": 396.46
+  },
+  {
+    "id": "УТ000027400",
+    "category": "ВАЗЫ И КЕРАМИКА",
+    "name": "ПЛАСТИК ГОРШОК ПРОТЕЯ 14 СМ",
+    "wholesalePrice": 133.63,
+    "extraPrice": 140.31,
+    "retailPrice": 167.04
+  },
+  {
+    "id": "УТ000027401",
+    "category": "ВАЗЫ И КЕРАМИКА",
+    "name": "ПЛАСТИК ГОРШОК ПРОТЕЯ 17 СМ",
+    "wholesalePrice": 173.88,
+    "extraPrice": 182.57,
+    "retailPrice": 217.35
   },
   {
     "id": "УТ000027402",
@@ -23950,6 +23942,14 @@
     "wholesalePrice": 34.62,
     "extraPrice": 36.35,
     "retailPrice": 43.27
+  },
+  {
+    "id": "УТ000033783",
+    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
+    "name": "НОЛА 50 см РОЗА Кен/Куст. (RLR)",
+    "wholesalePrice": 133.63,
+    "extraPrice": 140.31,
+    "retailPrice": 167.04
   },
   {
     "id": "УТ000033807",
@@ -57966,14 +57966,6 @@
     "wholesalePrice": 117.39,
     "extraPrice": 123.25,
     "retailPrice": 146.73
-  },
-  {
-    "id": "УТ000055855",
-    "category": "..ХРИЗАНТЕМА",
-    "name": ".ХРИЗ. ДЕКО БАЛТАЗАР",
-    "wholesalePrice": 104.57,
-    "extraPrice": 109.8,
-    "retailPrice": 130.71
   },
   {
     "id": "УТ000055859",
