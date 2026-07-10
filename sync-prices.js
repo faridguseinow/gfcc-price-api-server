@@ -27,13 +27,27 @@ const FAILURE_REMINDER_MINUTES = parsePositiveInt(process.env.TELEGRAM_FAILURE_R
 const TELEGRAM_NOTIFY_SUCCESS = /^(1|true|yes)$/i.test(process.env.TELEGRAM_NOTIFY_SUCCESS || '');
 const MAX_PRICE_AGE_MINUTES = parsePositiveInt(process.env.PRICE_CACHE_MAX_AGE_MINUTES, 70);
 const UNCHANGED_STREAK_LIMIT = parsePositiveInt(process.env.PRICE_UNCHANGED_STREAK_LIMIT, 3);
+const TELEGRAM_REQUEST_TIMEOUT_MS = parsePositiveInt(process.env.TELEGRAM_REQUEST_TIMEOUT_MS, 10000);
+const IS_TELEGRAM_TEST_MODE = process.argv.includes('--test-telegram');
 
-main().catch(async (err) => {
+run().catch(async (err) => {
   const typedError = normalizeError(err);
   console.error(`[sync] ${typedError.type}:`, typedError.message);
+  if (IS_TELEGRAM_TEST_MODE) {
+    process.exit(1);
+  }
   await handleFailure(typedError);
   process.exit(1);
 });
+
+async function run() {
+  if (IS_TELEGRAM_TEST_MODE) {
+    await runTelegramTest();
+    return;
+  }
+
+  await main();
+}
 
 async function main() {
   const startedAt = new Date().toISOString();
@@ -118,6 +132,19 @@ async function main() {
 
   writeStatus(newStatus);
   await maybeSendRecoveryOrSuccess(status, newStatus, createdCommit, syncResult);
+}
+
+async function runTelegramTest() {
+  if (!hasTelegramConfig()) {
+    throw createTypedError(ERROR_TYPES.SERVER_ERROR, 'Telegram test mode requires TELEGRAM_BOT_TOKEN and TELEGRAM_CHAT_ID');
+  }
+
+  const sent = await sendTelegramMessage('\u2705 \u0422\u0435\u0441\u0442 Telegram-\u0443\u0432\u0435\u0434\u043e\u043c\u043b\u0435\u043d\u0438\u0439 GFCC\n\u0421\u0435\u0440\u0432\u0435\u0440 \u0443\u0441\u043f\u0435\u0448\u043d\u043e \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0451\u043d \u043a \u0431\u043e\u0442\u0443.');
+  if (!sent) {
+    throw createTypedError(ERROR_TYPES.SERVER_ERROR, 'Telegram test message was not sent');
+  }
+
+  console.log('[telegram] Test notification sent successfully.');
 }
 
 function loadEnvFile(filePath) {
@@ -400,8 +427,7 @@ async function maybeSendRecoveryOrSuccess(previousStatus, currentStatus, created
 
   const messageLines = [
     shouldNotifyRecovery
-      ? '✅ Обновление прайс-листа восстановлено.\n\nПоследняя синхронизация выполнена успешно.\nСервер работает в штатном режиме.'
-      : 'GFCC price sync OK',
+      ? '\u2705 \u041e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u0440\u0430\u0439\u0441-\u043b\u0438\u0441\u0442\u0430 \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u043e.\n\n\u041f\u043e\u0441\u043b\u0435\u0434\u043d\u044f\u044f \u0441\u0438\u043d\u0445\u0440\u043e\u043d\u0438\u0437\u0430\u0446\u0438\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0430 \u0443\u0441\u043f\u0435\u0448\u043d\u043e.\n\u0421\u0435\u0440\u0432\u0435\u0440 \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0432 \u0448\u0442\u0430\u0442\u043d\u043e\u043c \u0440\u0435\u0436\u0438\u043c\u0435.' : 'GFCC price sync OK',
     `Time: ${formatTimestamp(now)}`,
     `Commit: ${syncResult.headCommit}`,
     `Price file time: ${currentStatus.lastPriceFileMtime}`,
@@ -428,11 +454,14 @@ function hasTelegramConfig() {
 
 async function sendTelegramMessage(text) {
   const url = `https://api.telegram.org/bot${process.env.TELEGRAM_BOT_TOKEN}/sendMessage`;
+  const controller = new AbortController();
+  const timeout = setTimeout(() => controller.abort(), TELEGRAM_REQUEST_TIMEOUT_MS);
 
   try {
     const response = await fetch(url, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
+      signal: controller.signal,
       body: JSON.stringify({
         chat_id: process.env.TELEGRAM_CHAT_ID,
         text,
@@ -450,6 +479,8 @@ async function sendTelegramMessage(text) {
   } catch (err) {
     console.error('[telegram] Failed to send message:', err.message);
     return false;
+  } finally {
+    clearTimeout(timeout);
   }
 }
 
@@ -511,10 +542,11 @@ function getFailureTitle(type) {
     case ERROR_TYPES.PRICE_STALE:
       return 'GFCC price sync FAILED: PRICE_STALE';
     case ERROR_TYPES.PRICE_UNCHANGED_TOO_LONG:
-      return '⚠️ Прайс не обновляется уже несколько циклов подряд.\n\nВозможен сбой FTP, источника данных или процесса обновления.\n\nТребуется проверка сервера.';
+      return '\u26a0\ufe0f \u041f\u0440\u0430\u0439\u0441 \u043d\u0435 \u043e\u0431\u043d\u043e\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0443\u0436\u0435 \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u0446\u0438\u043a\u043b\u043e\u0432 \u043f\u043e\u0434\u0440\u044f\u0434.\n\n\u0412\u043e\u0437\u043c\u043e\u0436\u0435\u043d \u0441\u0431\u043e\u0439 FTP, \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a\u0430 \u0434\u0430\u043d\u043d\u044b\u0445 \u0438\u043b\u0438 \u043f\u0440\u043e\u0446\u0435\u0441\u0441\u0430 \u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f.\n\n\u0422\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044f \u043f\u0440\u043e\u0432\u0435\u0440\u043a\u0430 \u0441\u0435\u0440\u0432\u0435\u0440\u0430.';
     case ERROR_TYPES.GIT_PUSH_ERROR:
       return 'GFCC price sync FAILED: GIT_PUSH_ERROR';
     default:
       return 'GFCC price sync FAILED: SERVER_ERROR';
   }
 }
+
