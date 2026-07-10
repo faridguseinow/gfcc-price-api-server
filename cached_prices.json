@@ -2632,6 +2632,14 @@
     "retailPrice": 231.44
   },
   {
+    "id": "УТ000005401",
+    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
+    "name": "МАДАМ БОМБАСТИК 70 см РОЗА Кен/Куст. (RLR)",
+    "wholesalePrice": 202.86,
+    "extraPrice": 213,
+    "retailPrice": 253.58
+  },
+  {
     "id": "УТ000005408",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "МИРАБЕЛЬ 40 см РОЗА Кен/Куст. (RLR)",
@@ -9576,6 +9584,14 @@
     "retailPrice": 90.85
   },
   {
+    "id": "УТ000014774",
+    "category": "..ХРИЗАНТЕМА",
+    "name": "БАЛТИКА",
+    "wholesalePrice": 72.68,
+    "extraPrice": 76.32,
+    "retailPrice": 90.85
+  },
+  {
     "id": "УТ000014775",
     "category": "..ХРИЗАНТЕМА",
     "name": "БАЛТИКА ЖЕЛТАЯ",
@@ -9643,14 +9659,6 @@
     "id": "УТ000014837",
     "category": "..ХРИЗАНТЕМА",
     "name": "КОД ГРИН",
-    "wholesalePrice": 72.68,
-    "extraPrice": 76.32,
-    "retailPrice": 90.85
-  },
-  {
-    "id": "УТ000014842",
-    "category": "..ХРИЗАНТЕМА",
-    "name": "КОРОНА",
     "wholesalePrice": 72.68,
     "extraPrice": 76.32,
     "retailPrice": 90.85
@@ -15075,25 +15083,25 @@
     "id": "УТ000027382",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ПЛАСТИК ГОРШОК АЛЬФА 17 СМ",
-    "wholesalePrice": 186.76,
-    "extraPrice": 196.1,
-    "retailPrice": 233.45
+    "wholesalePrice": 181.93,
+    "extraPrice": 191.03,
+    "retailPrice": 227.41
   },
   {
     "id": "УТ000027383",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ПЛАСТИК ГОРШОК АЛЬФА 19 СМ",
-    "wholesalePrice": 251.16,
-    "extraPrice": 263.72,
-    "retailPrice": 313.95
+    "wholesalePrice": 244.72,
+    "extraPrice": 256.96,
+    "retailPrice": 305.9
   },
   {
     "id": "УТ000027384",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ПЛАСТИК ГОРШОК БЕТА 17 СМ",
-    "wholesalePrice": 186.76,
-    "extraPrice": 196.1,
-    "retailPrice": 233.45
+    "wholesalePrice": 181.93,
+    "extraPrice": 191.03,
+    "retailPrice": 227.41
   },
   {
     "id": "УТ000027385",
@@ -15115,33 +15123,33 @@
     "id": "УТ000027387",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ПЛАСТИК ГОРШОК ЛИОН 15 СМ",
-    "wholesalePrice": 173.08,
-    "extraPrice": 181.73,
-    "retailPrice": 216.34
+    "wholesalePrice": 169.05,
+    "extraPrice": 177.5,
+    "retailPrice": 211.31
   },
   {
     "id": "УТ000027388",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ПЛАСТИК ГОРШОК ЛИОН 17 СМ",
-    "wholesalePrice": 213.33,
-    "extraPrice": 223.99,
-    "retailPrice": 266.66
+    "wholesalePrice": 208.5,
+    "extraPrice": 218.92,
+    "retailPrice": 260.62
   },
   {
     "id": "УТ000027389",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ПЛАСТИК ГОРШОК ЛИОН 19 СМ",
-    "wholesalePrice": 279.34,
-    "extraPrice": 293.3,
-    "retailPrice": 349.17
+    "wholesalePrice": 272.09,
+    "extraPrice": 285.69,
+    "retailPrice": 340.11
   },
   {
     "id": "УТ000027390",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ПЛАСТИК ГОРШОК ЛИОН 21 СМ",
-    "wholesalePrice": 322,
-    "extraPrice": 338.1,
-    "retailPrice": 402.5
+    "wholesalePrice": 313.95,
+    "extraPrice": 329.65,
+    "retailPrice": 392.44
   },
   {
     "id": "УТ000027393",
@@ -15155,17 +15163,17 @@
     "id": "УТ000027395",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ПЛАСТИК ГОРШОК СИЛЬВИЯ 12 СМ",
-    "wholesalePrice": 166.64,
-    "extraPrice": 174.97,
-    "retailPrice": 208.29
+    "wholesalePrice": 162.61,
+    "extraPrice": 170.74,
+    "retailPrice": 203.26
   },
   {
     "id": "УТ000027396",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ПЛАСТИК ГОРШОК ЭЛЬБА 13 СМ",
-    "wholesalePrice": 152.15,
-    "extraPrice": 159.75,
-    "retailPrice": 190.18
+    "wholesalePrice": 148.12,
+    "extraPrice": 155.53,
+    "retailPrice": 185.15
   },
   {
     "id": "УТ000027397",
@@ -15195,65 +15203,65 @@
     "id": "УТ000027400",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ПЛАСТИК ГОРШОК ПРОТЕЯ 14 СМ",
-    "wholesalePrice": 133.63,
-    "extraPrice": 140.31,
-    "retailPrice": 167.04
+    "wholesalePrice": 145.71,
+    "extraPrice": 152.99,
+    "retailPrice": 182.13
   },
   {
     "id": "УТ000027401",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ПЛАСТИК ГОРШОК ПРОТЕЯ 17 СМ",
-    "wholesalePrice": 173.88,
-    "extraPrice": 182.57,
-    "retailPrice": 217.35
+    "wholesalePrice": 169.05,
+    "extraPrice": 177.5,
+    "retailPrice": 211.31
   },
   {
     "id": "УТ000027402",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ПЛАСТИК ГОРШОК ПРОТЕЯ 20 СМ",
-    "wholesalePrice": 258.41,
-    "extraPrice": 271.33,
-    "retailPrice": 323.01
+    "wholesalePrice": 251.16,
+    "extraPrice": 263.72,
+    "retailPrice": 313.95
   },
   {
     "id": "УТ000027403",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ПЛАСТИК ГОРШОК ПРОТЕЯ 25 СМ",
-    "wholesalePrice": 362.25,
-    "extraPrice": 380.36,
-    "retailPrice": 452.81
+    "wholesalePrice": 327.64,
+    "extraPrice": 344.02,
+    "retailPrice": 409.54
   },
   {
     "id": "УТ000027404",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ПЛАСТИК ГОРШОК ЛАУРА 14 СМ",
-    "wholesalePrice": 132.02,
-    "extraPrice": 138.62,
-    "retailPrice": 165.03
+    "wholesalePrice": 124.78,
+    "extraPrice": 131.01,
+    "retailPrice": 155.97
   },
   {
     "id": "УТ000027405",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ПЛАСТИК ГОРШОК ЛАУРА 17 СМ",
-    "wholesalePrice": 170.66,
-    "extraPrice": 179.19,
-    "retailPrice": 213.33
+    "wholesalePrice": 156.98,
+    "extraPrice": 164.82,
+    "retailPrice": 196.22
   },
   {
     "id": "УТ000027406",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ПЛАСТИК ГОРШОК ЛАУРА 20 СМ",
-    "wholesalePrice": 236.67,
-    "extraPrice": 248.5,
-    "retailPrice": 295.84
+    "wholesalePrice": 231.04,
+    "extraPrice": 242.59,
+    "retailPrice": 288.79
   },
   {
     "id": "УТ000027407",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ПЛАСТИК ГОРШОК ЛАУРА 25 СМ",
-    "wholesalePrice": 350.18,
-    "extraPrice": 367.68,
-    "retailPrice": 437.72
+    "wholesalePrice": 327.64,
+    "extraPrice": 344.02,
+    "retailPrice": 409.54
   },
   {
     "id": "УТ000027410",
@@ -21627,33 +21635,33 @@
     "id": "УТ000030423",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ПЛАСТИК ГОРШОК АЛЬФА 13 СМ",
-    "wholesalePrice": 122.36,
-    "extraPrice": 128.48,
-    "retailPrice": 152.95
+    "wholesalePrice": 119.14,
+    "extraPrice": 125.1,
+    "retailPrice": 148.93
   },
   {
     "id": "УТ000030424",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ПЛАСТИК ГОРШОК БЕТА 13 СМ",
-    "wholesalePrice": 122.36,
-    "extraPrice": 128.48,
-    "retailPrice": 152.95
+    "wholesalePrice": 119.14,
+    "extraPrice": 125.1,
+    "retailPrice": 148.93
   },
   {
     "id": "УТ000030426",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ПЛАСТИК ГОРШОК ТИСА 12 СМ",
-    "wholesalePrice": 146.51,
-    "extraPrice": 153.84,
-    "retailPrice": 183.14
+    "wholesalePrice": 143.29,
+    "extraPrice": 150.45,
+    "retailPrice": 179.11
   },
   {
     "id": "УТ000030430",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ПЛАСТИК ГОРШОК БЕТА 19 СМ",
-    "wholesalePrice": 251.16,
-    "extraPrice": 263.72,
-    "retailPrice": 313.95
+    "wholesalePrice": 244.72,
+    "extraPrice": 256.96,
+    "retailPrice": 305.9
   },
   {
     "id": "УТ000030445",
@@ -23432,14 +23440,6 @@
     "retailPrice": 243.57
   },
   {
-    "id": "УТ000033273",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ВЕГГИЕ 80см",
-    "wholesalePrice": 260.3,
-    "extraPrice": 273.32,
-    "retailPrice": 325.38
-  },
-  {
     "id": "УТ000033275",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ВЕГГИЕ 70см",
@@ -25099,33 +25099,33 @@
     "id": "УТ000034384",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ПЛАСТИК ГОРШОК КОНУС 15 СМ",
-    "wholesalePrice": 141.68,
-    "extraPrice": 148.76,
-    "retailPrice": 177.1
+    "wholesalePrice": 137.66,
+    "extraPrice": 144.54,
+    "retailPrice": 172.07
   },
   {
     "id": "УТ000034385",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ПЛАСТИК ГОРШОК КОНУС 17 СМ",
-    "wholesalePrice": 182.74,
-    "extraPrice": 191.87,
-    "retailPrice": 228.42
+    "wholesalePrice": 177.1,
+    "extraPrice": 185.96,
+    "retailPrice": 221.38
   },
   {
     "id": "УТ000034386",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ПЛАСТИК ГОРШОК КОНУС 20 СМ",
-    "wholesalePrice": 253.58,
-    "extraPrice": 266.25,
-    "retailPrice": 316.97
+    "wholesalePrice": 246.33,
+    "extraPrice": 258.65,
+    "retailPrice": 307.91
   },
   {
     "id": "УТ000034387",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ПЛАСТИК ГОРШОК ДЕЛЬТА 17 СМ",
-    "wholesalePrice": 206.89,
-    "extraPrice": 217.23,
-    "retailPrice": 258.61
+    "wholesalePrice": 201.25,
+    "extraPrice": 211.31,
+    "retailPrice": 251.56
   },
   {
     "id": "УТ000034391",
@@ -25371,14 +25371,6 @@
     "id": "УТ000034761",
     "category": "КОРЗИНА",
     "name": "Корзина Бамбук - 14825",
-    "wholesalePrice": 67.62,
-    "extraPrice": 71,
-    "retailPrice": 84.53
-  },
-  {
-    "id": "УТ000034762",
-    "category": "КОРЗИНА",
-    "name": "Корзина Бамбук - 14826",
     "wholesalePrice": 67.62,
     "extraPrice": 71,
     "retailPrice": 84.53
@@ -25838,14 +25830,6 @@
     "wholesalePrice": 109.48,
     "extraPrice": 114.95,
     "retailPrice": 136.85
-  },
-  {
-    "id": "УТ000035308",
-    "category": "КОРЗИНА",
-    "name": "Корзина - 129303",
-    "wholesalePrice": 782.46,
-    "extraPrice": 821.58,
-    "retailPrice": 978.08
   },
   {
     "id": "УТ000035313",
@@ -28499,17 +28483,17 @@
     "id": "УТ000037976",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ПЛАСТИК ГОРШОК ДЕЛЬТА 13 СМ",
-    "wholesalePrice": 142.49,
-    "extraPrice": 149.61,
-    "retailPrice": 178.11
+    "wholesalePrice": 138.46,
+    "extraPrice": 145.38,
+    "retailPrice": 173.08
   },
   {
     "id": "УТ000037977",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ПЛАСТИК ГОРШОК ДЕЛЬТА 19 СМ",
-    "wholesalePrice": 259.21,
-    "extraPrice": 272.17,
-    "retailPrice": 324.01
+    "wholesalePrice": 252.77,
+    "extraPrice": 265.41,
+    "retailPrice": 315.96
   },
   {
     "id": "УТ000037978",
@@ -28531,9 +28515,9 @@
     "id": "УТ000037980",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ПЛАСТИК ГОРШОК КОНУС 23 СМ",
-    "wholesalePrice": 359.84,
-    "extraPrice": 377.83,
-    "retailPrice": 449.79
+    "wholesalePrice": 349.37,
+    "extraPrice": 366.84,
+    "retailPrice": 436.71
   },
   {
     "id": "УТ000037981",
@@ -28547,9 +28531,9 @@
     "id": "УТ000037983",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ПЛАСТИК ГОРШОК ЛИОН 25 СМ",
-    "wholesalePrice": 674.59,
-    "extraPrice": 708.32,
-    "retailPrice": 843.24
+    "wholesalePrice": 657.69,
+    "extraPrice": 690.57,
+    "retailPrice": 822.11
   },
   {
     "id": "УТ000037984",
@@ -28563,25 +28547,25 @@
     "id": "УТ000037986",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ПЛАСТИК ГОРШОК ПРОТЕЯ 27 СМ",
-    "wholesalePrice": 523.25,
-    "extraPrice": 549.41,
-    "retailPrice": 654.06
+    "wholesalePrice": 552.23,
+    "extraPrice": 579.84,
+    "retailPrice": 690.29
   },
   {
     "id": "УТ000037987",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ПЛАСТИК ГОРШОК АЛЬФА 22 СМ",
-    "wholesalePrice": 324.42,
-    "extraPrice": 340.64,
-    "retailPrice": 405.52
+    "wholesalePrice": 316.37,
+    "extraPrice": 332.18,
+    "retailPrice": 395.46
   },
   {
     "id": "УТ000037988",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ПЛАСТИК ГОРШОК БЕТА 22 СМ",
-    "wholesalePrice": 324.42,
-    "extraPrice": 340.64,
-    "retailPrice": 405.52
+    "wholesalePrice": 316.37,
+    "extraPrice": 332.18,
+    "retailPrice": 395.46
   },
   {
     "id": "УТ000038117",
@@ -30723,9 +30707,9 @@
     "id": "УТ000039200",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ПЛАСТИК ГОРШОК ФИТА 19 СМ",
-    "wholesalePrice": 243.11,
-    "extraPrice": 255.27,
-    "retailPrice": 303.89
+    "wholesalePrice": 236.67,
+    "extraPrice": 248.5,
+    "retailPrice": 295.84
   },
   {
     "id": "УТ000039207",
@@ -34976,14 +34960,6 @@
     "retailPrice": 126.79
   },
   {
-    "id": "УТ000041563",
-    "category": ".УПАКОВКА",
-    "name": "ЯЩИК № 403",
-    "wholesalePrice": 478.98,
-    "extraPrice": 502.92,
-    "retailPrice": 598.72
-  },
-  {
     "id": "УТ000041564",
     "category": ".УПАКОВКА",
     "name": "ЯЩИК № 404",
@@ -35731,9 +35707,9 @@
     "id": "УТ000042352",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ПЛАСТИК ГОРШОК ФИТА 13 СМ",
-    "wholesalePrice": 131.22,
-    "extraPrice": 137.78,
-    "retailPrice": 164.02
+    "wholesalePrice": 128,
+    "extraPrice": 134.39,
+    "retailPrice": 159.99
   },
   {
     "id": "УТ000042353",
@@ -38800,6 +38776,14 @@
     "retailPrice": 201.25
   },
   {
+    "id": "УТ000045052",
+    "category": "..ХРИЗАНТЕМА",
+    "name": "ЛЕТС ГО ПИНК",
+    "wholesalePrice": 72.68,
+    "extraPrice": 76.32,
+    "retailPrice": 90.85
+  },
+  {
     "id": "УТ000045082",
     "category": "..,РАЗНОЕ",
     "name": "ГЕРБЕРА ДАЙМОНД ПАСТИНИ",
@@ -39099,9 +39083,9 @@
     "id": "УТ000045187",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ПЛАСТИК ГОРШОК ДЕ КОСТА 16 СМ",
-    "wholesalePrice": 197.23,
-    "extraPrice": 207.09,
-    "retailPrice": 246.53
+    "wholesalePrice": 192.4,
+    "extraPrice": 202.01,
+    "retailPrice": 240.49
   },
   {
     "id": "УТ000045188",
@@ -41475,9 +41459,9 @@
     "id": "УТ000047612",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ПЛАСТИК ГОРШОК БЕГОНИЯ 56 СМ",
-    "wholesalePrice": 1258.22,
-    "extraPrice": 1321.13,
-    "retailPrice": 1572.77
+    "wholesalePrice": 1226.82,
+    "extraPrice": 1288.16,
+    "retailPrice": 1533.53
   },
   {
     "id": "УТ000047627",
@@ -44203,25 +44187,25 @@
     "id": "УТ000050169",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ПЛАСТИК ГОРШОК АРКАДА 17 СМ",
-    "wholesalePrice": 225.4,
-    "extraPrice": 236.67,
-    "retailPrice": 281.75
+    "wholesalePrice": 219.77,
+    "extraPrice": 230.75,
+    "retailPrice": 274.71
   },
   {
     "id": "УТ000050170",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ПЛАСТИК ГОРШОК ВАНДА 17 СМ",
-    "wholesalePrice": 171.47,
-    "extraPrice": 180.04,
-    "retailPrice": 214.33
+    "wholesalePrice": 166.64,
+    "extraPrice": 174.97,
+    "retailPrice": 208.29
   },
   {
     "id": "УТ000050171",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ПЛАСТИК ГОРШОК ВАНДА 15 СМ",
-    "wholesalePrice": 139.27,
-    "extraPrice": 146.23,
-    "retailPrice": 174.08
+    "wholesalePrice": 136.05,
+    "extraPrice": 142.85,
+    "retailPrice": 170.06
   },
   {
     "id": "УТ000050172",
@@ -46947,9 +46931,9 @@
     "id": "УТ000051499",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ПЛАСТИК ГОРШОК АРКАДА 23 СМ",
-    "wholesalePrice": 565.92,
-    "extraPrice": 594.21,
-    "retailPrice": 707.39
+    "wholesalePrice": 551.43,
+    "extraPrice": 579,
+    "retailPrice": 689.28
   },
   {
     "id": "УТ000051500",
@@ -49899,17 +49883,17 @@
     "id": "УТ000052273",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ПЛАСТИК ГОРШОК ФИНЕЗИЯ ДЖУТ 30 СМ",
-    "wholesalePrice": 2081.73,
-    "extraPrice": 2185.82,
-    "retailPrice": 2602.16
+    "wholesalePrice": 2030.21,
+    "extraPrice": 2131.72,
+    "retailPrice": 2537.76
   },
   {
     "id": "УТ000052274",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ПЛАСТИК ГОРШОК АРКАДА 30 СМ",
-    "wholesalePrice": 1019.13,
-    "extraPrice": 1070.09,
-    "retailPrice": 1273.91
+    "wholesalePrice": 994.18,
+    "extraPrice": 1043.88,
+    "retailPrice": 1242.72
   },
   {
     "id": "УТ000052291",
@@ -57643,17 +57627,17 @@
     "id": "УТ000055559",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ПЛАСТИК ГОРШОК ВАНДА 20 СМ",
-    "wholesalePrice": 231.04,
-    "extraPrice": 242.59,
-    "retailPrice": 288.79
+    "wholesalePrice": 225.4,
+    "extraPrice": 236.67,
+    "retailPrice": 281.75
   },
   {
     "id": "УТ000055560",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ПЛАСТИК ГОРШОК ВАНДА 25 СМ",
-    "wholesalePrice": 305.1,
-    "extraPrice": 320.35,
-    "retailPrice": 381.37
+    "wholesalePrice": 297.85,
+    "extraPrice": 312.74,
+    "retailPrice": 372.31
   },
   {
     "id": "УТ000055561",
@@ -58216,14 +58200,6 @@
     "retailPrice": 3139.4
   },
   {
-    "id": "УТ000056153",
-    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
-    "name": "САЛИНЕРО 70 см РОЗА Кен/Куст. (PJDAVE)",
-    "wholesalePrice": 100.63,
-    "extraPrice": 105.66,
-    "retailPrice": 125.78
-  },
-  {
     "id": "УТ000056155",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "РЕФЛЕКС 50 см РОЗА Кен/Куст. (MONA FLOWERS)",
@@ -58358,21 +58334,5 @@
     "wholesalePrice": 1221.99,
     "extraPrice": 1283.09,
     "retailPrice": 1527.49
-  },
-  {
-    "id": "УТ000056216",
-    "category": "КОРЗИНА",
-    "name": "Корзина Бамбук - 19748",
-    "wholesalePrice": 136.85,
-    "extraPrice": 143.69,
-    "retailPrice": 171.06
-  },
-  {
-    "id": "УТ000056217",
-    "category": "КОРЗИНА",
-    "name": "Корзина Бамбук - 18952",
-    "wholesalePrice": 67.62,
-    "extraPrice": 71,
-    "retailPrice": 84.53
   }
 ]
