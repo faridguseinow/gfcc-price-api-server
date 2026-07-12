@@ -9808,14 +9808,6 @@
     "retailPrice": 91.08
   },
   {
-    "id": "УТ000014888",
-    "category": "..ХРИЗАНТЕМА",
-    "name": "РАДОСТЬ",
-    "wholesalePrice": 72.86,
-    "extraPrice": 76.51,
-    "retailPrice": 91.08
-  },
-  {
     "id": "УТ000014891",
     "category": "..ХРИЗАНТЕМА",
     "name": "РАДОСТЬ КРЕМ",
@@ -9856,25 +9848,9 @@
     "retailPrice": 91.08
   },
   {
-    "id": "УТ000014937",
-    "category": "..ХРИЗАНТЕМА",
-    "name": "СТЕЛЛИНИ",
-    "wholesalePrice": 72.86,
-    "extraPrice": 76.51,
-    "retailPrice": 91.08
-  },
-  {
     "id": "УТ000014972",
     "category": "..ХРИЗАНТЕМА",
     "name": ".ХРИЗ. ДЕКО АНТОНОВ",
-    "wholesalePrice": 104.83,
-    "extraPrice": 110.07,
-    "retailPrice": 131.04
-  },
-  {
-    "id": "УТ000014976",
-    "category": "..ХРИЗАНТЕМА",
-    "name": ".ХРИЗ. ДЕКО БРАСИЛИАНА",
     "wholesalePrice": 104.83,
     "extraPrice": 110.07,
     "retailPrice": 131.04
@@ -9899,14 +9875,6 @@
     "id": "УТ000015012",
     "category": "..ХРИЗАНТЕМА",
     "name": ".ХРИЗ. ДЕКО ПЁТР",
-    "wholesalePrice": 104.83,
-    "extraPrice": 110.07,
-    "retailPrice": 131.04
-  },
-  {
-    "id": "УТ000015014",
-    "category": "..ХРИЗАНТЕМА",
-    "name": ".ХРИЗ. ДЕКО ПИП",
     "wholesalePrice": 104.83,
     "extraPrice": 110.07,
     "retailPrice": 131.04
@@ -15590,14 +15558,6 @@
     "wholesalePrice": 761.81,
     "extraPrice": 799.9,
     "retailPrice": 952.26
-  },
-  {
-    "id": "УТ000027900",
-    "category": "..ХРИЗАНТЕМА",
-    "name": ".ХРИЗ. ДЕКО ЛАМИРА",
-    "wholesalePrice": 104.83,
-    "extraPrice": 110.07,
-    "retailPrice": 131.04
   },
   {
     "id": "УТ000027901",
@@ -37024,14 +36984,6 @@
     "retailPrice": 119.03
   },
   {
-    "id": "УТ000043737",
-    "category": "..ХРИЗАНТЕМА",
-    "name": "ДЕЙДРИМ",
-    "wholesalePrice": 72.86,
-    "extraPrice": 76.51,
-    "retailPrice": 91.08
-  },
-  {
     "id": "УТ000043738",
     "category": ".УПАКОВКА",
     "name": "КОРОБКА № 3422 НАБОР",
@@ -42768,6 +42720,14 @@
     "retailPrice": 1208.48
   },
   {
+    "id": "УТ000048417",
+    "category": "КОРЗИНА",
+    "name": "Корзина - 8894002",
+    "wholesalePrice": 643.99,
+    "extraPrice": 676.19,
+    "retailPrice": 804.98
+  },
+  {
     "id": "УТ000048419",
     "category": "КОРЗИНА",
     "name": "Корзина - N004303",
@@ -44104,14 +44064,6 @@
     "retailPrice": 592.23
   },
   {
-    "id": "УТ000049751",
-    "category": "..ХРИЗАНТЕМА",
-    "name": "БАЛТИКА LINFLOWERS",
-    "wholesalePrice": 72.86,
-    "extraPrice": 76.51,
-    "retailPrice": 91.08
-  },
-  {
     "id": "УТ000049752",
     "category": "..ХРИЗАНТЕМА",
     "name": "АЛТАЙ LINFLOWERS",
@@ -44142,14 +44094,6 @@
     "wholesalePrice": 43.58,
     "extraPrice": 45.76,
     "retailPrice": 54.47
-  },
-  {
-    "id": "УТ000049758",
-    "category": "..ХРИЗАНТЕМА",
-    "name": ".ХРИЗ. ДЕКО АНДЭРКАВР",
-    "wholesalePrice": 104.83,
-    "extraPrice": 110.07,
-    "retailPrice": 131.04
   },
   {
     "id": "УТ000049861",
@@ -46528,14 +46472,6 @@
     "retailPrice": 1013.01
   },
   {
-    "id": "УТ000051046",
-    "category": "..ХРИЗАНТЕМА",
-    "name": "САНТИНИ BAYKAL",
-    "wholesalePrice": 64.56,
-    "extraPrice": 67.79,
-    "retailPrice": 80.7
-  },
-  {
     "id": "УТ000051047",
     "category": "..ХРИЗАНТЕМА",
     "name": "САНТИНИ PIZARRO",
@@ -47310,14 +47246,6 @@
     "wholesalePrice": 140.47,
     "extraPrice": 147.5,
     "retailPrice": 175.59
-  },
-  {
-    "id": "УТ000051523",
-    "category": "..ХРИЗАНТЕМА",
-    "name": "ФАБИАННА СВИТ",
-    "wholesalePrice": 72.86,
-    "extraPrice": 76.51,
-    "retailPrice": 91.08
   },
   {
     "id": "УТ000051535",
@@ -50822,14 +50750,6 @@
     "wholesalePrice": 263.08,
     "extraPrice": 276.24,
     "retailPrice": 328.85
-  },
-  {
-    "id": "УТ000052741",
-    "category": "..ХРИЗАНТЕМА",
-    "name": "ЛИОНКИНГ",
-    "wholesalePrice": 72.86,
-    "extraPrice": 76.51,
-    "retailPrice": 91.08
   },
   {
     "id": "УТ000052759",
@@ -57558,14 +57478,6 @@
     "wholesalePrice": 23201.25,
     "extraPrice": 24361.31,
     "retailPrice": 29001.56
-  },
-  {
-    "id": "УТ000055292",
-    "category": "..ХРИЗАНТЕМА",
-    "name": "СТРЕСА",
-    "wholesalePrice": 72.86,
-    "extraPrice": 76.51,
-    "retailPrice": 91.08
   },
   {
     "id": "УТ000055311",
