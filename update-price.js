@@ -8,6 +8,7 @@ const nodemailer = require('nodemailer');
 const LOCAL_XML_FILE = path.join(__dirname, 'farid_gold.xml');
 const CACHE_FILE = path.join(__dirname, 'cached_prices.json');
 const TEMP_CACHE_FILE = path.join(__dirname, 'cached_prices.tmp.json');
+const TEMP_XML_FILE = path.join(__dirname, 'farid_gold.tmp.xml');
 const REMOTE_XML_FILE = process.env.FTP_XML_FILE || 'farid_gold.xml';
 const SOURCE_XML_FILE = process.env.PRICE_XML_SOURCE
   ? path.resolve(process.env.PRICE_XML_SOURCE)
@@ -106,6 +107,19 @@ function asArray(value) {
   return Array.isArray(value) ? value : [value];
 }
 
+function readExistingPriceCache() {
+  if (!fs.existsSync(CACHE_FILE)) {
+    throw new Error('Price-only XML received, but existing cached_prices.json is missing');
+  }
+
+  const cached = JSON.parse(fs.readFileSync(CACHE_FILE, 'utf8').replace(/^\uFEFF/, ''));
+  if (!Array.isArray(cached) || !cached.length) {
+    throw new Error('Price-only XML received, but existing cached_prices.json is empty or invalid');
+  }
+
+  return cached;
+}
+
 function normalizeGoodsItems(items) {
   return items
     .map((item) => {
@@ -124,25 +138,11 @@ function normalizeGoodsItems(items) {
 }
 
 function normalizePriceRows(priceRows) {
-  return priceRows
-    .map((item) => {
-      const attrs = item.$ || {};
-      const id = String(attrs.ID || attrs.НоменклатураУид || attrs.NomenclatureUid || '');
-      const characteristicId = String(attrs.ХарактеристикаУид || attrs.CharacteristicUid || '');
-      const price = parsePrice(attrs.Price || attrs.Цена || attrs.Value);
-
-      return {
-        id,
-        characteristicId,
-        category: 'Прайс',
-        name: id,
-        wholesalePrice: price,
-        extraPrice: price,
-        retailPrice: price
-      };
-    })
-    .filter((item) => item.id && item.wholesalePrice > 0)
-    .sort((a, b) => a.id.localeCompare(b.id));
+  console.warn(
+    `WARN: downloaded XML has ${priceRows.length} price-only rows and no product names/categories. ` +
+    'Keeping existing cached_prices.json.'
+  );
+  return readExistingPriceCache();
 }
 
 function normalizePriceList(parsed) {
@@ -195,16 +195,25 @@ async function fetchAndCacheXML() {
       });
 
       console.log('Downloading XML...');
-      await client.downloadTo(LOCAL_XML_FILE, REMOTE_XML_FILE);
+      await client.downloadTo(TEMP_XML_FILE, REMOTE_XML_FILE);
     }
 
-    const buffer = fs.readFileSync(LOCAL_XML_FILE);
+    const xmlFileToRead = SOURCE_XML_FILE ? LOCAL_XML_FILE : TEMP_XML_FILE;
+    const buffer = fs.readFileSync(xmlFileToRead);
     const xml = stripToXMLDocument(decodeXML(buffer));
 
     const parsed = await xml2js.parseStringPromise(xml, { explicitArray: false });
+    const hasGoodsItems = asArray(parsed?.PriceList?.Goods?.Item).length > 0;
 
     const normalized = normalizePriceList(parsed);
     if (!normalized.length) throw new Error('No valid price items in XML');
+
+    if (!SOURCE_XML_FILE && hasGoodsItems) {
+      fs.copyFileSync(TEMP_XML_FILE, LOCAL_XML_FILE);
+    }
+    if (!SOURCE_XML_FILE && fs.existsSync(TEMP_XML_FILE)) {
+      fs.unlinkSync(TEMP_XML_FILE);
+    }
 
     fs.writeFileSync(
       TEMP_CACHE_FILE,
