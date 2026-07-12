@@ -134,7 +134,7 @@ function normalizePriceRows(priceRows) {
       return {
         id,
         characteristicId,
-        category: '',
+        category: 'Прайс',
         name: id,
         wholesalePrice: price,
         extraPrice: price,
