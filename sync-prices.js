@@ -65,7 +65,8 @@ async function main() {
   ensureCurrentBranch();
   ensureCleanWorktree();
 
-  runNodeScript(UPDATE_SCRIPT);
+  const updateOutput = runNodeScript(UPDATE_SCRIPT);
+  const keptExistingCache = /Keeping existing cached_prices\.json/i.test(updateOutput);
 
   runGit(['add', ...TRACKED_FILES], 'git add failed', ERROR_TYPES.SERVER_ERROR);
 
@@ -80,6 +81,9 @@ async function main() {
     runGit(['commit', '-m', 'server farid_gf price updated'], 'git commit failed', ERROR_TYPES.SERVER_ERROR);
     createdCommit = true;
     console.log('[CHECK] Price file updated');
+  } else if (keptExistingCache) {
+    unchangedStreak = 0;
+    console.log('[CHECK] Price-only FTP XML received; keeping existing categorized price cache');
   } else {
     unchangedStreak = (status.unchangedStreak || 0) + 1;
     console.log(`[CHECK] Price file unchanged (${unchangedStreak}/${UNCHANGED_STREAK_LIMIT})`);
@@ -125,6 +129,7 @@ async function main() {
     lastPriceFileMtime: currentPriceFileMtime,
     lastPriceFileSize: cacheStat.size,
     lastPriceFileTimestampChanged: didPriceFileTimestampChange,
+    lastKeptExistingCacheAt: keptExistingCache ? successTime : status.lastKeptExistingCacheAt || null,
     lastCommittedUpdateAt: createdCommit ? successTime : status.lastCommittedUpdateAt || null,
     lastPushAt: syncResult.pushedAt,
     lastPushCommit: syncResult.headCommit,
@@ -222,6 +227,7 @@ function runNodeScript(scriptPath) {
   if (result.status !== 0) {
     throw classifyUpdateScriptFailure(stdout, stderr, result.status);
   }
+  return `${stdout}\n${stderr}`;
 }
 
 function syncWithRemote() {
