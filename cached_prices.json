@@ -39936,6 +39936,14 @@
     "retailPrice": 49.43
   },
   {
+    "id": "УТ000045790",
+    "category": "КОРЗИНА",
+    "name": "Корзина - N001302",
+    "wholesalePrice": 389.78,
+    "extraPrice": 409.27,
+    "retailPrice": 487.23
+  },
+  {
     "id": "УТ000045791",
     "category": "КОРЗИНА",
     "name": "Корзина - N002001",
@@ -41950,14 +41958,6 @@
     "wholesalePrice": 2575.94,
     "extraPrice": 2704.74,
     "retailPrice": 3219.93
-  },
-  {
-    "id": "УТ000047742",
-    "category": "МЯГКАЯ ИГРУШКА",
-    "name": "Мягкая игрушка № OT8019/25",
-    "wholesalePrice": 1210.5,
-    "extraPrice": 1271.03,
-    "retailPrice": 1513.13
   },
   {
     "id": "УТ000047743",
@@ -56510,14 +56510,6 @@
     "wholesalePrice": 232.42,
     "extraPrice": 244.04,
     "retailPrice": 290.52
-  },
-  {
-    "id": "УТ000054747",
-    "category": ".УПАКОВКА",
-    "name": "КИРПИЧ АСПАК (КОРОБКА-20 ШТ)",
-    "wholesalePrice": 1170.15,
-    "extraPrice": 1228.66,
-    "retailPrice": 1462.69
   },
   {
     "id": "УТ000054765",
