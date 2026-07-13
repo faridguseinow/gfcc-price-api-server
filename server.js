@@ -11,7 +11,7 @@ function parsePositiveInt(value, fallback) {
 const app = express();
 const PORT = process.env.PORT || 3001;
 const MAX_CACHE_AGE_MINUTES = parsePositiveInt(process.env.PRICE_CACHE_MAX_AGE_MINUTES || '70', 70);
-const ENFORCE_FRESH_CACHE = process.env.PRICE_CACHE_ENFORCE_FRESHNESS !== 'false';
+const ENFORCE_FRESH_CACHE = /^(1|true|yes)$/i.test(process.env.PRICE_CACHE_ENFORCE_FRESHNESS || '');
 const CACHE_FILE = process.env.PRICE_CACHE_FILE
   ? path.resolve(process.env.PRICE_CACHE_FILE)
   : path.join(__dirname, 'cached_prices.json');
@@ -78,7 +78,7 @@ function getCacheInfo() {
 app.get('/health', (req, res) => {
   const cache = getCacheInfo();
   res.json({
-    ok: cache.hasCache && cache.validJson && !cache.stale,
+    ok: cache.hasCache && cache.validJson && (!ENFORCE_FRESH_CACHE || !cache.stale),
     uptimeSeconds: Math.round(process.uptime()),
     startedAt: SERVICE_STARTED_AT.toISOString(),
     enforceFreshCache: ENFORCE_FRESH_CACHE,
