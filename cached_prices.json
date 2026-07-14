@@ -288,14 +288,6 @@
     "retailPrice": 2272.5
   },
   {
-    "id": "УТ000002792",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "АРЕКА 12 СМ",
-    "wholesalePrice": 549.44,
-    "extraPrice": 576.91,
-    "retailPrice": 686.8
-  },
-  {
     "id": "УТ000002795",
     "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
     "name": "АРЕКА 17 СМ",
@@ -2750,6 +2742,14 @@
     "wholesalePrice": 168.06,
     "extraPrice": 176.47,
     "retailPrice": 210.08
+  },
+  {
+    "id": "УТ000005447",
+    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
+    "name": "МОН АМУР 70 см РОЗА Кен/Куст. (RLR)",
+    "wholesalePrice": 185.84,
+    "extraPrice": 195.13,
+    "retailPrice": 232.3
   },
   {
     "id": "УТ000005493",
@@ -14342,14 +14342,6 @@
     "wholesalePrice": 168.87,
     "extraPrice": 177.32,
     "retailPrice": 211.09
-  },
-  {
-    "id": "УТ000025522",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "ДЖУЛЬЕТТА  60 см куст на воде",
-    "wholesalePrice": 152.79,
-    "extraPrice": 160.43,
-    "retailPrice": 190.99
   },
   {
     "id": "УТ000025531",
@@ -29976,14 +29968,6 @@
     "retailPrice": 515.1
   },
   {
-    "id": "УТ000038672",
-    "category": "..,РАЗНОЕ",
-    "name": "ГОРТЕНЗИЯ РОЙ-БЕНЕФИТ 60 см",
-    "wholesalePrice": 294.11,
-    "extraPrice": 308.82,
-    "retailPrice": 367.64
-  },
-  {
     "id": "УТ000038674",
     "category": "..,РАЗНОЕ",
     "name": "ГИПЕРИКУМ 70 СМ РОЗОВЫЙ",
@@ -37574,6 +37558,14 @@
     "wholesalePrice": 517.12,
     "extraPrice": 542.98,
     "retailPrice": 646.4
+  },
+  {
+    "id": "УТ000044040",
+    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
+    "name": "ЛОРЕНА САММЕР 60 см куст на воде",
+    "wholesalePrice": 203.54,
+    "extraPrice": 213.71,
+    "retailPrice": 254.42
   },
   {
     "id": "УТ000044055",
