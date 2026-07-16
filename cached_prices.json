@@ -416,14 +416,6 @@
     "retailPrice": 87.32
   },
   {
-    "id": "УТ000002983",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "БРИГАМИЯ 12 СМ",
-    "wholesalePrice": 980.4,
-    "extraPrice": 1029.42,
-    "retailPrice": 1225.5
-  },
-  {
     "id": "УТ000003027",
     "category": ".УПАКОВКА",
     "name": "БУМАГА ГОФРИРОВАННАЯ",
@@ -1872,28 +1864,12 @@
     "retailPrice": 2246.75
   },
   {
-    "id": "УТ000004805",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "ДРАЦЕНА ГОЛДЕН КОСТ 24/160 СМ",
-    "wholesalePrice": 7434.7,
-    "extraPrice": 7806.44,
-    "retailPrice": 9293.38
-  },
-  {
     "id": "УТ000004841",
     "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
     "name": "ДРАЦЕНА МАРГИНАТА 11 СМ",
     "wholesalePrice": 522.88,
     "extraPrice": 549.02,
     "retailPrice": 653.6
-  },
-  {
-    "id": "УТ000004844",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "ДРАЦЕНА МАРГИНАТА 17 СМ 2 СТ.",
-    "wholesalePrice": 1307.2,
-    "extraPrice": 1372.56,
-    "retailPrice": 1634
   },
   {
     "id": "УТ000004846",
@@ -2222,14 +2198,6 @@
     "wholesalePrice": 3688.76,
     "extraPrice": 3873.19,
     "retailPrice": 4610.94
-  },
-  {
-    "id": "УТ000005102",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "ЗАМИОКУЛЬКАС ЗЕНЗИ  9/25 СМ",
-    "wholesalePrice": 637.26,
-    "extraPrice": 669.12,
-    "retailPrice": 796.58
   },
   {
     "id": "УТ000005108",
@@ -8064,6 +8032,14 @@
     "retailPrice": 182.4
   },
   {
+    "id": "УТ000011490",
+    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
+    "name": "ГИСЕЛИ  60 см куст на воде",
+    "wholesalePrice": 89.87,
+    "extraPrice": 94.36,
+    "retailPrice": 112.34
+  },
+  {
     "id": "УТ000011496",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "ГРИН ГЛОУ  50 см куст на воде",
@@ -9494,14 +9470,6 @@
     "wholesalePrice": 375.82,
     "extraPrice": 394.61,
     "retailPrice": 469.78
-  },
-  {
-    "id": "УТ000014607",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "ФИКУС ЭКЗОТИКА 30/150 СМ",
-    "wholesalePrice": 14975.61,
-    "extraPrice": 15724.39,
-    "retailPrice": 18719.51
   },
   {
     "id": "УТ000014612",
@@ -14390,14 +14358,6 @@
     "wholesalePrice": 39.22,
     "extraPrice": 41.18,
     "retailPrice": 49.02
-  },
-  {
-    "id": "УТ000025712",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "ФАЛЕНОПСИС 2 СТ. 12/70 СМ ТЕРЛАК",
-    "wholesalePrice": 1115.21,
-    "extraPrice": 1170.97,
-    "retailPrice": 1394.01
   },
   {
     "id": "УТ000025879",
@@ -27120,14 +27080,6 @@
     "retailPrice": 232.33
   },
   {
-    "id": "УТ000036876",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "ПИНК ПРОМАЙС  60 см куст на воде",
-    "wholesalePrice": 152.53,
-    "extraPrice": 160.16,
-    "retailPrice": 190.67
-  },
-  {
     "id": "УТ000036902",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ПЛАСТИК ГОРШОК СИГМА 30 СМ",
@@ -36734,14 +36686,6 @@
     "wholesalePrice": 263.89,
     "extraPrice": 277.09,
     "retailPrice": 329.86
-  },
-  {
-    "id": "УТ000043444",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "ДРАЦЕНА ВАРНЕСКИ 24/150 СМ",
-    "wholesalePrice": 5964.1,
-    "extraPrice": 6262.31,
-    "retailPrice": 7455.13
   },
   {
     "id": "УТ000043446",
@@ -50163,9 +50107,9 @@
     "id": "УТ000052160",
     "category": ".КОМНАТНЫЕ КИТАЙ",
     "name": "БОНСАЙ 24 СМ КИТАЙ",
-    "wholesalePrice": 4117.68,
-    "extraPrice": 4323.56,
-    "retailPrice": 5147.1
+    "wholesalePrice": 1797.4,
+    "extraPrice": 1887.27,
+    "retailPrice": 2246.75
   },
   {
     "id": "УТ000052170",
@@ -58750,14 +58694,6 @@
     "wholesalePrice": 482.03,
     "extraPrice": 506.13,
     "retailPrice": 602.54
-  },
-  {
-    "id": "УТ000056229",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "ДИФФЕНБАХИЯ ВАЙТ ЭТНА 21/70 СМ",
-    "wholesalePrice": 2884.01,
-    "extraPrice": 3028.21,
-    "retailPrice": 3605.01
   },
   {
     "id": "УТ000056233",
