@@ -395,9 +395,9 @@
     "id": "УТ000002925",
     "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
     "name": "БЕГОНИЯ РЕКС 13 СМ",
-    "wholesalePrice": 902,
-    "extraPrice": 947.1,
-    "retailPrice": 1127.5
+    "wholesalePrice": 820,
+    "extraPrice": 861,
+    "retailPrice": 1025
   },
   {
     "id": "УТ000002936",
@@ -3147,9 +3147,9 @@
     "id": "УТ000005876",
     "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
     "name": "КАЛАТЕЯ САНДЕРИАНА 14 СМ",
-    "wholesalePrice": 1254.6,
-    "extraPrice": 1317.33,
-    "retailPrice": 1568.25
+    "wholesalePrice": 1230,
+    "extraPrice": 1291.5,
+    "retailPrice": 1537.5
   },
   {
     "id": "УТ000005940",
@@ -9427,9 +9427,9 @@
     "id": "УТ000014337",
     "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
     "name": "ФАЛЕНОПСИС КАСКАТ КРАШЕНЫЙ 12 СМ",
-    "wholesalePrice": 1476,
-    "extraPrice": 1549.8,
-    "retailPrice": 1845
+    "wholesalePrice": 1312,
+    "extraPrice": 1377.6,
+    "retailPrice": 1640
   },
   {
     "id": "УТ000014371",
@@ -9779,6 +9779,14 @@
     "id": "УТ000014844",
     "category": "..ХРИЗАНТЕМА",
     "name": "ЧИК",
+    "wholesalePrice": 74.04,
+    "extraPrice": 77.74,
+    "retailPrice": 92.55
+  },
+  {
+    "id": "УТ000014846",
+    "category": "..ХРИЗАНТЕМА",
+    "name": "ЛИМОНЧЕЛЛО",
     "wholesalePrice": 74.04,
     "extraPrice": 77.74,
     "retailPrice": 92.55
@@ -12667,9 +12675,9 @@
     "id": "УТ000020804",
     "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
     "name": "ТУЯ ( Smaragd ) 28/150 СМ",
-    "wholesalePrice": 4188.56,
-    "extraPrice": 4397.99,
-    "retailPrice": 5235.7
+    "wholesalePrice": 3936,
+    "extraPrice": 4132.8,
+    "retailPrice": 4920
   },
   {
     "id": "УТ000020823",
@@ -23640,14 +23648,6 @@
     "retailPrice": 153.75
   },
   {
-    "id": "УТ000033244",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "КАШПО ТРАДЕСКАНЦИЯ 23 СМ (КРАСНОДАР)",
-    "wholesalePrice": 739.64,
-    "extraPrice": 776.62,
-    "retailPrice": 924.55
-  },
-  {
     "id": "УТ000033246",
     "category": ".УПАКОВКА",
     "name": "АКВАБОКС 3 ШТ.",
@@ -24163,9 +24163,9 @@
     "id": "УТ000033707",
     "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
     "name": "ТУЯ ( Smaragd ) 26/100  СМ",
-    "wholesalePrice": 3234.9,
-    "extraPrice": 3396.65,
-    "retailPrice": 4043.63
+    "wholesalePrice": 2952,
+    "extraPrice": 3099.6,
+    "retailPrice": 3690
   },
   {
     "id": "УТ000033720",
@@ -36163,9 +36163,9 @@
     "id": "УТ000042597",
     "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
     "name": "ТУЯ ( Danica ) 19 СМ",
-    "wholesalePrice": 1098.8,
-    "extraPrice": 1153.74,
-    "retailPrice": 1373.5
+    "wholesalePrice": 1148,
+    "extraPrice": 1205.4,
+    "retailPrice": 1435
   },
   {
     "id": "УТ000042610",
@@ -36315,9 +36315,9 @@
     "id": "УТ000042751",
     "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
     "name": "СЕНЕКИО 12 СМ",
-    "wholesalePrice": 701.1,
-    "extraPrice": 736.16,
-    "retailPrice": 876.38
+    "wholesalePrice": 574,
+    "extraPrice": 602.7,
+    "retailPrice": 717.5
   },
   {
     "id": "УТ000042853",
@@ -59003,9 +59003,9 @@
     "id": "УТ000056231",
     "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
     "name": "ГИДРАНГИЯ ПАНИКУЛАТА НА СТВОЛЕ 35/150 СМ",
-    "wholesalePrice": 15170,
-    "extraPrice": 15928.5,
-    "retailPrice": 18962.5
+    "wholesalePrice": 14350,
+    "extraPrice": 15067.5,
+    "retailPrice": 17937.5
   },
   {
     "id": "УТ000056233",
@@ -59198,5 +59198,61 @@
     "wholesalePrice": 213.2,
     "extraPrice": 223.86,
     "retailPrice": 266.5
+  },
+  {
+    "id": "УТ000056286",
+    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
+    "name": "ДЖУНИПЕРС ( Procumbens Nana ) 23 СМ",
+    "wholesalePrice": 1558,
+    "extraPrice": 1635.9,
+    "retailPrice": 1947.5
+  },
+  {
+    "id": "УТ000056287",
+    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
+    "name": "ДЖУНИПЕРС ( Squamata Blue Star ) 23 СМ",
+    "wholesalePrice": 1558,
+    "extraPrice": 1635.9,
+    "retailPrice": 1947.5
+  },
+  {
+    "id": "УТ000056288",
+    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
+    "name": "ТАХУС ( Baccata ) 21/80 СМ",
+    "wholesalePrice": 1640,
+    "extraPrice": 1722,
+    "retailPrice": 2050
+  },
+  {
+    "id": "УТ000056289",
+    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
+    "name": "ПИЦЕЯ (Аbies 'Nidiformis ) 19 СМ",
+    "wholesalePrice": 1230,
+    "extraPrice": 1291.5,
+    "retailPrice": 1537.5
+  },
+  {
+    "id": "УТ000056290",
+    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
+    "name": "ДЖУНИПЕРС ( Horizontalis Blue Chip ) 19 СМ",
+    "wholesalePrice": 1230,
+    "extraPrice": 1291.5,
+    "retailPrice": 1537.5
+  },
+  {
+    "id": "УТ000056291",
+    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
+    "name": "ДЖУНИПЕРС ( Pfitzeriana Mint Julep ) 19 СМ",
+    "wholesalePrice": 1230,
+    "extraPrice": 1291.5,
+    "retailPrice": 1537.5
+  },
+  {
+    "id": "УТ000056292",
+    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
+    "name": "ДЖУНИПЕРС ( Conferta Schlager ) 23 СМ",
+    "wholesalePrice": 1558,
+    "extraPrice": 1635.9,
+    "retailPrice": 1947.5
   }
 ]
