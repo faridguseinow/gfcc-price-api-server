@@ -9496,14 +9496,6 @@
     "retailPrice": 1025
   },
   {
-    "id": "УТ000014538",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "ФИКУС ЛИРАТА 17 СМ",
-    "wholesalePrice": 2050,
-    "extraPrice": 2152.5,
-    "retailPrice": 2562.5
-  },
-  {
     "id": "УТ000014550",
     "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
     "name": "ФИКУС МОКЛАЙН РЕШЕТКА 27/110 СМ",
@@ -9883,6 +9875,14 @@
     "id": "УТ000015016",
     "category": "..ХРИЗАНТЕМА",
     "name": ".ХРИЗ. ДЕКО РОССАНО",
+    "wholesalePrice": 106.52,
+    "extraPrice": 111.84,
+    "retailPrice": 133.15
+  },
+  {
+    "id": "УТ000015027",
+    "category": "..ХРИЗАНТЕМА",
+    "name": ".ХРИЗ. ДЕКО ЭТРУСКО БЕЛЫЙ",
     "wholesalePrice": 106.52,
     "extraPrice": 111.84,
     "retailPrice": 133.15
@@ -35430,14 +35430,6 @@
     "wholesalePrice": 94.3,
     "extraPrice": 99.02,
     "retailPrice": 117.88
-  },
-  {
-    "id": "УТ000041640",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "ХОЛИ 60 см куст на воде",
-    "wholesalePrice": 106.6,
-    "extraPrice": 111.93,
-    "retailPrice": 133.25
   },
   {
     "id": "УТ000041641",
