@@ -7656,6 +7656,14 @@
     "retailPrice": 81.9
   },
   {
+    "id": "УТ000010566",
+    "category": "..,РАЗНОЕ",
+    "name": "САФАРИ",
+    "wholesalePrice": 117.94,
+    "extraPrice": 123.83,
+    "retailPrice": 147.42
+  },
+  {
     "id": "УТ000010569",
     "category": "..,РАЗНОЕ",
     "name": "СЕДУМ",
@@ -9582,14 +9590,6 @@
     "wholesalePrice": 266.18,
     "extraPrice": 279.48,
     "retailPrice": 332.72
-  },
-  {
-    "id": "УТ000014701",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "ХАМЕДОРЕЯ 17 СМ",
-    "wholesalePrice": 1162.98,
-    "extraPrice": 1221.13,
-    "retailPrice": 1453.73
   },
   {
     "id": "УТ000014705",
@@ -26398,6 +26398,14 @@
     "wholesalePrice": 192.49,
     "extraPrice": 202.11,
     "retailPrice": 240.61
+  },
+  {
+    "id": "УТ000035656",
+    "category": "ГРУНТ И УДОБРЕНИЯ",
+    "name": "МУРОВЬЕД СУПЕР 50 ГР",
+    "wholesalePrice": 54.05,
+    "extraPrice": 56.76,
+    "retailPrice": 67.57
   },
   {
     "id": "УТ000035659",
