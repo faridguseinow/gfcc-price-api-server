@@ -4648,14 +4648,6 @@
     "retailPrice": 1071.13
   },
   {
-    "id": "УТ000006838",
-    "category": "КОРЗИНА",
-    "name": "Корзина - 8268702",
-    "wholesalePrice": 481.34,
-    "extraPrice": 505.41,
-    "retailPrice": 601.68
-  },
-  {
     "id": "УТ000006839",
     "category": "КОРЗИНА",
     "name": "Корзина - 8268803",
@@ -7120,14 +7112,6 @@
     "retailPrice": 101.48
   },
   {
-    "id": "УТ000010223",
-    "category": "..,РАЗНОЕ",
-    "name": "ДАХЛИА",
-    "wholesalePrice": 164,
-    "extraPrice": 172.2,
-    "retailPrice": 205
-  },
-  {
     "id": "УТ000010241",
     "category": "..,РАЗНОЕ",
     "name": "ДЕНДРОБИУМ",
@@ -7664,14 +7648,6 @@
     "retailPrice": 82
   },
   {
-    "id": "УТ000010566",
-    "category": "..,РАЗНОЕ",
-    "name": "САФАРИ",
-    "wholesalePrice": 118.08,
-    "extraPrice": 123.98,
-    "retailPrice": 147.6
-  },
-  {
     "id": "УТ000010569",
     "category": "..,РАЗНОЕ",
     "name": "СЕДУМ",
@@ -7806,14 +7782,6 @@
     "wholesalePrice": 114.8,
     "extraPrice": 120.54,
     "retailPrice": 143.5
-  },
-  {
-    "id": "УТ000010643",
-    "category": "..,РАЗНОЕ",
-    "name": "ЦЕЛОЗИЯ  МИНИ",
-    "wholesalePrice": 121.36,
-    "extraPrice": 127.43,
-    "retailPrice": 151.7
   },
   {
     "id": "УТ000010646",
@@ -14950,6 +14918,14 @@
     "wholesalePrice": 120.2,
     "extraPrice": 126.21,
     "retailPrice": 150.25
+  },
+  {
+    "id": "УТ000026276",
+    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
+    "name": "МЭНСФИЛД ПИНК VIP ROSES 60 см куст на воде",
+    "wholesalePrice": 273.47,
+    "extraPrice": 287.14,
+    "retailPrice": 341.84
   },
   {
     "id": "УТ000026277",
@@ -23174,6 +23150,14 @@
     "wholesalePrice": 127.1,
     "extraPrice": 133.46,
     "retailPrice": 158.88
+  },
+  {
+    "id": "УТ000032784",
+    "category": "..,РОЗА ,НА ВОДЕ",
+    "name": "ТИНКЕРБЕЛЬ 50 см одног на воде",
+    "wholesalePrice": 131.2,
+    "extraPrice": 137.76,
+    "retailPrice": 164
   },
   {
     "id": "УТ000032785",
@@ -36510,6 +36494,14 @@
     "wholesalePrice": 280.44,
     "extraPrice": 294.46,
     "retailPrice": 350.55
+  },
+  {
+    "id": "УТ000043121",
+    "category": "..,РАЗНОЕ",
+    "name": "ДЕЛЬФИНИУМ БЕЛЫЙ 130 см",
+    "wholesalePrice": 576.46,
+    "extraPrice": 605.28,
+    "retailPrice": 720.58
   },
   {
     "id": "УТ000043122",
