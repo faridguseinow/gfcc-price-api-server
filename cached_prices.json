@@ -808,14 +808,6 @@
     "retailPrice": 406.93
   },
   {
-    "id": "УТ000003167",
-    "category": "ВАЗЫ И КЕРАМИКА",
-    "name": "ВАЗА № 1775",
-    "wholesalePrice": 353.42,
-    "extraPrice": 371.09,
-    "retailPrice": 441.78
-  },
-  {
     "id": "УТ000003168",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 1776",
@@ -9883,6 +9875,14 @@
     "id": "УТ000015012",
     "category": "..ХРИЗАНТЕМА",
     "name": ".ХРИЗ. ДЕКО ПЁТР",
+    "wholesalePrice": 95.87,
+    "extraPrice": 100.66,
+    "retailPrice": 119.83
+  },
+  {
+    "id": "УТ000015014",
+    "category": "..ХРИЗАНТЕМА",
+    "name": ".ХРИЗ. ДЕКО ПИП",
     "wholesalePrice": 95.87,
     "extraPrice": 100.66,
     "retailPrice": 119.83
@@ -33214,14 +33214,6 @@
     "wholesalePrice": 113.01,
     "extraPrice": 118.66,
     "retailPrice": 141.27
-  },
-  {
-    "id": "УТ000040063",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ОПАЛА-  60см ANNI ROSES.LRA.QLS.ATC.SPPH.ALLGF.EVR.RLH.TURS.GWFW.VDS.RDF.FDS 2.CNV.MON",
-    "wholesalePrice": 82.37,
-    "extraPrice": 86.49,
-    "retailPrice": 102.96
   },
   {
     "id": "УТ000040064",
@@ -59230,6 +59222,14 @@
     "wholesalePrice": 836.4,
     "extraPrice": 878.22,
     "retailPrice": 1045.5
+  },
+  {
+    "id": "УТ000056213",
+    "category": "КОРЗИНА",
+    "name": "Корзина - N254205",
+    "wholesalePrice": 1244.76,
+    "extraPrice": 1307,
+    "retailPrice": 1555.95
   },
   {
     "id": "УТ000056216",
