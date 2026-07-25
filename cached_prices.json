@@ -1976,14 +1976,6 @@
     "retailPrice": 2705.04
   },
   {
-    "id": "УТ000004912",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "ДРАЦЕНА РЕФЛЕКСА 30/125 СМ",
-    "wholesalePrice": 14035.2,
-    "extraPrice": 14736.96,
-    "retailPrice": 18245.76
-  },
-  {
     "id": "УТ000004914",
     "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
     "name": "ДРАЦЕНА ЦИНТО 24/140 СМ",
@@ -5518,6 +5510,14 @@
     "wholesalePrice": 693.6,
     "extraPrice": 728.28,
     "retailPrice": 901.68
+  },
+  {
+    "id": "УТ000008060",
+    "category": "МЯГКАЯ ИГРУШКА",
+    "name": "Мягкая игрушка № MC2595/15AB",
+    "wholesalePrice": 530.4,
+    "extraPrice": 556.92,
+    "retailPrice": 689.52
   },
   {
     "id": "УТ000008092",
@@ -10566,14 +10566,6 @@
     "wholesalePrice": 326.4,
     "extraPrice": 342.72,
     "retailPrice": 424.32
-  },
-  {
-    "id": "УТ000015870",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "ВИНОГРАД 21/80 СМ",
-    "wholesalePrice": 3264,
-    "extraPrice": 3427.2,
-    "retailPrice": 4243.2
   },
   {
     "id": "УТ000015887",
@@ -56752,6 +56744,22 @@
     "retailPrice": 457.07
   },
   {
+    "id": "УТ000054528",
+    "category": ",Сортовой",
+    "name": "ПИОНАВИДНАЯ СУБАТИ 50 см СОРТОВОЙ РОЗА Кен/Куст. (SUBATI)",
+    "wholesalePrice": 99.55,
+    "extraPrice": 104.53,
+    "retailPrice": 129.42
+  },
+  {
+    "id": "УТ000054529",
+    "category": ",Сортовой",
+    "name": "ПИОНАВИДНАЯ СУБАТИ 60 см СОРТОВОЙ РОЗА Кен/Куст. (SUBATI)",
+    "wholesalePrice": 122.4,
+    "extraPrice": 128.52,
+    "retailPrice": 159.12
+  },
+  {
     "id": "УТ000054532",
     "category": ",Сортовой",
     "name": "ПИОНАВИДНАЯ РЕД ЛАНДС 50 см СОРТОВОЙ РОЗА Кен/Куст. (RLR)",
@@ -59526,14 +59534,6 @@
     "wholesalePrice": 461.04,
     "extraPrice": 484.09,
     "retailPrice": 599.35
-  },
-  {
-    "id": "УТ000056226",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "ДРАЦЕНА КОМПАКТА 27/160 СМ",
-    "wholesalePrice": 10934.4,
-    "extraPrice": 11481.12,
-    "retailPrice": 14214.72
   },
   {
     "id": "УТ000056228",
