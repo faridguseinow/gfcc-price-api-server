@@ -7176,14 +7176,6 @@
     "retailPrice": 86.99
   },
   {
-    "id": "УТ000010251",
-    "category": "..,РАЗНОЕ",
-    "name": "ЗИНГИБЕР",
-    "wholesalePrice": 371.28,
-    "extraPrice": 389.84,
-    "retailPrice": 482.66
-  },
-  {
     "id": "УТ000010256",
     "category": "..,РАЗНОЕ",
     "name": "ИРИС  БЛУ МЭДЖИК",
@@ -28856,14 +28848,6 @@
     "retailPrice": 169.73
   },
   {
-    "id": "УТ000037871",
-    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
-    "name": "ГУД МУД 70 см РОЗА Кен/Куст. (RLR)",
-    "wholesalePrice": 183.6,
-    "extraPrice": 192.78,
-    "retailPrice": 238.68
-  },
-  {
     "id": "УТ000037879",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "СВИТ ДЖУЛИА 70 см куст на воде",
@@ -37246,6 +37230,14 @@
     "wholesalePrice": 57.12,
     "extraPrice": 59.98,
     "retailPrice": 74.26
+  },
+  {
+    "id": "УТ000043613",
+    "category": "..,РАЗНОЕ",
+    "name": "ДАХЛИА ГОЛЛ",
+    "wholesalePrice": 163.2,
+    "extraPrice": 171.36,
+    "retailPrice": 212.16
   },
   {
     "id": "УТ000043615",
@@ -52040,6 +52032,14 @@
     "retailPrice": 1911.56
   },
   {
+    "id": "УТ000053112",
+    "category": "..ЦВЕТЫ КИТАЙ",
+    "name": "ПАНИКУМ КИТАЙ ПАЧКА",
+    "wholesalePrice": 249.7,
+    "extraPrice": 262.18,
+    "retailPrice": 324.6
+  },
+  {
     "id": "УТ000053115",
     "category": ".УПАКОВКА",
     "name": "ПАКЕТ № 24430 ПАЧКА 10 ШТ",
@@ -56622,14 +56622,6 @@
     "wholesalePrice": 80.78,
     "extraPrice": 84.82,
     "retailPrice": 105.02
-  },
-  {
-    "id": "УТ000054450",
-    "category": "КОРЗИНА",
-    "name": "Корзина - N239606",
-    "wholesalePrice": 2619.36,
-    "extraPrice": 2750.33,
-    "retailPrice": 3405.17
   },
   {
     "id": "УТ000054453",
