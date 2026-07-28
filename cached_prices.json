@@ -1624,14 +1624,6 @@
     "retailPrice": 3721.9
   },
   {
-    "id": "УТ000004008",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "ГИМНОКАЛИЦИУМ  8 СМ",
-    "wholesalePrice": 777.1,
-    "extraPrice": 815.96,
-    "retailPrice": 1010.23
-  },
-  {
     "id": "УТ000004026",
     "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
     "name": "ГЛОКСИНИЯ 12 СМ",
@@ -1966,6 +1958,14 @@
     "wholesalePrice": 572.6,
     "extraPrice": 601.23,
     "retailPrice": 744.38
+  },
+  {
+    "id": "УТ000004901",
+    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
+    "name": "ДРАЦЕНА САНРЕЙ 17/80 СМ",
+    "wholesalePrice": 2085.9,
+    "extraPrice": 2190.2,
+    "retailPrice": 2711.67
   },
   {
     "id": "УТ000004914",
@@ -9784,14 +9784,6 @@
     "retailPrice": 120.02
   },
   {
-    "id": "УТ000014773",
-    "category": "..ХРИЗАНТЕМА",
-    "name": "БАКАРДИ РОЗОВЫЙ",
-    "wholesalePrice": 92.32,
-    "extraPrice": 96.94,
-    "retailPrice": 120.02
-  },
-  {
     "id": "УТ000014774",
     "category": "..ХРИЗАНТЕМА",
     "name": "БАЛТИКА",
@@ -9920,14 +9912,6 @@
     "retailPrice": 120.02
   },
   {
-    "id": "УТ000014905",
-    "category": "..ХРИЗАНТЕМА",
-    "name": "РИХАННА",
-    "wholesalePrice": 92.32,
-    "extraPrice": 96.94,
-    "retailPrice": 120.02
-  },
-  {
     "id": "УТ000014917",
     "category": "..ХРИЗАНТЕМА",
     "name": "САНТИНИ МИКС",
@@ -9995,14 +9979,6 @@
     "id": "УТ000015012",
     "category": "..ХРИЗАНТЕМА",
     "name": ".ХРИЗ. ДЕКО ПЁТР",
-    "wholesalePrice": 119.54,
-    "extraPrice": 125.52,
-    "retailPrice": 155.41
-  },
-  {
-    "id": "УТ000015014",
-    "category": "..ХРИЗАНТЕМА",
-    "name": ".ХРИЗ. ДЕКО ПИП",
     "wholesalePrice": 119.54,
     "extraPrice": 125.52,
     "retailPrice": 155.41
@@ -12646,14 +12622,6 @@
     "wholesalePrice": 7689.2,
     "extraPrice": 8073.66,
     "retailPrice": 9995.96
-  },
-  {
-    "id": "УТ000020088",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "ФИКУС БЕНДЖАМИНА ДАНИЕЛЬ 27/145 СМ",
-    "wholesalePrice": 7869.16,
-    "extraPrice": 8262.62,
-    "retailPrice": 10229.91
   },
   {
     "id": "УТ000020113",
@@ -16006,14 +15974,6 @@
     "wholesalePrice": 792.64,
     "extraPrice": 832.27,
     "retailPrice": 1030.43
-  },
-  {
-    "id": "УТ000028083",
-    "category": "..ХРИЗАНТЕМА",
-    "name": ".ХРИЗ. ДЕКО БИГОУДИ ПУРПЫЛ",
-    "wholesalePrice": 169.7,
-    "extraPrice": 178.19,
-    "retailPrice": 220.61
   },
   {
     "id": "УТ000028092",
@@ -23918,14 +23878,6 @@
     "wholesalePrice": 230.51,
     "extraPrice": 242.04,
     "retailPrice": 299.67
-  },
-  {
-    "id": "УТ000033237",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "ХРИЗАНТЕМА ШАР 25 СМ (ТЕПЛИЦА)",
-    "wholesalePrice": 1147.74,
-    "extraPrice": 1205.12,
-    "retailPrice": 1492.06
   },
   {
     "id": "УТ000033242",
@@ -39686,14 +39638,6 @@
     "wholesalePrice": 139.06,
     "extraPrice": 146.01,
     "retailPrice": 180.78
-  },
-  {
-    "id": "УТ000045052",
-    "category": "..ХРИЗАНТЕМА",
-    "name": "ЛЕТС ГО ПИНК",
-    "wholesalePrice": 92.32,
-    "extraPrice": 96.94,
-    "retailPrice": 120.02
   },
   {
     "id": "УТ000045082",
