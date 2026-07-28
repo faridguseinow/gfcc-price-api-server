@@ -12304,14 +12304,6 @@
     "retailPrice": 358.37
   },
   {
-    "id": "УТ000019118",
-    "category": ".УПАКОВКА",
-    "name": "КОРОБКА № 3012 НАБОР",
-    "wholesalePrice": 432.72,
-    "extraPrice": 454.36,
-    "retailPrice": 562.54
-  },
-  {
     "id": "УТ000019126",
     "category": "..РОЗА КЕНИЯ",
     "name": "СВИТ РЕВАЙВЛ 60 см РОЗА Кения  (SUBATI)",
@@ -15654,6 +15646,14 @@
     "wholesalePrice": 190.19,
     "extraPrice": 199.69,
     "retailPrice": 247.24
+  },
+  {
+    "id": "УТ000027609",
+    "category": "..,РАЗНОЕ",
+    "name": "ЛЕЙКО БУКЕТ",
+    "wholesalePrice": 638.04,
+    "extraPrice": 669.94,
+    "retailPrice": 829.45
   },
   {
     "id": "УТ000027736",
@@ -20174,6 +20174,14 @@
     "wholesalePrice": 150.2,
     "extraPrice": 157.71,
     "retailPrice": 195.26
+  },
+  {
+    "id": "УТ000029576",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "КАНТРИ БЛЮЗ- 80см (СТАР,КОРОЗОН,МАТИЗ,ЭКО РОЗ,БЕЛЛА РОЗА,ЧАРМИНГ,СОФИ,ДАВИНЧИ.РОЯЛ)",
+    "wholesalePrice": 169.58,
+    "extraPrice": 178.06,
+    "retailPrice": 220.45
   },
   {
     "id": "УТ000029578",
@@ -58651,9 +58659,9 @@
     "id": "УТ000055457",
     "category": ".КОМНАТНЫЕ КИТАЙ",
     "name": "СТРЕЛИЦИЯ 28/100 СМ КИТАЙ",
-    "wholesalePrice": 2617.6,
-    "extraPrice": 2748.48,
-    "retailPrice": 3402.88
+    "wholesalePrice": 3190.2,
+    "extraPrice": 3349.71,
+    "retailPrice": 4147.26
   },
   {
     "id": "УТ000055460",
