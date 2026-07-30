@@ -8480,14 +8480,6 @@
     "retailPrice": 92.03
   },
   {
-    "id": "УТ000011689",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "РЕФЛЕКС 60 см куст на воде",
-    "wholesalePrice": 95.22,
-    "extraPrice": 99.98,
-    "retailPrice": 123.79
-  },
-  {
     "id": "УТ000011690",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "РЕФЛЕКС 70 см куст на воде",
@@ -9550,14 +9542,6 @@
     "wholesalePrice": 8197.2,
     "extraPrice": 8607.06,
     "retailPrice": 10656.36
-  },
-  {
-    "id": "УТ000014516",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "ФИКУС ГИНСЕНГ 24/70 СМ",
-    "wholesalePrice": 4802.4,
-    "extraPrice": 5042.52,
-    "retailPrice": 6243.12
   },
   {
     "id": "УТ000014532",
@@ -30923,6 +30907,14 @@
     "id": "УТ000038915",
     "category": "КОРЗИНА",
     "name": "Корзина - 20A601601",
+    "wholesalePrice": 354.38,
+    "extraPrice": 372.1,
+    "retailPrice": 460.7
+  },
+  {
+    "id": "УТ000038916",
+    "category": "КОРЗИНА",
+    "name": "Корзина - 20A601701",
     "wholesalePrice": 354.38,
     "extraPrice": 372.1,
     "retailPrice": 460.7
