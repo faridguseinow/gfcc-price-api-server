@@ -91,32 +91,6 @@ async function main() {
 
   const syncResult = syncWithRemote();
 
-  if (!hasStagedPriceChanges && previousSuccessAgeMinutes !== null && previousSuccessAgeMinutes > MAX_PRICE_AGE_MINUTES) {
-    throw createTypedError(
-      ERROR_TYPES.PRICE_STALE,
-      `Last successful sync is ${previousSuccessAgeMinutes} minutes old, above the ${MAX_PRICE_AGE_MINUTES}-minute limit.`,
-      {
-        currentPriceFileMtime,
-        previousPriceFileMtime,
-        unchangedStreak,
-        previousSuccessAgeMinutes,
-      }
-    );
-  }
-
-  if (!hasStagedPriceChanges && unchangedStreak >= UNCHANGED_STREAK_LIMIT) {
-    throw createTypedError(
-      ERROR_TYPES.PRICE_UNCHANGED_TOO_LONG,
-      `Price file did not change for ${unchangedStreak} consecutive runs.`,
-      {
-        currentPriceFileMtime,
-        previousPriceFileMtime,
-        unchangedStreak,
-        previousSuccessAgeMinutes,
-      }
-    );
-  }
-
   const successTime = new Date().toISOString();
   const newStatus = {
     ...readStatus(),
