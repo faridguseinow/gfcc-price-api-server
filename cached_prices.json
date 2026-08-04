@@ -608,14 +608,6 @@
     "retailPrice": 510.19
   },
   {
-    "id": "УТ000003095",
-    "category": "ВАЗЫ И КЕРАМИКА",
-    "name": "ВАЗА № 1594",
-    "wholesalePrice": 321.48,
-    "extraPrice": 337.55,
-    "retailPrice": 417.92
-  },
-  {
     "id": "УТ000003101",
     "category": "ВАЗЫ И КЕРАМИКА",
     "name": "ВАЗА № 1602",
@@ -10614,6 +10606,14 @@
     "wholesalePrice": 2588.5,
     "extraPrice": 2717.93,
     "retailPrice": 3365.05
+  },
+  {
+    "id": "УТ000015457",
+    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
+    "name": "ЮККА 24/145 СМ",
+    "wholesalePrice": 5928.5,
+    "extraPrice": 6224.93,
+    "retailPrice": 7707.05
   },
   {
     "id": "УТ000015460",
@@ -41688,6 +41688,14 @@
     "retailPrice": 1715.09
   },
   {
+    "id": "УТ000046507",
+    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
+    "name": "АНТУРИУМ БАНДЕРОЛА 12 СМ",
+    "wholesalePrice": 1085.5,
+    "extraPrice": 1139.78,
+    "retailPrice": 1411.15
+  },
+  {
     "id": "УТ000046508",
     "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
     "name": "АНТУРИУМ ЛИВИУМ  9 СМ",
@@ -58624,14 +58632,6 @@
     "retailPrice": 1142.82
   },
   {
-    "id": "УТ000054995",
-    "category": "..РОЗА КЕНИЯ",
-    "name": "ЭВЕР РЕД 50 см РОЗА Кения (MONA FLOWERS)",
-    "wholesalePrice": 58.45,
-    "extraPrice": 61.37,
-    "retailPrice": 75.99
-  },
-  {
     "id": "УТ000054996",
     "category": "..РОЗА КЕНИЯ",
     "name": "МАЙ ФЭИР 50 см РОЗА Кения (MONA FLOWERS)",
@@ -58659,14 +58659,6 @@
     "id": "УТ000054999",
     "category": "..РОЗА КЕНИЯ",
     "name": "ДИП ПУРПЛ 50 см РОЗА Кения (MONO FLOWERS)",
-    "wholesalePrice": 55.95,
-    "extraPrice": 58.74,
-    "retailPrice": 72.73
-  },
-  {
-    "id": "УТ000055000",
-    "category": "..РОЗА КЕНИЯ",
-    "name": "КОНФИДЕНТАЛ 50 см РОЗА Кения (MONA FLOWERS)",
     "wholesalePrice": 55.95,
     "extraPrice": 58.74,
     "retailPrice": 72.73
