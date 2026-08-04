@@ -5776,14 +5776,6 @@
     "retailPrice": 975.78
   },
   {
-    "id": "УТ000008471",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "НОЛИНА 17 СМ",
-    "wholesalePrice": 2001.6,
-    "extraPrice": 2101.68,
-    "retailPrice": 2602.08
-  },
-  {
     "id": "УТ000008472",
     "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
     "name": "НОЛИНА 19 СМ",
@@ -9899,14 +9891,6 @@
     "id": "УТ000014775",
     "category": "..ХРИЗАНТЕМА",
     "name": "БАЛТИКА ЖЕЛТАЯ",
-    "wholesalePrice": 95.07,
-    "extraPrice": 99.82,
-    "retailPrice": 123.59
-  },
-  {
-    "id": "УТ000014777",
-    "category": "..ХРИЗАНТЕМА",
-    "name": "БАЛТИКА КРЕМ",
     "wholesalePrice": 95.07,
     "extraPrice": 99.82,
     "retailPrice": 123.59
@@ -28416,6 +28400,14 @@
     "retailPrice": 79.15
   },
   {
+    "id": "УТ000037211",
+    "category": "..,РАЗНОЕ",
+    "name": "ВАНДА ТАИЛАНД",
+    "wholesalePrice": 542.1,
+    "extraPrice": 569.21,
+    "retailPrice": 704.73
+  },
+  {
     "id": "УТ000037247",
     "category": "..РОЗА КЕНИЯ",
     "name": "СОФИ ЛОРЕН 40 см РОЗА Кения (MZURRIE)",
@@ -42942,6 +42934,14 @@
     "wholesalePrice": 572.96,
     "extraPrice": 601.61,
     "retailPrice": 744.85
+  },
+  {
+    "id": "УТ000047629",
+    "category": "..ЦВЕТЫ КИТАЙ",
+    "name": "ПОДСОЛНУХ КИТАЙ ПАЧКА",
+    "wholesalePrice": 1210.97,
+    "extraPrice": 1271.52,
+    "retailPrice": 1574.26
   },
   {
     "id": "УТ000047695",
