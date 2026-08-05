@@ -15376,14 +15376,6 @@
     "retailPrice": 95.98
   },
   {
-    "id": "УТ000026588",
-    "category": "..ХРИЗАНТЕМА",
-    "name": ".ХРИЗ. ДЕКО РОКСО",
-    "wholesalePrice": 122.61,
-    "extraPrice": 128.74,
-    "retailPrice": 159.39
-  },
-  {
     "id": "УТ000026592",
     "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
     "name": "АНТУРИУМ ЛИВИУМ 14 СМ",
@@ -25494,6 +25486,14 @@
     "wholesalePrice": 148.59,
     "extraPrice": 156.02,
     "retailPrice": 193.16
+  },
+  {
+    "id": "УТ000034228",
+    "category": "..,РАЗНОЕ",
+    "name": "АРАУКАРИЯ",
+    "wholesalePrice": 540.11,
+    "extraPrice": 567.11,
+    "retailPrice": 702.14
   },
   {
     "id": "УТ000034229",
@@ -48702,6 +48702,14 @@
     "wholesalePrice": 147.68,
     "extraPrice": 155.06,
     "retailPrice": 191.99
+  },
+  {
+    "id": "УТ000051481",
+    "category": "..,РАЗНОЕ",
+    "name": "ДЕНДРОБИУМ ОНЦИДУМ",
+    "wholesalePrice": 135.92,
+    "extraPrice": 142.71,
+    "retailPrice": 176.69
   },
   {
     "id": "УТ000051499",
