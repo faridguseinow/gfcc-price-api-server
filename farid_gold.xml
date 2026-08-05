@@ -1,4 +1,4 @@
-<PriceList date="05.08.2026 19:31:56">
+<PriceList date="05.08.2026 20:34:53">
 	<GroupsOfGoods>
 		<Group ID="ÓÒ000028416" Name="ÑÓÕÈÅ ÐÎÇÛ" ParentID="" ParentName=""/>
 		<Group ID="ÓÒ000032724" Name="..,ÐÎÇÀ ,ÌÅÑÒÍÀß" ParentID="" ParentName=""/>
@@ -2197,6 +2197,7 @@
 		<Item ID="ÓÒ000028937" Name="ÌÅÄÆÈÊ ÒÀÉÌ -  60 ñì" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="90,42" PriceRetail="117,55" PriceExt="94,94" ParentID="ÓÒ000002203" ParentName="..ÐÎÇÀ ÝÊÂÀÄÎÐ"/>
 		<Item ID="ÓÒ000028938" Name="ÌÅÄÆÈÊ ÒÀÉÌ -  70 ñì" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="108,46" PriceRetail="141,00" PriceExt="113,89" ParentID="ÓÒ000002203" ParentName="..ÐÎÇÀ ÝÊÂÀÄÎÐ"/>
 		<Item ID="ÓÒ000028939" Name="ÌÅÄÆÈÊ ÒÀÉÌ -  80 ñì" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="121,55" PriceRetail="158,02" PriceExt="127,63" ParentID="ÓÒ000002203" ParentName="..ÐÎÇÀ ÝÊÂÀÄÎÐ"/>
+		<Item ID="ÓÒ000028966" Name="ÍÀÓÒÈÊÀ 50 ñì" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="68,35" PriceRetail="88,86" PriceExt="71,77" ParentID="ÓÒ000002203" ParentName="..ÐÎÇÀ ÝÊÂÀÄÎÐ"/>
 		<Item ID="ÓÒ000028967" Name="ÍÀÓÒÈÊÀ 60 ñì" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="80,83" PriceRetail="105,08" PriceExt="84,87" ParentID="ÓÒ000002203" ParentName="..ÐÎÇÀ ÝÊÂÀÄÎÐ"/>
 		<Item ID="ÓÒ000028968" Name="ÍÀÓÒÈÊÀ 70 ñì" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="97,35" PriceRetail="126,56" PriceExt="102,22" ParentID="ÓÒ000002203" ParentName="..ÐÎÇÀ ÝÊÂÀÄÎÐ"/>
 		<Item ID="ÓÒ000028969" Name="ÍÀÓÒÈÊÀ 80 ñì" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="109,33" PriceRetail="142,13" PriceExt="114,80" ParentID="ÓÒ000002203" ParentName="..ÐÎÇÀ ÝÊÂÀÄÎÐ"/>
@@ -7022,10 +7023,6 @@ S:D25xH10xHH26xB19
 M:35x27xH10xHH32x28x19  
 S:29x22xH9xHH26x23x15
 " Price="1124,42" PriceRetail="1461,75" PriceExt="1180,64" ParentID="ÓÒ000002217" ParentName="ÊÎÐÇÈÍÀ"/>
-		<Item ID="ÓÒ000006625" Name="Êîðçèíà - 316203" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="L:42x30xH13/17xHH36x32x23 
-M:35x26xH10/15xHH32x28x19 
-S:30x20xH9/13xHH27x24x15
-" Price="1124,42" PriceRetail="1461,75" PriceExt="1180,64" ParentID="ÓÒ000002217" ParentName="ÊÎÐÇÈÍÀ"/>
 		<Item ID="ÓÒ000006626" Name="Êîðçèíà - 316303" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="L:45x30xH14/17xHH35xB23 
 M:35x29xH12/15xHH30xB20 
 S:27x22xH10/12xHH25xB16
@@ -7212,10 +7209,6 @@ S:26x17.5xH10xHH25xB21x14" Price="788,35" PriceRetail="1024,85" PriceExt="827,77
 		<Item ID="ÓÒ000006846" Name="Êîðçèíà - 8269503" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="L:37x27xH12xHH33xB28x20                            
 M:30x22xH11xHH28.5xB24.5x16          
 S:26x18xH10xHH26xB22x14
-" Price="788,35" PriceRetail="1024,85" PriceExt="827,77" ParentID="ÓÒ000002217" ParentName="ÊÎÐÇÈÍÀ"/>
-		<Item ID="ÓÒ000006847" Name="Êîðçèíà - 8269603" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="L:34.5x24xH12/17xHH34xB30x21                             
-M:29x19xH11.5/14xHH30xB24.5x16                       
-S:23x15xH9.5/12.5xHH25.5xB19.5x12
 " Price="788,35" PriceRetail="1024,85" PriceExt="827,77" ParentID="ÓÒ000002217" ParentName="ÊÎÐÇÈÍÀ"/>
 		<Item ID="ÓÒ000006849" Name="Êîðçèíà - 8269803" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="L:37x26xH12xHH34xB28x20                  
 M:30x22xH10xHH29xB24x17                      

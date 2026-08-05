@@ -4232,14 +4232,6 @@
     "retailPrice": 1461.75
   },
   {
-    "id": "УТ000006625",
-    "category": "КОРЗИНА",
-    "name": "Корзина - 316203",
-    "wholesalePrice": 1124.42,
-    "extraPrice": 1180.64,
-    "retailPrice": 1461.75
-  },
-  {
     "id": "УТ000006626",
     "category": "КОРЗИНА",
     "name": "Корзина - 316303",
@@ -4747,14 +4739,6 @@
     "id": "УТ000006846",
     "category": "КОРЗИНА",
     "name": "Корзина - 8269503",
-    "wholesalePrice": 788.35,
-    "extraPrice": 827.77,
-    "retailPrice": 1024.85
-  },
-  {
-    "id": "УТ000006847",
-    "category": "КОРЗИНА",
-    "name": "Корзина - 8269603",
     "wholesalePrice": 788.35,
     "extraPrice": 827.77,
     "retailPrice": 1024.85
@@ -18774,6 +18758,14 @@
     "wholesalePrice": 121.55,
     "extraPrice": 127.63,
     "retailPrice": 158.02
+  },
+  {
+    "id": "УТ000028966",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "НАУТИКА 50 см",
+    "wholesalePrice": 68.35,
+    "extraPrice": 71.77,
+    "retailPrice": 88.86
   },
   {
     "id": "УТ000028967",
