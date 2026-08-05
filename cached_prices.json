@@ -4168,6 +4168,14 @@
     "retailPrice": 669.47
   },
   {
+    "id": "УТ000006573",
+    "category": "КОРЗИНА",
+    "name": "Корзина - 2011",
+    "wholesalePrice": 250.8,
+    "extraPrice": 263.34,
+    "retailPrice": 326.04
+  },
+  {
     "id": "УТ000006576",
     "category": "КОРЗИНА",
     "name": "Корзина - 201903",
@@ -6358,14 +6366,6 @@
     "wholesalePrice": 2675.2,
     "extraPrice": 2808.96,
     "retailPrice": 3477.76
-  },
-  {
-    "id": "УТ000009527",
-    "category": ".УПАКОВКА",
-    "name": "ОАЗИС КЛЕЙ ДЛЯ ПИСТОЛЕТА",
-    "wholesalePrice": 2926,
-    "extraPrice": 3072.3,
-    "retailPrice": 3803.8
   },
   {
     "id": "УТ000009528",
@@ -12630,14 +12630,6 @@
     "wholesalePrice": 106.3,
     "extraPrice": 111.61,
     "retailPrice": 138.19
-  },
-  {
-    "id": "УТ000019637",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "МЭНСФИЛД ПИНК VIP ROSES 50 см куст на воде",
-    "wholesalePrice": 232.49,
-    "extraPrice": 244.12,
-    "retailPrice": 302.24
   },
   {
     "id": "УТ000019677",
@@ -21784,6 +21776,14 @@
     "retailPrice": 304.3
   },
   {
+    "id": "УТ000029969",
+    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
+    "name": "ЭЛИСАНА 50 см РОЗА Кен/Куст. (RLR)",
+    "wholesalePrice": 142.96,
+    "extraPrice": 150.1,
+    "retailPrice": 185.84
+  },
+  {
     "id": "УТ000029970",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "МАЙ БЮТИ 60 см РОЗА Кен/Куст. (RLR)",
@@ -26702,14 +26702,6 @@
     "wholesalePrice": 917.09,
     "extraPrice": 962.95,
     "retailPrice": 1192.22
-  },
-  {
-    "id": "УТ000035423",
-    "category": ".УПАКОВКА",
-    "name": "КОРОБКА № T92-17",
-    "wholesalePrice": 805.07,
-    "extraPrice": 845.32,
-    "retailPrice": 1046.59
   },
   {
     "id": "УТ000035424",
@@ -33862,14 +33854,6 @@
     "wholesalePrice": 124.89,
     "extraPrice": 131.13,
     "retailPrice": 162.36
-  },
-  {
-    "id": "УТ000040102",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ЭКСПЛОРЕР-  80см ANNI ROSES.LRA.QLS.ATC.SPPH.ALLGF.EVR.RLH.TURS.GWFW.VDS.RDF.CNV.MON",
-    "wholesalePrice": 114.37,
-    "extraPrice": 120.09,
-    "retailPrice": 148.69
   },
   {
     "id": "УТ000040103",
@@ -47942,6 +47926,14 @@
     "wholesalePrice": 2765.38,
     "extraPrice": 2903.65,
     "retailPrice": 3594.99
+  },
+  {
+    "id": "УТ000051078",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "ПИНК ПУМА- 60см (СТАР,КОРОЗОН,МАТИЗ,ЭКО РОЗ,БЕЛЛА РОЗА,ЧАРМИНГ,СОФИ,ДАВИНЧИ.РОЯЛ)",
+    "wholesalePrice": 71.8,
+    "extraPrice": 75.39,
+    "retailPrice": 93.35
   },
   {
     "id": "УТ000051079",
