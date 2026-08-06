@@ -1,4 +1,4 @@
-<PriceList date="05.08.2026 22:41:47">
+<PriceList date="05.08.2026 23:44:33">
 	<GroupsOfGoods>
 		<Group ID="УТ000028416" Name="СУХИЕ РОЗЫ" ParentID="" ParentName=""/>
 		<Group ID="УТ000032724" Name="..,РОЗА ,МЕСТНАЯ" ParentID="" ParentName=""/>
@@ -6815,6 +6815,7 @@ S:30*20 H13/9 HH31 b23*15" Price="972,27" PriceRetail="1263,95" PriceExt="1020,8
 		<Item ID="УТ000055701" Name="Корзина - N018901" EI="шт" ДополнительноеОписаниеНоменклатуры="L:37/15*14/10 HH40 B27" Price="518,32" PriceRetail="673,82" PriceExt="544,24" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000056207" Name="Корзина - N169203" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="809,25" PriceRetail="1052,02" PriceExt="849,71" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000056208" Name="Корзина - N169303" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="809,25" PriceRetail="1052,02" PriceExt="849,71" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
+		<Item ID="УТ000056209" Name="Корзина - N254305" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="1503,13" PriceRetail="1954,07" PriceExt="1578,28" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000056211" Name="Корзина - N266203" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="852,72" PriceRetail="1108,54" PriceExt="895,36" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000056212" Name="Корзина - N265703" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="852,72" PriceRetail="1108,54" PriceExt="895,36" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000056213" Name="Корзина - N254205" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="1269,05" PriceRetail="1649,76" PriceExt="1332,50" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
@@ -7021,6 +7022,10 @@ S:D25xH10xHH26xB19
 		<Item ID="УТ000006624" Name="Корзина - 316103" EI="шт" ДополнительноеОписаниеНоменклатуры="L:40x31xH13xHH36x32x23  
 M:35x27xH10xHH32x28x19  
 S:29x22xH9xHH26x23x15
+" Price="1124,42" PriceRetail="1461,75" PriceExt="1180,64" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
+		<Item ID="УТ000006625" Name="Корзина - 316203" EI="шт" ДополнительноеОписаниеНоменклатуры="L:42x30xH13/17xHH36x32x23 
+M:35x26xH10/15xHH32x28x19 
+S:30x20xH9/13xHH27x24x15
 " Price="1124,42" PriceRetail="1461,75" PriceExt="1180,64" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000006626" Name="Корзина - 316303" EI="шт" ДополнительноеОписаниеНоменклатуры="L:45x30xH14/17xHH35xB23 
 M:35x29xH12/15xHH30xB20 
