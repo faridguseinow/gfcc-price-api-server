@@ -1,12 +1,20 @@
 const fs = require('fs');
 const path = require('path');
 const { spawnSync } = require('child_process');
+const { PRICE_BASES, getBaseKeys } = require('./price-bases');
 
 const ROOT_DIR = __dirname;
 const ENV_FILE = path.join(ROOT_DIR, 'auto-push.env');
 const STATUS_FILE = path.join(ROOT_DIR, 'sync-status.json');
 const UPDATE_SCRIPT = path.join(ROOT_DIR, 'update-price.js');
-const TRACKED_FILES = ['cached_prices.json', 'farid_gold.xml'];
+const PRICE_BASE_KEYS = getBaseKeys();
+const TRACKED_FILES = [
+  'cached_prices.json',
+  ...Object.values(PRICE_BASES).flatMap((base) => [
+    path.basename(base.cacheFile),
+    path.basename(base.xmlFile),
+  ]),
+];
 const ERROR_TYPES = {
   FTP_ERROR: 'FTP_ERROR',
   XML_PARSE_ERROR: 'XML_PARSE_ERROR',
@@ -65,16 +73,19 @@ async function main() {
   ensureCurrentBranch();
   ensureCleanWorktree();
 
-  const updateOutput = runNodeScript(UPDATE_SCRIPT);
-  const keptExistingCache = /Keeping existing cached_prices\.json/i.test(updateOutput);
+  const updateOutput = PRICE_BASE_KEYS
+    .map((baseKey) => runPriceUpdate(baseKey))
+    .join('\n');
+  const keptExistingCache = /Keeping existing .*cached_prices/i.test(updateOutput);
 
   runGit(['add', ...TRACKED_FILES], 'git add failed', ERROR_TYPES.SERVER_ERROR);
 
   const hasStagedPriceChanges = !isGitQuiet(['diff', '--cached', '--quiet']);
   let createdCommit = false;
   let unchangedStreak = 0;
-  const cacheStat = fs.statSync(path.join(ROOT_DIR, 'cached_prices.json'));
-  const currentPriceFileMtime = cacheStat.mtime.toISOString();
+  const baseCacheStats = getBaseCacheStats();
+  const newestCacheStat = getNewestCacheStat(baseCacheStats);
+  const currentPriceFileMtime = newestCacheStat ? newestCacheStat.mtime : null;
   const didPriceFileTimestampChange = previousPriceFileMtime !== currentPriceFileMtime;
 
   if (hasStagedPriceChanges) {
@@ -101,7 +112,8 @@ async function main() {
     lastErrorType: null,
     unchangedStreak,
     lastPriceFileMtime: currentPriceFileMtime,
-    lastPriceFileSize: cacheStat.size,
+    lastPriceFileSize: newestCacheStat ? newestCacheStat.size : null,
+    baseCaches: baseCacheStats,
     lastPriceFileTimestampChanged: didPriceFileTimestampChange,
     lastKeptExistingCacheAt: keptExistingCache ? successTime : status.lastKeptExistingCacheAt || null,
     lastCommittedUpdateAt: createdCommit ? successTime : status.lastCommittedUpdateAt || null,
@@ -118,7 +130,12 @@ async function runTelegramTest() {
     throw createTypedError(ERROR_TYPES.SERVER_ERROR, 'Telegram test mode requires TELEGRAM_BOT_TOKEN and TELEGRAM_CHAT_ID');
   }
 
-  const sent = await sendTelegramMessage('\u2705 \u0422\u0435\u0441\u0442 Telegram-\u0443\u0432\u0435\u0434\u043e\u043c\u043b\u0435\u043d\u0438\u0439 GFCC\n\u0421\u0435\u0440\u0432\u0435\u0440 \u0443\u0441\u043f\u0435\u0448\u043d\u043e \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0451\u043d \u043a \u0431\u043e\u0442\u0443.');
+  const sent = await sendTelegramMessage([
+    '\u2705 \u0422\u0435\u0441\u0442 Telegram-\u0443\u0432\u0435\u0434\u043e\u043c\u043b\u0435\u043d\u0438\u0439 GFCC',
+    '\u0421\u0435\u0440\u0432\u0435\u0440 \u0443\u0441\u043f\u0435\u0448\u043d\u043e \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0451\u043d \u043a \u0431\u043e\u0442\u0443.',
+    `Tracked bases: ${PRICE_BASE_KEYS.join(', ')}`,
+    ...formatBaseCacheLines(getBaseCacheStats()),
+  ].join('\n'));
   if (!sent) {
     throw createTypedError(ERROR_TYPES.SERVER_ERROR, 'Telegram test message was not sent');
   }
@@ -178,12 +195,12 @@ function ensureCleanWorktree() {
   }
 }
 
-function runNodeScript(scriptPath) {
+function runNodeScript(scriptPath, envOverrides = {}) {
   const result = spawnSync(process.execPath, [scriptPath], {
     cwd: ROOT_DIR,
     encoding: 'utf8',
     stdio: ['ignore', 'pipe', 'pipe'],
-    env: process.env,
+    env: { ...process.env, ...envOverrides },
   });
 
   const stdout = result.stdout || '';
@@ -202,6 +219,52 @@ function runNodeScript(scriptPath) {
     throw classifyUpdateScriptFailure(stdout, stderr, result.status);
   }
   return `${stdout}\n${stderr}`;
+}
+
+function runPriceUpdate(baseKey) {
+  try {
+    return runNodeScript(UPDATE_SCRIPT, { PRICE_BASE: baseKey });
+  } catch (err) {
+    const typedError = normalizeError(err);
+    typedError.message = `[${baseKey}] ${typedError.message}`;
+    typedError.details = { ...typedError.details, base: baseKey };
+    throw typedError;
+  }
+}
+
+function getBaseCacheStats() {
+  return Object.fromEntries(
+    Object.values(PRICE_BASES).map((base) => {
+      if (!fs.existsSync(base.cacheFile)) {
+        return [base.key, { path: base.cacheFile, exists: false }];
+      }
+
+      const stat = fs.statSync(base.cacheFile);
+      const items = readCacheItemCount(base.cacheFile);
+      return [base.key, {
+        path: base.cacheFile,
+        exists: true,
+        mtime: stat.mtime.toISOString(),
+        size: stat.size,
+        items,
+      }];
+    })
+  );
+}
+
+function readCacheItemCount(cacheFile) {
+  try {
+    const parsed = JSON.parse(fs.readFileSync(cacheFile, 'utf8').replace(/^\uFEFF/, ''));
+    return Array.isArray(parsed) ? parsed.length : null;
+  } catch (_) {
+    return null;
+  }
+}
+
+function getNewestCacheStat(statsByBase) {
+  return Object.values(statsByBase)
+    .filter((stat) => stat.exists)
+    .sort((a, b) => Date.parse(b.mtime) - Date.parse(a.mtime))[0] || null;
 }
 
 function syncWithRemote() {
@@ -347,6 +410,7 @@ async function handleFailure(error) {
     lastErrorType: failure.type,
     unchangedStreak: failure.details?.unchangedStreak ?? status.unchangedStreak ?? 0,
     lastFailureAt: now.toISOString(),
+    baseCaches: getBaseCacheStats(),
   };
   writeStatus(nextStatus);
 
@@ -378,6 +442,7 @@ async function maybeSendFailureAlert(previousStatus, nextStatus, fingerprint) {
     `Time: ${formatTimestamp(now)}`,
     `Type: ${nextStatus.lastError.type}`,
     `Error: ${nextStatus.lastError.message}`,
+    ...formatBaseCacheLines(nextStatus.baseCaches),
     `Project: ${ROOT_DIR}`,
   ].join('\n');
 
@@ -411,6 +476,7 @@ async function maybeSendRecoveryOrSuccess(previousStatus, currentStatus, created
     `Time: ${formatTimestamp(now)}`,
     `Commit: ${syncResult.headCommit}`,
     `Price file time: ${currentStatus.lastPriceFileMtime}`,
+    ...formatBaseCacheLines(currentStatus.baseCaches),
     createdCommit ? 'Result: new price data committed and pushed' : 'Result: no new price changes, remote is in sync',
   ];
 
@@ -426,6 +492,22 @@ async function maybeSendRecoveryOrSuccess(previousStatus, currentStatus, created
       lastFailureAlertAt: previousStatus.lastFailureAlertAt || null,
     });
   }
+}
+
+function formatBaseCacheLines(baseCaches = {}) {
+  const lines = ['Bases:'];
+
+  for (const baseKey of PRICE_BASE_KEYS) {
+    const cache = baseCaches[baseKey];
+    if (!cache || !cache.exists) {
+      lines.push(`- ${baseKey}: cache missing`);
+      continue;
+    }
+
+    lines.push(`- ${baseKey}: ${cache.items ?? 'unknown'} items, ${cache.size} bytes, ${cache.mtime}`);
+  }
+
+  return lines;
 }
 
 function hasTelegramConfig() {

@@ -4,15 +4,23 @@ const xml2js = require('xml2js');
 const fs = require('fs');
 const path = require('path');
 const nodemailer = require('nodemailer');
+const { DEFAULT_PRICE_BASE, getBaseKeys, getPriceBase } = require('./price-bases');
 
-const LOCAL_XML_FILE = path.join(__dirname, 'farid_gold.xml');
-const CACHE_FILE = path.join(__dirname, 'cached_prices.json');
-const TEMP_CACHE_FILE = path.join(__dirname, 'cached_prices.tmp.json');
-const TEMP_XML_FILE = path.join(__dirname, 'farid_gold.tmp.xml');
-const REMOTE_XML_FILE = process.env.FTP_XML_FILE || 'farid_gold.xml';
+const requestedBase = getCliBase() || process.env.PRICE_BASE || DEFAULT_PRICE_BASE;
+const PRICE_BASE = getPriceBase(requestedBase);
+if (!PRICE_BASE) {
+  console.error(`Unknown PRICE_BASE "${requestedBase}". Available: ${getBaseKeys().join(', ')}`);
+  process.exit(1);
+}
+
 const SOURCE_XML_FILE = process.env.PRICE_XML_SOURCE
   ? path.resolve(process.env.PRICE_XML_SOURCE)
   : null;
+const LOCAL_XML_FILE = PRICE_BASE.xmlFile;
+const CACHE_FILE = PRICE_BASE.cacheFile;
+const TEMP_CACHE_FILE = PRICE_BASE.tempCacheFile;
+const TEMP_XML_FILE = PRICE_BASE.tempXmlFile;
+const REMOTE_XML_FILE = getBaseEnv('FTP_XML_FILE') || PRICE_BASE.defaultRemoteXmlFile;
 
 // ===== SMTP (НЕ КРИТИЧНО) =====
 let transporter = null;
@@ -107,14 +115,31 @@ function asArray(value) {
   return Array.isArray(value) ? value : [value];
 }
 
+function getCliBase() {
+  const baseArg = process.argv.find((arg) => arg.startsWith('--base='));
+  return baseArg ? baseArg.slice('--base='.length) : null;
+}
+
+function getBaseEnv(name) {
+  const baseSpecificName = `${name}_${PRICE_BASE.key.toUpperCase()}`;
+  return process.env[baseSpecificName] || process.env[name] || '';
+}
+
 function readExistingPriceCache() {
-  if (!fs.existsSync(CACHE_FILE)) {
-    throw new Error('Price-only XML received, but existing cached_prices.json is missing');
+  const fallbackCacheFile = PRICE_BASE.key === DEFAULT_PRICE_BASE ? PRICE_BASE.legacyCacheFile : null;
+  const existingCacheFile = fs.existsSync(CACHE_FILE)
+    ? CACHE_FILE
+    : fallbackCacheFile && fs.existsSync(fallbackCacheFile)
+      ? fallbackCacheFile
+      : null;
+
+  if (!existingCacheFile) {
+    throw new Error(`Price-only XML received, but existing cache for ${PRICE_BASE.key} is missing`);
   }
 
-  const cached = JSON.parse(fs.readFileSync(CACHE_FILE, 'utf8').replace(/^\uFEFF/, ''));
+  const cached = JSON.parse(fs.readFileSync(existingCacheFile, 'utf8').replace(/^\uFEFF/, ''));
   if (!Array.isArray(cached) || !cached.length) {
-    throw new Error('Price-only XML received, but existing cached_prices.json is empty or invalid');
+    throw new Error(`Price-only XML received, but existing cache for ${PRICE_BASE.key} is empty or invalid`);
   }
 
   return cached;
@@ -140,7 +165,7 @@ function normalizeGoodsItems(items) {
 function normalizePriceRows(priceRows) {
   console.warn(
     `WARN: downloaded XML has ${priceRows.length} price-only rows and no product names/categories. ` +
-    'Keeping existing cached_prices.json.'
+    `Keeping existing ${path.basename(CACHE_FILE)}.`
   );
   return readExistingPriceCache();
 }
@@ -166,7 +191,7 @@ async function fetchAndCacheXML() {
   if (!SOURCE_XML_FILE) {
     const requiredEnv = ['FTP_HOST', 'FTP_USER', 'FTP_PASS'];
     for (const key of requiredEnv) {
-      if (!process.env[key]) {
+      if (!getBaseEnv(key)) {
         console.error(`ENV ${key} is not set`);
         process.exit(1);
       }
@@ -178,15 +203,17 @@ async function fetchAndCacheXML() {
   client.prepareTransfer = ftp.enterPassiveModeIPv4;
 
   try {
+    console.log(`Price base: ${PRICE_BASE.key}`);
+
     if (SOURCE_XML_FILE) {
       console.log(`Using local XML: ${SOURCE_XML_FILE}`);
       fs.copyFileSync(SOURCE_XML_FILE, LOCAL_XML_FILE);
     } else {
       console.log('FTP connect...');
       await client.access({
-        host: process.env.FTP_HOST,
-        user: process.env.FTP_USER,
-        password: process.env.FTP_PASS,
+        host: getBaseEnv('FTP_HOST'),
+        user: getBaseEnv('FTP_USER'),
+        password: getBaseEnv('FTP_PASS'),
         port: 21,
         secure: true,
         secureOptions: {
@@ -221,8 +248,11 @@ async function fetchAndCacheXML() {
       'utf8'
     );
     fs.renameSync(TEMP_CACHE_FILE, CACHE_FILE);
+    if (PRICE_BASE.key === DEFAULT_PRICE_BASE && PRICE_BASE.legacyCacheFile) {
+      fs.copyFileSync(CACHE_FILE, PRICE_BASE.legacyCacheFile);
+    }
 
-    console.log(`Price updated. Items: ${normalized.length}`);
+    console.log(`Price updated for ${PRICE_BASE.key}. Items: ${normalized.length}`);
     process.exit(0);
   } catch (err) {
     console.error('ERROR:', err.message);
