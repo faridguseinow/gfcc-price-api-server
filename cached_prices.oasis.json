@@ -1368,6 +1368,14 @@
     "retailPrice": 1049.75
   },
   {
+    "id": "УТ000001813",
+    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
+    "name": "ГЛОКСИНИЯ 12 СМ",
+    "wholesalePrice": 595,
+    "extraPrice": 624.75,
+    "retailPrice": 773.5
+  },
+  {
     "id": "УТ000001821",
     "category": ".УПАКОВКА",
     "name": "ГЛЯНЕЦ 250 МЛ",
@@ -18686,14 +18694,6 @@
     "wholesalePrice": 867,
     "extraPrice": 910.35,
     "retailPrice": 1127.1
-  },
-  {
-    "id": "УТ000044076",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "АРЕКА 17 СМ",
-    "wholesalePrice": 2550,
-    "extraPrice": 2677.5,
-    "retailPrice": 3315
   },
   {
     "id": "УТ000044077",
@@ -59454,6 +59454,14 @@
     "wholesalePrice": 1870,
     "extraPrice": 1963.5,
     "retailPrice": 2431
+  },
+  {
+    "id": "УТ000075716",
+    "category": ",Сортовой",
+    "name": "БЛОМИНГДАЛЕ 40 см СОРТОВОЙ РОЗА Кения (BLOMINQDALE)",
+    "wholesalePrice": 44.2,
+    "extraPrice": 46.41,
+    "retailPrice": 57.46
   },
   {
     "id": "УТ000075717",
