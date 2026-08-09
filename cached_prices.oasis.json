@@ -5440,14 +5440,6 @@
     "retailPrice": 92.82
   },
   {
-    "id": "УТ000008406",
-    "category": "..,РАЗНОЕ",
-    "name": "КРОКУС",
-    "wholesalePrice": 75.65,
-    "extraPrice": 79.43,
-    "retailPrice": 98.35
-  },
-  {
     "id": "УТ000008410",
     "category": "..СУХОЦВЕТЫ",
     "name": "ЛАВАНДА",
@@ -6528,6 +6520,14 @@
     "retailPrice": 112.09
   },
   {
+    "id": "УТ000012059",
+    "category": "..ТЮЛЬПАНЫ",
+    "name": "ДИНАСТИЙ  ТЮЛЬПАН энкл.",
+    "wholesalePrice": 79.9,
+    "extraPrice": 83.9,
+    "retailPrice": 103.87
+  },
+  {
     "id": "УТ000012075",
     "category": "..ТЮЛЬПАНЫ",
     "name": "ЭНДЛЕСС ЛАВ ТЮЛЬПАН дубл.",
@@ -7526,14 +7526,6 @@
     "wholesalePrice": 150.52,
     "extraPrice": 158.04,
     "retailPrice": 195.67
-  },
-  {
-    "id": "УТ000017009",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ОХА ВЕРДЕ+ДЖОЙ ГАРДЕН+ФЛОР МАРЕ 90 см",
-    "wholesalePrice": 166.69,
-    "extraPrice": 175.02,
-    "retailPrice": 216.69
   },
   {
     "id": "УТ000017015",
@@ -14326,6 +14318,14 @@
     "wholesalePrice": 157.64,
     "extraPrice": 165.52,
     "retailPrice": 204.93
+  },
+  {
+    "id": "УТ000036704",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "КАРУСЕЛЬ- 50см (СТАР,КОРОЗОН,МАТИЗ,ЭКО РОЗ,БЕЛЛА РОЗА,ЧАРМИНГ,СОФИ,ДАВИНЧИ.РОЯЛ)",
+    "wholesalePrice": 78.08,
+    "extraPrice": 81.99,
+    "retailPrice": 101.51
   },
   {
     "id": "УТ000036710",
@@ -37064,14 +37064,6 @@
     "retailPrice": 385.2
   },
   {
-    "id": "УТ000060358",
-    "category": "..,РОЗА ,НА ВОДЕ",
-    "name": "ТИНКЕРБЕЛЬ 70 см одног на воде",
-    "wholesalePrice": 170,
-    "extraPrice": 178.5,
-    "retailPrice": 221
-  },
-  {
     "id": "УТ000060364",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "РОЯЛ БЛАШ VIP-ROSES  50 см куст на воде",
@@ -37478,14 +37470,6 @@
     "wholesalePrice": 255.68,
     "extraPrice": 268.46,
     "retailPrice": 332.38
-  },
-  {
-    "id": "УТ000060572",
-    "category": "..,РОЗА ,НА ВОДЕ",
-    "name": "ХАРПЕР  60 см одног на воде",
-    "wholesalePrice": 187,
-    "extraPrice": 196.35,
-    "retailPrice": 243.1
   },
   {
     "id": "УТ000060580",
@@ -42350,14 +42334,6 @@
     "wholesalePrice": 131.75,
     "extraPrice": 138.34,
     "retailPrice": 171.28
-  },
-  {
-    "id": "УТ000063121",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "Фатима (ТЕССА)- 60см",
-    "wholesalePrice": 144.21,
-    "extraPrice": 151.42,
-    "retailPrice": 187.47
   },
   {
     "id": "УТ000063122",
@@ -57558,14 +57534,6 @@
     "wholesalePrice": 167.79,
     "extraPrice": 176.18,
     "retailPrice": 218.13
-  },
-  {
-    "id": "УТ000074448",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ЭКЗОТИК МИНТ- 70 см",
-    "wholesalePrice": 186.63,
-    "extraPrice": 195.97,
-    "retailPrice": 242.62
   },
   {
     "id": "УТ000074456",
