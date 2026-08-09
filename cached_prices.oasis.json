@@ -8928,6 +8928,14 @@
     "retailPrice": 1270.75
   },
   {
+    "id": "УТ000021417",
+    "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
+    "name": "ФУРУСАТО 60 см РОЗА Кен/Куст. (RLR)",
+    "wholesalePrice": 195.5,
+    "extraPrice": 205.28,
+    "retailPrice": 254.15
+  },
+  {
     "id": "УТ000021432",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "КАТАЛИНА VIP ROSES 60 см куст на воде",
@@ -24792,14 +24800,6 @@
     "retailPrice": 65.2
   },
   {
-    "id": "УТ000049839",
-    "category": "..,РАЗНОЕ",
-    "name": "ДЕЛЬФИНИУМ БЕЛЫЙ 110 см",
-    "wholesalePrice": 238,
-    "extraPrice": 249.9,
-    "retailPrice": 309.4
-  },
-  {
     "id": "УТ000049840",
     "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
     "name": "СИЛВА ПИНК   (SUPER-HOLLAND)  70 см куст на воде",
@@ -37032,6 +37032,14 @@
     "retailPrice": 26.52
   },
   {
+    "id": "УТ000060178",
+    "category": "..,РАЗНОЕ",
+    "name": "ФИСОКАР",
+    "wholesalePrice": 127.5,
+    "extraPrice": 133.88,
+    "retailPrice": 165.75
+  },
+  {
     "id": "УТ000060192",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "ГУД МУД  60 см РОЗА Кен/Куст. (KAREN)",
@@ -40566,6 +40574,14 @@
     "wholesalePrice": 196.35,
     "extraPrice": 206.17,
     "retailPrice": 255.26
+  },
+  {
+    "id": "УТ000062195",
+    "category": "ДЕКОР",
+    "name": "СВЕЧИ № 22464 (25 шт)",
+    "wholesalePrice": 499.8,
+    "extraPrice": 524.79,
+    "retailPrice": 649.74
   },
   {
     "id": "УТ000062196",
@@ -50984,14 +51000,6 @@
     "retailPrice": 135.92
   },
   {
-    "id": "УТ000067692",
-    "category": "..,РАЗНОЕ",
-    "name": "РОСА КАРОЛА 90 см",
-    "wholesalePrice": 385.9,
-    "extraPrice": 405.2,
-    "retailPrice": 501.67
-  },
-  {
     "id": "УТ000067693",
     "category": "..,РАЗНОЕ",
     "name": "РОСА КАРОЛА 110 см",
@@ -55046,6 +55054,14 @@
     "wholesalePrice": 119.93,
     "extraPrice": 125.92,
     "retailPrice": 155.9
+  },
+  {
+    "id": "УТ000068925",
+    "category": "..,РАЗНОЕ",
+    "name": "РОСА КАРОЛА 70 СМ",
+    "wholesalePrice": 242.25,
+    "extraPrice": 254.36,
+    "retailPrice": 314.93
   },
   {
     "id": "УТ000068928",
@@ -60006,13 +60022,5 @@
     "wholesalePrice": 6715,
     "extraPrice": 7050.75,
     "retailPrice": 8729.5
-  },
-  {
-    "id": "УТ000076073",
-    "category": "..,РАЗНОЕ",
-    "name": "РОСА КАРОЛА 150 СМ",
-    "wholesalePrice": 617.95,
-    "extraPrice": 648.85,
-    "retailPrice": 803.34
   }
 ]
