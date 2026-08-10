@@ -1,4 +1,4 @@
-<PriceList date="10.08.2026 19:39:47">
+<PriceList date="10.08.2026 20:43:23">
 	<GroupsOfGoods>
 		<Group ID="УТ000028416" Name="СУХИЕ РОЗЫ" ParentID="" ParentName=""/>
 		<Group ID="УТ000032724" Name="..,РОЗА ,МЕСТНАЯ" ParentID="" ParentName=""/>
@@ -6098,6 +6098,10 @@ S:D27xH10xHH28xB21
 M:34x24xH13/10xHH31x26x18   
 S:29x20xH12/9xHH26x21x14
 " Price="1102,51" PriceRetail="1433,27" PriceExt="1157,64" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
+		<Item ID="УТ000026041" Name="Корзина - 105003" EI="шт" ДополнительноеОписаниеНоменклатуры="L:D30XH14XHH36CM      
+M:D24XH12XHH31.5CM              
+S:D18XH9XHH27CM
+" Price="933,42" PriceRetail="1213,45" PriceExt="980,09" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000026043" Name="Корзина - 152301" EI="шт" ДополнительноеОписаниеНоменклатуры="39*29*H16/32 B31*22
 " Price="1149,48" PriceRetail="1494,33" PriceExt="1206,96" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000026045" Name="Корзина - 19B203703" EI="шт" ДополнительноеОписаниеНоменклатуры="L:43X35XH15/39XB33X23 
@@ -7302,6 +7306,7 @@ S:D36X27 H13/12 HH30.5 B20.5
 M:D32.5 H13 HH35 B23.5                                 
 S:D28 H11 HH30 B20.5
 " Price="1169,98" PriceRetail="1520,97" PriceExt="1228,48" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
+		<Item ID="УТ000018187" Name="Корзина Травяная - 17B66" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="486,78" PriceRetail="632,81" PriceExt="511,12" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000018190" Name="Корзина Травяная - 17B69" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="538,02" PriceRetail="699,43" PriceExt="564,92" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000018191" Name="Корзина Травяная - 17B70" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="614,88" PriceRetail="799,34" PriceExt="645,62" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
 		<Item ID="УТ000018199" Name="Корзина Травяная - 17B77-1" EI="шт" ДополнительноеОписаниеНоменклатуры="" Price="225,46" PriceRetail="293,09" PriceExt="236,73" ParentID="УТ000002217" ParentName="КОРЗИНА"/>
