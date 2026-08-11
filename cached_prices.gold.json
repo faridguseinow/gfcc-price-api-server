@@ -4240,6 +4240,14 @@
     "retailPrice": 2014.42
   },
   {
+    "id": "УТ000006648",
+    "category": "КОРЗИНА",
+    "name": "Корзина - 355603",
+    "wholesalePrice": 1531.7,
+    "extraPrice": 1608.29,
+    "retailPrice": 1991.21
+  },
+  {
     "id": "УТ000006649",
     "category": "КОРЗИНА",
     "name": "Корзина - 355703",
@@ -11328,14 +11336,6 @@
     "retailPrice": 972.4
   },
   {
-    "id": "УТ000017950",
-    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
-    "name": "АЙЛАЙНЕР  70 см куст на воде",
-    "wholesalePrice": 161.5,
-    "extraPrice": 169.58,
-    "retailPrice": 209.95
-  },
-  {
     "id": "УТ000017984",
     "category": "КОРЗИНА",
     "name": "Корзина - 8849103",
@@ -13043,9 +13043,9 @@
     "id": "УТ000021380",
     "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
     "name": "ФИКУС МОКЛАЙН 21/90 СМ",
-    "wholesalePrice": 3315,
-    "extraPrice": 3480.75,
-    "retailPrice": 4309.5
+    "wholesalePrice": 4675,
+    "extraPrice": 4908.75,
+    "retailPrice": 6077.5
   },
   {
     "id": "УТ000021395",
@@ -25038,6 +25038,14 @@
     "wholesalePrice": 1222.3,
     "extraPrice": 1283.42,
     "retailPrice": 1588.99
+  },
+  {
+    "id": "УТ000034172",
+    "category": "КОРЗИНА",
+    "name": "Корзина - 19A208703",
+    "wholesalePrice": 1317.5,
+    "extraPrice": 1383.38,
+    "retailPrice": 1712.75
   },
   {
     "id": "УТ000034173",
@@ -59680,6 +59688,14 @@
     "retailPrice": 96.14
   },
   {
+    "id": "УТ000056164",
+    "category": "..,ЛИЛИЯ",
+    "name": "КРАШЕННЫЙ  ОР ДУ ЛИЛИЯ",
+    "wholesalePrice": 350.2,
+    "extraPrice": 367.71,
+    "retailPrice": 455.26
+  },
+  {
     "id": "УТ000056167",
     "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
     "name": "ОЛИВКОВОЕ  ДЕРЕВО 30/130 СМ",
@@ -60302,6 +60318,14 @@
     "wholesalePrice": 119,
     "extraPrice": 124.95,
     "retailPrice": 154.7
+  },
+  {
+    "id": "УТ000056460",
+    "category": "..РОЗА ,КУСТОВАЯ НА ВОДЕ",
+    "name": "БРИТНИ  70 см куст на воде",
+    "wholesalePrice": 144.5,
+    "extraPrice": 151.73,
+    "retailPrice": 187.85
   },
   {
     "id": "УТ000056461",
