@@ -3080,14 +3080,6 @@
     "retailPrice": 230.95
   },
   {
-    "id": "УТ000004340",
-    "category": "КОРЗИНА",
-    "name": "Корзина Травяная - 14111",
-    "wholesalePrice": 525.3,
-    "extraPrice": 551.57,
-    "retailPrice": 682.89
-  },
-  {
     "id": "УТ000004341",
     "category": "КОРЗИНА",
     "name": "Корзина Травяная - 14117",
@@ -15710,6 +15702,14 @@
     "wholesalePrice": 140.33,
     "extraPrice": 147.34,
     "retailPrice": 182.42
+  },
+  {
+    "id": "УТ000037304",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "ПОМАРОСА (ТЕССА) 80см",
+    "wholesalePrice": 157.63,
+    "extraPrice": 165.51,
+    "retailPrice": 204.92
   },
   {
     "id": "УТ000037307",
@@ -43291,9 +43291,9 @@
     "id": "УТ000063489",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "МИСТИ БАБЫЛС 60 см РОЗА Кен/Куст. (SUBATI)",
-    "wholesalePrice": 160.65,
-    "extraPrice": 168.68,
-    "retailPrice": 208.85
+    "wholesalePrice": 127.5,
+    "extraPrice": 133.88,
+    "retailPrice": 165.75
   },
   {
     "id": "УТ000063491",
@@ -43579,9 +43579,9 @@
     "id": "УТ000063616",
     "category": "..РОЗА КЕНИЯ КУСТОВАЯ",
     "name": "МИСТИ БАБЫЛС 50 см РОЗА Кен/Куст. (SUBATI)",
-    "wholesalePrice": 125.8,
-    "extraPrice": 132.09,
-    "retailPrice": 163.54
+    "wholesalePrice": 103.7,
+    "extraPrice": 108.89,
+    "retailPrice": 134.81
   },
   {
     "id": "УТ000063642",
@@ -43990,14 +43990,6 @@
     "wholesalePrice": 223.55,
     "extraPrice": 234.73,
     "retailPrice": 290.62
-  },
-  {
-    "id": "УТ000064119",
-    "category": "КОРЗИНА",
-    "name": "Корзина - N069403",
-    "wholesalePrice": 1111.38,
-    "extraPrice": 1166.94,
-    "retailPrice": 1444.79
   },
   {
     "id": "УТ000064120",
