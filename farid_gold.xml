@@ -1,4 +1,4 @@
-<PriceList date="11.08.2026 0:54:55">
+<PriceList date="11.08.2026 1:58:02">
 	<GroupsOfGoods>
 		<Group ID="ÓÒ000028416" Name="ÑÓÕÈÅ ÐÎÇÛ" ParentID="" ParentName=""/>
 		<Group ID="ÓÒ000032724" Name="..,ÐÎÇÀ ,ÌÅÑÒÍÀß" ParentID="" ParentName=""/>
@@ -5602,6 +5602,7 @@ D - 85
 		<Item ID="ÓÒ000055200" Name="ÑÎÔÈÀ 50 ñì ÐÎÇÀ Êåí/Êóñò. (KAREN)" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="89,57" PriceRetail="116,43" PriceExt="94,04" ParentID="ÓÒ000002215" ParentName="..ÐÎÇÀ ÊÅÍÈß ÊÓÑÒÎÂÀß"/>
 		<Item ID="ÓÒ000055352" Name="ÑÎÔÈÀ 60 ñì ÐÎÇÀ Êåí/Êóñò. (KAREN)" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="99,80" PriceRetail="129,74" PriceExt="104,79" ParentID="ÓÒ000002215" ParentName="..ÐÎÇÀ ÊÅÍÈß ÊÓÑÒÎÂÀß"/>
 		<Item ID="ÓÒ000055396" Name="ÌÈÐÀÁÅË 60 ñì ÐÎÇÀ Êåí/Êóñò. (MONA FLOWERS)" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="85,30" PriceRetail="110,89" PriceExt="89,57" ParentID="ÓÒ000002215" ParentName="..ÐÎÇÀ ÊÅÍÈß ÊÓÑÒÎÂÀß"/>
+		<Item ID="ÓÒ000055400" Name="ÒÐÀËÀËÀ 60 ñì ÐÎÇÀ Êåí/Êóñò. (MONO FLOWERS)" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="85,30" PriceRetail="110,89" PriceExt="89,57" ParentID="ÓÒ000002215" ParentName="..ÐÎÇÀ ÊÅÍÈß ÊÓÑÒÎÂÀß"/>
 		<Item ID="ÓÒ000055416" Name="ÐÅÔËÅÊÑ 60 ñì ÐÎÇÀ Êåí/Êóñò. (MONA FLOWERS)" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="85,30" PriceRetail="110,89" PriceExt="89,57" ParentID="ÓÒ000002215" ParentName="..ÐÎÇÀ ÊÅÍÈß ÊÓÑÒÎÂÀß"/>
 		<Item ID="ÓÒ000055486" Name="ÔÀÅÂÎÐÊÑ 70 ñì ÐÎÇÀ Êåí/Êóñò. (MONO FLOWERS)" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="102,36" PriceRetail="133,07" PriceExt="107,48" ParentID="ÓÒ000002215" ParentName="..ÐÎÇÀ ÊÅÍÈß ÊÓÑÒÎÂÀß"/>
 		<Item ID="ÓÒ000055587" Name="ÌÈÊÑ 60 ñì ÐÎÇÀ Êåí/Êóñò. (MONA FLOWERS)" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="85,30" PriceRetail="110,89" PriceExt="89,57" ParentID="ÓÒ000002215" ParentName="..ÐÎÇÀ ÊÅÍÈß ÊÓÑÒÎÂÀß"/>
@@ -8142,7 +8143,6 @@ S:D26xH11xHH31xB20" Price="1009,10" PriceRetail="1311,83" PriceExt="1059,55" Par
 		<Item ID="ÓÒ000054997" Name="ÏÐÀÓÄ 50 ñì ÐÎÇÀ Êåíèÿ (MONA FLOWERS)" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="57,15" PriceRetail="74,30" PriceExt="60,01" ParentID="ÓÒ000002221" ParentName="..ÐÎÇÀ ÊÅÍÈß"/>
 		<Item ID="ÓÒ000054998" Name="ÀÔÈÍÀ 50 ñì ÐÎÇÀ Êåíèÿ (MONA FLOWERS)" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="57,15" PriceRetail="74,30" PriceExt="60,01" ParentID="ÓÒ000002221" ParentName="..ÐÎÇÀ ÊÅÍÈß"/>
 		<Item ID="ÓÒ000054999" Name="ÄÈÏ ÏÓÐÏË 50 ñì ÐÎÇÀ Êåíèÿ (MONO FLOWERS)" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="57,15" PriceRetail="74,30" PriceExt="60,01" ParentID="ÓÒ000002221" ParentName="..ÐÎÇÀ ÊÅÍÈß"/>
-		<Item ID="ÓÒ000055000" Name="ÊÎÍÔÈÄÅÍÒÀË 50 ñì ÐÎÇÀ Êåíèÿ (MONA FLOWERS)" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="57,15" PriceRetail="74,30" PriceExt="60,01" ParentID="ÓÒ000002221" ParentName="..ÐÎÇÀ ÊÅÍÈß"/>
 		<Item ID="ÓÒ000055029" Name="ÏÀËÎÌÀ  50 ñì ÐÎÇÀ Êåíèÿ (MONA FLOWERS)" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="59,71" PriceRetail="77,62" PriceExt="62,70" ParentID="ÓÒ000002221" ParentName="..ÐÎÇÀ ÊÅÍÈß"/>
 		<Item ID="ÓÒ000055030" Name="ÌÀÄÀÌ ×ÅÐÈÑ 50 ñì ÐÎÇÀ Êåíèÿ (MONA FLOWERS)" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="52,89" PriceRetail="68,75" PriceExt="55,53" ParentID="ÓÒ000002221" ParentName="..ÐÎÇÀ ÊÅÍÈß"/>
 		<Item ID="ÓÒ000055031" Name="ÌÀÄÀÌ ÐÅÄ 50 ñì ÐÎÇÀ Êåíèÿ (MONA FLOWERS)" EI="øò" ÄîïîëíèòåëüíîåÎïèñàíèåÍîìåíêëàòóðû="" Price="52,89" PriceRetail="68,75" PriceExt="55,53" ParentID="ÓÒ000002221" ParentName="..ÐÎÇÀ ÊÅÍÈß"/>
