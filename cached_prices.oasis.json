@@ -15160,14 +15160,6 @@
     "retailPrice": 107.79
   },
   {
-    "id": "УТ000037068",
-    "category": "..РОЗА ЭКВАДОР",
-    "name": "ФРУТЕТТО-   70см",
-    "wholesalePrice": 100.24,
-    "extraPrice": 105.25,
-    "retailPrice": 130.31
-  },
-  {
     "id": "УТ000037069",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ФРУТЕТТО-   80см",
@@ -23736,14 +23728,6 @@
     "retailPrice": 153.95
   },
   {
-    "id": "УТ000048868",
-    "category": ".КОМНАТНЫЕ  РАСТЕНИЯ",
-    "name": "ФИКУС АЛИ 27/180 СМ",
-    "wholesalePrice": 10577.2,
-    "extraPrice": 11106.06,
-    "retailPrice": 13750.36
-  },
-  {
     "id": "УТ000048894",
     "category": ".УПАКОВКА",
     "name": "ЯЩИК № 125",
@@ -28168,6 +28152,14 @@
     "retailPrice": 150.56
   },
   {
+    "id": "УТ000052002",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "ПИНК ЛАВ-  60см ANNI ROSES.LRA.QLS.ATC.SPPH.ALLGF.EVR.RLH.TURS.GWFW.VDS.RDF.FDS 2.CNV.MON",
+    "wholesalePrice": 87.16,
+    "extraPrice": 91.52,
+    "retailPrice": 113.31
+  },
+  {
     "id": "УТ000052007",
     "category": "..РОЗА ЭКВАДОР",
     "name": "ПАНДОРА-  60см ANNI ROSES.LRA.QLS.ATC.SPPH.ALLGF.EVR.RLH.TURS.GWFW.VDS.RDF.FDS 2.CNV.MON",
@@ -31046,6 +31038,14 @@
     "wholesalePrice": 77.57,
     "extraPrice": 81.45,
     "retailPrice": 100.84
+  },
+  {
+    "id": "УТ000055339",
+    "category": "..РОЗА ЭКВАДОР",
+    "name": "ТИФФАНИ-70см ANNI ROSES.LRA.QLS.ATC.SPPH.ALLGF.EVR.RLH.TURS.GWFW.VDS.RDF.FDS 2.CNV.MON",
+    "wholesalePrice": 96.7,
+    "extraPrice": 101.53,
+    "retailPrice": 125.7
   },
   {
     "id": "УТ000055369",
@@ -56582,14 +56582,6 @@
     "wholesalePrice": 672.61,
     "extraPrice": 706.24,
     "retailPrice": 874.39
-  },
-  {
-    "id": "УТ000071863",
-    "category": "МЯГКАЯ ИГРУШКА",
-    "name": "Мягкая игрушка  МЭльза/25/124-1",
-    "wholesalePrice": 1576.13,
-    "extraPrice": 1654.94,
-    "retailPrice": 2048.97
   },
   {
     "id": "УТ000071864",
